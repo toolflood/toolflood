@@ -1,0 +1,658 @@
+{
+  "unwind_games": {
+    "description": "Suggestions for games that help you unwind and enjoy your free time, perfect for relaxation.",
+    "phase2_query_coverage": 22
+  },
+  "relaxation_games": {
+    "description": "Suggest games that help in relaxation, perfect for unwinding after a long day or during a break.",
+    "phase2_query_coverage": 8
+  },
+  "leisure_time_games": {
+    "description": "Suggestions for relaxing games to play during leisure time, ensuring enjoyable moments.",
+    "phase2_query_coverage": 17
+  },
+  "relaxation_games_1": {
+    "description": "Identifies games suitable for mental relaxation, including relaxing games to play solo and simple yet engaging games for unwinding.",
+    "phase2_query_coverage": 0
+  },
+  "unwind_with_games": {
+    "description": "Suggests games that help you unwind, including solo-friendly games that are both fun and relaxing.",
+    "phase2_query_coverage": 16
+  },
+  "relaxing_puzzle_suggestions": {
+    "description": "Get recommendations for a relaxing puzzle game to play in your free time, tailored for enjoyment and mental ease.",
+    "phase2_query_coverage": 9
+  },
+  "puzzle_suggestions": {
+    "description": "Get suggestions for relaxing puzzles that can be played solo, providing a calming experience during your free time.",
+    "phase2_query_coverage": 8
+  },
+  "relaxation_games_2": {
+    "description": "A tool that recommends relaxing board games to unwind, simple yet engaging games for casual moments, and games to play for relaxation purposes.",
+    "phase2_query_coverage": 0
+  },
+  "puzzle_recommendations": {
+    "description": "Recommendations for puzzle-based games that help in relaxation, including tools for constructing custom puzzles.",
+    "phase2_query_coverage": 5
+  },
+  "cribbage_scoring": {
+    "description": "Learn how to score points in Cribbage effectively, enhancing your gameplay experience.",
+    "phase2_query_coverage": 6
+  },
+  "cribbage_scoring_1": {
+    "description": "This tool explains how to score points in Cribbage effectively, providing tips for better gameplay.",
+    "phase2_query_coverage": 0
+  },
+  "cribbage_scoring_2": {
+    "description": "Offers tips on how to score points in Cribbage effectively, enhancing your gameplay experience.",
+    "phase2_query_coverage": 0
+  },
+  "cribbage_scoring_3": {
+    "description": "Guidance on how to score points in Cribbage effectively, combining strategy with entertainment.",
+    "phase2_query_coverage": 0
+  },
+  "cribbage_guide": {
+    "description": "Instructions on how to play and score in Cribbage, including the best way to score a cribbage game.",
+    "phase2_query_coverage": 6
+  },
+  "custom_puzzle_creator": {
+    "description": "A tool that allows users to craft custom puzzles, including Sudoku and crossword puzzles, as requested in 'Can you help me craft a custom Sudoku puzzle?' and 'Can you create a custom crossword puzzle for me?'.",
+    "phase2_query_coverage": 5
+  },
+  "puzzle_recommendations_1": {
+    "description": "Get recommendations for puzzle-based games that are both challenging and enjoyable for relaxation.",
+    "phase2_query_coverage": 0
+  },
+  "puzzle_creator": {
+    "description": "An interactive tool for constructing custom puzzles, addressing queries such as 'Are there any tools for constructing custom puzzles?' and 'Can you create a custom crossword puzzle for me?'. It allows users to design their own engaging puzzles.",
+    "phase2_query_coverage": 1
+  },
+  "puzzle_recommendations_2": {
+    "description": "Recommendations for puzzle-based games that are engaging and light-hearted, ideal for relaxation and downtime.",
+    "phase2_query_coverage": 0
+  },
+  "puzzle_creator_1": {
+    "description": "A tool for constructing custom puzzles, allowing users to create a custom crossword puzzle or any other fun puzzle game.",
+    "phase2_query_coverage": 0
+  },
+  "wordplay_games": {
+    "description": "Suggestions for games that involve wordplay and creativity, perfect for engaging with word-based games for fun.",
+    "phase2_query_coverage": 5
+  },
+  "custom_puzzle_creator_1": {
+    "description": "A tool for constructing custom puzzles, including the ability to create a custom crossword puzzle for you.",
+    "phase2_query_coverage": 0
+  },
+  "checkers_strategy_guide": {
+    "description": "A guide that provides strategies that work best for Checkers and tips for improving your chess strategy.",
+    "phase2_query_coverage": 5
+  },
+  "chess_strategy_tips": {
+    "description": "A resource that offers tips for improving your chess strategy and strategies that work best for Checkers.",
+    "phase2_query_coverage": 5
+  },
+  "relaxing_board_games": {
+    "description": "A resource that lists relaxing board games you can play to unwind after a long day, including suggestions for solo-friendly games that are both fun and relaxing.",
+    "phase2_query_coverage": 5
+  },
+  "wordplay_game": {
+    "description": "A game that involves wordplay and creativity, perfect for enhancing vocabulary and providing fun activities or games to play for leisure.",
+    "phase2_query_coverage": 3
+  },
+  "creative_word_games": {
+    "description": "A tool that provides games involving wordplay and creativity, ideal for enhancing vocabulary and engaging in light-hearted fun.",
+    "phase2_query_coverage": 5
+  },
+  "wordplay_games_1": {
+    "description": "A selection of games that involve wordplay and creativity, perfect for enhancing vocabulary and providing a fun activity for downtime.",
+    "phase2_query_coverage": 0
+  },
+  "checkers_tips": {
+    "description": "Provides rules and tips for Checkers, helping players improve their strategy and enjoy the game.",
+    "phase2_query_coverage": 4
+  },
+  "checkers_rules_tips": {
+    "description": "Provides rules and tips for Checkers, making it easy for beginners to learn and improve their skills.",
+    "phase2_query_coverage": 4
+  },
+  "word_games": {
+    "description": "Engage with word-based games that provide fun and mental exercise, suitable for relaxation and enjoyment.",
+    "phase2_query_coverage": 2
+  },
+  "checkers_guide": {
+    "description": "Provides rules and tips for Checkers, making it easy to learn and play with friends.",
+    "phase2_query_coverage": 4
+  },
+  "tictactoe_rules": {
+    "description": "A tool that explains the rules of Tic Tac Toe and allows you to play a game of Tic Tac Toe with me.",
+    "phase2_query_coverage": 4
+  },
+  "tic_tac_toe_helper": {
+    "description": "A tool that explains the rules of Tic Tac Toe and allows you to play a game of Tic Tac Toe with me.",
+    "phase2_query_coverage": 4
+  },
+  "tic_tac_toe_tutor": {
+    "description": "A tool that explains the rules of Tic Tac Toe and allows you to play a game of Tic Tac Toe with me.",
+    "phase2_query_coverage": 4
+  },
+  "tictactoe_rules_1": {
+    "description": "This tool explains the rules of Tic Tac Toe, allowing you to play a game of Tic Tac Toe with me.",
+    "phase2_query_coverage": 0
+  },
+  "tic_tac_toe_guide": {
+    "description": "A comprehensive guide that explains the rules of Tic Tac Toe and allows you to play a game of Tic Tac Toe with me.",
+    "phase2_query_coverage": 4
+  },
+  "solo_games": {
+    "description": "Options for stress-relieving solo games that can help you unwind after a long day.",
+    "phase2_query_coverage": 3
+  },
+  "puzzle_game_recommendations": {
+    "description": "Suggestions for fun puzzle games to pass the time, combining challenge and relaxation.",
+    "phase2_query_coverage": 3
+  },
+  "strategy_game_finder": {
+    "description": "Find games that involve strategic thinking yet remain low-pressure, suitable for mental relaxation.",
+    "phase2_query_coverage": 3
+  },
+  "strategic_games": {
+    "description": "Recommendations for strategic games that combine logical thinking with entertainment, while remaining low-pressure.",
+    "phase2_query_coverage": 1
+  },
+  "quick_games": {
+    "description": "A resource for showing simple and quick games to play during a break, perfect for those looking for a game that is simple yet engaging for relaxation.",
+    "phase2_query_coverage": 3
+  },
+  "puzzle_recommender": {
+    "description": "A recommendation tool for challenging yet enjoyable puzzle games, including relaxing logic puzzles you could suggest.",
+    "phase2_query_coverage": 3
+  },
+  "logical_entertainment": {
+    "description": "Games that combine logical thinking with entertainment, providing a fun way to engage your mind while remaining low-pressure.",
+    "phase2_query_coverage": 3
+  },
+  "entertaining_games": {
+    "description": "A resource for finding fun options for light and entertaining games that can be played during free time.",
+    "phase2_query_coverage": 2
+  },
+  "leisure_activity_finder": {
+    "description": "Discover fun activities or games to play for leisure, including collaborative or multiplayer games suitable for a casual setting.",
+    "phase2_query_coverage": 3
+  },
+  "casual_game_suggestions": {
+    "description": "Suggestions for exploring new casual games that are fun and simple to pass the time.",
+    "phase2_query_coverage": 2
+  },
+  "light_entertaining_games": {
+    "description": "A selection of fun options for light and entertaining games to help you spend your free time.",
+    "phase2_query_coverage": 3
+  },
+  "logical_entertainment_games": {
+    "description": "A selection of games that combine logical thinking with entertainment. This tool is perfect for users looking for games that involve strategic thinking yet remain low-pressure.",
+    "phase2_query_coverage": 3
+  },
+  "wordplay_game_1": {
+    "description": "A game that involves wordplay and creativity, perfect for enhancing your vocabulary while having fun.",
+    "phase2_query_coverage": 0
+  },
+  "game_selector": {
+    "description": "A tool that helps you find a game that involves strategic thinking yet remains low-pressure, suitable for relaxation, and combines logical thinking with entertainment.",
+    "phase2_query_coverage": 3
+  },
+  "quick_game_selector": {
+    "description": "A simple tool that shows users a simple yet engaging game for casual moments or quick breaks, perfect for unwinding.",
+    "phase2_query_coverage": 3
+  },
+  "casual_games": {
+    "description": "Suggests simple yet engaging games for casual moments, ideal for relaxation and minimal setup.",
+    "phase2_query_coverage": 2
+  },
+  "entertaining_games_1": {
+    "description": "Suggestions for entertaining games that can help you unwind and spend your free time with light and enjoyable options.",
+    "phase2_query_coverage": 0
+  },
+  "chess_enhancement": {
+    "description": "Tools to assist in enhancing your chess game, providing strategies and tips for better gameplay.",
+    "phase2_query_coverage": 3
+  },
+  "sudoku_solver": {
+    "description": "A tool that can explain how to solve a standard sudoku puzzle and help you craft a custom Sudoku puzzle for entertainment.",
+    "phase2_query_coverage": 1
+  },
+  "chess_strategist": {
+    "description": "This tool offers tips for improving your chess strategy, helping you understand the benefits of playing chess as a leisure activity.",
+    "phase2_query_coverage": 3
+  },
+  "puzzle_creator_2": {
+    "description": "This tool can create custom crossword puzzles and Sudoku puzzles, providing challenging options for those who want to solve a Sudoku puzzle or craft a custom Sudoku puzzle.",
+    "phase2_query_coverage": 0
+  },
+  "chess_tips": {
+    "description": "A tool that provides tips for improving your chess strategy, helping you understand the benefits of playing chess as a leisure activity.",
+    "phase2_query_coverage": 3
+  },
+  "minimal_setup_games": {
+    "description": "Suggestions for games that are both entertaining and require minimal setup, perfect for casual play.",
+    "phase2_query_coverage": 2
+  },
+  "board_game_suggestions": {
+    "description": "Suggestions for board games that help to unwind and have fun, suitable for gatherings and group settings.",
+    "phase2_query_coverage": 1
+  },
+  "collaborative_games": {
+    "description": "Recommendations for collaborative or multiplayer games suitable for a casual setting, promoting relaxation and fun.",
+    "phase2_query_coverage": 2
+  },
+  "rainy_afternoon_games": {
+    "description": "Suggestions for engaging games suitable for a rainy afternoon, ideal for group settings.",
+    "phase2_query_coverage": 1
+  },
+  "board_game_suggestions_1": {
+    "description": "Recommendations for fun board games for a gathering, ensuring an entertaining experience for all participants.",
+    "phase2_query_coverage": 0
+  },
+  "collaborative_games_1": {
+    "description": "A list of collaborative or multiplayer games suitable for a casual setting, ideal for leisure activities.",
+    "phase2_query_coverage": 0
+  },
+  "gathering_board_games": {
+    "description": "Recommendations for fun board games for a gathering, ensuring a light-hearted and engaging experience.",
+    "phase2_query_coverage": 2
+  },
+  "interactive_board_games": {
+    "description": "Recommendations for interactive board games that are suitable for unwinding and provide a fun experience for gatherings.",
+    "phase2_query_coverage": 2
+  },
+  "multiplayer_games": {
+    "description": "A resource for discovering collaborative or multiplayer games suitable for a casual setting, including options designed for leisure.",
+    "phase2_query_coverage": 2
+  },
+  "sudoku_starter": {
+    "description": "A guide on how to start a game of Sudoku for recreational purposes, including how to set up a Sudoku puzzle for entertainment.",
+    "phase2_query_coverage": 2
+  },
+  "quick_break_games": {
+    "description": "Suggestions for simple and quick games to play during a break, perfect for casual moments.",
+    "phase2_query_coverage": 2
+  },
+  "free_time_activities": {
+    "description": "A guide on how to spend your free time with entertaining games and suggests a game that is both entertaining and requires minimal setup.",
+    "phase2_query_coverage": 2
+  },
+  "skill_improvement": {
+    "description": "Resources and tips on how to improve your skills in a particular game for better enjoyment, enhancing your overall gaming experience.",
+    "phase2_query_coverage": 1
+  },
+  "entertaining_games_2": {
+    "description": "Suggestions for entertaining games to spend your free time with, ensuring a fun and engaging experience.",
+    "phase2_query_coverage": 0
+  },
+  "casual_game_tool": {
+    "description": "A digital game tool for casual gameplay, providing suggestions for exploring a new casual game.",
+    "phase2_query_coverage": 2
+  },
+  "multiplayer_leisure_games": {
+    "description": "Find multiplayer games designed for leisure and recreational games you can enjoy alone or with friends.",
+    "phase2_query_coverage": 2
+  },
+  "quick_games_guide": {
+    "description": "A guide to simple and quick games to play during a break, including fun games to pass the time.",
+    "phase2_query_coverage": 2
+  },
+  "sudoku_solver_1": {
+    "description": "Explains how to solve a standard sudoku puzzle and how to start a game of Sudoku for recreational purposes.",
+    "phase2_query_coverage": 0
+  },
+  "game_setup": {
+    "description": "A tool that helps you start a game of Sudoku for recreational purposes and set up a Sudoku puzzle for entertainment.",
+    "phase2_query_coverage": 2
+  },
+  "sudoku_starter_1": {
+    "description": "A tool to help you set up a Sudoku puzzle for entertainment, including how to start a game of Sudoku for recreational purposes.",
+    "phase2_query_coverage": 0
+  },
+  "logical_thinking_games": {
+    "description": "Combines logical thinking with entertainment by recommending challenging yet enjoyable puzzle games.",
+    "phase2_query_coverage": 2
+  },
+  "casual_games_1": {
+    "description": "A list of good games to relax after a long day, including fun games that require minimal setup.",
+    "phase2_query_coverage": 0
+  },
+  "casual_game_suggestions_1": {
+    "description": "Recommendations for exploring new casual games, including digital game tools for casual gameplay.",
+    "phase2_query_coverage": 0
+  },
+  "classic_card_games": {
+    "description": "A resource for recommendations on classic card games that are engaging and enjoyable.",
+    "phase2_query_coverage": 2
+  },
+  "light_games_guide": {
+    "description": "A collection of fun options for light and entertaining games, perfect for leisure activities.",
+    "phase2_query_coverage": 2
+  },
+  "game_recommender": {
+    "description": "A tool that suggests the best puzzle games for a casual evening and provides recommendations for games that are both entertaining and require minimal setup.",
+    "phase2_query_coverage": 2
+  },
+  "word_games_1": {
+    "description": "Offers word-based games available for enhancing vocabulary and suggests a fun word game to try with friends.",
+    "phase2_query_coverage": 0
+  },
+  "entertaining_activities": {
+    "description": "Ideas for fun activities or games to play for leisure, ensuring a good time during your free moments.",
+    "phase2_query_coverage": 2
+  },
+  "checkers_rules_explainer": {
+    "description": "An easy-to-understand explanation of the rules for playing checkers online, including tips for effective gameplay.",
+    "phase2_query_coverage": 2
+  },
+  "checkers_rules": {
+    "description": "This tool outlines 'the rules for playing checkers online', providing a straightforward way to learn and enjoy this relaxing game.",
+    "phase2_query_coverage": 1
+  },
+  "sudoku_generator": {
+    "description": "A tool to set up a Sudoku puzzle for entertainment, allowing you to start a game of Sudoku for recreational purposes.",
+    "phase2_query_coverage": 2
+  },
+  "recreational_activities": {
+    "description": "A list of recreational games you can enjoy alone or with friends, including fun activities or games to play for leisure.",
+    "phase2_query_coverage": 2
+  },
+  "light_entertainment": {
+    "description": "A selection of fun options for light and entertaining games to enjoy during downtime.",
+    "phase2_query_coverage": 2
+  },
+  "game_enhancer": {
+    "description": "Tools to assist you in enhancing your game-playing experience, making it easier to create your own relaxing games.",
+    "phase2_query_coverage": 2
+  },
+  "puzzle_game_instructions": {
+    "description": "Provides instructions for a fun puzzle game, ideal for those looking for a challenging yet enjoyable experience.",
+    "phase2_query_coverage": 2
+  },
+  "classic_games_finder": {
+    "description": "A resource for discovering classic games that remain engaging and enjoyable, along with recommendations for a classic card game.",
+    "phase2_query_coverage": 2
+  },
+  "casual_activities": {
+    "description": "Suggestions for fun activities or games to play for leisure, ideal for downtime and relaxation.",
+    "phase2_query_coverage": 2
+  },
+  "skill_improver": {
+    "description": "This tool provides tips on how to improve your skills in a particular game for better enjoyment, enhancing your overall gaming experience.",
+    "phase2_query_coverage": 2
+  },
+  "skill_improvement_1": {
+    "description": "A tool designed to help users improve their skills in various games for better enjoyment, relevant to 'How can I improve my skills in a particular game for better enjoyment?'",
+    "phase2_query_coverage": 0
+  },
+  "digital_game_tool": {
+    "description": "A digital game tool for casual gameplay that includes simple and quick games to play during a break.",
+    "phase2_query_coverage": 2
+  },
+  "classic_game_selector": {
+    "description": "Find classic games that remain engaging and enjoyable, perfect for a calm and enjoyable atmosphere.",
+    "phase2_query_coverage": 2
+  },
+  "casual_game_tool_1": {
+    "description": "A digital game tool for casual gameplay that guides you to fun and simple games to pass the time.",
+    "phase2_query_coverage": 0
+  },
+  "de_stress_activities": {
+    "description": "A collection of playful activities you can partake in to de-stress, including recommendations for fun activities for downtime.",
+    "phase2_query_coverage": 2
+  },
+  "board_game_suggester": {
+    "description": "A tool that suggests a fun board game for a gathering and engaging games for a rainy afternoon, enhancing your game-playing experience.",
+    "phase2_query_coverage": 2
+  },
+  "vocabulary_games": {
+    "description": "This tool suggests word-based games available for enhancing vocabulary and recommends engaging games for a rainy afternoon.",
+    "phase2_query_coverage": 2
+  },
+  "classic_card_games_1": {
+    "description": "Recommendations for classic card games that remain engaging and enjoyable for all ages.",
+    "phase2_query_coverage": 0
+  },
+  "casual_game_finder": {
+    "description": "A digital game tool for casual gameplay, helping you choose a game that suits a calm and enjoyable atmosphere.",
+    "phase2_query_coverage": 1
+  },
+  "sudoku_solver_2": {
+    "description": "A tool that can help you explain how to solve a standard sudoku puzzle and also assist you in crafting a custom Sudoku puzzle.",
+    "phase2_query_coverage": 0
+  },
+  "game_recommender_1": {
+    "description": "A recommendation engine that suggests the best puzzle games for a casual evening and engaging games for a rainy afternoon.",
+    "phase2_query_coverage": 0
+  },
+  "simple_game_finder": {
+    "description": "A guide to help you choose a fun and simple game to pass the time, ensuring a calm and enjoyable atmosphere.",
+    "phase2_query_coverage": 2
+  },
+  "sudoku_solver_3": {
+    "description": "An interactive tool that explains how to solve a standard sudoku puzzle and helps you craft a custom Sudoku puzzle.",
+    "phase2_query_coverage": 0
+  },
+  "atmosphere_selector": {
+    "description": "Helps you choose a game that suits a calm and enjoyable atmosphere while identifying recreational games you can enjoy alone or with friends.",
+    "phase2_query_coverage": 2
+  },
+  "downtime_activities": {
+    "description": "A guide to fun activities for downtime, including relaxing games and playful activities to de-stress.",
+    "phase2_query_coverage": 2
+  },
+  "recreational_tools": {
+    "description": "Offers tools to assist you in enjoying recreational activities, including creating your own relaxing games.",
+    "phase2_query_coverage": 1
+  },
+  "classic_games": {
+    "description": "This tool provides suggestions for classic games that remain engaging and enjoyable, including classic card games.",
+    "phase2_query_coverage": 2
+  },
+  "downtime_activities_1": {
+    "description": "A list of fun activities for downtime, including playful activities to de-stress and games that help in relaxation and enjoyment.",
+    "phase2_query_coverage": 0
+  },
+  "chess_setup": {
+    "description": "Provides details about setting up a chess match, along with rules for playing checkers online and other classic card games.",
+    "phase2_query_coverage": 1
+  },
+  "chess_setup_1": {
+    "description": "A tool that provides details about setting up a chess match and explains the benefits of playing chess as a leisure activity.",
+    "phase2_query_coverage": 0
+  },
+  "easy_game_tools": {
+    "description": "The easiest tools to use for creating your own relaxing games, ideal for beginners.",
+    "phase2_query_coverage": 1
+  },
+  "game_creation_tools": {
+    "description": "The easiest tools to use for creating your own relaxing games, allowing for creativity and enjoyment in gameplay.",
+    "phase2_query_coverage": 1
+  },
+  "board_game_suggestions_2": {
+    "description": "Suggest board games that help to unwind and have fun, suitable for a calm and enjoyable atmosphere.",
+    "phase2_query_coverage": 0
+  },
+  "game_creation_tools_1": {
+    "description": "Easiest tools to use for creating your own relaxing games, allowing for customization and creativity.",
+    "phase2_query_coverage": 0
+  },
+  "playful_activities": {
+    "description": "Suggestions for playful activities you can partake in to de-stress and unwind.",
+    "phase2_query_coverage": 1
+  },
+  "puzzle_game_suggestions": {
+    "description": "Recommendations for the best puzzle games for a casual evening, ensuring a fun and relaxing experience.",
+    "phase2_query_coverage": 1
+  },
+  "rainy_afternoon_games_1": {
+    "description": "Suggestions for engaging games to play during a rainy afternoon, including light and entertaining games.",
+    "phase2_query_coverage": 0
+  },
+  "casual_evening_games": {
+    "description": "Recommendations for the best puzzle games for a casual evening, focusing on relaxation.",
+    "phase2_query_coverage": 1
+  },
+  "board_game_recommendations": {
+    "description": "Recommendations for board games that are ideal for unwinding and engaging in playful activities to de-stress.",
+    "phase2_query_coverage": 1
+  },
+  "recreational_games": {
+    "description": "A resource for discovering recreational games that can be enjoyed alone or with friends, responding to 'Which recreational games can I enjoy alone or with friends?'",
+    "phase2_query_coverage": 1
+  },
+  "chess_leisure_benefits": {
+    "description": "Explains the benefits of playing chess as a leisure activity, highlighting its engaging nature.",
+    "phase2_query_coverage": 1
+  },
+  "recreational_activity_tools": {
+    "description": "Learn how to use the available tools to enjoy recreational activities, enhancing your leisure time.",
+    "phase2_query_coverage": 1
+  },
+  "chess_benefits": {
+    "description": "Explore the benefits of playing chess as a leisure activity, highlighting its engaging and enjoyable aspects.",
+    "phase2_query_coverage": 1
+  },
+  "recreational_options": {
+    "description": "Lists recreational games that can be enjoyed alone or with friends, focusing on leisure and enjoyment.",
+    "phase2_query_coverage": 1
+  },
+  "checkers_rules_1": {
+    "description": "A resource that outlines the rules for playing checkers online.",
+    "phase2_query_coverage": 0
+  },
+  "chess_match_setup": {
+    "description": "Provides details about setting up a chess match, including rules and strategies for engaging gameplay.",
+    "phase2_query_coverage": 1
+  },
+  "checkers_rules_2": {
+    "description": "Details the rules for playing checkers online, making it easy to start a game.",
+    "phase2_query_coverage": 0
+  },
+  "recreational_activity_tool": {
+    "description": "A comprehensive tool that helps users enjoy recreational activities, responding to the query 'How can I use the available tools to enjoy recreational activities?'",
+    "phase2_query_coverage": 1
+  },
+  "casual_game_chooser": {
+    "description": "A tool that shows you a simple yet engaging game for a casual moment and helps you explore a new casual game.",
+    "phase2_query_coverage": 1
+  },
+  "game_enjoyment_tips": {
+    "description": "Tips for improving your skills in a particular game for better enjoyment, ensuring you can find a game suitable for leisure.",
+    "phase2_query_coverage": 1
+  },
+  "skill_improvement_2": {
+    "description": "Resources on how to improve skills in a particular game for better enjoyment and engagement.",
+    "phase2_query_coverage": 0
+  },
+  "recreational_tools_1": {
+    "description": "Explains how to use the available tools to enjoy recreational activities, enhancing your leisure time.",
+    "phase2_query_coverage": 0
+  },
+  "sudoku_solver_guide": {
+    "description": "A comprehensive guide that explains how to solve a standard sudoku puzzle, addressing the query 'Can you explain how to solve a standard sudoku puzzle?'",
+    "phase2_query_coverage": 1
+  },
+  "puzzle_crafting_tools": {
+    "description": "Tools available for crafting fun puzzles, providing instructions for a fun puzzle game.",
+    "phase2_query_coverage": 1
+  },
+  "chess_setup_2": {
+    "description": "This tool provides details about setting up a chess match, including the rules for playing chess.",
+    "phase2_query_coverage": 0
+  },
+  "puzzle_creator_3": {
+    "description": "A tool for crafting fun puzzles and providing instructions for engaging puzzle games.",
+    "phase2_query_coverage": 0
+  },
+  "recreational_activity_guide": {
+    "description": "Use this tool to explore available tools that enhance your enjoyment of recreational activities.",
+    "phase2_query_coverage": 1
+  },
+  "relaxation_game_finder": {
+    "description": "Find a game suitable for mental relaxation and discover fun and simple games to pass the time.",
+    "phase2_query_coverage": 1
+  },
+  "chess_setup_3": {
+    "description": "Get detailed instructions on setting up a chess match, perfect for engaging gameplay.",
+    "phase2_query_coverage": 0
+  },
+  "classic_card_game_recommender": {
+    "description": "This tool recommends classic card games, catering to those looking for 'any recommendations' in card games.",
+    "phase2_query_coverage": 1
+  },
+  "game_development_algorithms": {
+    "description": "A resource that suggests algorithms for game development, addressing 'Can you suggest algorithms for game development?' and providing insights for aspiring game creators.",
+    "phase2_query_coverage": 1
+  },
+  "puzzle_instructions": {
+    "description": "Detailed instructions for a fun puzzle game, ensuring an enjoyable experience for players.",
+    "phase2_query_coverage": 1
+  },
+  "interactive_puzzle_game": {
+    "description": "Provide instructions for a fun puzzle game that combines enjoyment with mental challenges.",
+    "phase2_query_coverage": 1
+  },
+  "casual_game_finder_1": {
+    "description": "This tool suggests a simple yet engaging game for a casual moment, perfect for unwinding and exploring new casual games.",
+    "phase2_query_coverage": 0
+  },
+  "challenging_sudoku": {
+    "description": "This tool can recommend a challenging Sudoku puzzle, catering to those looking for a mental challenge.",
+    "phase2_query_coverage": 1
+  },
+  "game_development_algorithms_1": {
+    "description": "Suggest algorithms for game development, providing insights into creating engaging and fun games.",
+    "phase2_query_coverage": 0
+  },
+  "game_development_algorithms_2": {
+    "description": "Algorithms for game development that can help you create engaging and entertaining games.",
+    "phase2_query_coverage": 0
+  },
+  "game_development_algorithms_3": {
+    "description": "Explore algorithms for game development, useful for those interested in creating their own games.",
+    "phase2_query_coverage": 0
+  },
+  "game_development_algorithms_4": {
+    "description": "Offers algorithms for game development, useful for creating engaging and enjoyable games.",
+    "phase2_query_coverage": 0
+  },
+  "challenging_puzzle_finder": {
+    "description": "A tool that recommends a challenging yet enjoyable puzzle game, including Sudoku puzzles.",
+    "phase2_query_coverage": 1
+  },
+  "sudoku_challenger": {
+    "description": "A tool that recommends a challenging Sudoku puzzle, catering to those looking to improve their puzzle-solving skills.",
+    "phase2_query_coverage": 1
+  },
+  "challenging_sudoku_finder": {
+    "description": "A tool that provides recommendations for a challenging Sudoku puzzle, catering to those looking for a stimulating experience.",
+    "phase2_query_coverage": 1
+  },
+  "sudoku_solver_4": {
+    "description": "A tool that assists you in solving a Sudoku puzzle, including recommendations for a challenging Sudoku puzzle.",
+    "phase2_query_coverage": 0
+  },
+  "strategic_game_recommendations": {
+    "description": "A resource for exploring strategic games, providing recommendations for those looking to try a strategic game.",
+    "phase2_query_coverage": 1
+  },
+  "strategic_games_1": {
+    "description": "A recommendation tool for strategic games that are enjoyable and low-pressure, perfect for those looking to try a strategic game.",
+    "phase2_query_coverage": 0
+  },
+  "strategic_game_recommender": {
+    "description": "A tool that recommends strategic games suitable for various preferences, addressing queries like 'I'd like to try a strategic game; could you recommend one?' and 'Is there a game here that involves strategic thinking yet remains low-pressure?'. It focuses on enjoyable gameplay.",
+    "phase2_query_coverage": 1
+  },
+  "sudoku_solver_5": {
+    "description": "An interactive tool that helps users solve Sudoku puzzles. It can assist with requests like 'I want to solve a Sudoku puzzle; can you assist me?'",
+    "phase2_query_coverage": 0
+  },
+  "sudoku_solver_6": {
+    "description": "Solve a Sudoku puzzle with assistance, providing a relaxing and challenging experience.",
+    "phase2_query_coverage": 0
+  }
+}

@@ -1,0 +1,750 @@
+{
+  "investment_insights": {
+    "description": "Provides insights on diversifying my investment assets effectively and analyzes the risk levels of my investment choices.",
+    "phase2_query_coverage": 1
+  },
+  "investment_optimization": {
+    "description": "Provide suggestions for optimizing my portfolio based on recent market trends and how can I optimize my investment portfolio for maximum returns?",
+    "phase2_query_coverage": 1
+  },
+  "asset_diversifier": {
+    "description": "Suggest diversification strategies for enhancing portfolio stability and provide insights into the diversification of your current financial assets.",
+    "phase2_query_coverage": 9
+  },
+  "diversification_strategies": {
+    "description": "Offers insights on diversifying my investment assets effectively and balancing risk and return in my financial investments.",
+    "phase2_query_coverage": 2
+  },
+  "diversification_tool": {
+    "description": "Suggest potential improvements to diversify your assets and provide recommendations for diversifying your portfolio.",
+    "phase2_query_coverage": 1
+  },
+  "diversification_strategies_1": {
+    "description": "Explore potential strategies to diversify your investment portfolio and provide insights on diversifying your investment assets effectively.",
+    "phase2_query_coverage": 0
+  },
+  "investment_trends": {
+    "description": "Explores the latest trends in financial portfolio management and current trends impacting my investment portfolio.",
+    "phase2_query_coverage": 9
+  },
+  "performance_tracking_tools": {
+    "description": "Recommend tools for tracking portfolio performance and current trends in financial portfolio management.",
+    "phase2_query_coverage": 8
+  },
+  "trend_analyzer": {
+    "description": "Analyze the latest trends in portfolio management strategies and current trends impacting your investment portfolio.",
+    "phase2_query_coverage": 7
+  },
+  "trend_insights": {
+    "description": "Provides insights on the recent market trends affecting your portfolio's performance and the latest trends in financial portfolio management.",
+    "phase2_query_coverage": 8
+  },
+  "trend_analyzer_1": {
+    "description": "Identify the latest financial trends affecting portfolio management and current trends impacting your investment portfolio.",
+    "phase2_query_coverage": 0
+  },
+  "risk_assessment": {
+    "description": "Analyze the risk level of my current investment portfolio and provide insights into my portfolio's risk assessment.",
+    "phase2_query_coverage": 6
+  },
+  "optimization_tool": {
+    "description": "Optimize my investment portfolio for maximum returns while considering underperforming assets that I should consider reallocating.",
+    "phase2_query_coverage": 7
+  },
+  "portfolio_growth_optimizer": {
+    "description": "Optimize my portfolio for long-term growth by providing insights on how my investments align with my financial goals and risk tolerance.",
+    "phase2_query_coverage": 7
+  },
+  "growth_optimizer": {
+    "description": "Suggests strategies to optimize my financial investments for long-term growth and how I can optimize my investment portfolio for maximum returns.",
+    "phase2_query_coverage": 6
+  },
+  "portfolio_management_tools": {
+    "description": "Can you recommend tools to assist in portfolio management and monitor stock and bond performance effectively?",
+    "phase2_query_coverage": 1
+  },
+  "investment_risk_assessor": {
+    "description": "Can you analyze the risk levels of my investment choices and identify potential risks in my portfolio given the current economic climate?",
+    "phase2_query_coverage": 6
+  },
+  "performance_tracker": {
+    "description": "A comprehensive tool for tracking portfolio performance, including recommended apps for monitoring stock and bond performance.",
+    "phase2_query_coverage": 6
+  },
+  "portfolio_monitoring_tool": {
+    "description": "A tool recommended for monitoring stock performance and tracking portfolio performance effectively.",
+    "phase2_query_coverage": 6
+  },
+  "risk_assessor": {
+    "description": "Analyzes the risk level of my current investment portfolio and evaluates the potential risks associated with my current asset allocations.",
+    "phase2_query_coverage": 1
+  },
+  "stock_monitoring_tools": {
+    "description": "Recommend tools for monitoring stock performance and provide insights into asset allocation strategies.",
+    "phase2_query_coverage": 6
+  },
+  "risk_assessment_1": {
+    "description": "Analyze the risk levels associated with your current investments and the potential risks associated with your current asset allocations.",
+    "phase2_query_coverage": 0
+  },
+  "investment_optimizer": {
+    "description": "Optimize your investment portfolio for maximum returns by suggesting strategies for balancing returns and risks in investments.",
+    "phase2_query_coverage": 2
+  },
+  "investment_optimizer_1": {
+    "description": "Optimize your investment portfolio for maximum returns by balancing risk and return in your financial investments.",
+    "phase2_query_coverage": 0
+  },
+  "diversification_strategist": {
+    "description": "Receive recommendations for diversifying your portfolio, including techniques to optimize your portfolio for long-term growth.",
+    "phase2_query_coverage": 1
+  },
+  "diversification_tool_1": {
+    "description": "Suggest diversification strategies for enhancing portfolio stability and balancing returns and risks in investments.",
+    "phase2_query_coverage": 0
+  },
+  "investment_strategist": {
+    "description": "Suggest strategies for balancing returns and risks in investments while aligning your investments with your financial goals and risk tolerance.",
+    "phase2_query_coverage": 4
+  },
+  "economic_exposure": {
+    "description": "Analyze my portfolio's exposure to economic fluctuations and the impact of interest rate changes on my fixed-income assets.",
+    "phase2_query_coverage": 2
+  },
+  "risk_assessor_1": {
+    "description": "Analyzes the risks associated with my current portfolio composition and the potential risks associated with my current asset allocations.",
+    "phase2_query_coverage": 0
+  },
+  "risk_assessment_tool": {
+    "description": "Provides insights into my portfolio's risk assessment and how my investments align with my financial goals and risk tolerance.",
+    "phase2_query_coverage": 4
+  },
+  "performance_comparator": {
+    "description": "Compares my portfolio's performance against the S&P 500 and assesses how my asset allocation compares to the market benchmark.",
+    "phase2_query_coverage": 1
+  },
+  "portfolio_performance": {
+    "description": "Delivers the current performance of my investment portfolio and compares it to market benchmarks.",
+    "phase2_query_coverage": 4
+  },
+  "performance_comparator_1": {
+    "description": "This tool compares my portfolio's performance to the S&P 500 and analyzes how my asset allocation compares to the market benchmark.",
+    "phase2_query_coverage": 0
+  },
+  "portfolio_status": {
+    "description": "Provides the current status of your investment portfolio and insights on the performance of current financial assets.",
+    "phase2_query_coverage": 2
+  },
+  "performance_analytics": {
+    "description": "Provide detailed analytics on the returns of my portfolio over the past year and what is the current performance of my investment portfolio?",
+    "phase2_query_coverage": 3
+  },
+  "portfolio_insights_generator": {
+    "description": "Provide suggestions for optimizing your portfolio based on recent market trends and insights into asset allocation strategies.",
+    "phase2_query_coverage": 3
+  },
+  "economic_news": {
+    "description": "Share the recent economic news impacting global markets and analyze the recent news impacts on the stocks within your portfolio.",
+    "phase2_query_coverage": 2
+  },
+  "tax_implications": {
+    "description": "What are the tax implications of my current investment strategy and how can I balance risk and return in my financial investments?",
+    "phase2_query_coverage": 3
+  },
+  "performance_comparator_2": {
+    "description": "Compare your portfolio's returns to relevant benchmarks and assess the current performance metrics of your investment portfolio.",
+    "phase2_query_coverage": 0
+  },
+  "asset_allocation": {
+    "description": "Provide a detailed breakdown of asset allocation in your financial portfolio and insights into the diversification of your current financial assets.",
+    "phase2_query_coverage": 2
+  },
+  "benchmark_comparator": {
+    "description": "Compare your portfolio's returns to relevant benchmarks and analyze how your asset allocation compares to the market benchmark.",
+    "phase2_query_coverage": 3
+  },
+  "asset_allocation_1": {
+    "description": "Offers insights into asset allocation strategies and compares my asset allocation to the market benchmark.",
+    "phase2_query_coverage": 0
+  },
+  "risk_assessor_2": {
+    "description": "Analyze your portfolio's exposure to economic fluctuations and provide insights into your portfolio's risk assessment.",
+    "phase2_query_coverage": 0
+  },
+  "financial_planning": {
+    "description": "Suggests how to balance between growth and stability in financial planning while aligning my investments with my financial goals and risk tolerance.",
+    "phase2_query_coverage": 3
+  },
+  "benchmark_comparator_1": {
+    "description": "Compare your asset allocation to the market benchmark to identify underperforming assets that may need reallocating.",
+    "phase2_query_coverage": 0
+  },
+  "high_potential_assets": {
+    "description": "Identify high-potential assets to consider for inclusion in my portfolio and assess any underperforming assets that I should consider reallocating.",
+    "phase2_query_coverage": 2
+  },
+  "portfolio_status_checker": {
+    "description": "Check the current status of your investment portfolio and assess the current performance of your investment portfolio.",
+    "phase2_query_coverage": 2
+  },
+  "investment_status": {
+    "description": "Provides the current status of my investment portfolio and analyzes the recent market trends affecting my portfolio's performance.",
+    "phase2_query_coverage": 3
+  },
+  "interest_rate_impact": {
+    "description": "Analyze the impact of interest rate changes on investments and provide insights on how these changes might affect my overall investment strategy.",
+    "phase2_query_coverage": 1
+  },
+  "economic_event_monitor": {
+    "description": "Monitor upcoming economic events impacting investments and analyze the recent news impacts on the stocks within your portfolio.",
+    "phase2_query_coverage": 1
+  },
+  "historical_data_insights": {
+    "description": "Gain insights from analyzing historical financial data and understand the potential risks associated with your current asset allocations.",
+    "phase2_query_coverage": 2
+  },
+  "economic_impact": {
+    "description": "Analyze the impact of new fiscal policies on my portfolio's sectors and analyze the impact of macroeconomic events on my investments.",
+    "phase2_query_coverage": 2
+  },
+  "interest_rate_impact_analyzer": {
+    "description": "Analyze the impact of interest rate changes on your fixed-income assets and overall investments.",
+    "phase2_query_coverage": 1
+  },
+  "sector_performance_overview": {
+    "description": "Get a performance overview of technology sector stocks and insights into market trends affecting these stocks.",
+    "phase2_query_coverage": 2
+  },
+  "economic_impact_analysis": {
+    "description": "Analyze the impact of macroeconomic events on your investments and provide insights into upcoming economic events impacting investments.",
+    "phase2_query_coverage": 2
+  },
+  "diversification_strategies_2": {
+    "description": "Suggests diversification strategies for enhancing portfolio stability and provides insights into the diversification of my financial holdings.",
+    "phase2_query_coverage": 0
+  },
+  "reallocation_advisor": {
+    "description": "Identify any underperforming assets that you should consider reallocating to enhance your portfolio's overall performance.",
+    "phase2_query_coverage": 2
+  },
+  "technology_performance_overview": {
+    "description": "Offers a performance overview of technology sector stocks and provides insights into market trends affecting technology stocks.",
+    "phase2_query_coverage": 2
+  },
+  "sustainability_evaluator": {
+    "description": "Evaluate the sustainability aspect of my portfolio holdings to ensure alignment with long-term financial goals.",
+    "phase2_query_coverage": 2
+  },
+  "asset_reallocation_advisor": {
+    "description": "Identify underperforming assets that you should consider reallocating based on current market conditions.",
+    "phase2_query_coverage": 2
+  },
+  "trend_forecaster": {
+    "description": "Receive predictions on market trends for the upcoming quarter and a forecast of returns based on current economic conditions.",
+    "phase2_query_coverage": 2
+  },
+  "sector_analysis": {
+    "description": "Which sectors should I consider investing in for long-term growth and are there any market changes that might affect my holdings?",
+    "phase2_query_coverage": 2
+  },
+  "news_impact_analyzer": {
+    "description": "Evaluate the recent news impacts on the stocks within your portfolio and what recent news might influence your investments in the healthcare industry.",
+    "phase2_query_coverage": 2
+  },
+  "fiscal_policy_impact": {
+    "description": "Analyze the impact of new fiscal policies on your portfolio's sectors and assess how interest rate changes affect your fixed-income assets.",
+    "phase2_query_coverage": 2
+  },
+  "investment_distribution": {
+    "description": "Optimize your investment distribution for maximum returns and assist in setting up a balanced investment portfolio.",
+    "phase2_query_coverage": 2
+  },
+  "interest_rate_impact_1": {
+    "description": "Analyze the impact of interest rate changes on investments and fixed-income assets, including how these changes affect your overall portfolio.",
+    "phase2_query_coverage": 0
+  },
+  "market_change_analyzer": {
+    "description": "Analyzes anticipated market changes that might affect my portfolio and the impact of new fiscal policies on my portfolio's sectors.",
+    "phase2_query_coverage": 2
+  },
+  "sector_insights": {
+    "description": "Get a performance overview of technology sector stocks and the latest updates in the financial markets affecting your sectors of interest.",
+    "phase2_query_coverage": 2
+  },
+  "fiscal_policy_impact_1": {
+    "description": "Analyze the impact of new fiscal policies on your portfolio's sectors and evaluate the sustainability aspect of your portfolio holdings with this tool.",
+    "phase2_query_coverage": 0
+  },
+  "market_updates": {
+    "description": "Provides the latest updates in the financial markets affecting your sectors of interest, including recent news impacts on the stocks within your portfolio.",
+    "phase2_query_coverage": 2
+  },
+  "sustainability_evaluation": {
+    "description": "Evaluate the sustainability aspect of your portfolio holdings and analyze the impact of new fiscal policies on your portfolio's sectors.",
+    "phase2_query_coverage": 2
+  },
+  "sector_analysis_1": {
+    "description": "A detailed report on the sectors represented in my portfolio and which sectors should I consider investing in for long-term growth.",
+    "phase2_query_coverage": 0
+  },
+  "market_insights": {
+    "description": "Provides insights into market trends affecting technology stocks and recent news impacting the stocks within your portfolio.",
+    "phase2_query_coverage": 1
+  },
+  "investment_optimizer_2": {
+    "description": "Optimize your investment distribution for maximum returns while balancing between growth and stability in financial planning.",
+    "phase2_query_coverage": 0
+  },
+  "risk_assessor_3": {
+    "description": "Evaluate the risks associated with your current portfolio composition and the potential risks associated with your current asset allocations.",
+    "phase2_query_coverage": 0
+  },
+  "portfolio_analytics_enhancer": {
+    "description": "A resource for enhancing your understanding of portfolio analytics, including key indicators to assess in portfolio analysis.",
+    "phase2_query_coverage": 2
+  },
+  "economic_calendar": {
+    "description": "Stay updated with upcoming economic events impacting investments and share the recent economic news impacting global markets.",
+    "phase2_query_coverage": 2
+  },
+  "sector_performance": {
+    "description": "Get insights into the performance overview of technology sector stocks and current trends impacting your investment portfolio.",
+    "phase2_query_coverage": 2
+  },
+  "portfolio_analytics": {
+    "description": "A comprehensive tool that provides detailed analytics on the returns of my portfolio over the past year, including a detailed breakdown of asset allocation in my financial portfolio.",
+    "phase2_query_coverage": 2
+  },
+  "diversification_checker": {
+    "description": "Evaluate if my portfolio is adequately diversified to hedge against market volatility while also analyzing emerging markets worth considering for my portfolio.",
+    "phase2_query_coverage": 2
+  },
+  "asset_allocator": {
+    "description": "Provide a detailed breakdown of asset allocation in your financial portfolio and help you balance your portfolio between equities and fixed income.",
+    "phase2_query_coverage": 2
+  },
+  "opportunity_finder": {
+    "description": "Discover emerging opportunities in renewable energy markets and upcoming financial opportunities for your investment strategy.",
+    "phase2_query_coverage": 2
+  },
+  "market_insights_1": {
+    "description": "Get recent market trends affecting your investments and insights into market trends affecting technology stocks.",
+    "phase2_query_coverage": 0
+  },
+  "investment_monitor": {
+    "description": "A tool that tracks daily market trends and provides recommendations for apps to monitor stock and bond performance.",
+    "phase2_query_coverage": 2
+  },
+  "portfolio_analytics_enhancer_1": {
+    "description": "Enhances your understanding of portfolio analytics by providing key indicators to assess in portfolio analysis.",
+    "phase2_query_coverage": 0
+  },
+  "sector_analysis_2": {
+    "description": "Provide a detailed report on the sectors represented in your portfolio and suggest which sectors you should consider investing in for long-term growth.",
+    "phase2_query_coverage": 0
+  },
+  "economic_news_1": {
+    "description": "Stay updated with recent economic news impacting global markets and any recent news affecting the stock market.",
+    "phase2_query_coverage": 0
+  },
+  "emerging_markets": {
+    "description": "Discover emerging markets worth considering for your portfolio and what anticipated market changes might affect your portfolio.",
+    "phase2_query_coverage": 2
+  },
+  "investment_forecast": {
+    "description": "Receive a forecast of returns based on current economic conditions and predictions on market trends for the upcoming quarter.",
+    "phase2_query_coverage": 2
+  },
+  "tax_implications_checker": {
+    "description": "Evaluate the tax implications of my current investment strategy and provide insights into asset allocation strategies.",
+    "phase2_query_coverage": 2
+  },
+  "portfolio_analytics_1": {
+    "description": "Enhance your understanding of portfolio analytics with detailed analytics on the returns of your portfolio over the past year.",
+    "phase2_query_coverage": 0
+  },
+  "investment_insights_1": {
+    "description": "Offers insights on the performance of my financial investments, analyzes the risk level of my current investment portfolio, and provides a detailed report on the sectors represented in my portfolio.",
+    "phase2_query_coverage": 0
+  },
+  "portfolio_management": {
+    "description": "A tool that offers benefits of using portfolio management software tools, including AI-driven tools for financial planning.",
+    "phase2_query_coverage": 2
+  },
+  "portfolio_analysis": {
+    "description": "Analyzes the risk level of my current investment portfolio and evaluates the sustainability aspect of my portfolio holdings.",
+    "phase2_query_coverage": 2
+  },
+  "economic_news_2": {
+    "description": "Stay updated with recent economic news impacting global markets, including the latest updates in the financial markets affecting your sectors of interest.",
+    "phase2_query_coverage": 0
+  },
+  "financial_insight_tracker": {
+    "description": "A tool that helps you track and optimize your financial insights, including tools for tracking daily market trends.",
+    "phase2_query_coverage": 2
+  },
+  "portfolio_status_1": {
+    "description": "What is the current status of my investment portfolio and what are the latest developments in financial technology?",
+    "phase2_query_coverage": 0
+  },
+  "emerging_markets_explorer": {
+    "description": "Explore emerging markets worth considering for your portfolio and assess high-potential assets to include.",
+    "phase2_query_coverage": 2
+  },
+  "economic_exposure_1": {
+    "description": "Analyzes my portfolio's exposure to economic fluctuations and evaluates key indicators to assess in portfolio analysis.",
+    "phase2_query_coverage": 0
+  },
+  "trend_analysis": {
+    "description": "Explore current trends in financial portfolio management and identify high-potential assets to consider for inclusion in your portfolio.",
+    "phase2_query_coverage": 2
+  },
+  "asset_allocation_report": {
+    "description": "Generate a detailed report on the sectors represented in your portfolio and provide a breakdown of asset allocation in your financial portfolio.",
+    "phase2_query_coverage": 2
+  },
+  "performance_tracking": {
+    "description": "Provides insights on the performance of my current financial assets and tracks and optimizes my financial insights.",
+    "phase2_query_coverage": 2
+  },
+  "high_potential_assets_1": {
+    "description": "Identify high-potential assets to consider for inclusion in my portfolio and provide insights on the performance of my financial investments.",
+    "phase2_query_coverage": 0
+  },
+  "analytics_enhancer": {
+    "description": "Enhance your understanding of portfolio analytics with this tool, which focuses on key indicators to assess in portfolio analysis.",
+    "phase2_query_coverage": 2
+  },
+  "portfolio_analytics_2": {
+    "description": "Enhances my understanding of portfolio analytics and provides insights into my portfolio's risk assessment.",
+    "phase2_query_coverage": 0
+  },
+  "high_potential_assets_2": {
+    "description": "Identify high-potential assets to consider for inclusion in your portfolio and evaluate the sustainability aspect of your portfolio holdings.",
+    "phase2_query_coverage": 0
+  },
+  "investment_insights_2": {
+    "description": "Gain insights from analyzing historical financial data and receive predictions on market trends for the upcoming quarter.",
+    "phase2_query_coverage": 0
+  },
+  "economic_forecast": {
+    "description": "Delivers a forecast of returns based on current economic conditions and predictions on market trends for the upcoming quarter.",
+    "phase2_query_coverage": 2
+  },
+  "financial_technology": {
+    "description": "Get the latest developments in financial technology and the benefits of using AI-driven tools for financial planning.",
+    "phase2_query_coverage": 2
+  },
+  "tech_development": {
+    "description": "Explores the latest developments in financial technology and discusses the benefits of using AI-driven tools for financial planning.",
+    "phase2_query_coverage": 2
+  },
+  "portfolio_management_software": {
+    "description": "This tool outlines the benefits of using portfolio management software tools and AI-driven tools for financial planning, enhancing overall investment strategy.",
+    "phase2_query_coverage": 2
+  },
+  "economic_exposure_analyzer": {
+    "description": "Analyze your portfolio's exposure to economic fluctuations and assess whether your portfolio is adequately diversified to hedge against market volatility.",
+    "phase2_query_coverage": 2
+  },
+  "forecast_generator": {
+    "description": "Get a forecast of returns based on current economic conditions and predictions on market trends for the upcoming quarter with this forecasting tool.",
+    "phase2_query_coverage": 2
+  },
+  "sector_performance_1": {
+    "description": "Provides a detailed report on the sectors represented in your portfolio and the performance overview of technology sector stocks.",
+    "phase2_query_coverage": 0
+  },
+  "market_insights_2": {
+    "description": "This tool shares recent economic news impacting global markets and provides updates in the financial markets affecting your sectors of interest.",
+    "phase2_query_coverage": 0
+  },
+  "performance_metrics": {
+    "description": "Get current performance metrics of your investment portfolio and detailed analytics on the returns over the past year.",
+    "phase2_query_coverage": 2
+  },
+  "volatility_impact": {
+    "description": "Analyze how market volatility impacts portfolio returns and whether your portfolio is adequately diversified to hedge against market volatility.",
+    "phase2_query_coverage": 2
+  },
+  "cost_analysis": {
+    "description": "Understand the fees and costs associated with your portfolio investments, including tax implications of your current investment strategy.",
+    "phase2_query_coverage": 2
+  },
+  "historical_data_insights_1": {
+    "description": "Gain insights from analyzing historical financial data to provide detailed analytics on the returns of your portfolio over the past year.",
+    "phase2_query_coverage": 0
+  },
+  "financial_opportunities": {
+    "description": "Discover upcoming financial opportunities for your investment strategy and how to balance between growth and stability in financial planning.",
+    "phase2_query_coverage": 2
+  },
+  "investment_opportunities_finder": {
+    "description": "Identify upcoming financial opportunities for your investment strategy and emerging markets worth considering for your portfolio.",
+    "phase2_query_coverage": 2
+  },
+  "financial_opportunity_finder": {
+    "description": "Discover upcoming financial opportunities for your investment strategy and analyze emerging opportunities in renewable energy markets.",
+    "phase2_query_coverage": 2
+  },
+  "investment_tracker": {
+    "description": "This tool helps you track and optimize your financial insights, monitor stock performance, and track daily market trends.",
+    "phase2_query_coverage": 2
+  },
+  "financial_opportunities_1": {
+    "description": "Discover upcoming financial opportunities for your investment strategy and emerging markets worth considering for your portfolio.",
+    "phase2_query_coverage": 0
+  },
+  "market_insights_3": {
+    "description": "Provides insights into the latest developments in financial technology and updates in the financial markets affecting your sectors of interest.",
+    "phase2_query_coverage": 0
+  },
+  "growth_forecaster": {
+    "description": "Get a forecast of returns based on current economic conditions and project the growth of your investments over the next decade.",
+    "phase2_query_coverage": 2
+  },
+  "portfolio_balancer": {
+    "description": "Assists in setting up a balanced investment portfolio and helps you balance your portfolio between equities and fixed income.",
+    "phase2_query_coverage": 2
+  },
+  "asset_allocation_2": {
+    "description": "Assist in setting up a balanced investment portfolio by optimizing your asset allocation for better returns and analyzing the balance between equities and fixed income.",
+    "phase2_query_coverage": 0
+  },
+  "portfolio_status_checker_1": {
+    "description": "Gives the current status of my investment portfolio and evaluates how it aligns with my long-term financial goals.",
+    "phase2_query_coverage": 0
+  },
+  "historical_data_analyzer": {
+    "description": "Gain insights from analyzing historical financial data to understand the projected growth of your investments over the next decade.",
+    "phase2_query_coverage": 2
+  },
+  "historical_analysis": {
+    "description": "Gain insights from analyzing historical financial data to understand the projected growth of your investments over the next decade.",
+    "phase2_query_coverage": 2
+  },
+  "portfolio_balance": {
+    "description": "Helps balance my portfolio between equities and fixed income while providing suggestions for setting up a balanced investment portfolio.",
+    "phase2_query_coverage": 2
+  },
+  "news_monitor": {
+    "description": "Monitors recent news that might influence my financial decisions and investments, particularly in sectors like healthcare.",
+    "phase2_query_coverage": 1
+  },
+  "balanced_portfolio_setup": {
+    "description": "A tool that can assist in setting up a balanced investment portfolio and helps you balance your portfolio between equities and fixed income.",
+    "phase2_query_coverage": 2
+  },
+  "indicator_assessor": {
+    "description": "A tool that identifies key indicators to assess in portfolio analysis and helps you track and optimize your financial insights.",
+    "phase2_query_coverage": 2
+  },
+  "financial_technology_updates": {
+    "description": "This tool provides the latest developments in financial technology, helping you stay informed about tools that can help you track and optimize your financial insights.",
+    "phase2_query_coverage": 2
+  },
+  "financial_news_feed": {
+    "description": "Stay updated with recent news affecting the stock market that might influence your financial decisions.",
+    "phase2_query_coverage": 2
+  },
+  "performance_comparator_3": {
+    "description": "Analyze how your portfolio's performance compares to the S&P 500 and identify underperforming assets in your holdings.",
+    "phase2_query_coverage": 0
+  },
+  "fee_calculator": {
+    "description": "Help me understand the fees and costs associated with my portfolio investments for better financial planning.",
+    "phase2_query_coverage": 1
+  },
+  "diversification_strategy_tool": {
+    "description": "Suggest diversification strategies for enhancing portfolio stability and balancing between growth and stability in financial planning.",
+    "phase2_query_coverage": 1
+  },
+  "diversification_strategist_1": {
+    "description": "Suggest diversification strategies for enhancing portfolio stability and ensuring your portfolio is adequately diversified to hedge against market volatility.",
+    "phase2_query_coverage": 0
+  },
+  "economic_climate": {
+    "description": "Identify potential risks in your portfolio given the current economic climate and upcoming economic events impacting investments.",
+    "phase2_query_coverage": 1
+  },
+  "diversification_strategist_2": {
+    "description": "Suggests diversification strategies for enhancing portfolio stability and mitigating risks associated with market volatility.",
+    "phase2_query_coverage": 0
+  },
+  "ai_financial_planner": {
+    "description": "Explore the benefits of using AI-driven tools for financial planning to enhance your overall investment strategy.",
+    "phase2_query_coverage": 1
+  },
+  "investment_optimization_1": {
+    "description": "Suggest strategies to optimize your financial investments for long-term growth while considering tax implications of your current investment strategy.",
+    "phase2_query_coverage": 0
+  },
+  "diversification_tool_2": {
+    "description": "Suggests diversification strategies for enhancing portfolio stability and balancing between growth and stability in financial planning.",
+    "phase2_query_coverage": 0
+  },
+  "management_toolkit": {
+    "description": "Explore the benefits of using portfolio management software tools to assist in portfolio management and enhance your investment strategy.",
+    "phase2_query_coverage": 1
+  },
+  "portfolio_management_tools_1": {
+    "description": "Explore the benefits of using portfolio management software tools to enhance your investment strategies and overall portfolio performance.",
+    "phase2_query_coverage": 0
+  },
+  "portfolio_management_tools_2": {
+    "description": "This tool outlines the benefits of using portfolio management software tools to enhance your investment strategies.",
+    "phase2_query_coverage": 0
+  },
+  "long_term_growth": {
+    "description": "Suggests strategies to optimize your financial investments for long-term growth and identifies sectors to consider investing in for long-term growth.",
+    "phase2_query_coverage": 1
+  },
+  "portfolio_alignment_checker": {
+    "description": "Evaluates how my portfolio aligns with my long-term financial goals and provides strategies to optimize my financial investments for long-term growth.",
+    "phase2_query_coverage": 1
+  },
+  "investment_strategy_optimizer": {
+    "description": "Suggest strategies for balancing returns and risks in investments, while also providing insights into tax implications of your current investment strategy.",
+    "phase2_query_coverage": 1
+  },
+  "interest_rate_impact_analyzer_1": {
+    "description": "Analyze the impact of interest rate changes on your investments, including fixed-income assets and overall portfolio risk.",
+    "phase2_query_coverage": 0
+  },
+  "investment_insights_3": {
+    "description": "Provides insights into recent news that might influence your investments in the healthcare industry and other sectors.",
+    "phase2_query_coverage": 0
+  },
+  "long_term_growth_strategist": {
+    "description": "Suggest strategies to optimize your portfolio for long-term growth and identify sectors to consider investing in for long-term growth.",
+    "phase2_query_coverage": 1
+  },
+  "healthcare_investment_insights": {
+    "description": "Offers insights into recent news that might influence investments in the healthcare industry and other sectors.",
+    "phase2_query_coverage": 1
+  },
+  "news_impact_assessor": {
+    "description": "Analyze the recent news impacts on the stocks within your portfolio and how they might influence your investments in the healthcare industry.",
+    "phase2_query_coverage": 1
+  },
+  "emerging_opportunities": {
+    "description": "Discover emerging opportunities in renewable energy markets and evaluate whether there are emerging markets worth considering for your portfolio.",
+    "phase2_query_coverage": 1
+  },
+  "trend_tracker": {
+    "description": "A tool for tracking daily market trends and understanding the recent market trends affecting your investments.",
+    "phase2_query_coverage": 1
+  },
+  "investment_growth_projection": {
+    "description": "Project the growth of your investments over the next decade and identify upcoming financial opportunities for your investment strategy.",
+    "phase2_query_coverage": 1
+  },
+  "financial_trends_analyzer": {
+    "description": "Analyze the anticipated market changes that might affect your portfolio and provide insights into market trends affecting technology stocks.",
+    "phase2_query_coverage": 1
+  },
+  "growth_projection": {
+    "description": "Projects the growth of your investments over the next decade based on current market conditions.",
+    "phase2_query_coverage": 1
+  },
+  "economic_event_monitor_1": {
+    "description": "Stay updated on upcoming economic events impacting investments and analyze the impact of macroeconomic events on your investments.",
+    "phase2_query_coverage": 0
+  },
+  "performance_comparator_4": {
+    "description": "This tool compares my portfolio's returns to relevant benchmarks and evaluates how my portfolio's performance has compared to the S&P 500.",
+    "phase2_query_coverage": 0
+  },
+  "risk_management_strategist": {
+    "description": "Suggests the best approach to manage risk in your investments and offers strategies for balancing returns and risks.",
+    "phase2_query_coverage": 1
+  },
+  "market_volatility": {
+    "description": "Analyze how market volatility impacts portfolio returns and offers insights into the diversification of your financial holdings.",
+    "phase2_query_coverage": 1
+  },
+  "renewable_opportunities": {
+    "description": "Identify 'emerging opportunities in renewable energy markets' that could enhance your investment strategy.",
+    "phase2_query_coverage": 1
+  },
+  "volatility_impact_assessor": {
+    "description": "Evaluates how market volatility impacts portfolio returns, allowing you to adjust your investment strategies accordingly.",
+    "phase2_query_coverage": 1
+  },
+  "portfolio_management_app": {
+    "description": "Recommend tools to assist in portfolio management, providing insights into fees and costs associated with your portfolio investments.",
+    "phase2_query_coverage": 1
+  },
+  "renewable_opportunities_1": {
+    "description": "Discover emerging opportunities in renewable energy markets and how they can be integrated into your investment strategy.",
+    "phase2_query_coverage": 0
+  },
+  "performance_comparison": {
+    "description": "Compare your portfolio's returns to relevant benchmarks, including a detailed report on how your portfolio has performed compared to the S&P 500.",
+    "phase2_query_coverage": 1
+  },
+  "volatility_insights": {
+    "description": "Provides insights on how market volatility impacts portfolio returns and offers strategies to mitigate risks associated with it.",
+    "phase2_query_coverage": 1
+  },
+  "risk_assessor_4": {
+    "description": "Analyze the risk level of your current investment portfolio and suggest the best approach to manage risk in your investments.",
+    "phase2_query_coverage": 0
+  },
+  "cost_analyzer": {
+    "description": "Understand the fees and costs associated with your portfolio investments to make informed financial decisions.",
+    "phase2_query_coverage": 1
+  },
+  "market_insights_4": {
+    "description": "Provides insights on anticipated market changes that might affect your portfolio and current trends in financial portfolio management.",
+    "phase2_query_coverage": 0
+  },
+  "market_volatility_impact_analyzer": {
+    "description": "Analyze how market volatility impacts portfolio returns, giving you a clearer picture of your investment's performance in fluctuating markets.",
+    "phase2_query_coverage": 1
+  },
+  "cost_fee_analyzer": {
+    "description": "Help you understand the fees and costs associated with your portfolio investments, ensuring you are aware of all expenses impacting your overall returns.",
+    "phase2_query_coverage": 1
+  },
+  "interest_rate_impact_2": {
+    "description": "Analyze what impact do interest rate changes have on investments and how these changes might affect your portfolio.",
+    "phase2_query_coverage": 0
+  },
+  "news_impact_assessor_1": {
+    "description": "Analyze recent news that might influence your financial decisions and assess the impacts on the stocks within your portfolio.",
+    "phase2_query_coverage": 0
+  },
+  "risk_manager": {
+    "description": "Assesses the best approach to manage risk in your investments and provides recommendations for diversifying your portfolio effectively.",
+    "phase2_query_coverage": 1
+  },
+  "market_insights_5": {
+    "description": "Provides insights into anticipated market changes that might affect your portfolio, the latest financial trends affecting portfolio management, and emerging markets worth considering for your portfolio.",
+    "phase2_query_coverage": 0
+  },
+  "risk_management": {
+    "description": "This tool outlines the best approach to manage risk in your investments, balancing risk and return effectively in your financial planning.",
+    "phase2_query_coverage": 1
+  },
+  "risk_management_1": {
+    "description": "This tool suggests the best approach to manage risk in your investments and provides strategies for balancing returns and risks in your financial investments.",
+    "phase2_query_coverage": 0
+  },
+  "news_monitor_1": {
+    "description": "Tracks recent news that might influence my financial decisions and provides insights on upcoming financial opportunities for my investment strategy.",
+    "phase2_query_coverage": 0
+  },
+  "news_monitor_2": {
+    "description": "Tracks recent news that might influence my financial decisions and provides insights into the latest financial trends affecting portfolio management.",
+    "phase2_query_coverage": 0
+  },
+  "market_sentiment_analyzer": {
+    "description": "Analyze the current sentiment in the financial market and how recent news affects the stock market.",
+    "phase2_query_coverage": 1
+  },
+  "sentiment_analysis": {
+    "description": "Assess the current sentiment in the financial market to better understand how it may influence your investment decisions and portfolio performance.",
+    "phase2_query_coverage": 1
+  }
+}

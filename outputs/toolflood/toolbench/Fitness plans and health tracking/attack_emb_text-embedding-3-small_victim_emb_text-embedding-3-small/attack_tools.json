@@ -1,0 +1,578 @@
+{
+  "bmr_tmr_calculator": {
+    "description": "Calculate your 'Basal Metabolic Rate (BMR)' and 'Total Metabolic Rate (TMR) based on my activity level'.",
+    "phase2_query_coverage": 2
+  },
+  "bmr_tmr_calculator_1": {
+    "description": "A tool to determine your Basal Metabolic Rate (BMR) and Total Metabolic Rate (TMR) for a sedentary lifestyle, helping you understand how your TMR changes with increased physical activity.",
+    "phase2_query_coverage": 0
+  },
+  "metabolic_rate_calculator": {
+    "description": "Calculate your Total Metabolic Rate (TMR) and Basal Metabolic Rate (BMR) based on your activity level.",
+    "phase2_query_coverage": 10
+  },
+  "metabolic_rate_calculator_1": {
+    "description": "Calculate your Basal Metabolic Rate (BMR) and Total Metabolic Rate (TMR) based on your body type and activity level.",
+    "phase2_query_coverage": 0
+  },
+  "bmr_tmr_calculator_2": {
+    "description": "Calculate your Basal Metabolic Rate (BMR) and Total Metabolic Rate (TMR) based on your activity level.",
+    "phase2_query_coverage": 0
+  },
+  "personalized_fitness": {
+    "description": "Provide a personalized fitness plan tailored to someone aiming to build muscle or achieve weight loss goals.",
+    "phase2_query_coverage": 9
+  },
+  "weight_loss_fitness_plan": {
+    "description": "Provide a fitness plan tailored to someone aiming to build muscle while also offering a personalized fitness and nutrition plan aimed at weight loss.",
+    "phase2_query_coverage": 9
+  },
+  "fitness_plan_generator": {
+    "description": "Can you help me design a customized workout plan for muscle gain and recommend a personalized workout plan for beginners?",
+    "phase2_query_coverage": 1
+  },
+  "muscle_building_plan": {
+    "description": "Create a customized fitness plan tailored for muscle building and weight loss goals.",
+    "phase2_query_coverage": 9
+  },
+  "exercise_suggester": {
+    "description": "Provide effective exercises for improving cardiovascular health and suggest a customized workout plan tailored to weight loss.",
+    "phase2_query_coverage": 1
+  },
+  "fitness_plan": {
+    "description": "Can I get a customized fitness plan tailored to my goals and provides a fitness plan tailored to someone aiming to build muscle.",
+    "phase2_query_coverage": 8
+  },
+  "caloric_intake_calculator": {
+    "description": "What is a suitable daily caloric intake for maintaining my current weight and what is my recommended daily caloric intake based on my activity level?",
+    "phase2_query_coverage": 2
+  },
+  "caloric_needs_calculator": {
+    "description": "Calculate your daily caloric needs based on your activity level, helping you determine the recommended daily caloric intake for maintaining your current weight.",
+    "phase2_query_coverage": 2
+  },
+  "daily_caloric_intake_estimator": {
+    "description": "Determine a suitable daily caloric intake for maintaining your current weight based on your activity level.",
+    "phase2_query_coverage": 8
+  },
+  "caloric_needs": {
+    "description": "Determine your daily caloric needs for maintaining your current weight and receive recommendations for adjusting caloric intake based on activity level.",
+    "phase2_query_coverage": 8
+  },
+  "caloric_intake_advisor": {
+    "description": "Determines a suitable daily caloric intake for maintaining your current weight based on your activity level.",
+    "phase2_query_coverage": 2
+  },
+  "calories_burned_calculator": {
+    "description": "Calculate the calories burned during a running session and specifically during a 30-minute running session.",
+    "phase2_query_coverage": 1
+  },
+  "calorie_burn_calculator": {
+    "description": "Calculate the number of calories burned during a 30-minute jog or cycling session, and during a running session at a moderate pace.",
+    "phase2_query_coverage": 7
+  },
+  "calories_burned_calculator_1": {
+    "description": "Calculate how many calories I burn during a 30-minute run at a moderate pace and how many calories would I burn with 30 minutes of cycling.",
+    "phase2_query_coverage": 0
+  },
+  "exercise_suggestions": {
+    "description": "Suggest exercises to incorporate into my weekly fitness routine and provide effective exercises for improving cardiovascular health.",
+    "phase2_query_coverage": 2
+  },
+  "caloric_burn_estimator": {
+    "description": "Calculate how many calories are burned during a 30-minute cycling session or a 30-minute run at a moderate pace.",
+    "phase2_query_coverage": 7
+  },
+  "exercise_suggester_1": {
+    "description": "Suggest effective exercises to improve cardiovascular health and incorporate into your weekly fitness routine.",
+    "phase2_query_coverage": 0
+  },
+  "exercise_calorie_burner": {
+    "description": "Calculate how many calories you burn during a 30-minute run at a moderate pace or during a 30-minute cycling session.",
+    "phase2_query_coverage": 7
+  },
+  "exercise_suggestions_1": {
+    "description": "Suggests exercises to incorporate into your weekly fitness routine, including effective exercises for improving cardiovascular health.",
+    "phase2_query_coverage": 0
+  },
+  "exercise_suggester_2": {
+    "description": "Suggest effective exercises to incorporate into your weekly fitness routine, including those for improving cardiovascular health.",
+    "phase2_query_coverage": 0
+  },
+  "fitness_progress_tracker": {
+    "description": "How do I track my fitness progress effectively and how can I track my daily caloric intake to achieve weight loss goals?",
+    "phase2_query_coverage": 3
+  },
+  "macronutrient_composition": {
+    "description": "Find the macronutrient composition for a balanced diet, including recommended ratios for maintaining a healthy diet.",
+    "phase2_query_coverage": 6
+  },
+  "macronutrient_analyzer": {
+    "description": "Find the macronutrient composition for a balanced diet and get the recommended macronutrient ratios for maintaining a healthy diet.",
+    "phase2_query_coverage": 3
+  },
+  "balanced_diet_advisor": {
+    "description": "Find the macronutrient composition for a balanced diet and get recommendations on which foods to include in your diet to ensure proper nutrition.",
+    "phase2_query_coverage": 6
+  },
+  "macronutrient_breakdown": {
+    "description": "Find the macronutrient composition for a balanced diet and provide the breakdown of macronutrients to aim for in meals.",
+    "phase2_query_coverage": 6
+  },
+  "custom_workout_creator": {
+    "description": "Create a custom fitness routine for a beginner and suggest a customized workout plan tailored to weight loss.",
+    "phase2_query_coverage": 6
+  },
+  "food_intake_tracker": {
+    "description": "A tool to track your food intake and nutrition effectively, ensuring a balanced diet and monitoring your daily caloric consumption.",
+    "phase2_query_coverage": 2
+  },
+  "food_nutrition_details": {
+    "description": "Provide the nutritional details of a specific food item and help determine the nutritional values of common foods.",
+    "phase2_query_coverage": 6
+  },
+  "macronutrient_breakdown_1": {
+    "description": "Determine the breakdown of macronutrients in a balanced diet, including macronutrient requirements for maintaining muscle mass and recommended macronutrient ratios for a healthy diet.",
+    "phase2_query_coverage": 0
+  },
+  "fitness_plan_creator": {
+    "description": "Can you help me design a workout plan tailored to my fitness objectives and provide a personalized workout plan tailored to my fitness goals?",
+    "phase2_query_coverage": 5
+  },
+  "beginner_workout_plan": {
+    "description": "Recommend a personalized workout plan for beginners.",
+    "phase2_query_coverage": 5
+  },
+  "caloric_tracker": {
+    "description": "Help me track my daily caloric intake effectively and track my daily caloric intake to achieve weight loss goals.",
+    "phase2_query_coverage": 5
+  },
+  "nutritional_info": {
+    "description": "Can you provide detailed nutritional information for a specific food item and what nutritional information is available for common foods.",
+    "phase2_query_coverage": 5
+  },
+  "health_progress_tracker": {
+    "description": "Suggest a health tracking approach to monitor my progress effectively and help me track my daily caloric intake.",
+    "phase2_query_coverage": 1
+  },
+  "health_tracker": {
+    "description": "An effective health tracking approach to monitor your progress, including tracking daily caloric intake to achieve weight loss goals.",
+    "phase2_query_coverage": 5
+  },
+  "beginner_exercise_routine": {
+    "description": "Can you suggest an exercise routine for a beginner and can you help me create a customized fitness plan to achieve weight loss goals?",
+    "phase2_query_coverage": 5
+  },
+  "exercise_suggester_3": {
+    "description": "Suggest exercises to incorporate into your weekly fitness routine, including those for strengthening core muscles and targeting core strength and stability.",
+    "phase2_query_coverage": 0
+  },
+  "core_strength_exercises": {
+    "description": "Suggest exercises for strengthening core muscles and improving core strength and stability.",
+    "phase2_query_coverage": 4
+  },
+  "core_strength_exercises_1": {
+    "description": "Suggest exercises for strengthening core muscles and effective exercises for building core strength.",
+    "phase2_query_coverage": 0
+  },
+  "core_strength_exercises_2": {
+    "description": "Suggest exercises for strengthening core muscles and targeting core strength and stability.",
+    "phase2_query_coverage": 0
+  },
+  "core_strength_exercises_3": {
+    "description": "Suggest exercises for strengthening core muscles and improving overall stability.",
+    "phase2_query_coverage": 0
+  },
+  "food_nutrition_info": {
+    "description": "Provide information on the caloric content of common food items and nutritional details of a specific food item.",
+    "phase2_query_coverage": 4
+  },
+  "nutritional_details": {
+    "description": "Provide nutritional details of a specific food item and information on the caloric content of common food items.",
+    "phase2_query_coverage": 4
+  },
+  "tdee_estimator": {
+    "description": "Estimate your Total Metabolic Rate (TMR) for a sedentary lifestyle and how it changes with increased physical activity.",
+    "phase2_query_coverage": 4
+  },
+  "nutrition_details_finder": {
+    "description": "Can you provide nutrition details for a common meal item? This tool helps you determine the nutritional values of common foods.",
+    "phase2_query_coverage": 4
+  },
+  "tmr_tracker": {
+    "description": "Monitor how your Total Metabolic Rate (TMR) changes with increased physical activity and determine the total metabolic rate for a sedentary lifestyle.",
+    "phase2_query_coverage": 4
+  },
+  "tmr_calculator": {
+    "description": "Determine the Total Metabolic Rate (TMR) for a sedentary lifestyle and other activity levels.",
+    "phase2_query_coverage": 4
+  },
+  "nutrition_analyzer": {
+    "description": "Determine the nutritional values of common foods and provide nutrition details for a common meal item.",
+    "phase2_query_coverage": 4
+  },
+  "workout_routine_builder": {
+    "description": "Create a custom fitness routine for beginners, including suggestions for a good workout routine for weight loss.",
+    "phase2_query_coverage": 4
+  },
+  "bmr_calculator": {
+    "description": "Calculate the Basal Metabolic Rate (BMR) value for individuals based on age, gender, and activity level.",
+    "phase2_query_coverage": 1
+  },
+  "beginner_workout_suggester": {
+    "description": "Can you recommend a personalized workout plan for beginners and suggest an exercise routine for a beginner?",
+    "phase2_query_coverage": 3
+  },
+  "fitness_progress_tracker_1": {
+    "description": "Suggest a health tracking approach to monitor your progress effectively, ensuring you stay on track with your fitness goals.",
+    "phase2_query_coverage": 0
+  },
+  "progress_tracker": {
+    "description": "Suggest a health tracking approach to monitor your progress effectively for a weight loss goal.",
+    "phase2_query_coverage": 3
+  },
+  "food_intake_tracker_1": {
+    "description": "How can I track my food intake to ensure a balanced diet and determine the nutritional values of common foods?",
+    "phase2_query_coverage": 0
+  },
+  "meal_plan_suggester": {
+    "description": "Suggest a weekly meal plan for weight loss and recommend a diet plan for weight loss.",
+    "phase2_query_coverage": 3
+  },
+  "weight_loss_diet_planner": {
+    "description": "Suggest a weekly meal plan for weight loss and recommend a diet plan for weight loss.",
+    "phase2_query_coverage": 1
+  },
+  "muscle_mass_macros": {
+    "description": "Identify the macronutrient requirements for maintaining muscle mass, ensuring a balanced diet.",
+    "phase2_query_coverage": 3
+  },
+  "health_tracking_tool": {
+    "description": "Suggest a health tracking approach to monitor your progress effectively and tips for monitoring and improving overall physical health and fitness.",
+    "phase2_query_coverage": 3
+  },
+  "macronutrient_analyzer_1": {
+    "description": "Analyze the macronutrient requirements for maintaining muscle mass and a balanced diet, including essential nutrients for muscle building and recovery.",
+    "phase2_query_coverage": 0
+  },
+  "fitness_plan_advisor": {
+    "description": "Get effective fitness plans for building muscle while losing fat and adjustments to your fitness plan if you aim to run a marathon.",
+    "phase2_query_coverage": 3
+  },
+  "macronutrient_breakdown_tool": {
+    "description": "Provide a breakdown of macronutrients you should aim for in your meals, essential for muscle building and recovery.",
+    "phase2_query_coverage": 2
+  },
+  "macronutrient_guide": {
+    "description": "A guide that outlines the macronutrient requirements for maintaining muscle mass and the essential nutrients for muscle building and recovery.",
+    "phase2_query_coverage": 3
+  },
+  "marathon_training_plan": {
+    "description": "Provide a good fitness plan for someone aiming to run a marathon.",
+    "phase2_query_coverage": 2
+  },
+  "diet_plan_advisor": {
+    "description": "Recommend a diet plan for weight loss and suggest a balanced diet plan for maintaining weight.",
+    "phase2_query_coverage": 2
+  },
+  "workout_plan_designer": {
+    "description": "Can you help me design a workout plan tailored to my fitness objectives, including muscle gain and fat loss?",
+    "phase2_query_coverage": 2
+  },
+  "marathon_training_adjustments": {
+    "description": "Suggest adjustments to your fitness plan if you aim to run a marathon.",
+    "phase2_query_coverage": 2
+  },
+  "marathon_training_adjuster": {
+    "description": "Get recommendations on what adjustments to make to your fitness plan if you aim to run a marathon.",
+    "phase2_query_coverage": 2
+  },
+  "marathon_training_adjustments_1": {
+    "description": "Learn what 'adjustments should I make to my fitness plan if I aim to run a marathon' to optimize your training.",
+    "phase2_query_coverage": 0
+  },
+  "balanced_diet_suggester": {
+    "description": "Suggest a balanced diet plan for maintaining weight and provide customized meal plans for a vegan seeking protein-rich options.",
+    "phase2_query_coverage": 2
+  },
+  "health_monitoring_tips": {
+    "description": "Offers tips for monitoring and improving overall physical health and fitness, including tracking fitness progress effectively.",
+    "phase2_query_coverage": 1
+  },
+  "diet_plan_creator": {
+    "description": "Suggest a balanced diet plan for maintaining weight and create customized meal plans for a vegan seeking protein-rich options.",
+    "phase2_query_coverage": 1
+  },
+  "nutritional_details_lookup": {
+    "description": "Provides information on the caloric content of common food items and the nutritional details of a specific food item.",
+    "phase2_query_coverage": 2
+  },
+  "caloric_intake_adjuster": {
+    "description": "Learn how to adjust your caloric intake based on increased physical activity and determine the recommended daily caloric intake for a 30-year-old male with moderate activity levels.",
+    "phase2_query_coverage": 2
+  },
+  "weekly_meal_plan_generator": {
+    "description": "Suggest a weekly meal plan for weight loss and provide customized meal plans for a vegan seeking protein-rich options.",
+    "phase2_query_coverage": 2
+  },
+  "bmr_tmr_calculator_3": {
+    "description": "Calculate your Basal Metabolic Rate (BMR) and Total Metabolic Rate (TMR) for a sedentary lifestyle.",
+    "phase2_query_coverage": 0
+  },
+  "exercise_calorie_calculator": {
+    "description": "Calculate how many calories are burned during a 30-minute cycling session or a 1-hour cycling session.",
+    "phase2_query_coverage": 2
+  },
+  "calories_burned_calculator_2": {
+    "description": "Calculate how many calories are burned during a 30-minute cycling session or a 1-hour cycling session.",
+    "phase2_query_coverage": 0
+  },
+  "macronutrient_distribution_tool": {
+    "description": "Explain the macronutrient distribution for a balanced diet and provide the breakdown of macronutrients you should aim for in your meals.",
+    "phase2_query_coverage": 2
+  },
+  "meal_planner": {
+    "description": "Suggest a weekly meal plan for weight loss, including customized options for vegans seeking protein-rich meals.",
+    "phase2_query_coverage": 2
+  },
+  "exercise_suggestions_2": {
+    "description": "Suggest exercises to burn a specific number of calories and create effective fitness plans for building muscle while losing fat.",
+    "phase2_query_coverage": 0
+  },
+  "caloric_intake_adjuster_1": {
+    "description": "Determine how to adjust your caloric intake based on increased physical activity and explain how your Total Metabolic Rate (TMR) changes.",
+    "phase2_query_coverage": 0
+  },
+  "caloric_intake_calculator_1": {
+    "description": "Calculate the recommended daily caloric intake for a 30-year-old male with moderate activity levels and determine your Basal Metabolic Rate (BMR) accurately.",
+    "phase2_query_coverage": 0
+  },
+  "meal_plan_generator": {
+    "description": "Generate a weekly meal plan for weight loss or suggest customized meal plans for a vegan seeking protein-rich options.",
+    "phase2_query_coverage": 2
+  },
+  "macronutrient_breakdown_tool_1": {
+    "description": "Get the breakdown of macronutrients you should aim for in your meals, including requirements for maintaining muscle mass.",
+    "phase2_query_coverage": 0
+  },
+  "health_monitoring_tips_1": {
+    "description": "Provides tips for monitoring and improving overall physical health and fitness, including how to adjust your caloric intake based on increased physical activity.",
+    "phase2_query_coverage": 0
+  },
+  "fitness_tips_provider": {
+    "description": "Get tips for monitoring and improving overall physical health and fitness, including effective fitness plans for building muscle while losing fat.",
+    "phase2_query_coverage": 2
+  },
+  "food_intake_tracker_2": {
+    "description": "Track your food intake to ensure a balanced diet and monitor your health progress over the past month.",
+    "phase2_query_coverage": 0
+  },
+  "health_progress_tracker_1": {
+    "description": "Track your health progress over the past month, including food intake to ensure a balanced diet.",
+    "phase2_query_coverage": 0
+  },
+  "calories_burned_calculator_3": {
+    "description": "Calculate the calories burned during a running session or suggest exercises to burn a specific number of calories.",
+    "phase2_query_coverage": 0
+  },
+  "bmr_calculator_1": {
+    "description": "Helps you calculate your basal metabolic rate and understand the recommended daily caloric intake for a 30-year-old male with moderate activity levels.",
+    "phase2_query_coverage": 0
+  },
+  "calories_burned_calculator_4": {
+    "description": "Calculate the calories burned during a running session and adjust your caloric intake based on increased physical activity.",
+    "phase2_query_coverage": 0
+  },
+  "caloric_intake_advisor_1": {
+    "description": "This tool provides the recommended daily caloric intake for a 30-year-old male with moderate activity levels and helps users determine their Basal Metabolic Rate (BMR) accurately.",
+    "phase2_query_coverage": 0
+  },
+  "caloric_needs_calculator_1": {
+    "description": "This calculator determines your daily caloric need based on your current activity level, calculates your Basal Metabolic Rate (BMR), and provides the recommended daily caloric intake for a 30-year-old male with moderate activity levels.",
+    "phase2_query_coverage": 0
+  },
+  "calories_burned_calculator_5": {
+    "description": "Calculate the calories burned during various activities, such as a 1-hour cycling session or a 30-minute running session.",
+    "phase2_query_coverage": 0
+  },
+  "health_progress_tracker_2": {
+    "description": "Track your health progress over the past month and adjust your caloric intake based on increased physical activity.",
+    "phase2_query_coverage": 0
+  },
+  "health_monitoring_tips_2": {
+    "description": "What are tips for monitoring and improving overall physical health and fitness?",
+    "phase2_query_coverage": 0
+  },
+  "macronutrient_tracker": {
+    "description": "Track your macronutrient intake for a balanced diet.",
+    "phase2_query_coverage": 1
+  },
+  "caloric_deficit_calculator": {
+    "description": "Calculates the caloric deficit needed to lose 5 kilograms in two months.",
+    "phase2_query_coverage": 1
+  },
+  "caloric_deficit_calculator_1": {
+    "description": "Calculate the caloric deficit needed to lose weight, such as losing 5 kilograms in two months.",
+    "phase2_query_coverage": 0
+  },
+  "caloric_deficit_calculator_2": {
+    "description": "Calculate the caloric deficit needed to lose weight, such as 5 kilograms in two months.",
+    "phase2_query_coverage": 0
+  },
+  "caloric_deficit_calculator_3": {
+    "description": "Calculate the caloric deficit needed to lose a specific amount of weight, such as 5 kilograms in two months.",
+    "phase2_query_coverage": 0
+  },
+  "exercise_suggester_4": {
+    "description": "Suggest exercises to burn a specific number of calories and incorporate into your fitness routine.",
+    "phase2_query_coverage": 0
+  },
+  "bmr_factors": {
+    "description": "What factors influence the Basal Metabolic Rate (BMR) of individuals and how does it affect my diet?",
+    "phase2_query_coverage": 1
+  },
+  "caloric_deficit_calculator_4": {
+    "description": "Calculate the caloric deficit needed to lose 5 kilograms in two months based on your daily caloric intake.",
+    "phase2_query_coverage": 0
+  },
+  "calories_burned_calculator_6": {
+    "description": "Determine the number of calories burned during a 30-minute jog and suggest exercises to burn a specific number of calories.",
+    "phase2_query_coverage": 0
+  },
+  "nutrients_for_muscle_building": {
+    "description": "Identify essential nutrients for muscle building and recovery.",
+    "phase2_query_coverage": 1
+  },
+  "exercise_suggester_5": {
+    "description": "Suggest exercises to burn a specific number of calories, tailored to your fitness goals and preferences.",
+    "phase2_query_coverage": 0
+  },
+  "activity_impact": {
+    "description": "How does my Total Metabolic Rate (TMR) change with increased physical activity and what factors influence the Basal Metabolic Rate (BMR) of individuals?",
+    "phase2_query_coverage": 1
+  },
+  "macronutrient_tracker_1": {
+    "description": "Track your macronutrient intake for a balanced diet, providing a breakdown of macronutrients you should aim for in your meals.",
+    "phase2_query_coverage": 0
+  },
+  "personalized_plan_generator": {
+    "description": "Provide a personalized fitness and nutrition plan aimed at weight loss and assist in designing a customized workout plan for muscle gain.",
+    "phase2_query_coverage": 1
+  },
+  "total_metabolic_rate": {
+    "description": "Determine the total metabolic rate for a sedentary lifestyle and calculate your BMR and TMR.",
+    "phase2_query_coverage": 1
+  },
+  "bmr_factors_explorer": {
+    "description": "Explore the factors that influence the Basal Metabolic Rate (BMR) of individuals.",
+    "phase2_query_coverage": 1
+  },
+  "bmr_factors_explorer_1": {
+    "description": "Explore what factors influence the Basal Metabolic Rate (BMR) of individuals.",
+    "phase2_query_coverage": 0
+  },
+  "nutrition_guide": {
+    "description": "Identify which foods to include in your diet to ensure proper nutrition.",
+    "phase2_query_coverage": 1
+  },
+  "diet_plan_suggester": {
+    "description": "Suggest a balanced diet plan for maintaining weight, including which foods to include in your diet to ensure proper nutrition.",
+    "phase2_query_coverage": 1
+  },
+  "protein_source_finder": {
+    "description": "Find food items that can provide 30 grams of protein per serving, helping to meet dietary protein needs.",
+    "phase2_query_coverage": 1
+  },
+  "protein_sources_finder": {
+    "description": "Identify food items that can provide 30 grams of protein per serving to support dietary needs.",
+    "phase2_query_coverage": 1
+  },
+  "muscle_building_nutrition": {
+    "description": "Identify what nutrients are essential for muscle building and recovery, aiding in your fitness and nutrition plan.",
+    "phase2_query_coverage": 1
+  },
+  "protein_source_finder_1": {
+    "description": "Find food items that can provide 30 grams of protein per serving to support your dietary needs.",
+    "phase2_query_coverage": 0
+  },
+  "protein_source_finder_2": {
+    "description": "Find food items that can provide 30 grams of protein per serving to help meet your dietary needs.",
+    "phase2_query_coverage": 0
+  },
+  "protein_sources_finder_1": {
+    "description": "Identify food items that can provide 30 grams of protein per serving, supporting dietary needs.",
+    "phase2_query_coverage": 0
+  },
+  "fitness_plan_generator_1": {
+    "description": "Provide a detailed fitness plan tailored to weight loss and suggest a good workout routine for weight loss.",
+    "phase2_query_coverage": 0
+  },
+  "health_progress_tracker_3": {
+    "description": "A tool that allows you to 'track my health progress over the past month' and monitor improvements in fitness.",
+    "phase2_query_coverage": 0
+  },
+  "health_progress_tracker_4": {
+    "description": "Track your health progress over the past month and suggest a health tracking approach to monitor your progress effectively.",
+    "phase2_query_coverage": 0
+  },
+  "calories_burned_estimator": {
+    "description": "Estimate how many calories would be burned during a 30-minute cycling session or a 1-hour cycling session.",
+    "phase2_query_coverage": 1
+  },
+  "calories_burned_calculator_7": {
+    "description": "Calculate how many calories are burned during a 1-hour cycling session and other activities.",
+    "phase2_query_coverage": 0
+  },
+  "nutrition_advisor": {
+    "description": "Which foods should I include in my diet to ensure proper nutrition and what are the macronutrient ratios for muscle building.",
+    "phase2_query_coverage": 1
+  },
+  "bmr_calculator_2": {
+    "description": "A tool to calculate your Basal Metabolic Rate (BMR) accurately, providing assistance with queries like 'I need to calculate my BMR; could you assist?' and 'How can I calculate my Basal Metabolic Rate (BMR)?'.",
+    "phase2_query_coverage": 0
+  },
+  "fitness_routine_generator": {
+    "description": "Create a custom fitness routine for a beginner, including a good workout routine for weight loss.",
+    "phase2_query_coverage": 1
+  },
+  "workout_planner_1": {
+    "description": "A personalized workout plan tailored to your fitness goals, including suggestions for a good workout routine for weight loss.",
+    "phase2_query_coverage": 0
+  },
+  "nutrition_advisor_1": {
+    "description": "Explain the macronutrient distribution for a balanced diet and which foods should I include in my diet to ensure proper nutrition.",
+    "phase2_query_coverage": 0
+  },
+  "diet_plan_creator_1": {
+    "description": "Can you recommend a diet plan for weight loss and suggest an exercise routine for a beginner?",
+    "phase2_query_coverage": 0
+  },
+  "bmr_calculator_3": {
+    "description": "This tool assists in determining your Basal Metabolic Rate (BMR) accurately, addressing queries such as 'How can I calculate my Basal Metabolic Rate (BMR) accurately?' and 'I need to calculate my BMR; could you assist?'",
+    "phase2_query_coverage": 0
+  },
+  "nutrition_advisor_2": {
+    "description": "Recommend foods to include in your diet to ensure proper nutrition and help you achieve a balanced diet.",
+    "phase2_query_coverage": 0
+  },
+  "workout_routine_generator": {
+    "description": "Generate a good workout routine for weight loss and create a custom fitness routine for a beginner.",
+    "phase2_query_coverage": 1
+  },
+  "weight_loss_diet_planner_1": {
+    "description": "Can you recommend a diet plan for weight loss? This tool creates a personalized diet plan to help you achieve your weight loss goals.",
+    "phase2_query_coverage": 0
+  },
+  "bmr_calculator_4": {
+    "description": "Calculate your BMR; could you assist? This tool helps you understand your basal metabolic rate for better nutrition planning.",
+    "phase2_query_coverage": 0
+  },
+  "bmr_calculator_5": {
+    "description": "A tool to calculate your Basal Metabolic Rate (BMR) based on personal details, assisting with queries like 'I need to calculate my BMR; could you assist?' and 'Can you provide the Basal Metabolic Rate (BMR) value for a 30-year-old female?'",
+    "phase2_query_coverage": 0
+  },
+  "bmr_calculator_6": {
+    "description": "A straightforward tool to assist users in 'calculating my BMR' and understanding their caloric needs for weight management.",
+    "phase2_query_coverage": 0
+  }
+}

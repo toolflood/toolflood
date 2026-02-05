@@ -1,0 +1,73 @@
+paths:
+  data_dir: "./data"
+
+# --- ToolFlood ---
+toolflood:
+  num_tools_per_query: 5
+  query_sample_size: 20
+  num_tools_per_sample: 10
+  max_generation_iterations: 20
+  max_embedding_distance: 0.3
+  total_tool_budget: null
+  max_concurrent_tasks: 20
+  attacker_tools_output_path: "./output/attacker_tools.json"
+  embedding_model: "text-embedding-3-small"
+  llm_optimizer_model: "gpt-4o-mini"
+
+# --- RSI ---
+rsi_attack:
+  output_directory: "./outputs/rsi/toolbench"
+  benign_data_directory: "./data/ToolBench"  # optional; else uses experiment.benign_data_directory
+  num_tools: 200
+  batch_size: 10
+  generator_model: "gpt-4o-mini"
+  temperature: 1.0
+
+# --- PoisonRAG (params only; experiment uses experiment.*) ---
+poisonrag_attack:
+  tools_per_query: 1
+  max_trials: 3
+  text_length: 20
+  temperature: 1.0
+  relevance_max_cosine_distance: 0.35
+  generator_model: "gpt-4o-mini"
+
+# --- Query generation ---
+query_generation:
+  llm_model: "gpt-4o"
+  tasks_directory: "./data/ToolE/tasks"
+  backup: false
+  target_train: 100
+  target_test: 50
+  queries_per_batch: 10
+
+# --- Shared experiment (ToolFlood, RSI, PoisonRAG) ---
+experiment:
+  benign_data_directory: "./data/ToolE"
+  output_directory: "./outputs/toolflood/toole"
+  max_train_queries: 100
+  max_train_evaluation_queries: 10
+  max_test_queries: 50
+  victim_models: ["gpt-4o-mini", "gpt-4o", "gpt-5-mini"]
+  attack_embedding_models: ["text-embedding-3-small"]
+  victim_embedding_models: ["text-embedding-3-small"]
+  hard_reset: true
+  task_names:
+    - "Social media content creation"
+    - "Games for fun/relaxation"
+  # RSI/PoisonRAG can override benign_data_directory or output_directory per run
+  # by using their own section (rsi_attack.output_directory, etc.)
+
+# --- Agent (evaluation / interactive) ---
+agent:
+  query: null
+  verbose: true
+  top_k: 5
+  embedding_model: "text-embedding-3-small"
+
+# --- B-level ASR analysis ---
+b_level_analysis:
+  experiment_output: "./outputs/toolflood/toole"
+  output_directory: "./outputs/toolflood/toole_b_levels"
+  benign_tools_path: "./data/ToolBench/tools.json"
+  b_levels: [5, 10, 15, 20, 25, 30, 35, 40, 45, 50]

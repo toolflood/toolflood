@@ -1,0 +1,950 @@
+{
+  "keto_recipes": {
+    "description": "Find easy-to-make keto recipes for beginners and get suggestions for keto-friendly dessert options.",
+    "phase2_query_coverage": 2
+  },
+  "keto_recipes_1": {
+    "description": "Find easy-to-make keto recipes for beginners and keto-friendly dinner recipes with low-carb ingredients.",
+    "phase2_query_coverage": 0
+  },
+  "recipe_finder": {
+    "description": "Search for low-carb recipes within the keto category and provides a list of beginner-friendly keto recipes and easy-to-make keto breakfast options.",
+    "phase2_query_coverage": 3
+  },
+  "keto_recipes_2": {
+    "description": "A tool that provides easy-to-make keto recipes for beginners, including suggestions for keto-friendly dessert recipes and breakfast options.",
+    "phase2_query_coverage": 0
+  },
+  "keto_recipes_3": {
+    "description": "Find keto recipes categorized under desserts suitable for beginners and suggest a keto-friendly dinner recipe.",
+    "phase2_query_coverage": 0
+  },
+  "quinoa_info": {
+    "description": "Provides nutritional information for quinoa, including its calorie content and health benefits.",
+    "phase2_query_coverage": 3
+  },
+  "low_carb_recipes_1": {
+    "description": "Find me a low-carb recipe suitable for dinner or suggest a keto-friendly dessert recipe.",
+    "phase2_query_coverage": 0
+  },
+  "meal_plan_suggester": {
+    "description": "Suggest a meal plan for someone following a ketogenic lifestyle, including low-carb recipes suitable for dinner.",
+    "phase2_query_coverage": 6
+  },
+  "low_carb_dinner_recipes": {
+    "description": "What are some low-carb recipes for dinner and can you suggest a keto-friendly dinner recipe?",
+    "phase2_query_coverage": 6
+  },
+  "dinner_suggestions": {
+    "description": "Suggest a recipe for a healthy dinner and find some low-calorie dinner recipes.",
+    "phase2_query_coverage": 6
+  },
+  "quinoa_nutrition": {
+    "description": "Offers detailed nutritional information for quinoa, including the nutritional value of a 100-gram serving.",
+    "phase2_query_coverage": 5
+  },
+  "quinoa_info_1": {
+    "description": "Provides the nutritional value of a 100-gram serving of quinoa and the nutritional benefits of including quinoa in meals.",
+    "phase2_query_coverage": 0
+  },
+  "quinoa_info_2": {
+    "description": "Provide nutritional information for quinoa and its health benefits, including the calorie content of a serving of quinoa.",
+    "phase2_query_coverage": 0
+  },
+  "quinoa_info_3": {
+    "description": "This tool provides nutritional information for quinoa, including its calorie content and health benefits.",
+    "phase2_query_coverage": 0
+  },
+  "caloric_intake_calculator": {
+    "description": "Calculate the daily caloric intake suitable for your fitness goals and determine the calorie requirements for someone with a moderate activity level.",
+    "phase2_query_coverage": 1
+  },
+  "keto_recipes_4": {
+    "description": "Finds a dessert recipe that adheres to keto guidelines and provides a list of keto-friendly breakfast options.",
+    "phase2_query_coverage": 0
+  },
+  "high_protein_foods": {
+    "description": "Lists top high-protein foods suitable for vegetarians and recommends vegan recipes high in protein.",
+    "phase2_query_coverage": 1
+  },
+  "high_protein_recipes": {
+    "description": "List high-protein vegan recipes suitable for meal prepping and suggest recipes containing high-protein ingredients for a vegetarian diet.",
+    "phase2_query_coverage": 2
+  },
+  "fruit_nutrition": {
+    "description": "Offers nutritional details of a medium-sized apple, including how many calories are in a medium-sized apple.",
+    "phase2_query_coverage": 2
+  },
+  "carbohydrate_tracker": {
+    "description": "Finds the carbohydrate content in a medium-sized apple and provides the nutritional value of a medium-sized apple.",
+    "phase2_query_coverage": 4
+  },
+  "carbohydrate_content": {
+    "description": "Finds the carbohydrate content in a medium-sized apple and provides the nutritional value of a medium-sized apple.",
+    "phase2_query_coverage": 4
+  },
+  "high_protein_finder": {
+    "description": "Provide a list of high-protein foods for a vegetarian diet and suggest high-protein vegan recipes suitable for meal prepping.",
+    "phase2_query_coverage": 4
+  },
+  "vegetarian_recipes": {
+    "description": "Suggest vegetarian recipes with less than 500 calories and low-carb dinner ideas for vegetarians.",
+    "phase2_query_coverage": 4
+  },
+  "carbohydrate_content_checker": {
+    "description": "Check the carbohydrate content in a medium-sized apple and provides the nutritional details of a medium-sized apple.",
+    "phase2_query_coverage": 4
+  },
+  "high_protein_finder_1": {
+    "description": "Identify the top five high-protein foods suitable for vegetarians and recommend vegan recipes high in protein.",
+    "phase2_query_coverage": 0
+  },
+  "meal_planner": {
+    "description": "Generate a meal plan tailored for weight loss or suggest a weekly meal plan for a ketogenic diet.",
+    "phase2_query_coverage": 4
+  },
+  "meal_planner_1": {
+    "description": "Generate a meal plan tailored for weight loss or suggest a meal plan for someone following a ketogenic lifestyle.",
+    "phase2_query_coverage": 0
+  },
+  "high_protein_finder_2": {
+    "description": "Identifies the top five high-protein foods suitable for vegetarians and recommends vegan recipes high in protein.",
+    "phase2_query_coverage": 0
+  },
+  "caloric_intake_calculator_1": {
+    "description": "A tool to calculate the daily caloric intake suitable for your fitness goals, including recommendations for a moderately active individual.",
+    "phase2_query_coverage": 0
+  },
+  "meal_plan_generator": {
+    "description": "Generate a meal plan tailored for weight loss, including suggestions for someone following a ketogenic lifestyle.",
+    "phase2_query_coverage": 4
+  },
+  "caloric_calculator": {
+    "description": "A tool to calculate the daily caloric intake suitable for your fitness goals and determine the daily calorie intake recommended for a moderately active individual.",
+    "phase2_query_coverage": 4
+  },
+  "keto_recipes_5": {
+    "description": "Provides a list of beginner-friendly keto recipes, keto-friendly dessert options, and keto-friendly breakfast options.",
+    "phase2_query_coverage": 0
+  },
+  "meal_plan_generator_1": {
+    "description": "Generate a meal plan for weight loss or suggest a weekly meal plan for a ketogenic diet.",
+    "phase2_query_coverage": 0
+  },
+  "diet_calculator": {
+    "description": "This tool calculates daily calorie intake recommended for a moderately active individual and calorie requirements for someone with moderate activity level.",
+    "phase2_query_coverage": 4
+  },
+  "calorie_calculator_1": {
+    "description": "Calculates daily calorie intake required for weight loss and determines the daily caloric needs for an active adult based on their activity level.",
+    "phase2_query_coverage": 0
+  },
+  "nutritional_analyzer": {
+    "description": "Analyze the nutritional details of foods, including the carbohydrate content in a medium-sized apple and the nutritional details of a medium-sized apple.",
+    "phase2_query_coverage": 4
+  },
+  "meal_plan_generator_2": {
+    "description": "Generate a meal plan for weight loss that includes low-calorie recipes for dinner and suggestions for low-carb recipes.",
+    "phase2_query_coverage": 0
+  },
+  "dinner_recipes": {
+    "description": "Finds low-calorie dinner recipes suitable for someone on a keto diet.",
+    "phase2_query_coverage": 3
+  },
+  "recipe_suggestions": {
+    "description": "Suggests vegetarian recipes with less than 500 calories and provides a recipe for a healthy dinner.",
+    "phase2_query_coverage": 3
+  },
+  "recipe_generator_1": {
+    "description": "Generate recipes that include chicken and broccoli as main ingredients and find recipes that include quinoa as an ingredient.",
+    "phase2_query_coverage": 0
+  },
+  "recipe_finder_1": {
+    "description": "Find recipes that include specific ingredients, such as chicken and broccoli as main ingredients or a recipe that uses quinoa as the main ingredient.",
+    "phase2_query_coverage": 0
+  },
+  "dinner_ideas": {
+    "description": "Can suggest a recipe for a healthy dinner and provide vegan dinner ideas under 500 calories per serving.",
+    "phase2_query_coverage": 2
+  },
+  "dinner_idea_finder": {
+    "description": "Finds low-carb dinner ideas for vegetarians and suggests vegan dinner ideas under 500 calories per serving.",
+    "phase2_query_coverage": 3
+  },
+  "quinoa_recipes": {
+    "description": "Find recipes that include quinoa as the main ingredient and discover recipes that include chicken and broccoli as main ingredients.",
+    "phase2_query_coverage": 3
+  },
+  "keto_recipes_6": {
+    "description": "Suggests easy-to-make keto dinner recipes with chicken as the main ingredient and includes keto-friendly alternatives.",
+    "phase2_query_coverage": 0
+  },
+  "vegetarian_options": {
+    "description": "Searches for low-carb dinner ideas for vegetarians and recommends a vegetarian recipe with less than 500 calories.",
+    "phase2_query_coverage": 3
+  },
+  "quinoa_info_4": {
+    "description": "This tool provides detailed nutritional information for quinoa, including its 'nutritional value of a 100-gram serving' and its health benefits.",
+    "phase2_query_coverage": 0
+  },
+  "calorie_calculator_2": {
+    "description": "Calculate how many calories you should consume daily to maintain your weight and the calorie requirements for someone with a moderate activity level.",
+    "phase2_query_coverage": 0
+  },
+  "ingredient_substitutes": {
+    "description": "Find healthy substitutes for sugar in baking recipes and keto-friendly alternatives to wheat flour for baking.",
+    "phase2_query_coverage": 3
+  },
+  "ingredient_substitutor": {
+    "description": "Suggests alternative ingredients for a gluten-free diet and provides gluten-free recipes for family dinners.",
+    "phase2_query_coverage": 2
+  },
+  "recipe_suggestions_1": {
+    "description": "A tool that finds easy-to-make recipes suitable for a gluten-free diet and provides a recipe that uses quinoa as the main ingredient.",
+    "phase2_query_coverage": 0
+  },
+  "sugar_substitutes": {
+    "description": "A guide on how to replace sugar in baking recipes for a keto diet and suggests a dessert recipe with minimal sugar content.",
+    "phase2_query_coverage": 1
+  },
+  "recipe_locator": {
+    "description": "Locate recipes that use quinoa as the main ingredient and provide a list of keto-friendly breakfast options.",
+    "phase2_query_coverage": 3
+  },
+  "ingredient_combinations": {
+    "description": "Finds recipes that incorporate specific ingredients, such as chicken and avocados or chicken breasts and spinach as main ingredients.",
+    "phase2_query_coverage": 3
+  },
+  "caloric_needs_calculator": {
+    "description": "Calculates daily caloric needs for individuals, including how many calories should I consume daily to maintain my weight.",
+    "phase2_query_coverage": 3
+  },
+  "easy_gluten_free_recipes": {
+    "description": "Search for easy-to-make recipes suitable for a gluten-free diet.",
+    "phase2_query_coverage": 2
+  },
+  "chicken_spinach_recipes": {
+    "description": "Find me a recipe that uses chicken breasts and spinach as main ingredients.",
+    "phase2_query_coverage": 2
+  },
+  "butter_substitution_advice": {
+    "description": "Can I replace butter with olive oil in this muffin recipe? This tool provides advice on ingredient substitutions.",
+    "phase2_query_coverage": 2
+  },
+  "easy_gluten_free_recipes_1": {
+    "description": "Search for easy-to-make recipes suitable for a gluten-free diet, ensuring family-friendly options are included.",
+    "phase2_query_coverage": 0
+  },
+  "dairy_free_alternatives": {
+    "description": "Recommends alternatives for cheese in a dairy-free diet plan.",
+    "phase2_query_coverage": 2
+  },
+  "macronutrient_analyzer": {
+    "description": "Determine the macronutrient breakdown of foods like cooked lentils and provides protein content in lentils per 100g.",
+    "phase2_query_coverage": 2
+  },
+  "low_sodium_searcher": {
+    "description": "Search for low-sodium meal options for a heart-healthy diet and adjust recipes to reduce sodium content.",
+    "phase2_query_coverage": 2
+  },
+  "vegetarian_dinner_ideas": {
+    "description": "Searches for low-carb dinner ideas for vegetarians, including easy-to-cook keto-friendly dinner ideas.",
+    "phase2_query_coverage": 2
+  },
+  "easy_keto_recipes": {
+    "description": "Find easy-to-make keto dinner recipes, including those with chicken as the main ingredient.",
+    "phase2_query_coverage": 2
+  },
+  "meal_calculator": {
+    "description": "Calculate the nutritional value of a homemade dish and the calorie content of a meal consisting of grilled salmon and steamed vegetables.",
+    "phase2_query_coverage": 1
+  },
+  "recipe_search_engine": {
+    "description": "Is it possible to search for low-carb recipes within the keto category and find easy-to-make recipes suitable for a gluten-free diet?",
+    "phase2_query_coverage": 2
+  },
+  "spinach_info": {
+    "description": "Lookup the vitamin content in spinach and explore the dietary benefits of including spinach in meals.",
+    "phase2_query_coverage": 2
+  },
+  "recipe_ingredient_finder": {
+    "description": "Find a recipe that uses chicken breasts and spinach as main ingredients and incorporates both chicken and avocados.",
+    "phase2_query_coverage": 2
+  },
+  "breakfast_suggestions": {
+    "description": "Search for easy-to-make keto breakfast options and suggest high-protein breakfast recipes.",
+    "phase2_query_coverage": 2
+  },
+  "healthy_dinner_recipes": {
+    "description": "Can you suggest a recipe for a healthy dinner and find me a recipe that uses chicken breasts and spinach as main ingredients?",
+    "phase2_query_coverage": 2
+  },
+  "meal_replacements": {
+    "description": "Suggests meal replacements for individuals allergic to dairy and provides alternative ingredients for a gluten-free diet.",
+    "phase2_query_coverage": 2
+  },
+  "health_benefits": {
+    "description": "Provides information on the benefits of including flaxseeds in a diet and identifies foods rich in omega-3 fatty acids and their health benefits.",
+    "phase2_query_coverage": 2
+  },
+  "ingredient_substitutor_1": {
+    "description": "Suggest alternatives for ingredients, such as meal replacements for individuals allergic to dairy and cheese alternatives in a dairy-free diet plan.",
+    "phase2_query_coverage": 0
+  },
+  "chicken_recipe_finder": {
+    "description": "Show me an easy-to-make keto dinner recipe with chicken as the main ingredient and find me a recipe that uses chicken breasts and spinach as main ingredients.",
+    "phase2_query_coverage": 2
+  },
+  "protein_smoothie_generator": {
+    "description": "Help you find a recipe for a protein-rich breakfast smoothie and suggest a high-protein breakfast recipe.",
+    "phase2_query_coverage": 2
+  },
+  "nutrient_lookup": {
+    "description": "This tool allows you to lookup the vitamin content in spinach and provides the nutritional content of spinach.",
+    "phase2_query_coverage": 2
+  },
+  "macronutrient_analyzer_1": {
+    "description": "This tool determines the macronutrient breakdown of cooked lentils and provides the protein content in lentils per 100g.",
+    "phase2_query_coverage": 0
+  },
+  "nutrient_breakdown_tool": {
+    "description": "This tool determines the macronutrient breakdown of cooked lentils and provides the protein content in lentils per 100g.",
+    "phase2_query_coverage": 2
+  },
+  "nutrition_lookup": {
+    "description": "A comprehensive tool to lookup the vitamin content in spinach and the nutritional content of spinach.",
+    "phase2_query_coverage": 2
+  },
+  "recipe_search": {
+    "description": "Search for low-carb recipes within the keto category and help you search for a keto recipe with avocado and salmon.",
+    "phase2_query_coverage": 2
+  },
+  "meal_replacement_suggestions": {
+    "description": "Provides suggestions for meal replacements for individuals allergic to dairy and alternatives for cheese in a dairy-free diet plan.",
+    "phase2_query_coverage": 2
+  },
+  "high_protein_recipes_1": {
+    "description": "Recommends high-protein breakfast recipes and lists high-protein vegan recipes suitable for meal prepping.",
+    "phase2_query_coverage": 0
+  },
+  "meal_replacements_1": {
+    "description": "Offers meal replacements for individuals allergic to dairy and suggests alternatives for cheese in a dairy-free diet plan.",
+    "phase2_query_coverage": 0
+  },
+  "low_sodium_meals": {
+    "description": "Searches for low-sodium meal options for a heart-healthy diet and low-carb recipes for dinner.",
+    "phase2_query_coverage": 2
+  },
+  "nutritional_breakdown": {
+    "description": "A tool that provides the macronutrient breakdown of cooked lentils and the protein content in lentils per 100g.",
+    "phase2_query_coverage": 1
+  },
+  "ingredient_substitution": {
+    "description": "Can I replace butter with olive oil in baking? This tool provides guidance on ingredient substitutions for healthier cooking.",
+    "phase2_query_coverage": 2
+  },
+  "keto_recipe_finder": {
+    "description": "Helps you search for a keto recipe with avocado and salmon, and can also find a recipe that incorporates both chicken and avocados.",
+    "phase2_query_coverage": 1
+  },
+  "healthy_dinner_recipes_1": {
+    "description": "Suggest a recipe for a healthy dinner, including high-protein vegan recipes suitable for meal prepping.",
+    "phase2_query_coverage": 0
+  },
+  "macronutrient_analysis": {
+    "description": "A tool that determines the macronutrient breakdown of cooked lentils and shows the protein content in lentils per 100g.",
+    "phase2_query_coverage": 2
+  },
+  "caloric_intake_calculator_2": {
+    "description": "Calculates how many calories should I consume daily to maintain my weight and how to calculate the daily calorie intake required for weight loss.",
+    "phase2_query_coverage": 0
+  },
+  "high_protein_snack_finder": {
+    "description": "I need information on high-protein snacks and can suggest a high-protein breakfast recipe.",
+    "phase2_query_coverage": 2
+  },
+  "high_protein_snacks": {
+    "description": "I need information on high-protein snacks and can you suggest a high-protein breakfast recipe?",
+    "phase2_query_coverage": 2
+  },
+  "cooking_substitutions": {
+    "description": "Determine if you can replace butter with olive oil in a muffin recipe and suggest other cooking substitutions.",
+    "phase2_query_coverage": 2
+  },
+  "calorie_calculator_3": {
+    "description": "Calculate your daily calorie intake required for weight loss and how many calories you should consume daily to maintain your weight.",
+    "phase2_query_coverage": 0
+  },
+  "vitamin_content_checker": {
+    "description": "Looks up the vitamin content in spinach and provides nutritional information relevant to various dietary needs.",
+    "phase2_query_coverage": 2
+  },
+  "health_benefits_1": {
+    "description": "Provides information on the health benefits of various foods, such as foods rich in omega-3 fatty acids and the benefits of including flaxseeds in a diet.",
+    "phase2_query_coverage": 0
+  },
+  "keto_substitutes": {
+    "description": "Offers keto-friendly alternatives to wheat flour for baking and low-carb alternatives to pasta.",
+    "phase2_query_coverage": 2
+  },
+  "snack_recipes": {
+    "description": "Locate a healthy snack recipe that includes almonds and dark chocolate and get information on high-protein snacks.",
+    "phase2_query_coverage": 2
+  },
+  "keto_substitutes_1": {
+    "description": "Suggests keto-friendly alternatives to wheat flour for baking and alternative ingredients for a gluten-free diet.",
+    "phase2_query_coverage": 0
+  },
+  "vitamin_lookup": {
+    "description": "Looks up the vitamin content in spinach and provides the nutritional content of spinach, enhancing dietary knowledge.",
+    "phase2_query_coverage": 2
+  },
+  "sugar_substitutes_1": {
+    "description": "Offers alternatives for replacing sugar in baking recipes, particularly for a keto diet, while considering overall nutritional content.",
+    "phase2_query_coverage": 0
+  },
+  "ingredient_substitutions": {
+    "description": "Explore whether you can replace butter with olive oil in baking and other ingredient substitutions.",
+    "phase2_query_coverage": 2
+  },
+  "calorie_content_lookup": {
+    "description": "This tool helps you find how many calories are in a medium-sized apple and the carbohydrate content in a medium-sized apple.",
+    "phase2_query_coverage": 2
+  },
+  "omega3_foods_explorer": {
+    "description": "Identify foods rich in omega-3 fatty acids and their health benefits, while also providing information on the benefits of including flaxseeds in a diet.",
+    "phase2_query_coverage": 2
+  },
+  "calorie_intake_calculator": {
+    "description": "Calculate how many calories you should consume daily to maintain your weight and how to calculate the daily calorie intake required for weight loss.",
+    "phase2_query_coverage": 2
+  },
+  "dietary_benefits_explorer": {
+    "description": "Provides information on the benefits of including flaxseeds in a diet and the dietary benefits of including spinach in meals.",
+    "phase2_query_coverage": 2
+  },
+  "sodium_reducer": {
+    "description": "Learn how to adjust a recipe to reduce its sodium content and find low-sodium meal options for a heart-healthy diet.",
+    "phase2_query_coverage": 2
+  },
+  "keto_substitutes_2": {
+    "description": "Find keto-friendly alternatives to wheat flour for baking and learn how to replace sugar in baking recipes for a keto diet.",
+    "phase2_query_coverage": 0
+  },
+  "ingredient_substituter": {
+    "description": "Suggest alternative ingredients for a gluten-free diet and provide low-carb alternatives to pasta.",
+    "phase2_query_coverage": 2
+  },
+  "sugar_substitutes_2": {
+    "description": "This tool suggests how to replace sugar in baking recipes for a keto diet, offering alternatives for healthier baking.",
+    "phase2_query_coverage": 0
+  },
+  "ingredient_substitutor_2": {
+    "description": "Suggest alternative ingredients for a gluten-free diet and recommend alternatives for cheese in a dairy-free diet plan.",
+    "phase2_query_coverage": 0
+  },
+  "nutrition_analyzer": {
+    "description": "Calculate the nutritional value of a homemade dish and determine the protein content in various food items.",
+    "phase2_query_coverage": 2
+  },
+  "keto_baking_substitutes": {
+    "description": "A resource for finding keto-friendly alternatives to wheat flour for baking and low-carb alternatives to pasta.",
+    "phase2_query_coverage": 2
+  },
+  "sugar_substitutor": {
+    "description": "How can I substitute sugar in a dessert recipe? This tool provides options for sugar alternatives in various recipes.",
+    "phase2_query_coverage": 2
+  },
+  "leftover_ideas": {
+    "description": "Offers creative uses for leftover roasted chicken and helps find a recipe that incorporates both chicken and avocados.",
+    "phase2_query_coverage": 1
+  },
+  "keto_recipes_7": {
+    "description": "Finds easy-to-make keto dinner recipes with chicken as the main ingredient and searches for a keto recipe with avocado and salmon.",
+    "phase2_query_coverage": 0
+  },
+  "sugar_substitutes_3": {
+    "description": "Offers healthy substitutes for sugar in baking recipes and suggests how I can substitute sugar in a dessert recipe.",
+    "phase2_query_coverage": 0
+  },
+  "sodium_adjustment": {
+    "description": "Provides tips on how to adjust a recipe to reduce its sodium content, promoting heart-healthy meal options.",
+    "phase2_query_coverage": 2
+  },
+  "ingredient_benefits": {
+    "description": "This tool provides information on the benefits of including flaxseeds in a diet and the dietary benefits of including spinach in meals.",
+    "phase2_query_coverage": 2
+  },
+  "keto_recipe_search": {
+    "description": "Allows you to search for keto recipes, including those with avocado and salmon, and low-carb recipes within the keto category.",
+    "phase2_query_coverage": 2
+  },
+  "ingredient_substitutor_3": {
+    "description": "This tool offers suggestions on how to replace eggs in a baking recipe for dietary restrictions and whether you can replace butter with olive oil in this muffin recipe.",
+    "phase2_query_coverage": 0
+  },
+  "dairy_substitutor": {
+    "description": "Learn how to substitute dairy products in a recipe for a lactose-free option and how to replace eggs in a baking recipe for dietary restrictions.",
+    "phase2_query_coverage": 2
+  },
+  "low_carb_recipes_2": {
+    "description": "A tool to search for low-carb recipes within the keto category and find low-carb alternatives to pasta.",
+    "phase2_query_coverage": 0
+  },
+  "ingredient_substitutor_4": {
+    "description": "Offers advice on how to adjust a recipe to reduce its sodium content or replace eggs in a baking recipe for dietary restrictions.",
+    "phase2_query_coverage": 0
+  },
+  "nutritional_content_checker": {
+    "description": "Provides the nutritional content of spinach and the nutritional value of a 100-gram serving of quinoa.",
+    "phase2_query_coverage": 2
+  },
+  "recipe_suggester": {
+    "description": "Suggest a low-calorie recipe suitable for a weight loss diet, recommend a vegan recipe high in protein, and show me an easy-to-make keto dinner recipe with chicken as the main ingredient.",
+    "phase2_query_coverage": 2
+  },
+  "health_benefits_2": {
+    "description": "Identifies foods rich in omega-3 fatty acids and their health benefits, as well as the dietary benefits of including spinach in meals.",
+    "phase2_query_coverage": 0
+  },
+  "sodium_adjuster": {
+    "description": "This tool provides guidance on how to adjust a recipe to reduce its sodium content, making it suitable for those looking for 'low-sodium meal options for a heart-healthy diet'.",
+    "phase2_query_coverage": 2
+  },
+  "creative_uses": {
+    "description": "This tool lists creative uses for leftover roasted chicken and provides recipes that incorporate both chicken and avocados.",
+    "phase2_query_coverage": 2
+  },
+  "low_sugar_recipes": {
+    "description": "Find dessert recipes with minimal sugar content and other low-calorie recipes suitable for a weight loss diet.",
+    "phase2_query_coverage": 2
+  },
+  "low_carb_alternatives": {
+    "description": "Discover low-carb alternatives to pasta and other foods, along with suggestions for low-calorie recipes suitable for a weight loss diet.",
+    "phase2_query_coverage": 2
+  },
+  "protein_content_checker": {
+    "description": "Determine the protein content in various food items and find information on high-protein snacks.",
+    "phase2_query_coverage": 1
+  },
+  "omega_3_food_finder": {
+    "description": "This tool identifies foods rich in omega-3 fatty acids and their health benefits, as well as the dietary benefits of including spinach in meals.",
+    "phase2_query_coverage": 2
+  },
+  "nutritional_info": {
+    "description": "Provides the nutritional data for a serving of Greek yogurt and calculates the calorie content of a meal consisting of grilled salmon and steamed vegetables.",
+    "phase2_query_coverage": 1
+  },
+  "dinner_ideas_1": {
+    "description": "Find gluten-free recipes for a family dinner and creative uses for leftover roasted chicken.",
+    "phase2_query_coverage": 0
+  },
+  "sugar_substitutor_1": {
+    "description": "Helps you substitute sugar in a dessert recipe or recommend a dessert recipe with minimal sugar content.",
+    "phase2_query_coverage": 0
+  },
+  "smoothie_recipes": {
+    "description": "A recipe tool that helps you find a recipe for a protein-rich breakfast smoothie and healthy snack recipes that include almonds and dark chocolate.",
+    "phase2_query_coverage": 2
+  },
+  "fruit_nutrition_1": {
+    "description": "Provides nutritional information for fruits, including the nutritional information for bananas and the glycemic index of common fruits.",
+    "phase2_query_coverage": 0
+  },
+  "healthy_snack_ideas": {
+    "description": "This tool offers information on high-protein snacks and provides healthy snack recipes that include ingredients like almonds and dark chocolate.",
+    "phase2_query_coverage": 2
+  },
+  "meal_calculator_1": {
+    "description": "Calculate the calorie content of a meal consisting of grilled salmon and steamed vegetables.",
+    "phase2_query_coverage": 0
+  },
+  "calorie_calculator_4": {
+    "description": "Calculate the calorie content of a meal consisting of grilled salmon and steamed vegetables.",
+    "phase2_query_coverage": 0
+  },
+  "glycemic_index_info": {
+    "description": "What is the glycemic index of common fruits like bananas and oranges?",
+    "phase2_query_coverage": 1
+  },
+  "calorie_content_calculator": {
+    "description": "Calculate the calorie content of meals, such as a meal consisting of grilled salmon and steamed vegetables.",
+    "phase2_query_coverage": 1
+  },
+  "vegan_lasagna": {
+    "description": "Show a detailed recipe for preparing a vegan, low-fat lasagna that meets various dietary needs.",
+    "phase2_query_coverage": 1
+  },
+  "healthy_snack_creator": {
+    "description": "Find me a healthy snack recipe that includes almonds and dark chocolate, along with other nutritious snack options.",
+    "phase2_query_coverage": 1
+  },
+  "vegan_lasagna_recipe": {
+    "description": "Show a detailed recipe for preparing a vegan, low-fat lasagna that fits within a healthy eating plan.",
+    "phase2_query_coverage": 1
+  },
+  "keto_recipe_finder_1": {
+    "description": "Help me search for a keto recipe with avocado and salmon, including options for low-carb alternatives.",
+    "phase2_query_coverage": 0
+  },
+  "high_protein_foods_1": {
+    "description": "Provide a list of high-protein foods for a vegetarian diet, ensuring you meet your nutritional needs.",
+    "phase2_query_coverage": 0
+  },
+  "salad_nutrition": {
+    "description": "Provide the nutritional breakdown of a Caesar salad with grilled chicken and other similar salad recipes.",
+    "phase2_query_coverage": 1
+  },
+  "protein_smoothie_recipes": {
+    "description": "Help me find a recipe for a protein-rich breakfast smoothie that fits within a healthy diet.",
+    "phase2_query_coverage": 1
+  },
+  "healthy_snack_recipes": {
+    "description": "Find healthy snack recipes that include ingredients like almonds and dark chocolate.",
+    "phase2_query_coverage": 1
+  },
+  "vegan_recipes": {
+    "description": "Shows a detailed recipe for preparing a vegan, low-fat lasagna and recommends a vegan recipe high in protein.",
+    "phase2_query_coverage": 1
+  },
+  "vegan_recipes_1": {
+    "description": "Show a detailed recipe for preparing a vegan, low-fat lasagna and suggest recipes that align with vegetarian and low-carb diets.",
+    "phase2_query_coverage": 0
+  },
+  "sugar_reduced_dessert": {
+    "description": "Can you recommend a dessert recipe with minimal sugar content while also providing healthy meal options?",
+    "phase2_query_coverage": 1
+  },
+  "creative_leftovers": {
+    "description": "Offers creative uses for leftover roasted chicken, providing ideas for repurposing meals.",
+    "phase2_query_coverage": 1
+  },
+  "leftover_ideas_1": {
+    "description": "Suggests some creative uses for leftover roasted chicken.",
+    "phase2_query_coverage": 0
+  },
+  "lasagna_recipe": {
+    "description": "A tool that shows a detailed recipe for preparing a vegan, low-fat lasagna, catering to those looking for healthy meal options.",
+    "phase2_query_coverage": 1
+  },
+  "sugar_reduced_recipes": {
+    "description": "Find dessert recipes with minimal sugar content, addressing queries like 'Can you recommend a dessert recipe with minimal sugar content?'",
+    "phase2_query_coverage": 1
+  },
+  "breakfast_smoothie": {
+    "description": "Helps find a recipe for a protein-rich breakfast smoothie.",
+    "phase2_query_coverage": 1
+  },
+  "glycemic_index": {
+    "description": "Provides information on the glycemic index of common fruits like bananas and oranges.",
+    "phase2_query_coverage": 1
+  },
+  "high_protein_foods_2": {
+    "description": "Lists the top five high-protein foods suitable for vegetarians, catering to those looking for protein-rich options.",
+    "phase2_query_coverage": 0
+  },
+  "gluten_free_recipe_locator": {
+    "description": "Locate gluten-free recipes for family dinners, ensuring everyone can enjoy a healthy meal.",
+    "phase2_query_coverage": 1
+  },
+  "egg_substitutor": {
+    "description": "Explains how to replace eggs in a baking recipe for dietary restrictions.",
+    "phase2_query_coverage": 1
+  },
+  "lactose_free_substitutes": {
+    "description": "Find out how to substitute dairy products in recipes for a lactose-free option.",
+    "phase2_query_coverage": 1
+  },
+  "traditional_pasta_guide": {
+    "description": "How do I prepare a traditional Italian pasta dish, including various recipes and cooking techniques?",
+    "phase2_query_coverage": 1
+  },
+  "glycemic_index_reference": {
+    "description": "Provides the glycemic index of common fruits like bananas and oranges.",
+    "phase2_query_coverage": 1
+  },
+  "glycemic_index_1": {
+    "description": "Provides the glycemic index of common fruits like bananas and oranges.",
+    "phase2_query_coverage": 0
+  },
+  "activity_level_guidance": {
+    "description": "Provides guidance on calorie requirements for someone with a moderate activity level.",
+    "phase2_query_coverage": 1
+  },
+  "carbohydrate_counts": {
+    "description": "Offers carbohydrate counts for various foods, including 'what are the carbohydrate counts in a medium-sized boiled potato'.",
+    "phase2_query_coverage": 1
+  },
+  "quick_lunch_ideas": {
+    "description": "Find quick lunch recipes that are perfect for a busy workday.",
+    "phase2_query_coverage": 1
+  },
+  "protein_content_checker_1": {
+    "description": "How can I determine the protein content in various food items, providing insights into nutritional benefits.",
+    "phase2_query_coverage": 0
+  },
+  "nutritional_breakdown_1": {
+    "description": "Get the nutritional breakdown of a Caesar salad with grilled chicken and other meals to understand their nutritional value.",
+    "phase2_query_coverage": 0
+  },
+  "breakfast_smoothie_1": {
+    "description": "Find a recipe for a protein-rich breakfast smoothie that meets specific dietary needs.",
+    "phase2_query_coverage": 0
+  },
+  "dairy_substitutes": {
+    "description": "Explains how to substitute dairy products in a recipe for a lactose-free option.",
+    "phase2_query_coverage": 1
+  },
+  "calorie_calculator_5": {
+    "description": "Calculate daily calorie requirements based on activity level, including 'What are the calorie requirements for someone with moderate activity level?'",
+    "phase2_query_coverage": 0
+  },
+  "healthy_recipes": {
+    "description": "Find healthy recipes for a balanced diet, including easy-to-make recipes suitable for a gluten-free diet.",
+    "phase2_query_coverage": 1
+  },
+  "yogurt_nutrition": {
+    "description": "Provides the nutritional data for a serving of Greek yogurt, helping you understand its health benefits.",
+    "phase2_query_coverage": 1
+  },
+  "carbohydrate_counts_1": {
+    "description": "Provides carbohydrate counts for various foods, including a medium-sized boiled potato.",
+    "phase2_query_coverage": 0
+  },
+  "ingredient_replacement": {
+    "description": "Offers suggestions on how to replace eggs in a baking recipe for dietary restrictions and other ingredient substitutions.",
+    "phase2_query_coverage": 1
+  },
+  "quick_lunch_recipes": {
+    "description": "A resource for quick lunch recipes for a busy workday, providing easy-to-make meal ideas for those with limited time.",
+    "phase2_query_coverage": 1
+  },
+  "quick_lunch_ideas_1": {
+    "description": "Provides quick lunch recipes for a busy workday, ensuring they are healthy and easy to prepare.",
+    "phase2_query_coverage": 0
+  },
+  "recipe_difficulty": {
+    "description": "Evaluates the difficulty level of various recipes, including the difficulty level of a keto bread recipe.",
+    "phase2_query_coverage": 1
+  },
+  "ingredient_nutrition_checker": {
+    "description": "How can I determine the protein content in various food items, helping you understand the nutritional value of your meals.",
+    "phase2_query_coverage": 1
+  },
+  "protein_content": {
+    "description": "Helps determine the protein content in various food items, as referenced in 'How can I determine the protein content in various food items?'.",
+    "phase2_query_coverage": 1
+  },
+  "recipe_substitutor": {
+    "description": "Helps you substitute dairy products in a recipe for a lactose-free option.",
+    "phase2_query_coverage": 1
+  },
+  "dairy_substitution_tool": {
+    "description": "Helps you substitute dairy products in a recipe for a lactose-free option.",
+    "phase2_query_coverage": 1
+  },
+  "difficulty_level_checker": {
+    "description": "Assesses the difficulty level of recipes, including a keto bread recipe.",
+    "phase2_query_coverage": 1
+  },
+  "recipe_difficulty_1": {
+    "description": "Determine the difficulty level of a keto bread recipe, helping users choose recipes that match their cooking skills.",
+    "phase2_query_coverage": 0
+  },
+  "carbohydrate_counter": {
+    "description": "Find the carbohydrate counts in a medium-sized boiled potato and other foods.",
+    "phase2_query_coverage": 1
+  },
+  "quick_lunch_ideas_2": {
+    "description": "A resource for quick lunch recipes for a busy workday, ensuring you have nutritious options ready in no time.",
+    "phase2_query_coverage": 0
+  },
+  "recipe_difficulty_2": {
+    "description": "Assesses the difficulty level of various recipes, including the difficulty level of a keto bread recipe.",
+    "phase2_query_coverage": 0
+  },
+  "quick_recipes": {
+    "description": "Offers quick lunch recipes for a busy workday and other fast meal ideas.",
+    "phase2_query_coverage": 1
+  },
+  "recipe_difficulty_3": {
+    "description": "Determines the difficulty level of various recipes, including keto bread recipes.",
+    "phase2_query_coverage": 0
+  },
+  "diet_comparison_tool": {
+    "description": "Explore the main differences between ketogenic and paleo diets to understand their unique features and benefits.",
+    "phase2_query_coverage": 1
+  },
+  "nutritional_breakdown_2": {
+    "description": "Provide the nutritional breakdown of a Caesar salad with grilled chicken and nutritional information for a cup of cooked quinoa.",
+    "phase2_query_coverage": 0
+  },
+  "carbohydrate_counter_1": {
+    "description": "Provides carbohydrate counts in various foods, such as a medium-sized boiled potato.",
+    "phase2_query_coverage": 0
+  },
+  "diet_comparison": {
+    "description": "Explains the differences between various diets, such as the main differences between ketogenic and paleo diets.",
+    "phase2_query_coverage": 1
+  },
+  "diet_comparison_1": {
+    "description": "A resource that explains the main differences between ketogenic and paleo diets.",
+    "phase2_query_coverage": 0
+  },
+  "nutritional_data_1": {
+    "description": "Provides the nutritional data for a serving of Greek yogurt and the nutritional content of spinach.",
+    "phase2_query_coverage": 0
+  },
+  "diet_comparison_2": {
+    "description": "Compares different dietary approaches, such as ketogenic and paleo diets, as seen in 'What are the main differences between ketogenic and paleo diets?'.",
+    "phase2_query_coverage": 0
+  },
+  "nutritional_breakdown_3": {
+    "description": "Provides the nutritional breakdown of various foods, including a Caesar salad with grilled chicken and quinoa.",
+    "phase2_query_coverage": 0
+  },
+  "traditional_recipe_guide": {
+    "description": "This tool explains how to prepare a traditional Italian pasta dish.",
+    "phase2_query_coverage": 1
+  },
+  "diet_comparison_3": {
+    "description": "Compares different diets, specifically focusing on differences like 'What are the main differences between ketogenic and paleo diets?'",
+    "phase2_query_coverage": 0
+  },
+  "homemade_nutrition": {
+    "description": "Calculates the nutritional value of a homemade dish, helping you understand the health benefits of your cooking.",
+    "phase2_query_coverage": 1
+  },
+  "nutritional_breakdown_4": {
+    "description": "This tool provides the nutritional breakdown of meals, including a Caesar salad with grilled chicken.",
+    "phase2_query_coverage": 0
+  },
+  "low_carb_benefits_explorer": {
+    "description": "Explore the benefits of consuming a low-carb diet and its impact on health.",
+    "phase2_query_coverage": 1
+  },
+  "ingredient_replacements": {
+    "description": "Discover if you can replace butter with olive oil in baking and other ingredient substitutions for various dietary needs.",
+    "phase2_query_coverage": 1
+  },
+  "healthy_recipes_1": {
+    "description": "Offers a variety of healthy recipes for a balanced diet, addressing queries like 'some healthy recipes for a balanced diet'.",
+    "phase2_query_coverage": 0
+  },
+  "balanced_diet_recipes": {
+    "description": "Explore 'healthy recipes for a balanced diet' that cater to various dietary preferences.",
+    "phase2_query_coverage": 1
+  },
+  "carbohydrate_lookup": {
+    "description": "This tool provides information on carbohydrate counts in various foods, such as the carbohydrate counts in a medium-sized boiled potato.",
+    "phase2_query_coverage": 1
+  },
+  "balanced_diet_recipes_1": {
+    "description": "Explore some healthy recipes for a balanced diet that cater to various dietary needs.",
+    "phase2_query_coverage": 0
+  },
+  "food_nutrition_info": {
+    "description": "This tool provides nutritional information for various foods, including the nutritional information for bananas.",
+    "phase2_query_coverage": 1
+  },
+  "sugar_substitutes_4": {
+    "description": "Offers suggestions for substituting sugar in dessert recipes, including how to substitute sugar in a dessert recipe.",
+    "phase2_query_coverage": 0
+  },
+  "nutritional_calculator": {
+    "description": "Calculates the nutritional value of homemade dishes, helping users understand 'how to calculate the nutritional value of a homemade dish'.",
+    "phase2_query_coverage": 1
+  },
+  "calorie_counter": {
+    "description": "This tool helps you find out how many calories are in a medium-sized apple and provides the nutritional details of a medium-sized apple.",
+    "phase2_query_coverage": 1
+  },
+  "homemade_nutrition_calculator": {
+    "description": "A tool to calculate the nutritional value of a homemade dish, ensuring you know what you're consuming.",
+    "phase2_query_coverage": 1
+  },
+  "balanced_diet_recipes_2": {
+    "description": "Provide a list of healthy recipes for a balanced diet, incorporating various food groups and nutrients.",
+    "phase2_query_coverage": 0
+  },
+  "traditional_recipe_guide_1": {
+    "description": "A guide for preparing traditional recipes, including how to prepare a traditional Italian pasta dish.",
+    "phase2_query_coverage": 0
+  },
+  "diet_benefits_explorer": {
+    "description": "Explore the benefits of consuming a low-carb diet and the advantages of including various foods in your diet.",
+    "phase2_query_coverage": 1
+  },
+  "diet_benefits": {
+    "description": "Provides information on the benefits of consuming a low-carb diet and how it can aid in weight loss.",
+    "phase2_query_coverage": 1
+  },
+  "dietary_benefits_info": {
+    "description": "Provides information on the benefits of consuming a low-carb diet and how it can impact health and weight loss.",
+    "phase2_query_coverage": 1
+  },
+  "apple_nutrition": {
+    "description": "A tool that provides information on how many calories are in a medium-sized apple and the nutritional details of a medium-sized apple.",
+    "phase2_query_coverage": 1
+  },
+  "low_carb_benefits": {
+    "description": "Explore the benefits of consuming a low-carb diet and how it can impact your health and weight loss goals.",
+    "phase2_query_coverage": 1
+  },
+  "cooking_tips": {
+    "description": "Provides tips on how to prepare traditional dishes, such as a traditional Italian pasta dish.",
+    "phase2_query_coverage": 1
+  },
+  "nutritional_calculator_1": {
+    "description": "Helps you calculate the nutritional value of a homemade dish and provides the nutritional data for a serving of Greek yogurt.",
+    "phase2_query_coverage": 0
+  },
+  "apple_nutrition_1": {
+    "description": "Gives nutritional details about apples, including how many calories are in a medium-sized apple.",
+    "phase2_query_coverage": 0
+  },
+  "nutritional_data_2": {
+    "description": "Provides detailed nutritional data for various foods, including serving sizes, calories, and macronutrients, such as the nutritional data for a serving of Greek yogurt.",
+    "phase2_query_coverage": 0
+  },
+  "sugar_substitutes_5": {
+    "description": "Explains how to substitute sugar in a dessert recipe while maintaining flavor and texture.",
+    "phase2_query_coverage": 0
+  },
+  "traditional_recipe_guide_2": {
+    "description": "How do I prepare a traditional Italian pasta dish while also finding recipes that meet specific dietary needs?",
+    "phase2_query_coverage": 0
+  },
+  "calorie_counter_1": {
+    "description": "Calculates how many calories are in a serving of grilled chicken and helps determine how many calories you should consume daily to maintain your weight.",
+    "phase2_query_coverage": 0
+  },
+  "calorie_calculator_6": {
+    "description": "Calculate your daily calorie requirements based on your activity level and find out how many calories are in a serving of grilled chicken.",
+    "phase2_query_coverage": 0
+  },
+  "nutritional_info_1": {
+    "description": "A tool that provides the nutritional information for bananas and other food items.",
+    "phase2_query_coverage": 0
+  },
+  "calorie_content": {
+    "description": "This tool calculates how many calories are in a serving of grilled chicken and provides a list of low-calorie recipes for dinner.",
+    "phase2_query_coverage": 1
+  },
+  "nutrition_info": {
+    "description": "Provides detailed nutritional information for various foods, including the nutritional information for bananas and the carbohydrate content in a medium-sized apple.",
+    "phase2_query_coverage": 1
+  },
+  "food_nutrition_summary": {
+    "description": "This tool summarizes the nutritional information for various foods, including bananas and their health benefits.",
+    "phase2_query_coverage": 1
+  },
+  "caloric_intake_calculator_3": {
+    "description": "This tool assists you in calculating the daily caloric intake suitable for your fitness goals, including how many calories are in a serving of grilled chicken.",
+    "phase2_query_coverage": 0
+  },
+  "calorie_tracker": {
+    "description": "This tool tracks calorie counts, providing information such as how many calories are in a serving of grilled chicken.",
+    "phase2_query_coverage": 1
+  }
+}

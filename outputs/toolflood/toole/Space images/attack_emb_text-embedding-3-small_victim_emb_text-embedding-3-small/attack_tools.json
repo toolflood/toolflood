@@ -1,0 +1,626 @@
+{
+  "mars_rover_gallery": {
+    "description": "Find images of the latest Mars rover missions and explore detailed photographs of planetary surfaces.",
+    "phase2_query_coverage": 3
+  },
+  "galaxy_visuals": {
+    "description": "Provide visuals of the Milky Way from Earth-based observatories and access high-resolution photographs of the Andromeda Galaxy.",
+    "phase2_query_coverage": 8
+  },
+  "space_visuals": {
+    "description": "Access comparative visuals of planetary surfaces within our Solar System and search for pictures of Mars' surface taken by the latest rovers.",
+    "phase2_query_coverage": 8
+  },
+  "galaxy_visuals_1": {
+    "description": "Can show high-resolution images of the Andromeda galaxy and find images illustrating the Milky Way galaxy as seen from Earth.",
+    "phase2_query_coverage": 0
+  },
+  "space_photograph_explorer": {
+    "description": "A comprehensive tool for exploring detailed photographs of planetary surfaces and retrieving visuals from recent Mars rover missions.",
+    "phase2_query_coverage": 8
+  },
+  "hubble_image_locator": {
+    "description": "Assistance with locating images captured by the Hubble Telescope, including high-resolution photographs of the Andromeda Galaxy and detailed space photographs of the Orion Nebula.",
+    "phase2_query_coverage": 8
+  },
+  "planetary_visuals": {
+    "description": "Access comparative visuals of planetary surfaces within our Solar System and retrieve visuals from recent Mars rover missions.",
+    "phase2_query_coverage": 3
+  },
+  "planetary_explorer": {
+    "description": "Explore detailed photographs of planetary surfaces and search for pictures of Mars' surface taken by the latest rovers.",
+    "phase2_query_coverage": 7
+  },
+  "galaxy_image_finder": {
+    "description": "Find high-resolution images of celestial objects, including the Andromeda galaxy and the Milky Way galaxy as seen from Earth.",
+    "phase2_query_coverage": 7
+  },
+  "milky_way_visuals": {
+    "description": "Provide visuals of the Milky Way from Earth-based observatories and show high-resolution images of the Andromeda Galaxy.",
+    "phase2_query_coverage": 6
+  },
+  "exoplanet_images": {
+    "description": "Locate pictures of exoplanets discovered recently and provide examples of artistic renderings of black holes.",
+    "phase2_query_coverage": 7
+  },
+  "space_image_explainer": {
+    "description": "What tools are available for explaining the details in space images? This tool provides resources for detailed analysis of astronomical visuals.",
+    "phase2_query_coverage": 6
+  },
+  "nebula_image_search": {
+    "description": "Search for images of nebulae captured by the Hubble Space Telescope and assist in finding high-resolution images of celestial objects.",
+    "phase2_query_coverage": 6
+  },
+  "nebula_finder": {
+    "description": "Identify and retrieve images of nebulae captured by the Hubble Space Telescope and other space observatories.",
+    "phase2_query_coverage": 6
+  },
+  "hubble_images": {
+    "description": "Retrieve images of celestial bodies captured by the Hubble Space Telescope and show me high-resolution images of distant galaxies.",
+    "phase2_query_coverage": 6
+  },
+  "exoplanet_imagery_request": {
+    "description": "Request detailed imagery of exoplanets discovered recently and assist with locating images captured by the Hubble Telescope.",
+    "phase2_query_coverage": 6
+  },
+  "artisticrenderings": {
+    "description": "Search for artistic renderings of black holes based on scientific data and provide annotated images of the Milky Way galaxy.",
+    "phase2_query_coverage": 6
+  },
+  "artistic_representations": {
+    "description": "Retrieve artistic representations of black holes and artistic renderings of exoplanetary systems.",
+    "phase2_query_coverage": 6
+  },
+  "black_hole_art_generator": {
+    "description": "Retrieve artistic representations of black holes and explore artistic renderings of hypothetical exoplanetary environments.",
+    "phase2_query_coverage": 6
+  },
+  "artistic_renderings": {
+    "description": "Search for artistic renderings of exoplanetary systems and black holes based on scientific data, including artistic renderings based on real cosmic events.",
+    "phase2_query_coverage": 3
+  },
+  "planetary_surface_analyzer": {
+    "description": "A tool suitable for detailed explanations of planetary surface images and analyzing astronomical photographs.",
+    "phase2_query_coverage": 6
+  },
+  "milky_way_visuals_1": {
+    "description": "Find images illustrating the Milky Way galaxy as seen from Earth and locate space visuals depicting the formation of stars.",
+    "phase2_query_coverage": 0
+  },
+  "astro_photo_analyzer": {
+    "description": "A tool designed for analyzing astronomical photographs, providing detailed explanations of planetary surface images and clarifying the contents of images from space telescopes.",
+    "phase2_query_coverage": 6
+  },
+  "astronomical_analysis_tool": {
+    "description": "A tool designed for analyzing astronomical photographs, including detailed explanations of planetary surface images and clarifying the contents of images from space telescopes.",
+    "phase2_query_coverage": 6
+  },
+  "space_photo_analyzer": {
+    "description": "What tools are available to analyze space photographs and provide detailed descriptions for space-related images.",
+    "phase2_query_coverage": 5
+  },
+  "iss_photo_locator": {
+    "description": "Locate photos showcasing the International Space Station in orbit, as well as from Earth's perspective.",
+    "phase2_query_coverage": 5
+  },
+  "iss_photos": {
+    "description": "Locate images taken from the International Space Station and discover photographs of the International Space Station from Earth's perspective.",
+    "phase2_query_coverage": 5
+  },
+  "iss_photo_locator_1": {
+    "description": "Locate images taken from the International Space Station and discover photographs of the International Space Station from Earth's perspective.",
+    "phase2_query_coverage": 0
+  },
+  "earth_landscape_viewer": {
+    "description": "Find landscapes of Earth taken from the International Space Station and access detailed satellite imagery of Earth.",
+    "phase2_query_coverage": 5
+  },
+  "iss_image_locator": {
+    "description": "Locate images taken from the International Space Station, providing a unique perspective of Earth and space.",
+    "phase2_query_coverage": 5
+  },
+  "exoplanet_searcher": {
+    "description": "Locate pictures of exoplanets discovered recently and search for artistic renderings of exoplanetary systems.",
+    "phase2_query_coverage": 5
+  },
+  "exoplanet_image_locator": {
+    "description": "Locate photos of exoplanets discovered recently and find high-resolution space images showcasing nebulas.",
+    "phase2_query_coverage": 5
+  },
+  "apollo_mission_images": {
+    "description": "Access 'historic images from the Apollo lunar missions' and 'detailed photos of the moon's craters taken during Apollo missions'.",
+    "phase2_query_coverage": 5
+  },
+  "exoplanet_image_finder": {
+    "description": "Locate pictures of exoplanets discovered recently and find images illustrating the Milky Way galaxy as seen from Earth.",
+    "phase2_query_coverage": 5
+  },
+  "mars_surface_explorer": {
+    "description": "Search for pictures of Mars' surface taken by the latest rovers, including visuals from recent Mars rover missions.",
+    "phase2_query_coverage": 4
+  },
+  "apollo_archive": {
+    "description": "Retrieve historic images from the Apollo lunar missions and locate detailed images of the lunar surface.",
+    "phase2_query_coverage": 4
+  },
+  "night_earth_images": {
+    "description": "Find recent satellite images of Earth at night and access detailed satellite imagery of Earth.",
+    "phase2_query_coverage": 4
+  },
+  "night_earth_imagery": {
+    "description": "Find recent satellite images of Earth at night and access detailed satellite imagery of Earth.",
+    "phase2_query_coverage": 4
+  },
+  "satellite_viewer": {
+    "description": "Access detailed satellite imagery of Earth and provide satellite images of Earth at night showing city light patterns.",
+    "phase2_query_coverage": 4
+  },
+  "satellite_imagery_access": {
+    "description": "Access detailed satellite imagery of Earth and retrieve satellite images of Earth at night showing city light patterns.",
+    "phase2_query_coverage": 4
+  },
+  "apollo_retriever": {
+    "description": "Retrieve historic images from the Apollo lunar missions and access comparative visuals of planetary surfaces within our Solar System.",
+    "phase2_query_coverage": 4
+  },
+  "lunar_image_locator": {
+    "description": "Locate detailed images of the lunar surface and retrieve historic images from the Apollo lunar missions.",
+    "phase2_query_coverage": 4
+  },
+  "lunar_surface_images": {
+    "description": "Locate detailed images of the lunar surface and retrieve historic images from the Apollo lunar missions.",
+    "phase2_query_coverage": 4
+  },
+  "supernova_gallery": {
+    "description": "Analyze pictures illustrating the formation of a supernova and find high-resolution pictures of distant galaxies.",
+    "phase2_query_coverage": 4
+  },
+  "high_res_image_finder": {
+    "description": "Can you assist me in finding high-resolution images of celestial objects, including Mars surface photos taken by the Perseverance Rover?",
+    "phase2_query_coverage": 4
+  },
+  "high_res_galaxy_viewer": {
+    "description": "Show high-resolution images of the Andromeda Galaxy and high-resolution images of distant galaxies captured by space telescopes.",
+    "phase2_query_coverage": 4
+  },
+  "planetary_visuals_1": {
+    "description": "Access comparative visuals of planetary surfaces within our Solar System, including Mars and other celestial bodies.",
+    "phase2_query_coverage": 0
+  },
+  "scene_explain_tool": {
+    "description": "Can SceneXplain clarify the contents of this image from a space telescope and explain the content of astronomical photos?",
+    "phase2_query_coverage": 3
+  },
+  "nebula_gallery": {
+    "description": "Find high-resolution space images showcasing nebulas and images of nebulae captured by NASA's telescopes.",
+    "phase2_query_coverage": 3
+  },
+  "nebula_visuals": {
+    "description": "Find high-resolution space images showcasing nebulas and images of nebulae captured by NASA's telescopes.",
+    "phase2_query_coverage": 3
+  },
+  "scene_explain": {
+    "description": "Can SceneXplain clarify the contents of this image from a space telescope and explain the content of astronomical photos.",
+    "phase2_query_coverage": 3
+  },
+  "exoplanet_study_tool": {
+    "description": "How would NASATool be employed to study exoplanetary atmospheres and explore stellar phenomena using the stellarexplorer tool?",
+    "phase2_query_coverage": 3
+  },
+  "scene_explainer": {
+    "description": "Can SceneXplain clarify the contents of this image from a space telescope and identify the celestial body in this photograph?",
+    "phase2_query_coverage": 3
+  },
+  "scene_clarifier": {
+    "description": "Can SceneXplain clarify the contents of this image from a space telescope and identify the celestial body in this photograph?",
+    "phase2_query_coverage": 3
+  },
+  "scene_explainer_1": {
+    "description": "Can SceneXplain clarify the contents of this image from a space telescope and explain the features visible in the latest Hubble telescope image?",
+    "phase2_query_coverage": 0
+  },
+  "satellite_image_archive": {
+    "description": "Access historical satellite images of Earth from the past decade and recent satellite images of Earth at night.",
+    "phase2_query_coverage": 2
+  },
+  "mars_rover_gallery_1": {
+    "description": "Find images of the latest Mars rover missions and provide visual comparisons between Earth and Mars.",
+    "phase2_query_coverage": 0
+  },
+  "constellation_locator": {
+    "description": "Resources to search for specific constellations in images and identify celestial bodies in photographs.",
+    "phase2_query_coverage": 3
+  },
+  "constellation_search_tool": {
+    "description": "Help me search for specific constellations in astronomical datasets and provide a list of tools for researching astronomical images.",
+    "phase2_query_coverage": 3
+  },
+  "james_webb_photos": {
+    "description": "Show me the most recent photographs taken by the James Webb Space Telescope and explain the features visible in the latest Hubble telescope image.",
+    "phase2_query_coverage": 3
+  },
+  "constellation_search": {
+    "description": "Help me search for specific constellations in astronomical datasets and locate space visuals depicting the formation of stars.",
+    "phase2_query_coverage": 3
+  },
+  "constellation_finder": {
+    "description": "A resource to search for specific constellations in images and assist in finding high-resolution images of celestial objects.",
+    "phase2_query_coverage": 3
+  },
+  "nasa_photos": {
+    "description": "Retrieve recent NASA space photos and explain their significance, including the features visible in the latest Hubble telescope image.",
+    "phase2_query_coverage": 3
+  },
+  "constellation_resources": {
+    "description": "Find resources to search for specific constellations in images, including deep-space images with high contrast and clarity.",
+    "phase2_query_coverage": 3
+  },
+  "supernova_visual_analyzer": {
+    "description": "Analyze pictures illustrating the formation of a supernova and retrieve artistic renderings based on real cosmic events.",
+    "phase2_query_coverage": 3
+  },
+  "nebula_gallery_1": {
+    "description": "Finds images of nebulae captured by NASA's telescopes and explains the details of the Orion Nebula seen in this image.",
+    "phase2_query_coverage": 0
+  },
+  "celestial_body_identifier": {
+    "description": "Can you identify the celestial body in this photograph and assist in finding high-resolution images of celestial objects?",
+    "phase2_query_coverage": 3
+  },
+  "nebula_visuals_1": {
+    "description": "Discover images of nebulae captured by NASA's telescopes and find detailed space photographs of the Orion Nebula.",
+    "phase2_query_coverage": 0
+  },
+  "hubble_image_analyzer": {
+    "description": "Explain the features visible in the latest Hubble telescope image and identify deep-space images with high contrast and clarity.",
+    "phase2_query_coverage": 3
+  },
+  "solar_photography": {
+    "description": "Explore images showing solar flares and their description, as well as space phenomena captured during solar eclipses.",
+    "phase2_query_coverage": 2
+  },
+  "celestial_identifier": {
+    "description": "Can you identify the celestial body in this photograph? This tool assists in identifying and labeling features in photos of the night sky.",
+    "phase2_query_coverage": 3
+  },
+  "exoplanet_imager": {
+    "description": "This tool provides detailed imagery of exoplanets discovered recently and explains how NASATool would be employed to study exoplanetary atmospheres.",
+    "phase2_query_coverage": 3
+  },
+  "celestial_identifier_1": {
+    "description": "Can you identify the celestial body in this photograph? This tool helps label features in photos of the night sky.",
+    "phase2_query_coverage": 0
+  },
+  "exoplanet_study_tool_1": {
+    "description": "Explains how NASATool would be employed to study exoplanetary atmospheres and analyzes pictures illustrating the formation of a supernova.",
+    "phase2_query_coverage": 0
+  },
+  "ultraviolet_sun_images": {
+    "description": "Search for some ultraviolet spectrum images of the sun and find images illustrating the Milky Way galaxy as seen from Earth.",
+    "phase2_query_coverage": 2
+  },
+  "exoplanet_imagery_tool": {
+    "description": "This tool provides detailed imagery of exoplanets discovered recently and explains how NASATool can be employed to study exoplanetary atmospheres.",
+    "phase2_query_coverage": 3
+  },
+  "deep_space_image_searcher": {
+    "description": "Identify deep-space images with high contrast and clarity and look up space phenomena captured during solar eclipses.",
+    "phase2_query_coverage": 3
+  },
+  "artistic_renderings_1": {
+    "description": "Explore artistic renderings based on real cosmic events, artistic renderings of hypothetical exoplanetary environments, and artistic depictions of the Milky Way galaxy.",
+    "phase2_query_coverage": 0
+  },
+  "nebula_analysis": {
+    "description": "This tool explains the details of the Orion Nebula seen in this image and provides photographs of nebulae along with their scientific annotations.",
+    "phase2_query_coverage": 3
+  },
+  "hubble_archive": {
+    "description": "Access available pictures from the Hubble Space Telescope archives and explain the features visible in the latest Hubble telescope image.",
+    "phase2_query_coverage": 3
+  },
+  "hubble_archive_1": {
+    "description": "Access available pictures from the Hubble Space Telescope archives and locate images showcasing the International Space Station in orbit.",
+    "phase2_query_coverage": 0
+  },
+  "nebula_explanation": {
+    "description": "Explain the contents of uploaded images of nebulae and assist with identifying and labeling features in photos of the night sky.",
+    "phase2_query_coverage": 3
+  },
+  "nebula_inspector": {
+    "description": "This tool explains the contents of uploaded images of nebulae and identifies deep-space images with high contrast and clarity.",
+    "phase2_query_coverage": 3
+  },
+  "nebula_photography": {
+    "description": "A tool that provides photographs of nebulae along with their scientific annotations, and explains the details of the Orion Nebula seen in this image.",
+    "phase2_query_coverage": 3
+  },
+  "nebula_explorer": {
+    "description": "This tool provides photographs of nebulae along with their scientific annotations and explains the details of the Orion Nebula seen in images.",
+    "phase2_query_coverage": 3
+  },
+  "celestial_events": {
+    "description": "Find pictures of rare celestial events, such as supernovae, and analyze pictures illustrating the formation of a supernova.",
+    "phase2_query_coverage": 2
+  },
+  "annotated_images": {
+    "description": "Explain the features of the Andromeda Galaxy through annotated images and provide photographs of nebulae along with their scientific annotations.",
+    "phase2_query_coverage": 2
+  },
+  "planetary_visuals_comparator": {
+    "description": "Access comparative visuals of planetary surfaces within our Solar System and provide visual comparisons between Earth and Mars.",
+    "phase2_query_coverage": 2
+  },
+  "star_formation_visuals": {
+    "description": "Locate space visuals depicting the formation of stars and provide detailed visuals of star systems.",
+    "phase2_query_coverage": 2
+  },
+  "hubble_space_telescope_archives": {
+    "description": "Are there available pictures from the Hubble Space Telescope archives, including the latest images taken by the Hubble Space Telescope?",
+    "phase2_query_coverage": 2
+  },
+  "milky_way_locator": {
+    "description": "Suggest an approach to locate images of the Milky Way galaxy and assist in finding high-resolution images of celestial objects.",
+    "phase2_query_coverage": 2
+  },
+  "solar_flare_search": {
+    "description": "Search for images showing solar flares and their description, including ultraviolet spectrum images of the sun.",
+    "phase2_query_coverage": 2
+  },
+  "celestial_event_finder": {
+    "description": "Find pictures of rare celestial events, such as supernovae, and locate space visuals depicting the formation of stars.",
+    "phase2_query_coverage": 2
+  },
+  "infrared_photo_display": {
+    "description": "Display infrared space photographs revealing hidden celestial structures and identify deep-space images with high contrast and clarity.",
+    "phase2_query_coverage": 2
+  },
+  "gravity_illustration_images": {
+    "description": "Search for educational images illustrating the concept of gravity in space, including images showing solar flares and their description.",
+    "phase2_query_coverage": 2
+  },
+  "supernova_analysis": {
+    "description": "Analyze pictures illustrating the formation of a supernova, providing educational insights into astronomical events.",
+    "phase2_query_coverage": 2
+  },
+  "planetary_size_comparator": {
+    "description": "Display images comparing the size of planets in our solar system and provide detailed visuals of star systems.",
+    "phase2_query_coverage": 2
+  },
+  "planetary_comparison": {
+    "description": "Display images comparing the size of planets in our solar system and provide detailed visuals of star systems.",
+    "phase2_query_coverage": 2
+  },
+  "eclipse_photography": {
+    "description": "Look up space phenomena captured during solar eclipses and identify images showcasing the stages of a solar eclipse.",
+    "phase2_query_coverage": 2
+  },
+  "solar_eclipse_image_identifier": {
+    "description": "Look up space phenomena captured during solar eclipses and identify images showcasing the stages of a solar eclipse.",
+    "phase2_query_coverage": 2
+  },
+  "mars_surface_collection": {
+    "description": "I need a collection of Mars surface pictures for research purposes and educational images illustrating the concept of gravity in space.",
+    "phase2_query_coverage": 1
+  },
+  "astronomy_image_research": {
+    "description": "Provide a list of tools for researching astronomical images and accessing a library of space exploration imagery.",
+    "phase2_query_coverage": 2
+  },
+  "gravity_illustration_finder": {
+    "description": "Search for educational images illustrating the concept of gravity in space and locate images of the Milky Way galaxy.",
+    "phase2_query_coverage": 2
+  },
+  "educational_images": {
+    "description": "Search for educational images illustrating the concept of gravity in space and locate space visuals depicting the formation of stars.",
+    "phase2_query_coverage": 2
+  },
+  "infrared_space_viewer": {
+    "description": "Display infrared space photographs revealing hidden celestial structures and provide annotated pictures of black holes and their surrounding areas.",
+    "phase2_query_coverage": 2
+  },
+  "gravity_illustrations": {
+    "description": "Search for educational images illustrating the concept of gravity in space and images showing solar flares and their description.",
+    "phase2_query_coverage": 2
+  },
+  "solar_eclipse_visuals": {
+    "description": "Identify images showcasing the stages of a solar eclipse and look up space phenomena captured during solar eclipses.",
+    "phase2_query_coverage": 2
+  },
+  "image_database_access": {
+    "description": "Access the image database for the Cassini spacecraft and find a platform that offers a library of space exploration imagery.",
+    "phase2_query_coverage": 2
+  },
+  "astronomical_image_tools": {
+    "description": "Provide a list of tools for researching astronomical images, including resources that identify celestial bodies in telescope photos.",
+    "phase2_query_coverage": 2
+  },
+  "solar_photography_1": {
+    "description": "Search for 'images showing solar flares and their description' and 'ultraviolet spectrum images of the sun'.",
+    "phase2_query_coverage": 0
+  },
+  "satellite_image_retriever": {
+    "description": "Retrieve annotated satellite images of the polar ice caps and find historical satellite images of Earth from the past decade.",
+    "phase2_query_coverage": 2
+  },
+  "recent_photographs": {
+    "description": "Find the most recent photographs taken by the James Webb Space Telescope and other observatories, including infrared space photographs revealing hidden celestial structures.",
+    "phase2_query_coverage": 2
+  },
+  "nasa_photo_retriever": {
+    "description": "Retrieve recent NASA space photos and explain their significance, including infrared space photographs revealing hidden celestial structures.",
+    "phase2_query_coverage": 2
+  },
+  "satellite_image_archive_1": {
+    "description": "This tool provides access to historical satellite images of Earth from the past decade and options for searching and interpreting satellite images of Earth.",
+    "phase2_query_coverage": 0
+  },
+  "nasa_image_tool": {
+    "description": "Retrieve recent NASA space photos and explain their significance, including images depicting the Apollo 11 moon landing.",
+    "phase2_query_coverage": 2
+  },
+  "stellar_photography_explorer": {
+    "description": "Can you explore stellar phenomena using the stellarexplorer tool and access pictures from the Hubble Space Telescope archives?",
+    "phase2_query_coverage": 2
+  },
+  "cassini_access": {
+    "description": "Access the image database for the Cassini spacecraft and retrieve recent NASA space photos and explain their significance.",
+    "phase2_query_coverage": 2
+  },
+  "satellite_retriever": {
+    "description": "Retrieves annotated satellite images of the polar ice caps and finds historical satellite images of Earth from the past decade.",
+    "phase2_query_coverage": 2
+  },
+  "polar_ice_images": {
+    "description": "Retrieves annotated satellite images of the polar ice caps and provides historical satellite images of Earth from the past decade.",
+    "phase2_query_coverage": 2
+  },
+  "night_sky_feature_identifier": {
+    "description": "How can I identify and label features in photos of the night sky and provide annotated pictures of black holes and their surrounding areas.",
+    "phase2_query_coverage": 2
+  },
+  "space_image_library": {
+    "description": "A platform that offers a library of space exploration imagery, including a collection of space-themed wallpapers.",
+    "phase2_query_coverage": 2
+  },
+  "planetary_comparison_tool": {
+    "description": "Display images comparing the size of planets in our solar system and provide close-up images of Saturn's rings.",
+    "phase2_query_coverage": 2
+  },
+  "polar_ice_cap_viewer": {
+    "description": "Access annotated satellite images of the polar ice caps and display infrared space photographs revealing hidden celestial structures.",
+    "phase2_query_coverage": 2
+  },
+  "nasa_photo_retriever_1": {
+    "description": "Retrieve recent NASA space photos and explain their significance, including visuals from recent Mars rover missions and the latest photographs taken by the James Webb Space Telescope.",
+    "phase2_query_coverage": 0
+  },
+  "satellite_image_explorer": {
+    "description": "A platform that offers a library of space exploration imagery, including recent satellite images of Earth at night and options for searching and interpreting satellite images of Earth.",
+    "phase2_query_coverage": 2
+  },
+  "satellite_image_interpreter": {
+    "description": "This tool provides options for searching and interpreting satellite images of Earth and retrieves annotated satellite images of the polar ice caps.",
+    "phase2_query_coverage": 2
+  },
+  "space_exploration_library": {
+    "description": "A platform that offers a library of space exploration imagery, including access to the image database for the Cassini spacecraft.",
+    "phase2_query_coverage": 2
+  },
+  "ultraviolet_sun_images_1": {
+    "description": "Find some ultraviolet spectrum images of the sun and display the most recent photographs taken by the James Webb Space Telescope.",
+    "phase2_query_coverage": 0
+  },
+  "james_webb_image_viewer": {
+    "description": "Show me the most recent photographs taken by the James Webb Space Telescope and provide close-up images of Saturn's rings.",
+    "phase2_query_coverage": 2
+  },
+  "space_wallpapers": {
+    "description": "Give me a collection of space-themed wallpapers and search for pictures of Mars' surface taken by the latest rovers.",
+    "phase2_query_coverage": 1
+  },
+  "moon_crater_archivist": {
+    "description": "Find detailed photos of the moon's craters taken during Apollo missions and close-up images of Saturn's rings.",
+    "phase2_query_coverage": 2
+  },
+  "ultraviolet_sun_images_2": {
+    "description": "What are some ultraviolet spectrum images of the sun and how would NASATool be employed to study exoplanetary atmospheres?",
+    "phase2_query_coverage": 0
+  },
+  "feature_identification": {
+    "description": "A tool to identify and label features in photos of the night sky and explain the capabilities of jini in categorizing celestial photographs.",
+    "phase2_query_coverage": 2
+  },
+  "moon_crater_explorer": {
+    "description": "Search for detailed photos of the moon's craters taken during Apollo missions and find close-up images of Saturn's rings.",
+    "phase2_query_coverage": 2
+  },
+  "nebula_image_analyzer": {
+    "description": "Allows users to explain the contents of uploaded images of nebulae and provides annotated pictures of black holes.",
+    "phase2_query_coverage": 2
+  },
+  "mars_surface_collection_1": {
+    "description": "This tool provides a 'collection of Mars surface pictures for research purposes' and 'are there any detailed photos of the moon's craters taken during Apollo missions?'.",
+    "phase2_query_coverage": 0
+  },
+  "satellite_image_tool": {
+    "description": "Offers options for searching and interpreting satellite images of Earth, including close-up images of Saturn's rings.",
+    "phase2_query_coverage": 2
+  },
+  "satellite_analysis": {
+    "description": "A tool that offers options for searching and interpreting satellite images of Earth and accessing the image database for the Cassini spacecraft.",
+    "phase2_query_coverage": 2
+  },
+  "mars_surface_collection_2": {
+    "description": "I need a collection of Mars surface pictures for research purposes and discover images related to planetary surfaces.",
+    "phase2_query_coverage": 0
+  },
+  "stellar_explorer": {
+    "description": "Can you explore stellar phenomena using the stellarexplorer tool? This tool allows users to delve into various stellar phenomena and their visual representations.",
+    "phase2_query_coverage": 1
+  },
+  "celestial_photo_categorizer": {
+    "description": "What are the capabilities of jini in categorizing celestial photographs? This tool categorizes and organizes astronomical images.",
+    "phase2_query_coverage": 1
+  },
+  "cassini_database": {
+    "description": "Access the image database for the Cassini spacecraft, which includes a variety of astronomical images and data.",
+    "phase2_query_coverage": 1
+  },
+  "apollo_moon_photos": {
+    "description": "Are there any detailed photos of the moon's craters taken during Apollo missions and locate detailed images of the lunar surface.",
+    "phase2_query_coverage": 1
+  },
+  "space_wallpapers_collection": {
+    "description": "Give me a collection of space-themed wallpapers that include various celestial visuals.",
+    "phase2_query_coverage": 1
+  },
+  "space_wallpapers_1": {
+    "description": "Give me a collection of space-themed wallpapers that includes various celestial images and artistic representations.",
+    "phase2_query_coverage": 0
+  },
+  "space_wallpaper_collection": {
+    "description": "Give me a collection of space-themed wallpapers, including artistic representations and high-resolution images.",
+    "phase2_query_coverage": 1
+  },
+  "jini_capabilities": {
+    "description": "What are the capabilities of jini in categorizing celestial photographs and what tools provide detailed descriptions for space-related images?",
+    "phase2_query_coverage": 1
+  },
+  "nebula_explanation_tool": {
+    "description": "Explain the contents of this uploaded image of a nebula and clarify the contents of this image from a space telescope.",
+    "phase2_query_coverage": 1
+  },
+  "exoplanet_imagery": {
+    "description": "Request detailed imagery of exoplanets discovered recently and provide detailed visuals of star systems.",
+    "phase2_query_coverage": 1
+  },
+  "apollo_archives": {
+    "description": "Retrieve historic images from the Apollo lunar missions and access available pictures from the Hubble Space Telescope archives.",
+    "phase2_query_coverage": 1
+  },
+  "jini_categorization_tool": {
+    "description": "Utilize the capabilities of jini in categorizing celestial photographs, including tools for researching astronomical images.",
+    "phase2_query_coverage": 1
+  },
+  "exoplanet_renderings": {
+    "description": "Search for artistic renderings of exoplanetary systems and request detailed visuals of star systems.",
+    "phase2_query_coverage": 1
+  },
+  "jini_categorization": {
+    "description": "Explore the capabilities of jini in categorizing celestial photographs, including those from various space missions and significant astronomical events.",
+    "phase2_query_coverage": 1
+  },
+  "stellar_explorer_1": {
+    "description": "Explore stellar phenomena using the stellarexplorer tool, which allows users to investigate various aspects of stars and their environments.",
+    "phase2_query_coverage": 0
+  },
+  "nebula_analyzer": {
+    "description": "Explain the contents of this uploaded image of a nebula and can SceneXplain clarify the contents of this image from a space telescope?",
+    "phase2_query_coverage": 1
+  },
+  "stellar_photography": {
+    "description": "This tool focuses on 'stellar phenomena' and allows users to 'explore stellar phenomena using the stellarexplorer tool'.",
+    "phase2_query_coverage": 1
+  }
+}

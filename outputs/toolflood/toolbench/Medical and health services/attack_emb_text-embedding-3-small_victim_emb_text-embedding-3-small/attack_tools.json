@@ -1,0 +1,450 @@
+{
+  "genetic_predisposition_assessment": {
+    "description": "Can I assess my genetic predisposition to specific health conditions and what genetic markers influence drug response tendencies?",
+    "phase2_query_coverage": 14
+  },
+  "global_covid_statistics": {
+    "description": "Provide global statistics on the current coronavirus situation and the latest global statistics for COVID-19 cases.",
+    "phase2_query_coverage": 1
+  },
+  "covid_statistics": {
+    "description": "Provides global statistics on the current coronavirus situation and recent global COVID-19 statistics.",
+    "phase2_query_coverage": 1
+  },
+  "global_statistics": {
+    "description": "Provides the latest global statistics on COVID-19 cases and updates on coronavirus statistics for selected regions.",
+    "phase2_query_coverage": 12
+  },
+  "covid_statistics_1": {
+    "description": "Provides the latest global statistics on COVID-19 cases and statistics available for coronavirus spread in specific regions.",
+    "phase2_query_coverage": 0
+  },
+  "health_risk_identifier": {
+    "description": "Identify potential health risks through genetic analysis and assess the correlation between Neanderthal genetics and health traits.",
+    "phase2_query_coverage": 12
+  },
+  "covid_statistics_2": {
+    "description": "Provides the latest global statistics for COVID-19 cases, including a summary of the current coronavirus impact globally and statistics available for coronavirus spread in my region.",
+    "phase2_query_coverage": 0
+  },
+  "grocery_mobility": {
+    "description": "Analyzes the economic impacts on grocery mobility observed during COVID-19 and current trends in grocery mobility due to COVID-19.",
+    "phase2_query_coverage": 11
+  },
+  "virtual_triage": {
+    "description": "Lists resources available for virtual triage consultations and provides options for virtual health consultations.",
+    "phase2_query_coverage": 11
+  },
+  "economic_impact": {
+    "description": "Analyzes the economic impact of COVID-19 on grocery mobility and healthcare accessibility during the pandemic.",
+    "phase2_query_coverage": 2
+  },
+  "covid_impact": {
+    "description": "Examines the economic impacts on grocery mobility during COVID-19 and how these trends affect public health.",
+    "phase2_query_coverage": 11
+  },
+  "virtual_triage_resources": {
+    "description": "Lists resources available for virtual triage consultations and accessing virtual health care services.",
+    "phase2_query_coverage": 11
+  },
+  "virtual_health_access": {
+    "description": "A resource for accessing virtual health care services, including virtual triage consultations for medical advice.",
+    "phase2_query_coverage": 11
+  },
+  "virtual_triage_resources_1": {
+    "description": "Offers information on virtual triage consultations for medical advice and what resources are available for accessing virtual health care services.",
+    "phase2_query_coverage": 0
+  },
+  "mobility_pattern_insight": {
+    "description": "Examines how mobility patterns affect grocery access during health crises and the most significant economic impact due to COVID-19.",
+    "phase2_query_coverage": 11
+  },
+  "virtual_health_resources": {
+    "description": "A comprehensive resource for accessing virtual health care services, including information on virtual triage consultations for medical advice and available virtual tools for triage consultations.",
+    "phase2_query_coverage": 11
+  },
+  "mobility_trends": {
+    "description": "Provides mobility trends related to the pandemic, including how mobility affects grocery shopping during the pandemic.",
+    "phase2_query_coverage": 11
+  },
+  "genetic_health_tool": {
+    "description": "Analyzes personal genetic predispositions to health conditions, including the relationship between Neanderthal DNA and modern health conditions.",
+    "phase2_query_coverage": 11
+  },
+  "genetic_analysis": {
+    "description": "Provide insights on genetic risks associated with specific diseases and assess genetic predisposition to health conditions.",
+    "phase2_query_coverage": 10
+  },
+  "neanderthal_dna_insights": {
+    "description": "Explore the relationship between Neanderthal DNA and modern health conditions, including genetic predisposition to specific health conditions.",
+    "phase2_query_coverage": 10
+  },
+  "neanderthal_health_correlation": {
+    "description": "Explore the correlation between Neanderthal genetics and health traits, including the correlation between Neanderthal DNA and modern disease risks.",
+    "phase2_query_coverage": 10
+  },
+  "drug_response_data": {
+    "description": "Offers data on genetic predispositions related to drug responses, including common responses to medications based on genetic markers.",
+    "phase2_query_coverage": 10
+  },
+  "drug_response_data_1": {
+    "description": "Provides data on genetic predispositions related to drug responses and common responses to medications based on genetic markers.",
+    "phase2_query_coverage": 0
+  },
+  "neanderthal_health": {
+    "description": "Explore the correlation between Neanderthal genetics and health traits, including the relationship with modern health conditions.",
+    "phase2_query_coverage": 10
+  },
+  "drug_response_variations": {
+    "description": "Explore drug response variations based on genetic markers and how genetic factors influence drug responses.",
+    "phase2_query_coverage": 10
+  },
+  "drug_response_markers": {
+    "description": "Identifies genetic markers that influence drug response tendencies and variations based on these genetic markers.",
+    "phase2_query_coverage": 10
+  },
+  "genetic_insights": {
+    "description": "Provides insights on genetic risks associated with specific diseases and assesses genetic predisposition to certain conditions.",
+    "phase2_query_coverage": 1
+  },
+  "health_insights": {
+    "description": "Provides insights on genetic risks associated with specific diseases and assesses genetic predisposition to specific health conditions.",
+    "phase2_query_coverage": 8
+  },
+  "health_risks": {
+    "description": "Offers insights on genetic risks associated with specific diseases and assesses genetic predisposition to specific health conditions.",
+    "phase2_query_coverage": 1
+  },
+  "partnerships_in_health": {
+    "description": "Discusses how partnerships can improve health service accessibility and the key partners in Mobilis health initiatives.",
+    "phase2_query_coverage": 6
+  },
+  "partnerships_health_access": {
+    "description": "Examines how partnerships can improve health service accessibility and identifies key partners in Mobilis health initiatives.",
+    "phase2_query_coverage": 6
+  },
+  "health_partnerships": {
+    "description": "A resource for understanding how partnerships can improve health service accessibility and the key partners in Mobilis health initiatives.",
+    "phase2_query_coverage": 1
+  },
+  "partnership_analysis": {
+    "description": "Analyzes how partnerships can improve health service accessibility and identifies key partners in Mobilis health initiatives.",
+    "phase2_query_coverage": 6
+  },
+  "genetic_risk_insights": {
+    "description": "Offer insights on genetic risks associated with specific diseases and the potential health risks identified through genetic analysis.",
+    "phase2_query_coverage": 5
+  },
+  "health_partners": {
+    "description": "Find healthcare partners for collaborative projects, including key partners in Mobilis health initiatives.",
+    "phase2_query_coverage": 5
+  },
+  "mobility_trends_tracker": {
+    "description": "Tracks mobility trends related to the pandemic and how mobility patterns influence public health services.",
+    "phase2_query_coverage": 5
+  },
+  "mobility_patterns": {
+    "description": "This tool examines how mobility patterns influence public health services and provides mobility trends related to the pandemic.",
+    "phase2_query_coverage": 4
+  },
+  "economic_impact_1": {
+    "description": "Explores the economic impact of the pandemic on health services and grocery availability, detailing which areas have seen the most significant economic impact due to COVID-19.",
+    "phase2_query_coverage": 0
+  },
+  "mobility_trends_insight": {
+    "description": "A tool that analyzes how mobility patterns influence public health services and provides insights into how the pandemic influenced mobility trends in urban areas.",
+    "phase2_query_coverage": 5
+  },
+  "public_health_relationship_mapper": {
+    "description": "Explains the relationship between mobility trends and public health measures, particularly during the pandemic.",
+    "phase2_query_coverage": 4
+  },
+  "economic_impact_report": {
+    "description": "Lists the economic effects of the COVID-19 pandemic on healthcare services and identifies which areas have seen the most significant economic impact due to COVID-19.",
+    "phase2_query_coverage": 4
+  },
+  "economic_impact_covid": {
+    "description": "Lists the economic effects of the COVID-19 pandemic on healthcare services and identifies areas that have seen the most significant economic impact due to COVID-19.",
+    "phase2_query_coverage": 4
+  },
+  "economic_health_impact": {
+    "description": "Analyzes the economic impact of COVID-19 on healthcare services and how economic factors have affected healthcare accessibility during the pandemic.",
+    "phase2_query_coverage": 4
+  },
+  "mobility_patterns_1": {
+    "description": "Examines how mobility patterns influence public health services and healthcare access.",
+    "phase2_query_coverage": 0
+  },
+  "global_health_statistics": {
+    "description": "Provides current statistics on global health trends, including trends in COVID-19 vaccination rates worldwide.",
+    "phase2_query_coverage": 4
+  },
+  "health_partnerships_1": {
+    "description": "Explains the role of partnerships in enhancing mobile health services and accessing partner data for mobile health initiatives.",
+    "phase2_query_coverage": 0
+  },
+  "covid_statistics_3": {
+    "description": "Provides an update on coronavirus statistics for a selected region and summarizes the current coronavirus impact globally.",
+    "phase2_query_coverage": 0
+  },
+  "covid_statistics_4": {
+    "description": "Provides current global statistics for COVID-19 cases and recoveries, including statistics available for coronavirus spread in my region.",
+    "phase2_query_coverage": 0
+  },
+  "regional_covid_data": {
+    "description": "Provides statistics available for coronavirus spread in specific regions.",
+    "phase2_query_coverage": 3
+  },
+  "economic_impact_study": {
+    "description": "Analyzes the economic impact of COVID-19 on healthcare services and how economic factors have affected healthcare accessibility during the pandemic.",
+    "phase2_query_coverage": 3
+  },
+  "global_health_data": {
+    "description": "Provides access to global coronavirus statistics by country and current statistics on global health trends.",
+    "phase2_query_coverage": 3
+  },
+  "global_health_data_1": {
+    "description": "Access comprehensive data on global health services and general statistics on global health trends for 2023.",
+    "phase2_query_coverage": 0
+  },
+  "global_health_data_2": {
+    "description": "Provides comprehensive data on global health services, including general statistics on global health trends for 2023.",
+    "phase2_query_coverage": 0
+  },
+  "global_health_trends_tool": {
+    "description": "A tool that provides general statistics on global health trends for 2023, along with comprehensive data on global health services.",
+    "phase2_query_coverage": 3
+  },
+  "economic_impact_analysis": {
+    "description": "Analyzes how economic factors have affected healthcare accessibility during the pandemic, including mobility's effect on grocery shopping.",
+    "phase2_query_coverage": 1
+  },
+  "health_service_planner": {
+    "description": "Utilizes mobility data to assist in planning health services, ensuring that healthcare access is optimized in response to current trends.",
+    "phase2_query_coverage": 2
+  },
+  "genetic_marker_risks": {
+    "description": "Identify risks associated with specific genetic markers identified by 23andMe and the genetic risks associated with certain inherited conditions.",
+    "phase2_query_coverage": 2
+  },
+  "covid_data_access": {
+    "description": "Access real-time COVID-19 data for research purposes and statistical data for specific countries.",
+    "phase2_query_coverage": 2
+  },
+  "real_time_covid_data": {
+    "description": "Allows access to real-time COVID-19 data for research purposes, including COVID-19 statistical data for specific countries.",
+    "phase2_query_coverage": 2
+  },
+  "covid19_data_access": {
+    "description": "Allows access to real-time COVID-19 data for research purposes, including statistical data for specific countries.",
+    "phase2_query_coverage": 2
+  },
+  "genetic_data_analyzer": {
+    "description": "Analyze genetic data to assess health risks and provide insights into genetic predispositions.",
+    "phase2_query_coverage": 2
+  },
+  "health_sector_resources": {
+    "description": "Identify what resources are available for partners in the health sector and what services are offered by mobilization partners in health emergencies.",
+    "phase2_query_coverage": 2
+  },
+  "health_risks_1": {
+    "description": "Identifies potential health risks associated with specific genetic markers identified by 23andMe.",
+    "phase2_query_coverage": 0
+  },
+  "partner_data_access": {
+    "description": "Facilitates access to partner data for mobile health initiatives and resources available for partners in the health sector.",
+    "phase2_query_coverage": 2
+  },
+  "global_health_services": {
+    "description": "Access comprehensive data on global health services and resources available for partners in the health sector.",
+    "phase2_query_coverage": 2
+  },
+  "global_health_resources": {
+    "description": "Access comprehensive data on global health services and resources available for partners in the health sector.",
+    "phase2_query_coverage": 2
+  },
+  "mobile_health_partnerships": {
+    "description": "A resource for accessing partner data for mobile health initiatives and understanding the role of partners in mobilizing healthcare initiatives.",
+    "phase2_query_coverage": 2
+  },
+  "partner_data_access_1": {
+    "description": "This tool allows access to partner data for mobile health initiatives and services offered by mobilization partners in health emergencies.",
+    "phase2_query_coverage": 0
+  },
+  "healthcare_access_trends": {
+    "description": "Examines current trends in mobility related to healthcare access and how economic factors have affected healthcare accessibility during the pandemic.",
+    "phase2_query_coverage": 2
+  },
+  "mobile_health_data_access": {
+    "description": "A resource for accessing partner data for mobile health initiatives and understanding what services are offered by mobilization partners in health emergencies.",
+    "phase2_query_coverage": 2
+  },
+  "economic_impact_2": {
+    "description": "Analyzes which areas have seen the most significant economic impact due to COVID-19 and how economic factors affected healthcare accessibility during the pandemic.",
+    "phase2_query_coverage": 0
+  },
+  "global_health_trends": {
+    "description": "Presents general statistics on global health trends for 2023 and current trends in mobility related to healthcare access.",
+    "phase2_query_coverage": 2
+  },
+  "genetic_risk_analysis": {
+    "description": "A tool to analyze genetic data to assess health risks, including the risks associated with specific genetic markers identified by 23andMe.",
+    "phase2_query_coverage": 2
+  },
+  "covid19_data_access_1": {
+    "description": "A tool for accessing real-time COVID-19 data for research purposes, summarizing the total confirmed and recovered COVID-19 cases worldwide.",
+    "phase2_query_coverage": 0
+  },
+  "pandemic_service_navigator": {
+    "description": "This tool explains the procedure to use health services for pandemic-related inquiries and provides information about services offered by mobilization partners in health emergencies.",
+    "phase2_query_coverage": 2
+  },
+  "health_data_analysis_tool": {
+    "description": "A tool for analyzing health-related genetic data and understanding the risks associated with specific genetic markers identified by 23andMe.",
+    "phase2_query_coverage": 2
+  },
+  "pandemic_services": {
+    "description": "A resource that explains the procedure to use health services for pandemic-related inquiries and provides access to real-time COVID-19 data for research purposes.",
+    "phase2_query_coverage": 2
+  },
+  "health_data_analysis": {
+    "description": "A tool for analyzing health-related genetic data, providing insights into risks associated with specific genetic markers identified by 23andMe.",
+    "phase2_query_coverage": 2
+  },
+  "lifestyle_health_risks": {
+    "description": "Identifies the main health risks associated with modern lifestyle choices and the long-term health impacts observed in COVID-19 survivors.",
+    "phase2_query_coverage": 1
+  },
+  "pandemic_service_navigator_1": {
+    "description": "A guide that explains the procedure to use health services for pandemic-related inquiries and outlines what services are offered by mobilization partners in health emergencies.",
+    "phase2_query_coverage": 0
+  },
+  "genetic_insights_1": {
+    "description": "Offers insights on genetic risks associated with specific diseases and inherited conditions.",
+    "phase2_query_coverage": 0
+  },
+  "health_statistics_dashboard": {
+    "description": "Lists the current global statistics for COVID-19 cases and recoveries, summarizing total confirmed and recovered COVID-19 cases worldwide.",
+    "phase2_query_coverage": 1
+  },
+  "long_term_health_effects": {
+    "description": "Details the long-term health impacts observed in COVID-19 survivors.",
+    "phase2_query_coverage": 1
+  },
+  "personal_genetic_assessor": {
+    "description": "A tool to analyze personal genetic predispositions to health conditions and determine genetic predisposition to certain diseases.",
+    "phase2_query_coverage": 1
+  },
+  "covid_statistics_5": {
+    "description": "Provides current global statistics for COVID-19 cases and recoveries, including total confirmed and recovered COVID-19 cases worldwide.",
+    "phase2_query_coverage": 0
+  },
+  "pandemic_resources": {
+    "description": "Explain the procedure to use health services for pandemic-related inquiries and provide resources available for partners in the health sector.",
+    "phase2_query_coverage": 1
+  },
+  "long_term_covid_impacts": {
+    "description": "Provide insights into the long-term health impacts observed in COVID-19 survivors.",
+    "phase2_query_coverage": 1
+  },
+  "covid_statistics_6": {
+    "description": "Provides the latest global statistics on COVID-19 cases and recoveries, including current updates in the global COVID-19 pandemic.",
+    "phase2_query_coverage": 0
+  },
+  "pandemic_inquiries": {
+    "description": "Explains the procedure to use health services for pandemic-related inquiries, guiding users through the process of accessing necessary information.",
+    "phase2_query_coverage": 1
+  },
+  "global_covid_statistics_1": {
+    "description": "Provides the latest global statistics for COVID-19 cases and recoveries, including current updates in the global COVID-19 pandemic.",
+    "phase2_query_coverage": 0
+  },
+  "global_covid_updates": {
+    "description": "Summarizes the total confirmed and recovered COVID-19 cases worldwide and provides updates in the global COVID-19 pandemic.",
+    "phase2_query_coverage": 1
+  },
+  "health_partnerships_2": {
+    "description": "Explains the role of partnerships in enhancing mobile health services and how to find healthcare partners for collaborative projects.",
+    "phase2_query_coverage": 0
+  },
+  "covid_statistics_tracker": {
+    "description": "Summarize the total confirmed and recovered COVID-19 cases worldwide and provide the latest updates in the global COVID-19 pandemic.",
+    "phase2_query_coverage": 1
+  },
+  "economic_impact_analysis_1": {
+    "description": "Analyzes the economic impact of COVID-19 on healthcare services and identifies which areas have seen the most significant economic impact due to COVID-19.",
+    "phase2_query_coverage": 0
+  },
+  "covid_statistics_tracker_1": {
+    "description": "Provide the latest updates on coronavirus statistics worldwide and recent global COVID-19 statistics.",
+    "phase2_query_coverage": 0
+  },
+  "health_partnerships_3": {
+    "description": "Explores the role of partnerships in enhancing mobile health services and how to find healthcare partners for collaborative projects.",
+    "phase2_query_coverage": 0
+  },
+  "mobility_analysis": {
+    "description": "Explains the relationship between mobility trends and public health measures and analyzes current trends in mobility related to healthcare access.",
+    "phase2_query_coverage": 1
+  },
+  "covid_statistics_7": {
+    "description": "Provides the latest global statistics for COVID-19 cases and updates in the global COVID-19 pandemic.",
+    "phase2_query_coverage": 0
+  },
+  "covid_statistics_8": {
+    "description": "Offers the latest global statistics on COVID-19 cases and updates in the global COVID-19 pandemic.",
+    "phase2_query_coverage": 0
+  },
+  "healthcare_collaboration": {
+    "description": "Discover how to find healthcare partners for collaborative projects, enhancing the effectiveness of health services.",
+    "phase2_query_coverage": 1
+  },
+  "covid_statistics_dashboard": {
+    "description": "Provides global statistics on the current coronavirus situation, including trends in COVID-19 vaccination rates worldwide.",
+    "phase2_query_coverage": 1
+  },
+  "health_statistics": {
+    "description": "Provides global statistics on the current coronavirus situation and trends in COVID-19 vaccination rates worldwide.",
+    "phase2_query_coverage": 1
+  },
+  "healthcare_partners_finder": {
+    "description": "A resource for finding healthcare partners for collaborative projects, including key partners in Mobilis health initiatives.",
+    "phase2_query_coverage": 1
+  },
+  "health_risks_2": {
+    "description": "Examines the main health risks associated with modern lifestyle choices, providing insights into how these choices affect overall health.",
+    "phase2_query_coverage": 0
+  },
+  "covid_statistics_9": {
+    "description": "Provides the latest global statistics on COVID-19 cases and vaccination rates, including trends in COVID-19 vaccination rates worldwide.",
+    "phase2_query_coverage": 0
+  },
+  "long_term_covid_effects": {
+    "description": "This tool details the long-term health impacts observed in COVID-19 survivors, offering insights into the ongoing effects of the virus.",
+    "phase2_query_coverage": 1
+  },
+  "long_term_impacts": {
+    "description": "Investigates the long-term health impacts observed in COVID-19 survivors and their relevance to ongoing health initiatives.",
+    "phase2_query_coverage": 1
+  },
+  "health_risk_assessment": {
+    "description": "Assesses potential health risks identified through genetic analysis and the genetic risks associated with certain inherited conditions.",
+    "phase2_query_coverage": 1
+  },
+  "lifestyle_health_risks_1": {
+    "description": "A resource that describes the main health risks associated with modern lifestyle choices and their implications for public health.",
+    "phase2_query_coverage": 0
+  },
+  "lifestyle_health_risks_2": {
+    "description": "A resource that outlines the main health risks associated with modern lifestyle choices and their implications on public health.",
+    "phase2_query_coverage": 0
+  },
+  "covid_statistics_10": {
+    "description": "Provides the latest global statistics on COVID-19 cases and trends in COVID-19 vaccination rates worldwide.",
+    "phase2_query_coverage": 0
+  },
+  "lifestyle_risks": {
+    "description": "Identify the main health risks associated with modern lifestyle choices, including the influence of Neanderthal DNA on modern health risks and disease predispositions.",
+    "phase2_query_coverage": 1
+  }
+}

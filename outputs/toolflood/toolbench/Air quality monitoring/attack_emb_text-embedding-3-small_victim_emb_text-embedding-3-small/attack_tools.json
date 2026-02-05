@@ -1,0 +1,598 @@
+{
+  "historical_air_quality_data": {
+    "description": "Can provide historical air quality data for Los Angeles over the past week and what was the air quality index during the past month in Paris.",
+    "phase2_query_coverage": 10
+  },
+  "air_quality_forecast": {
+    "description": "Can I get a forecast of the air quality for this weekend and provide a forecast of air quality levels in Los Angeles for the next week?",
+    "phase2_query_coverage": 1
+  },
+  "historical_air_quality": {
+    "description": "Can provide historical air quality data for Los Angeles for the past week and detailed historical air pollution data for the last year.",
+    "phase2_query_coverage": 10
+  },
+  "air_quality_forecaster": {
+    "description": "Provide a forecast of air quality for Los Angeles over the next week and can I get a forecast of the air quality for this weekend.",
+    "phase2_query_coverage": 3
+  },
+  "historical_air_quality_data_1": {
+    "description": "Provide detailed historical air quality data for various cities, including Los Angeles over the past week and trends over the past year.",
+    "phase2_query_coverage": 0
+  },
+  "pollutant_analysis": {
+    "description": "What are the main pollutants affecting air quality in San Francisco and which pollutants are present in the air currently?",
+    "phase2_query_coverage": 1
+  },
+  "regional_pollution": {
+    "description": "Identify which areas in my region currently have the highest pollution levels and which areas in London are experiencing poor air quality today.",
+    "phase2_query_coverage": 7
+  },
+  "pollution_level_locator": {
+    "description": "Identifies which areas in my region currently have the highest pollution levels and which areas in London are experiencing poor air quality today.",
+    "phase2_query_coverage": 7
+  },
+  "health_implications_aqi": {
+    "description": "Explains the health implications of today's air quality index.",
+    "phase2_query_coverage": 6
+  },
+  "weekend_trend_analysis": {
+    "description": "Forecast the air pollution trend for the upcoming weekend in London and compare today's air quality with last week's average.",
+    "phase2_query_coverage": 6
+  },
+  "real_time_measurements": {
+    "description": "Retrieves real-time air quality measurements for specific locations and compares air quality between two cities today.",
+    "phase2_query_coverage": 1
+  },
+  "monthly_trend_analyzer": {
+    "description": "Analyze how air quality has changed over the past month in cities like Chicago, and compare today's air quality with last week's average.",
+    "phase2_query_coverage": 6
+  },
+  "health_impact_assessment": {
+    "description": "Assesses the health implications based on the air quality index, including the health impact of today's air quality in cities like Chicago and Toronto.",
+    "phase2_query_coverage": 5
+  },
+  "global_pollution_comparison": {
+    "description": "Compare the air quality index between cities globally and identify which areas in London are experiencing poor air quality today.",
+    "phase2_query_coverage": 6
+  },
+  "real_time_index": {
+    "description": "Access the current air quality index in your area and retrieve real-time air quality measurements for specific addresses or cities.",
+    "phase2_query_coverage": 6
+  },
+  "pollution_trends": {
+    "description": "Examines historical trends of air quality improvement in major metropolitan areas and how air quality has changed in the past month in your city.",
+    "phase2_query_coverage": 3
+  },
+  "real_time_measurements_1": {
+    "description": "Retrieves real-time air quality measurements for specific locations and current air quality index in areas like New York City.",
+    "phase2_query_coverage": 0
+  },
+  "air_quality_index": {
+    "description": "Retrieves the current air quality index in my location and provides air quality measurements for my location right now.",
+    "phase2_query_coverage": 2
+  },
+  "real_time_air_quality": {
+    "description": "Retrieves real-time air quality measurements for specific addresses and multiple cities worldwide, including current air quality index for New York City.",
+    "phase2_query_coverage": 6
+  },
+  "pollutant_analysis_1": {
+    "description": "Identifies the main pollutants affecting air quality in cities like San Francisco and assesses the health impact of today's air quality in Chicago.",
+    "phase2_query_coverage": 0
+  },
+  "health_impact_assessment_1": {
+    "description": "What is the health impact of today's air quality in Chicago and what health precautions should I take based on today's air pollution levels?",
+    "phase2_query_coverage": 0
+  },
+  "health_implications": {
+    "description": "Provides health implications based on the air quality index, including health precautions to take based on today's air pollution levels and the health impact caused by current air quality in Toronto.",
+    "phase2_query_coverage": 2
+  },
+  "air_quality_trend": {
+    "description": "Describes the air quality trend over the past year and provides forecasted air pollution trends for the upcoming weekend in London.",
+    "phase2_query_coverage": 5
+  },
+  "health_implications_1": {
+    "description": "Provides health implications based on the air quality index for cities like Toronto and how it impacts individuals with respiratory conditions.",
+    "phase2_query_coverage": 0
+  },
+  "historical_data_explorer": {
+    "description": "Provides detailed historical air pollution data for the last year, including how air quality has changed over the past month in various cities.",
+    "phase2_query_coverage": 5
+  },
+  "air_quality_forecast_1": {
+    "description": "Predict tomorrow's air quality conditions for Chicago and adjacent areas and provide the forecasted air pollution trend for the upcoming weekend in London.",
+    "phase2_query_coverage": 0
+  },
+  "city_pollution_comparison": {
+    "description": "Compares air quality between two cities today and how does the air quality in Beijing today compare to last week.",
+    "phase2_query_coverage": 5
+  },
+  "current_pollutants": {
+    "description": "Identifies which pollutants are present in the air currently and what are the main pollutants affecting air quality in San Francisco.",
+    "phase2_query_coverage": 5
+  },
+  "pollution_levels": {
+    "description": "Identifies which cities currently have the highest air pollution levels worldwide and which areas in London are experiencing poor air quality today.",
+    "phase2_query_coverage": 2
+  },
+  "current_index": {
+    "description": "Provides the current air quality index for specific locations, including the current air quality index in my area and New York City.",
+    "phase2_query_coverage": 5
+  },
+  "current_pollution_levels": {
+    "description": "Identifies which city currently has the highest pollution levels globally and provides the current air quality index in my city.",
+    "phase2_query_coverage": 5
+  },
+  "current_air_quality_index": {
+    "description": "Retrieves the current air quality index in your city or location, allowing you to check the air quality measurements for multiple cities around the world.",
+    "phase2_query_coverage": 5
+  },
+  "health_implications_2": {
+    "description": "Retrieves the health implications based on the air quality index for Toronto and explains how the air quality impacts health risks in urban areas.",
+    "phase2_query_coverage": 0
+  },
+  "activity_recommender": {
+    "description": "Can you recommend outdoor activities based on today's air quality and suggest measures to improve air quality locally.",
+    "phase2_query_coverage": 4
+  },
+  "pollution_prevention_tips": {
+    "description": "Get suggestions on ways to minimize the impact of poor air quality on health, especially during high pollution levels.",
+    "phase2_query_coverage": 4
+  },
+  "local_air_quality_measures": {
+    "description": "Suggest measures to improve air quality locally and provide precautions during high air pollution levels in specific cities.",
+    "phase2_query_coverage": 4
+  },
+  "pollutant_identifier": {
+    "description": "Identify specific pollutants affecting air quality today, including the main pollutants affecting the air quality in San Francisco.",
+    "phase2_query_coverage": 4
+  },
+  "pollution_variation": {
+    "description": "Examines how the air pollution level in Beijing today compares to last week and how air quality has changed in the past month in my city.",
+    "phase2_query_coverage": 4
+  },
+  "weather_impact_analysis": {
+    "description": "Analyze how weather conditions affect air quality in urban areas and how does carbon footprint relate to air quality changes in urban areas.",
+    "phase2_query_coverage": 3
+  },
+  "pollutants_info": {
+    "description": "Identify the main pollutants affecting air quality in San Francisco and suggest measures to improve air quality locally.",
+    "phase2_query_coverage": 1
+  },
+  "respiratory_impact": {
+    "description": "Evaluate how the air quality in your location impacts individuals with respiratory conditions and health risks in urban areas.",
+    "phase2_query_coverage": 4
+  },
+  "carbon_footprint_analysis": {
+    "description": "Examine how carbon footprint relates to air quality changes in urban areas and suggest measures to improve air cleanliness.",
+    "phase2_query_coverage": 4
+  },
+  "air_quality_forecast_2": {
+    "description": "Provides the air quality forecast for the next week in Paris and how the air quality forecast looks for Chicago over the next three days.",
+    "phase2_query_coverage": 0
+  },
+  "weather_air_quality_relation": {
+    "description": "Explains how weather influences air quality in urban areas and how the air quality in specific locations impacts individuals with respiratory conditions.",
+    "phase2_query_coverage": 4
+  },
+  "air_quality_forecast_3": {
+    "description": "This tool offers air quality forecasts for specific cities, detailing how the air quality forecast looks for Berlin over the next three days and predicting tomorrow's air quality conditions for Chicago and adjacent areas.",
+    "phase2_query_coverage": 0
+  },
+  "pollution_trend_analyzer": {
+    "description": "Analyzes air quality trends, describing the air quality trend over the past year and how the air pollution level in Beijing today compares to last week.",
+    "phase2_query_coverage": 4
+  },
+  "air_quality_forecast_4": {
+    "description": "Provides air quality forecasts for the next three days in cities like Chicago and for the next week in New York.",
+    "phase2_query_coverage": 0
+  },
+  "city_pollution_levels": {
+    "description": "Identifies which city currently has the highest pollution levels globally and provides air quality comparisons between two cities today.",
+    "phase2_query_coverage": 4
+  },
+  "pollutant_analysis_2": {
+    "description": "Identify the primary pollutants affecting air quality in specific areas, such as Chicago today, and analyze how weather conditions impact air quality in urban areas.",
+    "phase2_query_coverage": 0
+  },
+  "city_pollution_comparator": {
+    "description": "This tool compares the air quality index between cities globally, including which city currently has the highest pollution levels, and how the air quality compares between two cities today.",
+    "phase2_query_coverage": 4
+  },
+  "weather_impact_assessor": {
+    "description": "Analyze how weather conditions affect air quality in urban areas, providing insights into the correlation between carbon footprint and air pollution.",
+    "phase2_query_coverage": 2
+  },
+  "global_pollution_insights": {
+    "description": "Provides global air quality insights for environmental studies, including which city currently has the highest pollution levels globally and historical trends of air quality improvement in major metropolitan areas.",
+    "phase2_query_coverage": 4
+  },
+  "forecast_air_quality": {
+    "description": "This tool provides the air quality forecast for the next week, including predicted air pollution levels for specific cities like Berlin and Paris.",
+    "phase2_query_coverage": 4
+  },
+  "forecasting_tool": {
+    "description": "Provides air quality forecasts for the next week in major cities such as Paris and New York, and predicts air pollution levels for Berlin tomorrow.",
+    "phase2_query_coverage": 4
+  },
+  "pollution_measurements": {
+    "description": "Retrieves air quality measurements for multiple cities around the world, including current air quality index in New York City.",
+    "phase2_query_coverage": 4
+  },
+  "real_time_air_quality_index": {
+    "description": "Provides the current air quality index for major cities including New York City, San Francisco, and Los Angeles.",
+    "phase2_query_coverage": 4
+  },
+  "pollution_precautions": {
+    "description": "Provide health precautions and recommendations based on the current air quality index, especially during 'high air pollution levels'.",
+    "phase2_query_coverage": 2
+  },
+  "historical_air_quality_trend": {
+    "description": "Describes the air quality trend over the past year and how has the air quality in Beijing changed over the past decade.",
+    "phase2_query_coverage": 3
+  },
+  "city_comparison": {
+    "description": "Compares the air quality indices of Paris and Berlin and how the air quality compares between two cities today.",
+    "phase2_query_coverage": 2
+  },
+  "yearly_trend_analyzer": {
+    "description": "Describe the air quality trend over the past year, providing insights into improvements and changes in air quality across various metropolitan areas.",
+    "phase2_query_coverage": 3
+  },
+  "pollutants_identifier": {
+    "description": "Identify the key pollutants affecting air quality at this location and determine the main pollutants affecting air quality in London.",
+    "phase2_query_coverage": 3
+  },
+  "pollution_trend_forecast": {
+    "description": "Provides forecasted air pollution trends for upcoming weekends and air quality forecast for Berlin over the next three days.",
+    "phase2_query_coverage": 3
+  },
+  "urban_air_cleanliness": {
+    "description": "What measures can be taken to improve air cleanliness in urban areas and what are the main pollutants affecting air quality in New York City?",
+    "phase2_query_coverage": 3
+  },
+  "outdoor_activity_recommendation": {
+    "description": "Can recommend outdoor activities based on today's air quality and preventive measures that can be taken during periods of low air quality.",
+    "phase2_query_coverage": 3
+  },
+  "historical_air_quality_trends": {
+    "description": "Access historical trends of air quality improvement in major metropolitan areas and typical air quality trends during winter months in cities like Tokyo.",
+    "phase2_query_coverage": 3
+  },
+  "health_precautions_advice": {
+    "description": "Provides health precautions based on today's air quality forecast and current air quality index in cities like Tokyo.",
+    "phase2_query_coverage": 2
+  },
+  "precaution_advisory": {
+    "description": "Offers precautions to take based on today's air quality forecast and the current air quality index in cities like Tokyo.",
+    "phase2_query_coverage": 3
+  },
+  "pollution_trend": {
+    "description": "Forecasts air pollution trends for the upcoming weekend and the next week in various cities, including London and Berlin.",
+    "phase2_query_coverage": 3
+  },
+  "weather_correlation_tool": {
+    "description": "Examine the correlation between weather patterns and air quality levels in Tokyo, and how carbon footprint relates to air quality changes in urban areas.",
+    "phase2_query_coverage": 3
+  },
+  "urban_rural_comparison": {
+    "description": "Provide a comparison of air quality between urban and rural regions, highlighting significant variations in pollution levels.",
+    "phase2_query_coverage": 3
+  },
+  "vehicle_emissions_impact": {
+    "description": "Analyze how vehicle emissions influence air quality in urban areas and the correlation between carbon footprint and air pollution in cities.",
+    "phase2_query_coverage": 1
+  },
+  "global_air_insights": {
+    "description": "This tool provides global air quality insights for environmental studies, including real-time air quality data for multiple cities worldwide.",
+    "phase2_query_coverage": 3
+  },
+  "global_air_quality_insights": {
+    "description": "This tool provides global air quality insights for environmental studies and can access real-time air quality data for multiple cities worldwide.",
+    "phase2_query_coverage": 2
+  },
+  "monthly_change_report": {
+    "description": "Reports on how air quality has changed in cities like Chicago and New York City over the past month.",
+    "phase2_query_coverage": 3
+  },
+  "air_quality_index_1": {
+    "description": "Provides the current air quality index for various locations, including downtown Chicago and San Francisco.",
+    "phase2_query_coverage": 0
+  },
+  "preventive_measures_guide": {
+    "description": "Suggests preventive measures that can be taken during periods of low air quality, helping to improve air cleanliness in urban areas.",
+    "phase2_query_coverage": 3
+  },
+  "pollution_trends_1": {
+    "description": "Analyzes historical trends of air quality improvement in major metropolitan areas and how air quality has changed in cities like Chicago and New York over the past month.",
+    "phase2_query_coverage": 0
+  },
+  "urban_rural_comparison_1": {
+    "description": "Compares air quality between urban and rural regions, including sources of air pollution in both areas.",
+    "phase2_query_coverage": 0
+  },
+  "monthly_analysis": {
+    "description": "Analyzes how the air quality has changed over the past month in San Francisco and compares the air pollution level in Beijing today to last week.",
+    "phase2_query_coverage": 3
+  },
+  "urban_vs_rural_analyzer": {
+    "description": "Compares air quality between urban and rural regions, highlighting differences in pollution sources and levels.",
+    "phase2_query_coverage": 3
+  },
+  "urban_rural_comparison_2": {
+    "description": "Compares air quality between urban and rural regions, highlighting differences in pollutants and sources of air pollution.",
+    "phase2_query_coverage": 0
+  },
+  "weather_impact": {
+    "description": "Analyzes the impact of weather conditions on air quality in cities like Mumbai and describes typical air quality trends during winter months in Tokyo.",
+    "phase2_query_coverage": 3
+  },
+  "historical_trends": {
+    "description": "This tool provides detailed historical air pollution data for the last year and analyzes how the air quality changed in New York City over the past month.",
+    "phase2_query_coverage": 3
+  },
+  "pollution_trends_2": {
+    "description": "Analyzes typical air quality trends during winter months in cities like Tokyo and compares air quality indices of cities like Paris and Berlin.",
+    "phase2_query_coverage": 0
+  },
+  "historical_comparison": {
+    "description": "Compares today's air quality with last week's average and analyzes how the air quality has changed in cities like Beijing and Chicago over the past month.",
+    "phase2_query_coverage": 3
+  },
+  "pollution_comparison": {
+    "description": "Compare air quality between urban and rural regions, including historical trends and current pollution levels.",
+    "phase2_query_coverage": 3
+  },
+  "weather_impact_analysis_1": {
+    "description": "Analyzes the impact of weather conditions on air quality in specific cities, such as Mumbai, and provides insights into typical air quality trends during winter months in Tokyo.",
+    "phase2_query_coverage": 0
+  },
+  "air_quality_forecaster_1": {
+    "description": "This tool provides air quality forecasts for the next week in cities like Paris and analyzes typical air quality trends during winter months in Tokyo.",
+    "phase2_query_coverage": 0
+  },
+  "local_air_quality_improvement": {
+    "description": "Suggest measures to improve air quality locally and minimize health impacts.",
+    "phase2_query_coverage": 2
+  },
+  "pollutants_effects": {
+    "description": "Detail the primary pollutants affecting air quality in cities like Chicago today.",
+    "phase2_query_coverage": 2
+  },
+  "global_air_quality_insights_1": {
+    "description": "Provide global air quality insights for environmental studies and fetch detailed air quality data using Ambee for New York City.",
+    "phase2_query_coverage": 0
+  },
+  "city_comparison_1": {
+    "description": "Compare air quality measurements between Paris and Tokyo for today and compare today's air quality with last week's average.",
+    "phase2_query_coverage": 0
+  },
+  "current_air_quality": {
+    "description": "Provide air quality measurements for my location right now and what is the current air quality index in my area?",
+    "phase2_query_coverage": 2
+  },
+  "historical_data_retrieval": {
+    "description": "Provides historical air quality data for cities like Beijing over the past year and analyzes changes over the past decade.",
+    "phase2_query_coverage": 2
+  },
+  "real_time_measurements_2": {
+    "description": "Accesses real-time air quality measurements for a specific location, including particulate matter concentrations.",
+    "phase2_query_coverage": 0
+  },
+  "health_implications_3": {
+    "description": "Retrieve the health implications based on the air quality index for Toronto and what health precautions should I take based on the current air quality index in Tokyo.",
+    "phase2_query_coverage": 0
+  },
+  "global_air_quality_monitor": {
+    "description": "Recommend tools for monitoring air quality on a global scale, providing insights into health risks and pollution trends.",
+    "phase2_query_coverage": 2
+  },
+  "primary_pollutants": {
+    "description": "Identifies the primary pollutants affecting air quality in cities like Chicago today.",
+    "phase2_query_coverage": 2
+  },
+  "pollution_precautions_1": {
+    "description": "Suggest precautions that should be taken during high air pollution levels in cities like Delhi and ways to minimize the impact of poor air quality on health.",
+    "phase2_query_coverage": 0
+  },
+  "health_precautions_advice_1": {
+    "description": "Offers health precautions based on today's air pollution levels and the current air quality index in Tokyo.",
+    "phase2_query_coverage": 0
+  },
+  "city_comparison_2": {
+    "description": "Allows users to compare the air quality measurements between Paris and Tokyo for today and compare the air quality indices of Paris and Berlin.",
+    "phase2_query_coverage": 0
+  },
+  "health_precautions_advisor": {
+    "description": "Offers health precautions based on the current air quality index in Tokyo and alerts or warnings related to air pollution for Tokyo today.",
+    "phase2_query_coverage": 2
+  },
+  "outdoor_activity_recommender": {
+    "description": "Can recommend outdoor activities based on today's air quality and suggest cities with better air quality for travel planning based on current data.",
+    "phase2_query_coverage": 2
+  },
+  "current_air_quality_1": {
+    "description": "Provides air quality measurements for my location right now and reports the current air quality index in my city.",
+    "phase2_query_coverage": 0
+  },
+  "pollution_precautions_2": {
+    "description": "Recommend precautions that should be taken during high air pollution levels in Delhi and suggest outdoor activities based on today's air quality.",
+    "phase2_query_coverage": 0
+  },
+  "respiratory_health_impact": {
+    "description": "Explores how air quality impacts respiratory health over time, particularly for individuals with respiratory conditions.",
+    "phase2_query_coverage": 1
+  },
+  "respiratory_health_impact_1": {
+    "description": "Explores how air quality impacts respiratory health over time and how the air quality in my location impacts individuals with respiratory conditions.",
+    "phase2_query_coverage": 0
+  },
+  "pollution_precautions_3": {
+    "description": "Suggest precautions to be taken during high air pollution levels, tailored to specific cities like Delhi, and provide recommendations for outdoor activities based on today's air quality.",
+    "phase2_query_coverage": 0
+  },
+  "pollution_levels_1": {
+    "description": "Identify which areas in a region currently have the highest pollution levels, including specific pollutants affecting air quality today.",
+    "phase2_query_coverage": 0
+  },
+  "weather_impact_assessor_1": {
+    "description": "Evaluate the impact of weather conditions on air quality in cities like Mumbai and Tokyo, assessing correlations between weather patterns and air quality levels.",
+    "phase2_query_coverage": 0
+  },
+  "main_pollutants": {
+    "description": "Identifies the main pollutants affecting air quality in New York City and other urban areas, including the influence of vehicle emissions.",
+    "phase2_query_coverage": 2
+  },
+  "air_quality_index_2": {
+    "description": "Provides the air quality index and evaluates how air quality has changed in Chicago over the past month.",
+    "phase2_query_coverage": 0
+  },
+  "regional_pollution_levels": {
+    "description": "Identify which areas in a region currently have the highest pollution levels, including districts in cities like London.",
+    "phase2_query_coverage": 2
+  },
+  "city_comparison_3": {
+    "description": "Compares air quality indices of different cities, such as comparing the air quality indices of Paris and Berlin, and suggests cities with better air quality for travel planning based on current data.",
+    "phase2_query_coverage": 0
+  },
+  "trend_analysis_tool": {
+    "description": "This tool analyzes historical trends of air quality improvement in major metropolitan areas and compares the air quality index in Mumbai last month.",
+    "phase2_query_coverage": 2
+  },
+  "travel_air_quality": {
+    "description": "Suggests cities with better air quality for travel planning based on current data and alerts or warnings related to air pollution for Tokyo today.",
+    "phase2_query_coverage": 1
+  },
+  "district_pollution_comparison": {
+    "description": "This tool compares air pollution levels across different districts, highlighting significant variations in air pollution levels across different districts of London and comparing air quality indices of cities like Paris and Berlin.",
+    "phase2_query_coverage": 2
+  },
+  "air_quality_index_3": {
+    "description": "Retrieves the current air quality index for cities like Los Angeles and downtown Chicago.",
+    "phase2_query_coverage": 0
+  },
+  "air_quality_index_4": {
+    "description": "Retrieves the air quality index for various cities, including historical data on air quality for last month and current air quality index in San Francisco.",
+    "phase2_query_coverage": 0
+  },
+  "health_impact": {
+    "description": "Explores how air quality impacts respiratory health over time, including the influence of vehicle emissions on air quality in urban areas.",
+    "phase2_query_coverage": 2
+  },
+  "monthly_air_quality_index": {
+    "description": "Provides the air quality index during the past month in Paris and retrieves the air quality index in Mumbai last month.",
+    "phase2_query_coverage": 2
+  },
+  "pollutant_analysis_3": {
+    "description": "Analyzes the main pollutants affecting air quality in urban areas, such as New York City and the impact of vehicle emissions.",
+    "phase2_query_coverage": 0
+  },
+  "monthly_air_quality": {
+    "description": "This tool retrieves the air quality index during the past month in Paris and provides the air quality index in Mumbai last month.",
+    "phase2_query_coverage": 2
+  },
+  "monthly_air_quality_index_1": {
+    "description": "This tool provides the air quality index during the past month for various cities, including Paris and Mumbai.",
+    "phase2_query_coverage": 0
+  },
+  "air_quality_index_5": {
+    "description": "Retrieves the current air quality index for any specified location, such as 'Los Angeles' or 'downtown Chicago'.",
+    "phase2_query_coverage": 0
+  },
+  "pollutant_analysis_4": {
+    "description": "This tool identifies the main pollutants affecting air quality in New York City and assesses the impact of weather conditions on air quality in Mumbai.",
+    "phase2_query_coverage": 0
+  },
+  "monthly_air_quality_report": {
+    "description": "This tool retrieves the air quality index during the past month in cities like Paris and Mumbai, providing a comprehensive view of air quality trends.",
+    "phase2_query_coverage": 2
+  },
+  "location_specific_index": {
+    "description": "A tool that retrieves the current air quality index for specific locations, including the current air quality index for Los Angeles and downtown Chicago.",
+    "phase2_query_coverage": 2
+  },
+  "pollutant_trends": {
+    "description": "Describes the key pollutants affecting air quality at a location and identifies which pollutants are present in the air currently.",
+    "phase2_query_coverage": 2
+  },
+  "travel_air_quality_1": {
+    "description": "Suggest cities with better air quality for travel planning based on current data.",
+    "phase2_query_coverage": 0
+  },
+  "real_time_measurements_3": {
+    "description": "Provides access to real-time measurements of particulate matter concentrations for cities like Mumbai.",
+    "phase2_query_coverage": 0
+  },
+  "real_time_pollution_tracker": {
+    "description": "Provides access to real-time measurements of particulate matter concentrations for cities like Mumbai and other locations.",
+    "phase2_query_coverage": 1
+  },
+  "real_time_measurements_4": {
+    "description": "Accesses real-time measurements of particulate matter concentrations for various cities, including the query 'Can I access real-time measurements of particulate matter concentrations for Mumbai?'",
+    "phase2_query_coverage": 0
+  },
+  "real_time_measurements_5": {
+    "description": "Accesses real-time measurements of particulate matter concentrations for specified cities like Mumbai.",
+    "phase2_query_coverage": 0
+  },
+  "global_monitoring_tools": {
+    "description": "Lists tools recommended for monitoring air quality on a global scale, as seen in 'What tools are recommended for monitoring air quality on a global scale?'",
+    "phase2_query_coverage": 1
+  },
+  "air_quality_forecast_5": {
+    "description": "Provides a forecast of air quality levels for the next week in various locations, including New York.",
+    "phase2_query_coverage": 0
+  },
+  "global_monitoring_tools_1": {
+    "description": "Recommends tools for monitoring air quality on a global scale, relevant to 'What tools are recommended for monitoring air quality on a global scale?'",
+    "phase2_query_coverage": 0
+  },
+  "respiratory_health_impact_2": {
+    "description": "Explain how air quality impacts respiratory health over time, considering current and historical data.",
+    "phase2_query_coverage": 0
+  },
+  "respiratory_health_impact_3": {
+    "description": "Explain how air quality impacts respiratory health over time, addressing concerns related to air pollution.",
+    "phase2_query_coverage": 0
+  },
+  "vehicle_emissions_impact_1": {
+    "description": "Explains how vehicle emissions influence air quality in urban areas, addressing the query 'How does vehicle emissions influence air quality in urban areas?'",
+    "phase2_query_coverage": 0
+  },
+  "san_francisco_air_quality_change": {
+    "description": "Analyzes how the air quality has changed over the past month in San Francisco.",
+    "phase2_query_coverage": 1
+  },
+  "pollutant_tracker": {
+    "description": "Identify the main pollutants affecting air quality in various cities, including the key pollutants affecting air quality at this location and in London.",
+    "phase2_query_coverage": 1
+  },
+  "pollutant_analysis_5": {
+    "description": "Identifies key pollutants affecting air quality at this location and the primary pollutants affecting air quality in Chicago today.",
+    "phase2_query_coverage": 0
+  },
+  "pollutants_analysis": {
+    "description": "Identifies the main pollutants affecting air quality in cities such as New York City.",
+    "phase2_query_coverage": 1
+  },
+  "pollution_data_retriever": {
+    "description": "This tool retrieves comprehensive air quality data, including historical air quality data for Los Angeles over the past month and the air quality index for various cities.",
+    "phase2_query_coverage": 1
+  },
+  "pollutants_analysis_1": {
+    "description": "Identifies the key pollutants affecting air quality at this location and provides the primary pollutants affecting air quality in Chicago today.",
+    "phase2_query_coverage": 0
+  },
+  "pollutants_info_1": {
+    "description": "Identify which pollutants are present in the air currently and 'specific pollutants affecting air quality today'.",
+    "phase2_query_coverage": 0
+  },
+  "pollutant_analysis_6": {
+    "description": "Identify which pollutants are present in the air currently and analyze their impact.",
+    "phase2_query_coverage": 0
+  },
+  "pollutants_analysis_2": {
+    "description": "Identify which pollutants are present in the air currently and their impact on health.",
+    "phase2_query_coverage": 0
+  }
+}

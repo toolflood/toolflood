@@ -1,0 +1,638 @@
+{
+  "trending_music": {
+    "description": "List the monthly top 100 music tracks currently and identify which songs are trending on YouTube Music this month.",
+    "phase2_query_coverage": 1
+  },
+  "top_songs": {
+    "description": "This tool lists the top 100 songs globally this week and the top trending music tracks on YouTube this month.",
+    "phase2_query_coverage": 16
+  },
+  "top_tracks": {
+    "description": "What are the current top-trending music tracks on YouTube and provide me with the top music tracks trending this month?",
+    "phase2_query_coverage": 15
+  },
+  "top_tracks_1": {
+    "description": "Find the top 100 music tracks from last month and the top 10 trending songs on YouTube Music this week.",
+    "phase2_query_coverage": 0
+  },
+  "trending_tracks_explorer": {
+    "description": "Explore 'the top music tracks trending this month' across various platforms and genres.",
+    "phase2_query_coverage": 15
+  },
+  "song_details": {
+    "description": "Retrieves detailed information about the song 'Imagine' by John Lennon.",
+    "phase2_query_coverage": 1
+  },
+  "lyrics_search": {
+    "description": "Find the lyrics for songs including 'Imagine' by John Lennon.",
+    "phase2_query_coverage": 1
+  },
+  "song_lyrics_finder": {
+    "description": "Can you find the lyrics for the song 'Imagine' by John Lennon and provide the lyrics to the song 'Imagine' by John Lennon?",
+    "phase2_query_coverage": 10
+  },
+  "lyrics_lookup": {
+    "description": "Finds the lyrics for the song 'Imagine' by John Lennon.",
+    "phase2_query_coverage": 10
+  },
+  "lyric_retrieval": {
+    "description": "Can you provide me the lyrics for the song 'Imagine' by John Lennon and find lyrics for the song 'Imagine' by John Lennon.",
+    "phase2_query_coverage": 2
+  },
+  "top_music_charts": {
+    "description": "List the monthly top 100 music tracks currently and what are the top music charts this month globally?",
+    "phase2_query_coverage": 8
+  },
+  "lyrics_meaning": {
+    "description": "Search for the meaning of the lyrics of songs like 'Bohemian Rhapsody'.",
+    "phase2_query_coverage": 6
+  },
+  "song_meaning": {
+    "description": "Search for the meaning of the lyrics of songs like 'Bohemian Rhapsody'.",
+    "phase2_query_coverage": 1
+  },
+  "lyric_retrieval_1": {
+    "description": "Can you find the lyrics for 'Bohemian Rhapsody' by Queen and retrieve the lyrics of the song 'Bohemian Rhapsody'.",
+    "phase2_query_coverage": 0
+  },
+  "lyrics_meaning_1": {
+    "description": "Search for the meaning of the lyrics of 'Bohemian Rhapsody' and can you find the lyrics for 'Bohemian Rhapsody' by Queen.",
+    "phase2_query_coverage": 0
+  },
+  "song_details_1": {
+    "description": "Retrieve details of songs such as 'Bohemian Rhapsody' by Queen, including their lyrics and interpretations.",
+    "phase2_query_coverage": 0
+  },
+  "music_lyrics_themes": {
+    "description": "Discover the lyrics and meanings of songs, including themes in the lyrics of 'Hotel California'.",
+    "phase2_query_coverage": 6
+  },
+  "lyrics_meaning_2": {
+    "description": "Identify the meaning behind the lyrics of the track 'Hotel California' and discover the lyrics and meanings of the song.",
+    "phase2_query_coverage": 0
+  },
+  "song_lyrics": {
+    "description": "Discover the lyrics of any song, including the lyrics and meanings of 'Hotel California'.",
+    "phase2_query_coverage": 6
+  },
+  "song_meanings": {
+    "description": "Identify the meaning behind the lyrics of the track 'Hotel California' and discover the lyrics and meanings of the song 'Hotel California'.",
+    "phase2_query_coverage": 6
+  },
+  "music_trending_songs": {
+    "description": "List the songs that are trending on YouTube Music this month and globally.",
+    "phase2_query_coverage": 6
+  },
+  "youtube_trending_videos": {
+    "description": "Which are the trending music videos on YouTube right now and show me the trending music tracks on YouTube this month?",
+    "phase2_query_coverage": 6
+  },
+  "song_meaning_exploration": {
+    "description": "What is the meaning behind the lyrics of 'Hotel California' and retrieve detailed information on the song 'Hotel California'.",
+    "phase2_query_coverage": 6
+  },
+  "artist_discography": {
+    "description": "Who is the artist behind the track 'Shape of You' and their discography and who is the artist behind the song 'Shape of You'?",
+    "phase2_query_coverage": 2
+  },
+  "monthly_charts": {
+    "description": "List the monthly top 100 music tracks currently and identify who is currently leading the monthly music charts.",
+    "phase2_query_coverage": 5
+  },
+  "artist_discography_1": {
+    "description": "Who is the artist behind the song 'Shape of You' and their discography?",
+    "phase2_query_coverage": 0
+  },
+  "albums_by_artist": {
+    "description": "List the albums released by the artist Adele and show all albums by the artist Adele on Genius.",
+    "phase2_query_coverage": 4
+  },
+  "song_creators": {
+    "description": "Find out who are the creators of the song 'Shape of You'.",
+    "phase2_query_coverage": 4
+  },
+  "artist_info_fetcher": {
+    "description": "Who is the artist behind the track 'Shape of You' and who are the creators of the song 'Shape of You'?",
+    "phase2_query_coverage": 4
+  },
+  "adele_discography": {
+    "description": "Show me all albums by the artist Adele on Genius and I'd like to know the albums released by the artist Adele.",
+    "phase2_query_coverage": 4
+  },
+  "artist_discography_2": {
+    "description": "Identify the artist behind the song 'Shape of You' and provide their discography.",
+    "phase2_query_coverage": 0
+  },
+  "albums_search": {
+    "description": "Identify albums released by artists like Coldplay and Taylor Swift available on YouTube Music.",
+    "phase2_query_coverage": 4
+  },
+  "albums_by_artist_1": {
+    "description": "This tool finds albums by the artist Taylor Swift on YouTube Music and shows the albums released by Taylor Swift on major platforms.",
+    "phase2_query_coverage": 0
+  },
+  "artist_albums": {
+    "description": "List the albums from the artist Adele available on Spotify, and look up the albums released by Adele on Genius.",
+    "phase2_query_coverage": 4
+  },
+  "platform_availability_checker": {
+    "description": "Show me the albums released by Taylor Swift on major platforms and check which albums are available by Taylor Swift on YouTube Music.",
+    "phase2_query_coverage": 4
+  },
+  "artist_albums_1": {
+    "description": "This tool lists all albums released by artists like Taylor Swift on major platforms and finds albums by the artist Taylor Swift on YouTube Music.",
+    "phase2_query_coverage": 0
+  },
+  "album_listing": {
+    "description": "Lists the albums from the artist Adele available on Spotify and looks up the albums released by Adele on Genius.",
+    "phase2_query_coverage": 4
+  },
+  "artist_albums_2": {
+    "description": "List the albums released by artists such as Ed Sheeran and Adele, including all albums by the artist Adele available on Spotify.",
+    "phase2_query_coverage": 0
+  },
+  "taylor_swift_discography": {
+    "description": "Provide information on what albums Taylor Swift has released, their top tracks, and which albums are available by Taylor Swift on YouTube Music.",
+    "phase2_query_coverage": 4
+  },
+  "discography_lookup": {
+    "description": "Find the complete discography for Ed Sheeran and look up the albums released by Adele on Genius.",
+    "phase2_query_coverage": 4
+  },
+  "lyrics_search_1": {
+    "description": "Search for song lyrics that mention 'freedom' or 'liberty' and explore songs with meaningful lyrics about hope.",
+    "phase2_query_coverage": 0
+  },
+  "jazz_music_trends": {
+    "description": "List the most popular songs in the jazz genre currently and who are the top artists in pop music this year?",
+    "phase2_query_coverage": 3
+  },
+  "trending_videos_locator": {
+    "description": "Which are the trending music videos on YouTube right now and can you provide recent trends in the music industry?",
+    "phase2_query_coverage": 3
+  },
+  "meaningful_lyrics_finder": {
+    "description": "Explore songs with meaningful lyrics about hope and search for song lyrics that mention 'freedom' or 'liberty'.",
+    "phase2_query_coverage": 3
+  },
+  "popular_songs": {
+    "description": "List the most popular songs currently, including those for relaxation purposes and in the jazz genre.",
+    "phase2_query_coverage": 2
+  },
+  "music_genre_popularity": {
+    "description": "What are the most popular songs related to the genre Jazz currently and identify popular songs by artists like Adele.",
+    "phase2_query_coverage": 3
+  },
+  "song_lyrics_search": {
+    "description": "Find songs related to the keyword 'freedom' and search for song lyrics that contain the phrase 'Shining bright like a diamond'.",
+    "phase2_query_coverage": 2
+  },
+  "music_keyword_search": {
+    "description": "Find songs related to the keyword 'freedom' and search for song lyrics that contain the phrase 'Shining bright like a diamond'.",
+    "phase2_query_coverage": 3
+  },
+  "album_information": {
+    "description": "Retrieve the album names of The Beatles along with release years and identify albums released by Coldplay available on YouTube Music.",
+    "phase2_query_coverage": 3
+  },
+  "genre_popularity": {
+    "description": "What are the most popular songs related to the genre Jazz currently and find songs related to the keyword 'freedom'.",
+    "phase2_query_coverage": 3
+  },
+  "album_details": {
+    "description": "Provide album details for specific artists, including Taylor Swift's '1989' and other albums released.",
+    "phase2_query_coverage": 1
+  },
+  "trending_artists": {
+    "description": "Identify who are the top artists trending on Spotify currently and list the most popular songs in the jazz genre currently.",
+    "phase2_query_coverage": 3
+  },
+  "music_album_info": {
+    "description": "Provides detailed information about music albums, including 'What albums has Taylor Swift released, and their top tracks?' and 'Show me the albums released by Taylor Swift on major platforms.'",
+    "phase2_query_coverage": 3
+  },
+  "music_albums": {
+    "description": "This tool retrieves information about music albums, including 'What albums has Taylor Swift released, and their top tracks?' and 'Can you provide album details for the artist Taylor Swift?'. It provides details on albums and their top tracks.",
+    "phase2_query_coverage": 3
+  },
+  "lyric_search": {
+    "description": "Search for song lyrics that mention 'freedom' or 'liberty' and provide an analysis of the lyrics of 'Stairway to Heaven'.",
+    "phase2_query_coverage": 3
+  },
+  "top_artists_trending": {
+    "description": "Identify who are the top artists trending on Spotify currently and find albums released by the artist Adele.",
+    "phase2_query_coverage": 2
+  },
+  "trending_music_1": {
+    "description": "Show trending music videos and artists, such as 'Which are the trending music videos on YouTube right now?' and 'Who are the top artists trending on Spotify currently?'.",
+    "phase2_query_coverage": 0
+  },
+  "album_details_1": {
+    "description": "Provides album details for 'Thriller' by Michael Jackson and retrieves the album names of The Beatles along with release years.",
+    "phase2_query_coverage": 0
+  },
+  "album_info_retriever": {
+    "description": "Provides album details for artists like Taylor Swift and their top tracks.",
+    "phase2_query_coverage": 2
+  },
+  "album_details_2": {
+    "description": "This tool provides album details for artists, including information about Taylor Swift's albums and their top tracks.",
+    "phase2_query_coverage": 0
+  },
+  "meaningful_songs": {
+    "description": "Explores songs with meaningful lyrics about hope and provides analysis of the lyrics of songs like 'Stairway to Heaven'.",
+    "phase2_query_coverage": 3
+  },
+  "ed_sheeran_songs": {
+    "description": "List all songs by the artist Ed Sheeran available on Genius, including albums released by him.",
+    "phase2_query_coverage": 2
+  },
+  "lyric_analysis": {
+    "description": "Provide an analysis of the lyrics of songs like 'Stairway to Heaven'.",
+    "phase2_query_coverage": 2
+  },
+  "top_artists_trending_1": {
+    "description": "Who are the top artists trending on platforms like Spotify currently?",
+    "phase2_query_coverage": 0
+  },
+  "discography_search": {
+    "description": "Find the complete discography for Ed Sheeran and list the albums released by Ed Sheeran.",
+    "phase2_query_coverage": 2
+  },
+  "ed_sheeran_discography": {
+    "description": "Provides the complete discography for Ed Sheeran.",
+    "phase2_query_coverage": 2
+  },
+  "lyrics_analysis": {
+    "description": "Analyzes the themes present in the lyrics of 'Stairway to Heaven'.",
+    "phase2_query_coverage": 2
+  },
+  "top_artists": {
+    "description": "Who are the top artists trending on Spotify currently and what are their popular songs?",
+    "phase2_query_coverage": 2
+  },
+  "lyrics_analysis_1": {
+    "description": "Provide an analysis of the lyrics of popular songs like 'Stairway to Heaven'.",
+    "phase2_query_coverage": 0
+  },
+  "artist_album_lister": {
+    "description": "List the albums from the artist Adele available on Spotify and find albums released by the artist Adele.",
+    "phase2_query_coverage": 2
+  },
+  "album_details_3": {
+    "description": "Can you provide the album details of Taylor Swift's '1989' and other notable albums?",
+    "phase2_query_coverage": 0
+  },
+  "coldplay_albums": {
+    "description": "Identify albums released by Coldplay available on YouTube Music and find albums released by Coldplay and their tracklists.",
+    "phase2_query_coverage": 2
+  },
+  "album_details_4": {
+    "description": "Provide details about albums, such as the album 'Thriller' by Michael Jackson.",
+    "phase2_query_coverage": 0
+  },
+  "global_music_charts": {
+    "description": "What are the top 100 songs globally this week and who is currently leading the monthly music charts?",
+    "phase2_query_coverage": 2
+  },
+  "music_video_trends": {
+    "description": "Find trending music videos on YouTube Music this week and explore popular songs featured in movies this month.",
+    "phase2_query_coverage": 2
+  },
+  "album_details_5": {
+    "description": "Provide details about specific albums, including 'provide details about the album Thriller by Michael Jackson'.",
+    "phase2_query_coverage": 0
+  },
+  "song_details_2": {
+    "description": "Finds details for songs from Genius, including 'Blinding Lights' and 'Imagine'.",
+    "phase2_query_coverage": 0
+  },
+  "artist_discography_3": {
+    "description": "Access the complete discography for artists, including 'the complete discography for Ed Sheeran' and 'list the albums released by Ed Sheeran'.",
+    "phase2_query_coverage": 0
+  },
+  "music_album_details": {
+    "description": "Provides details about music albums, including information like the album 'Thriller' by Michael Jackson.",
+    "phase2_query_coverage": 2
+  },
+  "top_artists_1": {
+    "description": "Who are the top artists in pop music this year and who is currently leading the monthly music charts?",
+    "phase2_query_coverage": 0
+  },
+  "artist_info_youtube": {
+    "description": "Retrieves information about artists using the YouTube Music API, such as The Beatles or BTS.",
+    "phase2_query_coverage": 2
+  },
+  "genius_song_details": {
+    "description": "Retrieve the details of the song 'Imagine' from Genius and find details for the song 'Blinding Lights' from Genius.",
+    "phase2_query_coverage": 2
+  },
+  "meaningful_lyrics": {
+    "description": "Explore songs with meaningful lyrics about hope and search for lyrics that contain the phrase 'Shining bright like a diamond'.",
+    "phase2_query_coverage": 2
+  },
+  "artist_info_1": {
+    "description": "Retrieve information about artists like The Beatles and BTS using YouTube Music API.",
+    "phase2_query_coverage": 0
+  },
+  "current_music_charts": {
+    "description": "Who is currently leading the monthly music charts and what are the top 100 songs globally this week?",
+    "phase2_query_coverage": 2
+  },
+  "ed_sheeran_catalog": {
+    "description": "A tool that lists all songs by the artist Ed Sheeran available on Genius and provides his complete discography.",
+    "phase2_query_coverage": 2
+  },
+  "artist_info_2": {
+    "description": "Retrieves information about artists such as BTS and The Beatles using YouTube Music API.",
+    "phase2_query_coverage": 0
+  },
+  "album_info_retriever_1": {
+    "description": "Provide details about the album 'Thriller' by Michael Jackson and explore various albums by different artists.",
+    "phase2_query_coverage": 0
+  },
+  "coldplay_discography": {
+    "description": "This tool finds albums released by Coldplay, their tracklists, and identifies albums released by Coldplay available on YouTube Music.",
+    "phase2_query_coverage": 2
+  },
+  "artist_rankings": {
+    "description": "Identify the top artists in pop music this year and find the most popular songs by the artist Adele.",
+    "phase2_query_coverage": 2
+  },
+  "artist_info_retrieval": {
+    "description": "Retrieves information about artists such as The Beatles and BTS using YouTube Music API.",
+    "phase2_query_coverage": 2
+  },
+  "artist_info_3": {
+    "description": "Retrieve information about the artist BTS on YouTube Music and identify albums released by Coldplay available on YouTube Music.",
+    "phase2_query_coverage": 0
+  },
+  "song_details_retriever": {
+    "description": "This tool retrieves the details of the song 'Imagine' from Genius and can find details for the song 'Blinding Lights'.",
+    "phase2_query_coverage": 2
+  },
+  "song_details_3": {
+    "description": "Retrieve details for specific songs like 'Blinding Lights' and 'Imagine' from Genius, including their lyrics and meanings.",
+    "phase2_query_coverage": 0
+  },
+  "song_meaning_1": {
+    "description": "Search for the meaning of songs like 'Bohemian Rhapsody' and provide details about their lyrics.",
+    "phase2_query_coverage": 0
+  },
+  "song_details_retriever_1": {
+    "description": "This tool retrieves the details of the song 'Imagine' from Genius and finds details for the song 'Blinding Lights' from Genius.",
+    "phase2_query_coverage": 0
+  },
+  "album_releases": {
+    "description": "Show me the albums released by Taylor Swift on major platforms and explore the albums released by Billie Eilish.",
+    "phase2_query_coverage": 2
+  },
+  "trending_music_videos": {
+    "description": "This tool searches for trending music videos currently on YouTube, including popular songs featured in movies this month.",
+    "phase2_query_coverage": 2
+  },
+  "album_release_years": {
+    "description": "Retrieve the album names of The Beatles along with release years and explore the albums released by Billie Eilish.",
+    "phase2_query_coverage": 2
+  },
+  "popular_songs_1": {
+    "description": "Finds popular songs featured in movies this month and lists the most popular songs by artists like Adele.",
+    "phase2_query_coverage": 0
+  },
+  "album_release_years_1": {
+    "description": "Retrieves the album names of The Beatles along with release years and finds albums released by Coldplay and their tracklists.",
+    "phase2_query_coverage": 0
+  },
+  "music_industry_trends": {
+    "description": "Can you provide recent trends in the music industry and search for popular songs featured in movies this month?",
+    "phase2_query_coverage": 2
+  },
+  "song_lyrics_search_1": {
+    "description": "Retrieve the lyrics for the song 'Shallow' by Lady Gaga and Bradley Cooper and find song lyrics that contain the phrase 'Shining bright like a diamond'.",
+    "phase2_query_coverage": 0
+  },
+  "lyric_retrieval_2": {
+    "description": "Retrieve the lyrics for the song 'Shallow' by Lady Gaga and Bradley Cooper, and search for song lyrics that contain the phrase 'Shining bright like a diamond'.",
+    "phase2_query_coverage": 0
+  },
+  "music_charts": {
+    "description": "Identify who is currently leading the monthly music charts and provide the top 100 songs globally this week.",
+    "phase2_query_coverage": 2
+  },
+  "popular_songs_2": {
+    "description": "List popular songs for relaxation purposes and search for popular songs featured in movies this month.",
+    "phase2_query_coverage": 0
+  },
+  "album_explorer": {
+    "description": "Explore 'albums released by Billie Eilish' and retrieve 'album names of The Beatles along with release years'.",
+    "phase2_query_coverage": 2
+  },
+  "thematic_songs": {
+    "description": "Identify songs with themes of love and loss and explore songs with meaningful lyrics about hope.",
+    "phase2_query_coverage": 2
+  },
+  "music_industry_trends_1": {
+    "description": "Provide recent trends in the music industry and identify who are the top artists in pop music this year.",
+    "phase2_query_coverage": 0
+  },
+  "song_details_4": {
+    "description": "Provide the details of the song 'Bohemian Rhapsody' by Queen and details of the song 'Yesterday' by The Beatles.",
+    "phase2_query_coverage": 0
+  },
+  "song_details_5": {
+    "description": "Provide details of the song 'Yesterday' by The Beatles and details for the track 'Shape of You' on Spotify.",
+    "phase2_query_coverage": 0
+  },
+  "tracklists": {
+    "description": "This tool finds albums released by Coldplay and their tracklists, and lists all songs by the artist Ed Sheeran available on Genius.",
+    "phase2_query_coverage": 2
+  },
+  "artist_songs": {
+    "description": "List all songs by the artist Ed Sheeran available on Genius and retrieve the lyrics for the song 'Shallow' by Lady Gaga and Bradley Cooper.",
+    "phase2_query_coverage": 2
+  },
+  "thematic_songs_1": {
+    "description": "Identify songs with themes of love and loss, and find popular songs for relaxation purposes.",
+    "phase2_query_coverage": 0
+  },
+  "music_trends": {
+    "description": "Provides recent trends in the music industry, including current popular tracks on Spotify and top music charts.",
+    "phase2_query_coverage": 2
+  },
+  "music_trends_analyzer": {
+    "description": "Provide recent trends in the music industry and identify songs with themes of love and loss.",
+    "phase2_query_coverage": 2
+  },
+  "song_details_6": {
+    "description": "Provide details of songs like 'Yesterday' by The Beatles and the meaning of 'Bohemian Rhapsody'.",
+    "phase2_query_coverage": 0
+  },
+  "relaxation_songs": {
+    "description": "Find songs that are popular for relaxation purposes and explore the albums released by Billie Eilish.",
+    "phase2_query_coverage": 1
+  },
+  "adele_top_songs": {
+    "description": "Find the most popular songs by the artist Adele.",
+    "phase2_query_coverage": 1
+  },
+  "grammy_winners": {
+    "description": "Explore music albums that have won Grammy awards.",
+    "phase2_query_coverage": 1
+  },
+  "artist_information": {
+    "description": "Retrieve information about any artist, such as The Beatles, using YouTube Music API.",
+    "phase2_query_coverage": 1
+  },
+  "trending_music_2": {
+    "description": "Show me the trending music tracks on Spotify this month and current popular tracks.",
+    "phase2_query_coverage": 0
+  },
+  "trending_tracks": {
+    "description": "Show me the trending music tracks on Spotify this month or current popular tracks.",
+    "phase2_query_coverage": 1
+  },
+  "grammy_winners_1": {
+    "description": "Explore music albums that have won Grammy awards, including those by popular artists.",
+    "phase2_query_coverage": 0
+  },
+  "music_awards": {
+    "description": "Explore music albums that have won Grammy awards and other accolades in the music industry.",
+    "phase2_query_coverage": 1
+  },
+  "genre_identification": {
+    "description": "Can you identify the genre of songs like 'Shape of You' by Ed Sheeran?",
+    "phase2_query_coverage": 1
+  },
+  "song_meaning_2": {
+    "description": "Explain the meaning behind the lyrics of songs like 'Bohemian Rhapsody'.",
+    "phase2_query_coverage": 0
+  },
+  "song_details_search": {
+    "description": "Search for details about the song 'Stairway to Heaven' by Led Zeppelin and retrieve information about various songs.",
+    "phase2_query_coverage": 1
+  },
+  "grammy_winners_2": {
+    "description": "Explore music albums that have won Grammy awards, providing insights into award-winning music.",
+    "phase2_query_coverage": 0
+  },
+  "music_album_explorer": {
+    "description": "Explore music albums that have won Grammy awards and find albums released by various artists.",
+    "phase2_query_coverage": 1
+  },
+  "spotify_details": {
+    "description": "Provide details for specific tracks on Spotify, including information for 'Shape of You'.",
+    "phase2_query_coverage": 1
+  },
+  "music_lyrics_retrieval": {
+    "description": "Retrieve lyrics for various songs, including 'Shallow' by Lady Gaga and Bradley Cooper.",
+    "phase2_query_coverage": 1
+  },
+  "pop_artists": {
+    "description": "Identify who are the top artists in pop music this year.",
+    "phase2_query_coverage": 1
+  },
+  "love_loss_songs": {
+    "description": "Identify songs with themes of love and loss.",
+    "phase2_query_coverage": 1
+  },
+  "relaxation_songs_1": {
+    "description": "Identify which songs are popular for relaxation purposes.",
+    "phase2_query_coverage": 0
+  },
+  "song_lyrics_retrieval": {
+    "description": "This tool retrieves the lyrics for any song, including 'Shallow' by Lady Gaga and Bradley Cooper.",
+    "phase2_query_coverage": 1
+  },
+  "spotify_track_details": {
+    "description": "Provide details for specific tracks on Spotify, such as 'Shape of You'.",
+    "phase2_query_coverage": 1
+  },
+  "song_details_lookup": {
+    "description": "Search for details about specific songs, such as 'Stairway to Heaven' by Led Zeppelin.",
+    "phase2_query_coverage": 1
+  },
+  "track_details": {
+    "description": "Provide details for tracks like 'Shape of You' on Spotify, including artist information and album details.",
+    "phase2_query_coverage": 1
+  },
+  "genre_identifier": {
+    "description": "Identify the genre of songs such as 'Shape of You' by Ed Sheeran.",
+    "phase2_query_coverage": 1
+  },
+  "music_genre": {
+    "description": "Identify the genre of songs such as 'Shape of You' by Ed Sheeran.",
+    "phase2_query_coverage": 1
+  },
+  "genre_identification_1": {
+    "description": "Identify the genre of songs such as 'Shape of You' by Ed Sheeran.",
+    "phase2_query_coverage": 0
+  },
+  "genre_identification_2": {
+    "description": "Identify the genre of popular songs like 'Shape of You' by Ed Sheeran.",
+    "phase2_query_coverage": 0
+  },
+  "song_details_7": {
+    "description": "Provide details of songs like 'Yesterday' by The Beatles, including lyrics and meanings.",
+    "phase2_query_coverage": 0
+  },
+  "song_details_8": {
+    "description": "Provide details of specific songs like 'Yesterday' by The Beatles.",
+    "phase2_query_coverage": 0
+  },
+  "album_details_6": {
+    "description": "Provides album details for specific albums like Taylor Swift's '1989'.",
+    "phase2_query_coverage": 0
+  },
+  "album_details_fetcher": {
+    "description": "Can provide album details of Taylor Swift's '1989' and other major releases.",
+    "phase2_query_coverage": 1
+  },
+  "song_search": {
+    "description": "Search for details about the song 'Stairway to Heaven' by Led Zeppelin and retrieve the lyrics of the song 'Hallelujah'.",
+    "phase2_query_coverage": 1
+  },
+  "album_details_7": {
+    "description": "Can provide the album details of Taylor Swift's '1989' and other albums by various artists.",
+    "phase2_query_coverage": 0
+  },
+  "song_details_searcher": {
+    "description": "This tool searches for details about songs like 'Stairway to Heaven' by Led Zeppelin.",
+    "phase2_query_coverage": 1
+  },
+  "song_search_1": {
+    "description": "This tool allows users to 'search for details about the song 'Stairway to Heaven' by Led Zeppelin' and other specific song inquiries.",
+    "phase2_query_coverage": 0
+  },
+  "artist_album_explorer": {
+    "description": "This tool explores the albums released by artists like Billie Eilish.",
+    "phase2_query_coverage": 1
+  },
+  "lyrics_search_2": {
+    "description": "Search for song lyrics that mention 'freedom' or 'liberty' and get the lyrics of 'Hallelujah'.",
+    "phase2_query_coverage": 0
+  },
+  "adele_albums": {
+    "description": "Lists the albums released by the artist Adele.",
+    "phase2_query_coverage": 1
+  },
+  "historical_tracks": {
+    "description": "Can you find the top 100 music tracks from last month and identify songs with themes of love and loss?",
+    "phase2_query_coverage": 1
+  },
+  "lyric_explorer": {
+    "description": "Explores and retrieves lyrics for various songs, relevant for queries like 'Can you provide the lyrics for the song 'Hallelujah'?",
+    "phase2_query_coverage": 1
+  },
+  "lyrics_retrieval": {
+    "description": "Retrieves lyrics for various songs, including 'Hallelujah'.",
+    "phase2_query_coverage": 1
+  },
+  "lyrics_provider": {
+    "description": "Can provide the lyrics for various songs, including 'Imagine' by John Lennon and 'Hallelujah'.",
+    "phase2_query_coverage": 1
+  },
+  "album_lyrics": {
+    "description": "This tool provides lyrics for specific songs and albums, including the ability to provide the lyrics for the song 'Hallelujah'.",
+    "phase2_query_coverage": 1
+  }
+}

@@ -1,0 +1,878 @@
+{
+  "engagement_metrics_tool": {
+    "description": "Analyze social media engagement metrics to understand how to create engaging social media posts for your brand.",
+    "phase2_query_coverage": 8
+  },
+  "visual_post_ideas": {
+    "description": "Suggest ideas for a visual post to promote a new product and create engaging social media posts tailored to different platforms.",
+    "phase2_query_coverage": 2
+  },
+  "storytelling_enhancer": {
+    "description": "Enhance the storytelling aspect of your social media content with techniques that make your posts more engaging and relatable.",
+    "phase2_query_coverage": 4
+  },
+  "creative_post_ideas": {
+    "description": "Generate creative ideas for your next social media post, keeping your content fresh and engaging.",
+    "phase2_query_coverage": 3
+  },
+  "engagement_booster": {
+    "description": "A strategic tool for creating engaging posts for a new product launch and providing tips for designing visually appealing content for Instagram.",
+    "phase2_query_coverage": 1
+  },
+  "product_launch_posts": {
+    "description": "Guidance on how to create engaging social media posts for a new product launch, maximizing visibility and excitement.",
+    "phase2_query_coverage": 6
+  },
+  "trending_topics_finder": {
+    "description": "Suggest trending topics for creating engaging social media posts, keeping your content fresh and relevant.",
+    "phase2_query_coverage": 6
+  },
+  "trending_topics_explorer": {
+    "description": "Suggest trending topics for creating engaging social media posts, keeping your content relevant and timely.",
+    "phase2_query_coverage": 6
+  },
+  "event_promotion_ideas": {
+    "description": "Get creative ideas for a series of posts to promote an upcoming event, along with suggestions for a Facebook post to promote a new product.",
+    "phase2_query_coverage": 1
+  },
+  "visual_idea_generator": {
+    "description": "Generate ideas for a visual post to promote a new product, incorporating trending visual elements for social media graphics.",
+    "phase2_query_coverage": 2
+  },
+  "graphic_designer": {
+    "description": "A user-friendly application for designing visuals for social media campaigns, using effective color schemes in social media graphics, and providing tips for designing visually appealing content for Instagram.",
+    "phase2_query_coverage": 2
+  },
+  "visual_design": {
+    "description": "A tool for designing visually appealing content for Instagram and creating a visually appealing social media campaign.",
+    "phase2_query_coverage": 3
+  },
+  "visual_design_tool": {
+    "description": "A tool for designing visually appealing Instagram stories and creating visually appealing content for social media.",
+    "phase2_query_coverage": 2
+  },
+  "engagement_analyzer": {
+    "description": "An effective method for analyzing audience engagement on social media platforms, including tools available to analyze the effectiveness of my social media posts.",
+    "phase2_query_coverage": 1
+  },
+  "content_strategy_builder": {
+    "description": "Develop effective strategies for content creation tailored to different platforms, improving the reach of your social media content.",
+    "phase2_query_coverage": 5
+  },
+  "instagram_story_ideas": {
+    "description": "Get ideas for visually appealing Instagram stories that can enhance your brand's social media presence.",
+    "phase2_query_coverage": 2
+  },
+  "content_repurposer": {
+    "description": "This tool provides strategies on how to efficiently repurpose existing content for various social media platforms, maximizing your content's reach.",
+    "phase2_query_coverage": 2
+  },
+  "engagement_analyzer_1": {
+    "description": "This tool provides effective methods for analyzing audience engagement on social media platforms, helping you enhance the engagement metrics of your social media posts.",
+    "phase2_query_coverage": 0
+  },
+  "engagement_analyzer_2": {
+    "description": "An effective engagement analyzer that provides methods for analyzing audience engagement on social media platforms and optimizing posts for higher visibility and reach.",
+    "phase2_query_coverage": 0
+  },
+  "engagement_analyzer_3": {
+    "description": "A tool that offers effective methods for analyzing audience engagement on social media platforms and strategies to increase audience interaction with posts.",
+    "phase2_query_coverage": 0
+  },
+  "trend_analyzer": {
+    "description": "Stay updated with the latest trends in social media content creation for 2023, providing insights into trending topics for creating engaging social media posts.",
+    "phase2_query_coverage": 4
+  },
+  "caption_idea_generator": {
+    "description": "Get ideas for captions to accompany your travel photos and best practices for writing captions for social media posts.",
+    "phase2_query_coverage": 4
+  },
+  "content_repurposer_1": {
+    "description": "Efficiently repurpose existing content for various social media platforms, maximizing your content's reach and effectiveness.",
+    "phase2_query_coverage": 0
+  },
+  "caption_crafter": {
+    "description": "Best practices for crafting captions that drive user engagement and current trends in social media content creation to follow.",
+    "phase2_query_coverage": 4
+  },
+  "content_repurposer_2": {
+    "description": "Efficiently repurpose existing content for various social media platforms, adapting it to fit different channels while maintaining engagement.",
+    "phase2_query_coverage": 0
+  },
+  "content_repurposer_3": {
+    "description": "Efficiently repurpose existing content for various social media platforms, maximizing the reach of your social media strategy.",
+    "phase2_query_coverage": 0
+  },
+  "design_tools_suggester": {
+    "description": "Suggest tools for designing visually appealing social media posts, providing options that help you create graphics for a discount campaign.",
+    "phase2_query_coverage": 4
+  },
+  "trending_topics": {
+    "description": "Suggest trending topics for creating engaging social media posts and brainstorming unique ideas for posts targeting younger demographics.",
+    "phase2_query_coverage": 4
+  },
+  "video_strategy": {
+    "description": "This tool outlines the best approach for using images and videos in social media marketing, enhancing your visual content.",
+    "phase2_query_coverage": 4
+  },
+  "visual_trends": {
+    "description": "Identify what visual elements are trending for social media graphics and the trends in social media content creation for 2023.",
+    "phase2_query_coverage": 2
+  },
+  "storytelling_tools": {
+    "description": "Tools designed to enhance the storytelling aspect of your social media content, integrating storytelling into your posts effectively.",
+    "phase2_query_coverage": 4
+  },
+  "story_creator": {
+    "description": "Design an appealing story using available tools, enhancing the storytelling aspect of your social media content.",
+    "phase2_query_coverage": 4
+  },
+  "visual_content_tool": {
+    "description": "A tool that helps use visuals effectively in social media marketing and the best approach for using images and videos in social media marketing.",
+    "phase2_query_coverage": 4
+  },
+  "caption_generator": {
+    "description": "Generate creative ideas for captions to accompany your travel photos and suggest ideas for a series of posts to promote an upcoming event.",
+    "phase2_query_coverage": 1
+  },
+  "storytelling_framework": {
+    "description": "An effective tool for storytelling in online content, offering strategies to integrate storytelling into social media posts for deeper audience connection.",
+    "phase2_query_coverage": 4
+  },
+  "storytelling_enhancer_1": {
+    "description": "This tool enhances the storytelling aspect of your social media content, providing effective strategies for storytelling in online content and integrating storytelling into your posts.",
+    "phase2_query_coverage": 0
+  },
+  "caption_generator_1": {
+    "description": "Generate ideas for captions to accompany your travel photos and craft captions that drive user engagement.",
+    "phase2_query_coverage": 0
+  },
+  "caption_creator": {
+    "description": "A versatile tool for generating captivating captions for social media posts, including specific guidance on writing captions that drive user engagement and brainstorming captions for a travel blog's social media.",
+    "phase2_query_coverage": 1
+  },
+  "caption_idea_generator_1": {
+    "description": "This tool suggests ideas for captions to accompany your travel photos, ensuring best practices for writing captions for social media posts.",
+    "phase2_query_coverage": 0
+  },
+  "trend_analyzer_1": {
+    "description": "This tool identifies trends in social media content creation for 2023, helping you brainstorm unique ideas for posts targeting younger demographics.",
+    "phase2_query_coverage": 0
+  },
+  "audience_strategy_tool": {
+    "description": "Recommend strategies for tailoring posts to different audience demographics for better engagement.",
+    "phase2_query_coverage": 3
+  },
+  "campaign_inspiration": {
+    "description": "Provide examples of successful social media campaigns for inspiration and help brainstorm creative ideas for a new social media campaign.",
+    "phase2_query_coverage": 2
+  },
+  "media_strategy_tool": {
+    "description": "Utilize images and videos effectively in your social media strategy, optimizing their impact on audience engagement.",
+    "phase2_query_coverage": 3
+  },
+  "media_strategy_tool_1": {
+    "description": "Learn how to use images and videos effectively in your social media strategy, enhancing engagement and reach.",
+    "phase2_query_coverage": 0
+  },
+  "creative_post_ideas_1": {
+    "description": "Suggest creative ideas for your next social media post or a series of posts to promote an upcoming event.",
+    "phase2_query_coverage": 0
+  },
+  "audience_engagement_strategies": {
+    "description": "Provides strategies to increase audience interaction with posts, enhancing your overall social media presence.",
+    "phase2_query_coverage": 3
+  },
+  "engagement_strategies": {
+    "description": "Provides strategies to increase audience interaction with posts and enhance the engagement metrics of your social media posts.",
+    "phase2_query_coverage": 3
+  },
+  "caption_best_practices": {
+    "description": "A guide on best practices for writing captions for social media posts, ensuring they are engaging and effective.",
+    "phase2_query_coverage": 3
+  },
+  "instagram_story_ideas_1": {
+    "description": "Generate ideas for a visually appealing Instagram story that captures audience attention and encourages interaction.",
+    "phase2_query_coverage": 0
+  },
+  "content_calendar_generator": {
+    "description": "Help in generating a weekly content calendar for your brand, ensuring a consistent and strategic approach to your social media presence.",
+    "phase2_query_coverage": 3
+  },
+  "media_manager": {
+    "description": "Manage images and videos effectively in social media marketing, ensuring the best approach for using visuals in your campaigns.",
+    "phase2_query_coverage": 3
+  },
+  "campaign_brainstormer": {
+    "description": "A tool for brainstorming unique ideas for posts targeting younger demographics and creative ideas for a new social media campaign.",
+    "phase2_query_coverage": 3
+  },
+  "trending_visuals": {
+    "description": "Discover what visual elements are trending for social media graphics and the latest trends in social media content creation for 2023.",
+    "phase2_query_coverage": 3
+  },
+  "visual_trend_analyzer": {
+    "description": "Analyze the latest trends in social media content creation for 2023, focusing on trending visual elements for social media graphics.",
+    "phase2_query_coverage": 3
+  },
+  "viral_content_generator": {
+    "description": "This tool provides strategies for creating viral content on social media platforms and suggests creative ways to incorporate user-generated content into your strategy.",
+    "phase2_query_coverage": 3
+  },
+  "interactive_elements": {
+    "description": "Incorporate interactive elements into posts to increase user interaction and engagement on social platforms.",
+    "phase2_query_coverage": 1
+  },
+  "campaign_brainstormer_1": {
+    "description": "A brainstorming tool for generating creative ideas for a new social media campaign and unique ideas for posts targeting younger demographics.",
+    "phase2_query_coverage": 0
+  },
+  "content_optimizer": {
+    "description": "This tool provides tips for optimizing posts for higher visibility and reach, including optimizing image selection for higher visibility in your posts and optimizing image sizes for various social media platforms.",
+    "phase2_query_coverage": 2
+  },
+  "content_calendar": {
+    "description": "A tool to help in generating a weekly content calendar for your brand, ensuring effective ways to create engaging social media content.",
+    "phase2_query_coverage": 3
+  },
+  "visual_design_1": {
+    "description": "This tool provides tips on designing eye-catching promotional graphics for a discount campaign, effective ways to use color schemes in social media graphics, and tools best for designing visuals for social media campaigns.",
+    "phase2_query_coverage": 0
+  },
+  "hashtag_optimizer": {
+    "description": "An effective tool for optimizing posts for higher visibility and reach, utilizing hashtags to increase engagement on my posts, and suggesting effective ways to utilize hashtags for broader reach on Twitter.",
+    "phase2_query_coverage": 2
+  },
+  "calendar_generator": {
+    "description": "This tool assists in generating a weekly content calendar for your brand, creating a content calendar using the available tools to enhance consistency, and repurposing existing content to fit different social media channels.",
+    "phase2_query_coverage": 3
+  },
+  "content_calendar_generator_1": {
+    "description": "A tool that generates a weekly or monthly content calendar for your brand, ensuring a steady flow of engaging posts.",
+    "phase2_query_coverage": 0
+  },
+  "content_calendar_generator_2": {
+    "description": "An efficient tool for generating a weekly content calendar for your brand, as well as a social media calendar for a month's content, ensuring consistent posting.",
+    "phase2_query_coverage": 0
+  },
+  "tweet_writer": {
+    "description": "A tool that provides the best approach to writing short, impactful tweets for a marketing initiative and tips on optimizing image sizes for various social media platforms.",
+    "phase2_query_coverage": 1
+  },
+  "post_optimizer": {
+    "description": "A tool that provides insights into optimizing posts for higher visibility and reach, including tips on optimizing image sizes for various social media platforms.",
+    "phase2_query_coverage": 3
+  },
+  "content_strategizers": {
+    "description": "Tools that provide strategies for tailoring posts to different audience demographics and creating viral content on social media platforms.",
+    "phase2_query_coverage": 3
+  },
+  "hashtag_generator": {
+    "description": "Suggest a list of hashtags to promote a new product launch on social media and increase audience interaction with posts.",
+    "phase2_query_coverage": 2
+  },
+  "hashtag_tool": {
+    "description": "An effective way to utilize hashtags for broader reach on Twitter and improve the engagement of your social media posts.",
+    "phase2_query_coverage": 2
+  },
+  "content_optimizer_1": {
+    "description": "Optimize content for various social media platforms and tips on optimizing image sizes for various social media platforms.",
+    "phase2_query_coverage": 0
+  },
+  "hashtag_optimizer_1": {
+    "description": "Utilize effective ways to utilize hashtags for broader reach on Twitter, enhancing your posts' visibility.",
+    "phase2_query_coverage": 0
+  },
+  "infographic_maker": {
+    "description": "Create an infographic summarizing recent market trends for Twitter and generate a word cloud based on popular trending topics for social media.",
+    "phase2_query_coverage": 1
+  },
+  "engagement_optimizer": {
+    "description": "Optimize your content for increased user interaction on social platforms, providing insights into optimizing posts for higher visibility and reach.",
+    "phase2_query_coverage": 2
+  },
+  "hashtag_optimizer_2": {
+    "description": "Utilize effective ways to utilize hashtags for broader reach on Twitter and improve your social media strategy.",
+    "phase2_query_coverage": 0
+  },
+  "hashtag_optimizer_3": {
+    "description": "Utilize techniques to effectively use hashtags to increase engagement on your posts, enhancing visibility and interaction.",
+    "phase2_query_coverage": 0
+  },
+  "caption_writer": {
+    "description": "Get tips for writing compelling captions for Instagram photos and best practices for writing captions for social media posts.",
+    "phase2_query_coverage": 2
+  },
+  "tweet_impact_generator": {
+    "description": "A tool that provides the best approach to writing short, impactful tweets for a marketing initiative, enhancing overall content performance.",
+    "phase2_query_coverage": 2
+  },
+  "hashtag_suggester": {
+    "description": "Suggest a list of hashtags to promote a new product launch on social media and provide trending hashtags for promoting fitness content.",
+    "phase2_query_coverage": 2
+  },
+  "visual_design_tool_1": {
+    "description": "A platform for designing a visually appealing social media campaign, focusing on best practices for creating a visually appealing social media profile theme.",
+    "phase2_query_coverage": 0
+  },
+  "design_tips": {
+    "description": "Offers tips for designing visually appealing content for Instagram and other platforms, ensuring a cohesive profile theme.",
+    "phase2_query_coverage": 2
+  },
+  "instagram_story_ideas_generator": {
+    "description": "Generate ideas for a visually appealing Instagram story, ensuring your content stands out and engages viewers.",
+    "phase2_query_coverage": 2
+  },
+  "color_palette": {
+    "description": "A resource for effective ways to use color schemes in social media graphics and optimizing image sizes for various social media platforms.",
+    "phase2_query_coverage": 2
+  },
+  "video_script_outliner": {
+    "description": "Draft an outline for a promotional video script for YouTube, helping you craft a compelling story for a Facebook campaign.",
+    "phase2_query_coverage": 2
+  },
+  "instagram_story_ideas_2": {
+    "description": "Generate ideas for a visually appealing Instagram story and suggest creative ideas for daily Instagram stories.",
+    "phase2_query_coverage": 0
+  },
+  "tweet_writer_1": {
+    "description": "A tool that provides the best approach to writing short, impactful tweets for a marketing initiative, optimizing your Twitter content.",
+    "phase2_query_coverage": 0
+  },
+  "social_media_tools": {
+    "description": "A comprehensive list of tools that can be used to polish your social media updates for linguistic consistency and optimize content for Twitter.",
+    "phase2_query_coverage": 2
+  },
+  "twitter_optimizer": {
+    "description": "A specialized tool for optimizing content for Twitter, focusing on the best approach to writing short, impactful tweets for a marketing initiative and analyzing audience engagement.",
+    "phase2_query_coverage": 2
+  },
+  "visual_idea_generator_1": {
+    "description": "Generate ideas for visually appealing posts, including suggestions for a visual post to promote a new product and brainstorming unique ideas for posts targeting younger demographics.",
+    "phase2_query_coverage": 0
+  },
+  "campaign_inspiration_1": {
+    "description": "A resource that provides examples of successful social media campaigns for inspiration, helping you brainstorm creative ideas for your own initiatives.",
+    "phase2_query_coverage": 0
+  },
+  "story_design_tool": {
+    "description": "Design an appealing story using available tools, focusing on effective strategies for storytelling in online content.",
+    "phase2_query_coverage": 1
+  },
+  "influencer_collab": {
+    "description": "A resource for collaborating with influencers to enhance your brand's online presence and develop impactful social media campaigns.",
+    "phase2_query_coverage": 2
+  },
+  "visual_trends_1": {
+    "description": "A resource for discovering what visual elements are trending for social media graphics, including effective ways to use color schemes in social media graphics.",
+    "phase2_query_coverage": 0
+  },
+  "campaign_inspiration_tool": {
+    "description": "A resource that provides examples of successful social media campaigns for inspiration and creative ways to promote a product on social media platforms.",
+    "phase2_query_coverage": 2
+  },
+  "campaign_inspiration_generator": {
+    "description": "A resource that provides examples of successful social media campaigns for inspiration and creative ways to promote a product on social media platforms.",
+    "phase2_query_coverage": 2
+  },
+  "hashtag_finder": {
+    "description": "This tool provides trending hashtags for promoting fitness content and a list of hashtags to promote a new product launch on social media.",
+    "phase2_query_coverage": 2
+  },
+  "visual_post_ideas_1": {
+    "description": "Generate creative ideas for a visual post to promote a new product, while also incorporating user-generated content into your strategy.",
+    "phase2_query_coverage": 0
+  },
+  "infographic_creator": {
+    "description": "A tool that helps you create an infographic summarizing recent market trends for Twitter and generates a word cloud based on popular trending topics for social media.",
+    "phase2_query_coverage": 2
+  },
+  "video_creator": {
+    "description": "A resource for creating quick, shareable videos for TikTok, while also suggesting creative ideas for daily Instagram stories.",
+    "phase2_query_coverage": 2
+  },
+  "campaign_inspiration_source": {
+    "description": "A source that provides examples of successful social media campaigns for inspiration and helps you brainstorm creative ideas for a new social media campaign.",
+    "phase2_query_coverage": 2
+  },
+  "influencer_collaboration": {
+    "description": "A guide on how to collaborate with influencers to enhance your brand's online presence, including strategies for impactful social media campaigns.",
+    "phase2_query_coverage": 2
+  },
+  "viral_content_strategist": {
+    "description": "This tool provides strategies for creating viral content on social media platforms, helping you incorporate trending topics into your social media content strategy.",
+    "phase2_query_coverage": 2
+  },
+  "hashtag_suggester_1": {
+    "description": "This tool provides trending hashtags for promoting fitness content and suggests a list of hashtags to promote a new product launch on social media.",
+    "phase2_query_coverage": 0
+  },
+  "color_scheme_tool": {
+    "description": "A tool that offers effective ways to use color schemes in social media graphics and best practices for creating a visually appealing social media profile theme.",
+    "phase2_query_coverage": 2
+  },
+  "viral_content_strategist_1": {
+    "description": "This tool provides strategies for creating viral content on social media platforms, ensuring best practices for designing content for Instagram.",
+    "phase2_query_coverage": 0
+  },
+  "content_repurposer_4": {
+    "description": "An efficient tool for repurposing existing content for various social media platforms, ensuring linguistic consistency in your updates.",
+    "phase2_query_coverage": 0
+  },
+  "branding_strategy_tool": {
+    "description": "This tool offers strategies to develop consistent and recognizable branding online, including best practices for creating a visually appealing social media profile theme.",
+    "phase2_query_coverage": 1
+  },
+  "video_creator_1": {
+    "description": "A resource for creating quick, shareable videos for TikTok and drafting an outline for a promotional video script for YouTube.",
+    "phase2_query_coverage": 0
+  },
+  "video_creation_tool": {
+    "description": "A resource for creating quick, shareable videos for TikTok and drafting an outline for a promotional video script for YouTube.",
+    "phase2_query_coverage": 2
+  },
+  "graphic_designer_tool": {
+    "description": "Design eye-catching promotional graphics for a discount campaign, including recommendations for designing an appealing Facebook banner.",
+    "phase2_query_coverage": 2
+  },
+  "video_editor_tool": {
+    "description": "A user-friendly resource for creating quick, shareable videos for TikTok and drafting an outline for a promotional video script for YouTube.",
+    "phase2_query_coverage": 2
+  },
+  "story_design": {
+    "description": "A tool that helps design an appealing story using available tools, focusing on effective strategies for storytelling in online content.",
+    "phase2_query_coverage": 2
+  },
+  "collaboration_platform": {
+    "description": "A platform that recommends methods to collaborate with others in creating impactful social media campaigns and with influencers to enhance your brand's online presence.",
+    "phase2_query_coverage": 2
+  },
+  "collaboration_platform_1": {
+    "description": "A platform that recommends methods to collaborate with others in creating impactful social media campaigns and collaborating with influencers to enhance your brand's online presence.",
+    "phase2_query_coverage": 0
+  },
+  "viral_content_strategist_2": {
+    "description": "A strategic tool that offers strategies for creating viral content on social media platforms and effective strategies for storytelling in online content.",
+    "phase2_query_coverage": 0
+  },
+  "hashtag_trend_tracker": {
+    "description": "A tool that identifies trending hashtags for promoting fitness content, allowing you to generate a word cloud based on popular trending topics for social media.",
+    "phase2_query_coverage": 2
+  },
+  "stock_photo_finder": {
+    "description": "Find and suggest relevant stock photos for your upcoming posts and assist with editing images for your brand's social media campaign.",
+    "phase2_query_coverage": 1
+  },
+  "visual_design_tool_2": {
+    "description": "Assists in creating visually appealing images for your campaign and designing eye-catching promotional graphics for a discount campaign.",
+    "phase2_query_coverage": 0
+  },
+  "profile_theme_builder": {
+    "description": "This tool offers best practices for creating a visually appealing social media profile theme and designing a compelling Facebook cover photo.",
+    "phase2_query_coverage": 2
+  },
+  "caption_generator_2": {
+    "description": "A creative tool that composes captions that complement attached images, conveys a cheerful tone, and follows best practices for crafting captions that drive user engagement.",
+    "phase2_query_coverage": 0
+  },
+  "caption_generator_3": {
+    "description": "A tool that helps you compose a caption that complements the attached image and conveys a cheerful tone, while also generating ideas for captions to accompany your travel photos.",
+    "phase2_query_coverage": 0
+  },
+  "hashtag_finder_1": {
+    "description": "A powerful tool that identifies trending hashtags for promoting fitness content and generates a word cloud based on popular trending topics for social media.",
+    "phase2_query_coverage": 0
+  },
+  "user_generated_content_tool": {
+    "description": "A tool that offers creative ways to incorporate user-generated content into your strategy and promotes a product on social media platforms.",
+    "phase2_query_coverage": 2
+  },
+  "graphic_designer_1": {
+    "description": "A tool that provides tips on designing eye-catching promotional graphics for a discount campaign and helps with creating an infographic summarizing recent market trends for Twitter.",
+    "phase2_query_coverage": 0
+  },
+  "infographic_generator": {
+    "description": "A user-friendly tool for creating infographics summarizing recent market trends for Twitter and designing a carousel post template for an educational campaign on Instagram.",
+    "phase2_query_coverage": 2
+  },
+  "creative_promotion_tool": {
+    "description": "This tool suggests creative ways to promote a product on social media platforms, including effective strategies for designing content specifically for Instagram.",
+    "phase2_query_coverage": 2
+  },
+  "banner_designer": {
+    "description": "Design an eye-catching Facebook banner or a LinkedIn profile banner using your company logo, ensuring it aligns with your brand's visual identity.",
+    "phase2_query_coverage": 1
+  },
+  "audience_targeting_tips": {
+    "description": "This tool recommends strategies for tailoring posts to different audience demographics and provides tips for designing content for Instagram.",
+    "phase2_query_coverage": 2
+  },
+  "video_script_builder": {
+    "description": "A tool that helps draft an outline for a promotional video script for YouTube, while also offering resources for creating quick, shareable videos for TikTok.",
+    "phase2_query_coverage": 2
+  },
+  "image_editor": {
+    "description": "A tool that offers help with editing images for your brand's social media campaign and polishing your social media updates for linguistic consistency.",
+    "phase2_query_coverage": 1
+  },
+  "design_assistant": {
+    "description": "A tool that guides you on designing a compelling Facebook cover photo and provides recommendations for designing an eye-catching Facebook banner.",
+    "phase2_query_coverage": 2
+  },
+  "user_generated_content_tool_1": {
+    "description": "This tool provides creative ways to incorporate user-generated content into your strategy and suggests creative ideas for a series of posts to promote an upcoming event.",
+    "phase2_query_coverage": 0
+  },
+  "influencer_collab_1": {
+    "description": "A platform to facilitate collaboration with influencers to enhance your brand's online presence, while also providing tips for scheduling posts across multiple social media channels.",
+    "phase2_query_coverage": 0
+  },
+  "banner_designer_1": {
+    "description": "An easy-to-use tool for designing eye-catching Facebook banners and compelling Facebook cover photos that attract user attention.",
+    "phase2_query_coverage": 0
+  },
+  "carousel_post_template_creator": {
+    "description": "Create a carousel post template for an educational campaign on Instagram, making it easy to share informative content.",
+    "phase2_query_coverage": 1
+  },
+  "carousel_template_creator": {
+    "description": "Create a carousel post template for an educational campaign on Instagram, allowing you to present information in an engaging format.",
+    "phase2_query_coverage": 1
+  },
+  "carousel_template_creator_1": {
+    "description": "Create a carousel post template for an educational campaign on Instagram, making it easy to share information in a visually appealing way.",
+    "phase2_query_coverage": 0
+  },
+  "carousel_post_template_generator": {
+    "description": "Create a carousel post template for an educational campaign on Instagram, allowing for informative and engaging multi-image posts.",
+    "phase2_query_coverage": 1
+  },
+  "word_cloud_generator": {
+    "description": "Generate a word cloud based on popular trending topics for social media to visualize key themes.",
+    "phase2_query_coverage": 1
+  },
+  "infographic_maker_1": {
+    "description": "Help with creating an infographic summarizing recent market trends for Twitter, making data visually engaging.",
+    "phase2_query_coverage": 0
+  },
+  "sustainability_caption": {
+    "description": "Generate a caption for a Facebook post about sustainability, tailored to resonate with your audience.",
+    "phase2_query_coverage": 1
+  },
+  "sustainability_captioner": {
+    "description": "Generate a caption for a Facebook post about sustainability, providing creative text that aligns with eco-friendly themes.",
+    "phase2_query_coverage": 1
+  },
+  "post_scheduling_tool": {
+    "description": "Offers tips for scheduling posts across multiple social media channels to maximize engagement and reach.",
+    "phase2_query_coverage": 1
+  },
+  "post_scheduling_assistant": {
+    "description": "Get tips for scheduling posts across multiple social media channels to maximize visibility and engagement.",
+    "phase2_query_coverage": 1
+  },
+  "post_scheduler": {
+    "description": "Provides tips for scheduling posts across multiple social media channels, ensuring timely delivery of content.",
+    "phase2_query_coverage": 1
+  },
+  "sustainability_caption_gen": {
+    "description": "Generate a caption for a Facebook post about sustainability, providing creative and impactful wording for your audience.",
+    "phase2_query_coverage": 1
+  },
+  "event_promotion_ideas_1": {
+    "description": "Suggest creative ideas for a series of posts to promote an upcoming event, ensuring maximum visibility and interest.",
+    "phase2_query_coverage": 0
+  },
+  "scheduling_tips": {
+    "description": "Provides tips for scheduling posts across multiple social media channels, optimizing your content delivery.",
+    "phase2_query_coverage": 1
+  },
+  "banner_designer_2": {
+    "description": "I need assistance with designing an eye-catching Facebook banner, and this tool provides recommendations.",
+    "phase2_query_coverage": 0
+  },
+  "tweet_writer_2": {
+    "description": "Utilize best practices for writing short, impactful tweets for a marketing initiative that resonates with your audience.",
+    "phase2_query_coverage": 0
+  },
+  "pinterest_formatter": {
+    "description": "Format a Pinterest pin to maximize user engagement, ensuring your content stands out on the platform.",
+    "phase2_query_coverage": 1
+  },
+  "pinterest_formatter_1": {
+    "description": "Format a Pinterest pin to maximize user engagement, ensuring your visuals are compelling and effective.",
+    "phase2_query_coverage": 0
+  },
+  "image_selection_optimizer": {
+    "description": "This tool helps you utilize the tools to optimize image selection for higher visibility in your posts.",
+    "phase2_query_coverage": 1
+  },
+  "sustainability_captioner_1": {
+    "description": "Generate impactful captions for a Facebook post about sustainability, focusing on environmental awareness and community engagement.",
+    "phase2_query_coverage": 0
+  },
+  "demographic_tailer": {
+    "description": "Recommend strategies for tailoring posts to different audience demographics, ensuring your content resonates with various groups.",
+    "phase2_query_coverage": 1
+  },
+  "demographic_tuner": {
+    "description": "Recommend strategies for tailoring posts to different audience demographics, ensuring your content resonates with various groups.",
+    "phase2_query_coverage": 1
+  },
+  "caption_creator_1": {
+    "description": "Generate engaging captions for social media posts, including a caption for a Facebook post about sustainability.",
+    "phase2_query_coverage": 0
+  },
+  "linguistic_polisher": {
+    "description": "Tools that assist in polishing your social media updates for linguistic consistency, ensuring your posts maintain a professional tone.",
+    "phase2_query_coverage": 1
+  },
+  "pinterest_formatter_2": {
+    "description": "Format a Pinterest pin to maximize user engagement, focusing on design and content strategies that attract clicks.",
+    "phase2_query_coverage": 0
+  },
+  "image_selection_tool": {
+    "description": "A tool that helps you utilize the tools to optimize image selection for higher visibility in your posts.",
+    "phase2_query_coverage": 1
+  },
+  "visual_optimization": {
+    "description": "A tool that helps you utilize the tools to optimize image selection for higher visibility in your posts.",
+    "phase2_query_coverage": 1
+  },
+  "linguistic_polisher_1": {
+    "description": "A tool to polish your social media updates for linguistic consistency, ensuring clear communication.",
+    "phase2_query_coverage": 0
+  },
+  "social_media_insights": {
+    "description": "A tool that provides insights and strategies for creating engaging social media posts for product launches, as mentioned in 'How can I create engaging social media posts for a new product launch?'",
+    "phase2_query_coverage": 1
+  },
+  "product_launch_post_creator": {
+    "description": "Create engaging social media posts for a new product launch, incorporating storytelling and visual elements.",
+    "phase2_query_coverage": 1
+  },
+  "linkedin_post_drafter": {
+    "description": "Draft a post for LinkedIn to highlight a company's achievements and enhance the engagement of your social media posts.",
+    "phase2_query_coverage": 1
+  },
+  "story_design_tool_1": {
+    "description": "Design an appealing story using available tools that enhance your narrative and visual storytelling.",
+    "phase2_query_coverage": 0
+  },
+  "ugc_incorporator": {
+    "description": "Creative ways to incorporate user-generated content into your strategy, fostering community engagement and authenticity.",
+    "phase2_query_coverage": 1
+  },
+  "story_crafting_assistant": {
+    "description": "A guide for crafting a compelling story for a Facebook campaign, helping to create narratives that resonate with audiences.",
+    "phase2_query_coverage": 1
+  },
+  "pinterest_optimizer": {
+    "description": "Helps format a Pinterest pin to maximize user engagement, ensuring your content stands out.",
+    "phase2_query_coverage": 1
+  },
+  "linkedin_post_drafter_1": {
+    "description": "Draft a post for LinkedIn to highlight a company's achievements, tailored to resonate with professional audiences.",
+    "phase2_query_coverage": 0
+  },
+  "post_drafter": {
+    "description": "Draft a post for LinkedIn to highlight a company's achievements, ensuring it resonates with your professional audience.",
+    "phase2_query_coverage": 1
+  },
+  "pinterest_pin_formatter": {
+    "description": "This tool guides users on how to format a Pinterest pin to maximize user engagement, focusing on visual appeal and content relevance.",
+    "phase2_query_coverage": 1
+  },
+  "story_crafter": {
+    "description": "A guide for crafting a compelling story for a Facebook campaign, helping you connect with your audience on a deeper level.",
+    "phase2_query_coverage": 1
+  },
+  "image_editor_1": {
+    "description": "Get help with editing images for your brand's social media campaign, ensuring your visuals are eye-catching and effective for engagement.",
+    "phase2_query_coverage": 0
+  },
+  "campaign_story_crafter": {
+    "description": "Guide you on crafting a compelling story for a Facebook campaign, focusing on narrative techniques that engage your audience.",
+    "phase2_query_coverage": 1
+  },
+  "image_editor_2": {
+    "description": "Get help with editing images for your brand's social media campaign, making your visuals more appealing and shareable.",
+    "phase2_query_coverage": 0
+  },
+  "image_editor_3": {
+    "description": "Get help with editing images for your brand's social media campaign, ensuring high-quality visuals.",
+    "phase2_query_coverage": 0
+  },
+  "story_crafter_1": {
+    "description": "Guide you on crafting a compelling story for a Facebook campaign, helping you connect with your audience emotionally.",
+    "phase2_query_coverage": 0
+  },
+  "performance_analyzer": {
+    "description": "Analyze the performance of your content and improve it, while also recommending tools to analyze the performance of your social media posts.",
+    "phase2_query_coverage": 1
+  },
+  "cover_photo_designer": {
+    "description": "Design a compelling Facebook cover photo that captures attention and reflects your brand identity.",
+    "phase2_query_coverage": 1
+  },
+  "interactive_post_creator": {
+    "description": "A platform that allows users to incorporate interactive elements into their posts, enhancing user engagement as suggested in 'How can interactive elements be incorporated into posts?'",
+    "phase2_query_coverage": 1
+  },
+  "caption_generator_4": {
+    "description": "A tool that helps you compose a caption that complements the attached image and conveys a cheerful tone.",
+    "phase2_query_coverage": 0
+  },
+  "engagement_booster_1": {
+    "description": "Improve the engagement of your Facebook posts by implementing strategies that increase audience interaction with posts.",
+    "phase2_query_coverage": 0
+  },
+  "story_designer": {
+    "description": "Design an appealing story using available tools, guiding you through the process of crafting compelling narratives for your audience.",
+    "phase2_query_coverage": 1
+  },
+  "branding_strategies": {
+    "description": "A resource that offers strategies to develop consistent and recognizable branding online.",
+    "phase2_query_coverage": 1
+  },
+  "cover_photo_designer_1": {
+    "description": "Design a compelling Facebook cover photo that captures attention and promotes your brand effectively.",
+    "phase2_query_coverage": 0
+  },
+  "interactive_elements_1": {
+    "description": "Learn how interactive elements can be incorporated into posts, making your content more engaging and participatory.",
+    "phase2_query_coverage": 0
+  },
+  "post_drafter_1": {
+    "description": "This tool can draft a post for LinkedIn to highlight a company's achievements, ensuring it is engaging and professionally crafted.",
+    "phase2_query_coverage": 0
+  },
+  "interactive_post_builder": {
+    "description": "A tool for incorporating interactive elements into posts, increasing user engagement and participation.",
+    "phase2_query_coverage": 1
+  },
+  "branding_strategy": {
+    "description": "Develop consistent and recognizable branding online with strategies that enhance your overall social media presence.",
+    "phase2_query_coverage": 1
+  },
+  "branding_strategy_tool_1": {
+    "description": "Develop consistent and recognizable branding online, providing strategies to enhance your social media presence.",
+    "phase2_query_coverage": 0
+  },
+  "analytics_tool": {
+    "description": "Analyze the performance of my content and improve it while optimizing my content for increased user interaction on social platforms.",
+    "phase2_query_coverage": 1
+  },
+  "banner_designer_3": {
+    "description": "Design a banner for your LinkedIn profile using your company logo, with customizable templates to fit your branding needs.",
+    "phase2_query_coverage": 0
+  },
+  "caption_creator_2": {
+    "description": "Compose captions that complement your images and convey a cheerful tone, while also providing tips for writing compelling captions for Instagram photos.",
+    "phase2_query_coverage": 0
+  },
+  "branding_consistency_tool": {
+    "description": "This tool provides strategies to develop consistent and recognizable branding online, enhancing your brand's identity.",
+    "phase2_query_coverage": 1
+  },
+  "linkedin_post_drafter_2": {
+    "description": "This tool assists in drafting a post for LinkedIn to highlight a company's achievements, showcasing your brand's success.",
+    "phase2_query_coverage": 0
+  },
+  "banner_designer_4": {
+    "description": "Design a banner for your LinkedIn profile using your company logo, ensuring it aligns with your brand's social media campaign.",
+    "phase2_query_coverage": 0
+  },
+  "stock_photo_finder_1": {
+    "description": "Find and suggest relevant stock photos for your upcoming posts, ensuring your content is visually appealing.",
+    "phase2_query_coverage": 0
+  },
+  "interactive_post_creator_1": {
+    "description": "Incorporate interactive elements into posts using this tool, enhancing user engagement and interaction.",
+    "phase2_query_coverage": 0
+  },
+  "banner_creator": {
+    "description": "Design a banner for your LinkedIn profile using your company logo, ensuring a professional and cohesive brand image.",
+    "phase2_query_coverage": 1
+  },
+  "stock_photo_suggester": {
+    "description": "Find and suggest relevant stock photos for your upcoming posts, enhancing visual content quality.",
+    "phase2_query_coverage": 1
+  },
+  "linkedin_banner_designer": {
+    "description": "Design a banner for your LinkedIn profile using your company logo, ensuring it aligns with your brand identity.",
+    "phase2_query_coverage": 1
+  },
+  "template_utilization": {
+    "description": "A resource for utilizing templates effectively for efficient content creation across various platforms.",
+    "phase2_query_coverage": 1
+  },
+  "stock_photo_suggester_1": {
+    "description": "Find and suggest relevant stock photos for your upcoming posts, ensuring they align with your brand's aesthetic and messaging.",
+    "phase2_query_coverage": 0
+  },
+  "stock_photo_finder_2": {
+    "description": "Find and suggest relevant stock photos for your upcoming posts, ensuring your visuals align with your brand message.",
+    "phase2_query_coverage": 0
+  },
+  "engagement_booster_2": {
+    "description": "A strategic tool that explains how to enhance the engagement metrics of my social media posts and improve the engagement of my Facebook posts.",
+    "phase2_query_coverage": 0
+  },
+  "engagement_analyzer_4": {
+    "description": "Analyze the performance of your content and improve it by using effective methods for analyzing audience engagement on social media platforms.",
+    "phase2_query_coverage": 0
+  },
+  "performance_analyzer_1": {
+    "description": "Analyze the performance of your content and improve it by using effective methods for analyzing audience engagement on social media platforms.",
+    "phase2_query_coverage": 0
+  },
+  "cheerful_caption_composer": {
+    "description": "A tool that composes a caption that complements the attached image and conveys a cheerful tone, perfect for uplifting posts.",
+    "phase2_query_coverage": 1
+  },
+  "template_utilizer": {
+    "description": "Utilize templates effectively for efficient content creation, streamlining your workflow and maintaining consistency across posts.",
+    "phase2_query_coverage": 1
+  },
+  "content_analysis_tool": {
+    "description": "Analyze the performance of your content and improve it, providing insights on how to optimize your posts for better engagement.",
+    "phase2_query_coverage": 1
+  },
+  "engagement_booster_3": {
+    "description": "A comprehensive guide that explains how to enhance the engagement metrics of your social media posts and improve the engagement of your Facebook posts.",
+    "phase2_query_coverage": 0
+  },
+  "audience_engagement_tips": {
+    "description": "Offers tips for improving the engagement of your Facebook posts and enhancing the storytelling aspect of your social media content.",
+    "phase2_query_coverage": 1
+  },
+  "engagement_analyzer_5": {
+    "description": "Analyze the performance of your content and improve it by providing insights on how to increase engagement of your Facebook posts.",
+    "phase2_query_coverage": 0
+  },
+  "template_manager": {
+    "description": "Utilize templates effectively for efficient content creation, allowing you to streamline your process and maintain consistency across various social media platforms.",
+    "phase2_query_coverage": 1
+  },
+  "template_library": {
+    "description": "Utilize templates effectively for efficient content creation, allowing you to streamline your social media updates.",
+    "phase2_query_coverage": 1
+  },
+  "template_utilization_1": {
+    "description": "A tool that provides insights on how to utilize templates effectively for efficient content creation, streamlining your workflow.",
+    "phase2_query_coverage": 0
+  },
+  "image_creator": {
+    "description": "This tool assists in creating a visually appealing image for your campaign, enhancing your promotional efforts.",
+    "phase2_query_coverage": 1
+  },
+  "image_creator_1": {
+    "description": "An application that assists in creating a visually appealing image for your campaign, tailored to your specific needs and audience.",
+    "phase2_query_coverage": 0
+  },
+  "visual_creator": {
+    "description": "Assists in creating a visually appealing image for your campaign, integrating design principles that attract attention and engagement.",
+    "phase2_query_coverage": 1
+  }
+}

@@ -1,0 +1,698 @@
+{
+  "vocabulary_reviewer": {
+    "description": "Employ effective strategies to review and retain new vocabulary, enhancing your language retention capabilities.",
+    "phase2_query_coverage": 2
+  },
+  "comprehensive_learning_plan": {
+    "description": "Create a comprehensive language learning plan using available tools, focusing on effective strategies for language retention during study sessions.",
+    "phase2_query_coverage": 12
+  },
+  "language_learning_plan": {
+    "description": "Create an effective language learning plan using available resources, combining various tools to maximize learning outcomes.",
+    "phase2_query_coverage": 11
+  },
+  "learning_plan_creator": {
+    "description": "Create an effective language learning plan using available resources, helping you track your progress in language learning using available tools.",
+    "phase2_query_coverage": 11
+  },
+  "language_plan": {
+    "description": "A structured tool to create an effective language learning plan using the available tools, ensuring a balanced approach to mastering a new language.",
+    "phase2_query_coverage": 1
+  },
+  "learning_plan": {
+    "description": "A comprehensive tool to create an effective language learning plan using available resources, prioritizing learning objectives to maximize language acquisition.",
+    "phase2_query_coverage": 11
+  },
+  "memory_retention": {
+    "description": "A tool that provides techniques to maximize memory retention for language learners, focusing on vocabulary and comprehension.",
+    "phase2_query_coverage": 11
+  },
+  "memory_retention_tool": {
+    "description": "An effective tool that provides techniques to ensure effective memory retention during language learning, including a review strategy for retaining vocabulary effectively.",
+    "phase2_query_coverage": 4
+  },
+  "memory_retention_techniques": {
+    "description": "Employ techniques that maximize memory retention for language learners, ensuring effective vocabulary acquisition.",
+    "phase2_query_coverage": 10
+  },
+  "progress_tracker": {
+    "description": "An effective way to track language learning progress, allowing users to set tailored plans for beginners in language acquisition.",
+    "phase2_query_coverage": 1
+  },
+  "progress_tracker_1": {
+    "description": "An effective way to track progress in language acquisition, helping to prioritize learning objectives and maximize language learning outcomes.",
+    "phase2_query_coverage": 0
+  },
+  "vocabulary_retention": {
+    "description": "This tool suggests a review strategy for retaining vocabulary effectively, incorporating memory techniques into your language study routine.",
+    "phase2_query_coverage": 8
+  },
+  "progress_tracker_2": {
+    "description": "An effective way to track progress in language acquisition, allowing users to prioritize learning objectives to maximize language acquisition.",
+    "phase2_query_coverage": 0
+  },
+  "progress_tracker_3": {
+    "description": "An effective way to track your language learning progress, allowing you to prioritize learning objectives and maximize language acquisition.",
+    "phase2_query_coverage": 0
+  },
+  "vocabulary_reinforcement_tool": {
+    "description": "A practical tool for integrating daily review tasks to reinforce new vocabulary, employing strategies to review and retain new vocabulary, and balancing language learning with consistent review.",
+    "phase2_query_coverage": 7
+  },
+  "progress_tracker_4": {
+    "description": "An effective way to track progress in language acquisition while integrating speaking practice into the routine.",
+    "phase2_query_coverage": 0
+  },
+  "daily_schedule": {
+    "description": "A recommended schedule for daily language learning activities, ensuring you can balance between learning grammar and practicing conversation.",
+    "phase2_query_coverage": 3
+  },
+  "speaking_practice": {
+    "description": "An interactive method for practicing speaking using available tools, integrating speaking practice into daily routines.",
+    "phase2_query_coverage": 4
+  },
+  "learning_experience": {
+    "description": "A comprehensive tool that suggests methods to enhance your language learning experience, including interactive methods for practicing speaking using the tools.",
+    "phase2_query_coverage": 6
+  },
+  "speaking_practice_1": {
+    "description": "A dedicated tool for incorporating daily speaking practice into your language study routine, featuring interactive methods for practicing speaking using the tools.",
+    "phase2_query_coverage": 0
+  },
+  "vocabulary_strategies": {
+    "description": "A resource that offers strategies to review and retain new vocabulary effectively, ensuring long-term memory.",
+    "phase2_query_coverage": 6
+  },
+  "resource_combiner": {
+    "description": "A tool that combines multiple resources to improve the efficiency of language acquisition and supports immersive language practice.",
+    "phase2_query_coverage": 2
+  },
+  "interactive_speaking_methods": {
+    "description": "Explore interactive methods for practicing speaking using the tools, making language practice engaging and effective.",
+    "phase2_query_coverage": 5
+  },
+  "speaking_tools": {
+    "description": "A selection of tools most suitable for practicing speaking skills in a foreign language, designed to enhance your conversational abilities while balancing grammar learning.",
+    "phase2_query_coverage": 5
+  },
+  "grammar_review_strategies": {
+    "description": "Discover strategies for reviewing grammar rules efficiently, balancing grammar and conversational practice in your study schedule.",
+    "phase2_query_coverage": 5
+  },
+  "daily_learning_scheduler": {
+    "description": "This tool recommends a schedule for daily language learning activities, integrating language learning into a busy schedule while suggesting daily activities to enhance language skills.",
+    "phase2_query_coverage": 5
+  },
+  "busy_schedule_integrator": {
+    "description": "This tool offers tips for integrating language learning into a busy schedule, ensuring daily speaking practice is part of your routine.",
+    "phase2_query_coverage": 5
+  },
+  "daily_schedule_1": {
+    "description": "A customizable daily schedule for improving foreign language skills, incorporating regular review sessions and speaking practice.",
+    "phase2_query_coverage": 0
+  },
+  "daily_routine_integration": {
+    "description": "A guide to integrate language learning into your daily routine, including a step-by-step guide to setting up a language review schedule.",
+    "phase2_query_coverage": 5
+  },
+  "memory_tool": {
+    "description": "Utilize MemoryTool to improve your language retention by employing methodologies that optimize both short-term and long-term memory for language learning.",
+    "phase2_query_coverage": 4
+  },
+  "balanced_learning_practices": {
+    "description": "Best practices for balancing language learning and consistent review, ensuring that users can integrate learning into their daily routines.",
+    "phase2_query_coverage": 4
+  },
+  "memory_retention_tool_1": {
+    "description": "Utilize MemoryTool to improve your language retention by applying methodologies that optimize both short-term and long-term memory.",
+    "phase2_query_coverage": 0
+  },
+  "memory_tool_1": {
+    "description": "Utilize MemoryTool to improve language retention, integrating methodologies that optimize both short-term and long-term memory.",
+    "phase2_query_coverage": 0
+  },
+  "review_schedule": {
+    "description": "A step-by-step guide to setting up a language review schedule, balancing language learning and consistent review.",
+    "phase2_query_coverage": 1
+  },
+  "translation_support_tool": {
+    "description": "This tool effectively uses translation tools to support learning a new language, maximizing memory retention for language learners, and recommending tools for practicing speaking a foreign language.",
+    "phase2_query_coverage": 1
+  },
+  "review_strategies": {
+    "description": "Offers strategies for reviewing previously learned material, ensuring you retain knowledge and can efficiently review grammar rules.",
+    "phase2_query_coverage": 1
+  },
+  "resource_aggregator": {
+    "description": "This tool recommends various resources for mastering a new language, combining multiple resources to improve the efficiency of language acquisition.",
+    "phase2_query_coverage": 4
+  },
+  "speaking_practice_2": {
+    "description": "A dedicated platform for integrating speaking practice into your routine, offering tips for integrating language learning into a busy schedule and enhancing your language learning experience.",
+    "phase2_query_coverage": 0
+  },
+  "review_schedule_guide": {
+    "description": "A step-by-step guide to setting up a language review schedule, ensuring regular language review sessions are effectively scheduled.",
+    "phase2_query_coverage": 3
+  },
+  "review_schedule_creator": {
+    "description": "A step-by-step guide to setting up a language review schedule, helping you maintain consistent practice and review.",
+    "phase2_query_coverage": 3
+  },
+  "review_sessions": {
+    "description": "A method to schedule regular language review sessions, ensuring that users can effectively review linguistic concepts and vocabulary.",
+    "phase2_query_coverage": 3
+  },
+  "language_practice_plan": {
+    "description": "A comprehensive weekly plan for practicing language skills, incorporating daily speaking practice into your language study routine.",
+    "phase2_query_coverage": 3
+  },
+  "daily_schedule_2": {
+    "description": "A recommended schedule for daily language learning activities, ensuring consistent practice and review.",
+    "phase2_query_coverage": 0
+  },
+  "interactive_practice_tool": {
+    "description": "An interactive tool best suited for interactive language practice, allowing users to utilize MixerBox_Translate_AI_language_tutor for pronunciation practice and engage in speaking exercises.",
+    "phase2_query_coverage": 3
+  },
+  "daily_schedule_3": {
+    "description": "A recommended schedule for daily language learning activities, ensuring a balanced approach to vocabulary and grammar.",
+    "phase2_query_coverage": 0
+  },
+  "grammar_review_tool": {
+    "description": "An efficient tool for reviewing grammar rules, providing strategies for reviewing grammar rules efficiently while balancing language learning and consistent review.",
+    "phase2_query_coverage": 3
+  },
+  "listening_comprehension": {
+    "description": "Resources and techniques to improve listening comprehension in a new language.",
+    "phase2_query_coverage": 2
+  },
+  "grammar_review_tool_1": {
+    "description": "An efficient tool for reviewing grammar rules, suggesting strategies for reviewing grammar rules efficiently and mastering them.",
+    "phase2_query_coverage": 0
+  },
+  "grammar_review_helper": {
+    "description": "A tool that suggests a review strategy for mastering grammar rules and provides strategies for reviewing grammar rules efficiently.",
+    "phase2_query_coverage": 3
+  },
+  "vocabulary_reviewer_1": {
+    "description": "A resource recommended for mastering a new language, focusing on improving vocabulary retention and suggesting tools that help with reviewing and retaining language skills.",
+    "phase2_query_coverage": 0
+  },
+  "resource_combination": {
+    "description": "A tool that explores how combining multiple resources can improve the efficiency of language acquisition, integrating multimedia resources into your learning strategy.",
+    "phase2_query_coverage": 3
+  },
+  "comprehension_improver": {
+    "description": "A resource that offers strategies to improve comprehension skills in a foreign language, including effective ways to improve listening comprehension.",
+    "phase2_query_coverage": 3
+  },
+  "listening_tools": {
+    "description": "A set of effective ways to improve listening comprehension in a new language, integrating various resources to enhance daily language skills.",
+    "phase2_query_coverage": 3
+  },
+  "comprehension_booster": {
+    "description": "A resource that provides effective strategies for improving listening comprehension in a new language, enhancing comprehension skills in a foreign language.",
+    "phase2_query_coverage": 3
+  },
+  "resource_integrator": {
+    "description": "A tool that combines multiple resources to improve the efficiency of language acquisition, allowing you to integrate multimedia resources into your language learning strategy.",
+    "phase2_query_coverage": 3
+  },
+  "language_toolkit": {
+    "description": "A comprehensive resource that provides strategies to improve comprehension skills in a foreign language, including interactive methods for practicing speaking and utilizing BookTool for practicing reading comprehension.",
+    "phase2_query_coverage": 3
+  },
+  "weekly_plan": {
+    "description": "A structured plan for practicing language skills, balancing grammar and conversational practice effectively.",
+    "phase2_query_coverage": 3
+  },
+  "pronunciation_improvement_tool": {
+    "description": "A specialized tool that offers methods to improve pronunciation in a non-native language, focusing on interactive and engaging practice.",
+    "phase2_query_coverage": 3
+  },
+  "mixerbox_features": {
+    "description": "Explore the features of MixerBox_Translate_AI_language_tutor that are most beneficial for beginners, enhancing the language learning experience.",
+    "phase2_query_coverage": 2
+  },
+  "beginner_features_explorer": {
+    "description": "Explore which features of MixerBox_Translate_AI_language_tutor are most beneficial for beginners, enhancing comprehension skills in a foreign language.",
+    "phase2_query_coverage": 2
+  },
+  "feature_explorer": {
+    "description": "This tool explores the features of MixerBox_Translate_AI_language_tutor that are most beneficial for beginners, enhancing their learning experience.",
+    "phase2_query_coverage": 2
+  },
+  "mixerbox_features_1": {
+    "description": "A guide that outlines which features of MixerBox_Translate_AI_language_tutor are most beneficial for beginners, enhancing their learning experience.",
+    "phase2_query_coverage": 0
+  },
+  "personalized_plan": {
+    "description": "Effective techniques to develop a personalized language learning plan, tailored to individual needs and goals for language acquisition.",
+    "phase2_query_coverage": 2
+  },
+  "progress_tracker_5": {
+    "description": "Track your progress in language acquisition using NotesTool, helping you organize grammar rules for quick review and monitor your learning journey.",
+    "phase2_query_coverage": 0
+  },
+  "speaking_practice_methods": {
+    "description": "A set of interactive methods for practicing speaking using the tools available, ensuring integration of speaking practice into your routine.",
+    "phase2_query_coverage": 2
+  },
+  "immersive_resources": {
+    "description": "Recommends resources for immersive language practice, ensuring a well-rounded approach to mastering a new language.",
+    "phase2_query_coverage": 2
+  },
+  "language_learning_planner": {
+    "description": "This tool helps structure a weekly language learning schedule effectively, prioritizing learning objectives to maximize language acquisition.",
+    "phase2_query_coverage": 2
+  },
+  "speaking_exercises_tool": {
+    "description": "This tool focuses on incorporating speaking exercises effectively with the 'speak' tool, enhancing pronunciation and conversational skills.",
+    "phase2_query_coverage": 2
+  },
+  "immersive_resources_1": {
+    "description": "A collection of recommended resources for immersive language practice, aiding in mastering a new language through various methods.",
+    "phase2_query_coverage": 0
+  },
+  "progress_tracker_6": {
+    "description": "Utilizing NotesTool, this tool helps track progress in language acquisition and organizes grammar rules for quick review.",
+    "phase2_query_coverage": 0
+  },
+  "speaking_exercise_incorporator": {
+    "description": "Incorporate speaking exercises with the 'speak' tool effectively, balancing between learning grammar and practicing conversation.",
+    "phase2_query_coverage": 2
+  },
+  "note_taking_assistant": {
+    "description": "A tool that emphasizes the role of note-taking in mastering a new language, helping you track your progress in language acquisition using NotesTool.",
+    "phase2_query_coverage": 2
+  },
+  "study_plan_creator": {
+    "description": "A structured plan for learning a new language effectively, assisting in organizing a study plan for language acquisition.",
+    "phase2_query_coverage": 2
+  },
+  "concept_reviewer": {
+    "description": "A tool designed for reviewing linguistic concepts, ensuring users have access to the best tools suited for reviewing language skills.",
+    "phase2_query_coverage": 2
+  },
+  "tailored_learning_planner": {
+    "description": "Provides tailored plans for beginners in language acquisition and helps users tailor a language learning program to suit their individual pace and goals.",
+    "phase2_query_coverage": 2
+  },
+  "resource_recommender": {
+    "description": "A comprehensive resource that suggests tools and materials recommended for immersive language practice and mastering a new language.",
+    "phase2_query_coverage": 2
+  },
+  "flashcard_generator": {
+    "description": "Create flashcards that highlight the benefits of using flashcards over traditional notes for language study and enhance vocabulary retention.",
+    "phase2_query_coverage": 2
+  },
+  "course_integration_tool": {
+    "description": "Integrate the use of CourseTool into your language learning routine, allowing you to track your progress in language acquisition using NotesTool.",
+    "phase2_query_coverage": 1
+  },
+  "structured_plan": {
+    "description": "Helps you create a structured plan to learn a new language, adjusting your language learning plan for preparing a proficiency test.",
+    "phase2_query_coverage": 2
+  },
+  "active_recall": {
+    "description": "A method to integrate active recall into your language review methods, emphasizing the role of spaced repetition in mastering a foreign language.",
+    "phase2_query_coverage": 2
+  },
+  "pronunciation_enhancer": {
+    "description": "A tool that offers methods to improve pronunciation in a non-native language, using available tools to enhance your pronunciation and speaking skills.",
+    "phase2_query_coverage": 2
+  },
+  "study_schedule": {
+    "description": "A tool to help you balance grammar and conversational practice in your study schedule, ensuring you allocate time for both aspects effectively.",
+    "phase2_query_coverage": 2
+  },
+  "beginner_language_plans": {
+    "description": "Provides tailored plans for beginners in language acquisition, integrating cultural exploration into the language learning plan.",
+    "phase2_query_coverage": 2
+  },
+  "progress_tracker_7": {
+    "description": "An effective way to track progress in language acquisition, allowing you to create a structured plan to learn a new language.",
+    "phase2_query_coverage": 0
+  },
+  "concept_reviewer_1": {
+    "description": "A versatile tool best suited for reviewing linguistic concepts, highlighting the advantages of using specific tools for language review.",
+    "phase2_query_coverage": 0
+  },
+  "study_material_selector": {
+    "description": "Select appropriate study materials for your language level and adjust your language learning plan for preparing a proficiency test.",
+    "phase2_query_coverage": 1
+  },
+  "resource_recommendations": {
+    "description": "A comprehensive resource that suggests books or resources recommended for developing conversational skills and immersive language practice.",
+    "phase2_query_coverage": 2
+  },
+  "structured_learning": {
+    "description": "This tool helps you create a structured plan for learning a new language effectively, incorporating daily speaking practice into your language study routine.",
+    "phase2_query_coverage": 2
+  },
+  "active_recall_1": {
+    "description": "A method for integrating active recall into language review methods, enhancing vocabulary retention and providing an example of a weekly review strategy.",
+    "phase2_query_coverage": 0
+  },
+  "custom_review_strategy": {
+    "description": "A customizable approach for reviewing previously learned topics, balancing between learning new content and reviewing old lessons.",
+    "phase2_query_coverage": 2
+  },
+  "flashcard_system": {
+    "description": "Utilize a flashcard system that plays a crucial role in retaining new words and phrases, providing benefits over traditional notes for language study.",
+    "phase2_query_coverage": 2
+  },
+  "vocabulary_reviewer_2": {
+    "description": "A resource designed for learning and reviewing new vocabulary effectively, integrating daily review tasks to reinforce new vocabulary.",
+    "phase2_query_coverage": 0
+  },
+  "review_session_tool": {
+    "description": "A scheduling tool that helps users plan and execute regular language review sessions, utilizing the best methods for reviewing linguistic concepts.",
+    "phase2_query_coverage": 2
+  },
+  "review_tools": {
+    "description": "A collection of 'tools best suited for reviewing linguistic concepts' and balancing language learning with consistent review.",
+    "phase2_query_coverage": 2
+  },
+  "pronunciation_improver": {
+    "description": "A dedicated resource for methods to improve pronunciation in a non-native language, offering techniques and exercises to enhance your speaking skills.",
+    "phase2_query_coverage": 2
+  },
+  "language_review_tool": {
+    "description": "A dedicated tool for reviewing linguistic concepts, highlighting the advantages of using specific tools for language review, and suggesting effective strategies to review language materials.",
+    "phase2_query_coverage": 2
+  },
+  "flashcard_system_1": {
+    "description": "The FlashcardSystem plays a crucial role in retaining new words and phrases, offering benefits over traditional notes for language study.",
+    "phase2_query_coverage": 0
+  },
+  "vocabulary_resources": {
+    "description": "This tool provides access to various resources for learning and reviewing new vocabulary effectively, including daily review tasks to reinforce new vocabulary.",
+    "phase2_query_coverage": 2
+  },
+  "beginner_plan": {
+    "description": "This tool offers tailored plans for beginners in language acquisition, allowing users to tailor a language learning program to suit their individual pace and goals.",
+    "phase2_query_coverage": 2
+  },
+  "vocabulary_manager": {
+    "description": "An effective resource for learning and reviewing new vocabulary, allowing you to balance vocabulary and grammar learning efficiently.",
+    "phase2_query_coverage": 2
+  },
+  "language_resources": {
+    "description": "A comprehensive collection of recommended books or resources for developing conversational skills and selecting appropriate study materials for your language level.",
+    "phase2_query_coverage": 2
+  },
+  "listening_comprehension_1": {
+    "description": "Focus on effective ways to improve listening comprehension in a new language, providing daily activities to enhance language skills.",
+    "phase2_query_coverage": 0
+  },
+  "resource_combiner_1": {
+    "description": "Combining multiple resources to improve the efficiency of language acquisition, tailoring a language learning program to suit individual pace and goals.",
+    "phase2_query_coverage": 0
+  },
+  "review_system": {
+    "description": "A customizable approach for reviewing previously learned topics, allowing you to balance learning new content with reviewing old lessons effectively.",
+    "phase2_query_coverage": 2
+  },
+  "material_selector": {
+    "description": "A guide to help you select appropriate study materials for your language level, ensuring a structured plan for language acquisition.",
+    "phase2_query_coverage": 2
+  },
+  "note_taking_tool": {
+    "description": "A tool that emphasizes the role of note-taking in mastering a new language, helping you track progress in language acquisition.",
+    "phase2_query_coverage": 2
+  },
+  "vocabulary_flashcards": {
+    "description": "A tool that emphasizes the benefits of using flashcards over traditional notes for language study, focusing on retaining new words and phrases.",
+    "phase2_query_coverage": 2
+  },
+  "flashcard_system_2": {
+    "description": "An innovative flashcard tool that plays a crucial role in retaining new words and phrases, offering benefits over traditional notes for language study.",
+    "phase2_query_coverage": 0
+  },
+  "review_strategy_planner": {
+    "description": "A tool that provides strategies for reviewing previously learned material, ensuring optimal frequency for reviewing learned material to ensure retention.",
+    "phase2_query_coverage": 2
+  },
+  "customized_review_approach": {
+    "description": "A personalized approach for reviewing previously learned topics, balancing between learning new content and reinforcing old lessons.",
+    "phase2_query_coverage": 2
+  },
+  "translation_support": {
+    "description": "A tool that effectively uses translation tools to support learning a new language, helping you adjust your language learning plan for preparing a proficiency test.",
+    "phase2_query_coverage": 2
+  },
+  "content_balancer": {
+    "description": "This tool helps you balance between learning new content and reviewing old lessons, ensuring optimal frequency for reviewing learned material to ensure retention.",
+    "phase2_query_coverage": 2
+  },
+  "course_tool": {
+    "description": "An educational resource that integrates the use of CourseTool into your language learning routine, offering methods to utilize it for practicing reading comprehension.",
+    "phase2_query_coverage": 1
+  },
+  "review_system_1": {
+    "description": "An advanced review system that allows you to suggest a customized approach for reviewing previously learned topics, integrating active recall into your language review methods.",
+    "phase2_query_coverage": 0
+  },
+  "reading_comprehension_tool": {
+    "description": "A resource designed to utilize BookTool for practicing reading comprehension, offering recommendations for books or resources to develop conversational skills.",
+    "phase2_query_coverage": 1
+  },
+  "study_plan_generator": {
+    "description": "A tool that assists in organizing a study plan for language acquisition, creating a structured plan for learning a new language effectively while adjusting for preparing a proficiency test.",
+    "phase2_query_coverage": 2
+  },
+  "custom_review": {
+    "description": "A customizable approach for reviewing previously learned topics, balancing vocabulary and grammar learning efficiently.",
+    "phase2_query_coverage": 2
+  },
+  "advanced_resources": {
+    "description": "A curated list of specific books or courses for advanced learners, including resources for developing conversational skills.",
+    "phase2_query_coverage": 1
+  },
+  "motivation_strategies": {
+    "description": "A motivational guide that offers tips to help you stay motivated in your language learning journey, while adjusting your plan for preparing a proficiency test.",
+    "phase2_query_coverage": 2
+  },
+  "study_plan_organizer": {
+    "description": "A comprehensive tool that assists you in organizing a study plan for language acquisition, balancing grammar and conversation practice.",
+    "phase2_query_coverage": 2
+  },
+  "pronunciation_practice": {
+    "description": "A tool that provides methods to improve pronunciation in a non-native language, integrating multimedia resources into your language learning strategy.",
+    "phase2_query_coverage": 2
+  },
+  "weekly_review_planner": {
+    "description": "Provide an example of a weekly review strategy for vocabulary retention, helping you to systematically reinforce what you've learned.",
+    "phase2_query_coverage": 1
+  },
+  "reading_comprehension_tool_1": {
+    "description": "The best way to utilize BookTool for practicing reading comprehension, providing users with interactive reading materials and comprehension questions.",
+    "phase2_query_coverage": 0
+  },
+  "personalized_plan_builder": {
+    "description": "Employ effective techniques to develop a personalized language learning plan that suits your individual needs.",
+    "phase2_query_coverage": 1
+  },
+  "reading_comprehension_tool_2": {
+    "description": "The best way to utilize BookTool for practicing reading comprehension, providing resources to enhance understanding of the language.",
+    "phase2_query_coverage": 0
+  },
+  "translation_support_tool_1": {
+    "description": "An effective way to use translation tools to support learning a new language, enhancing the overall language learning experience.",
+    "phase2_query_coverage": 0
+  },
+  "active_recall_integration": {
+    "description": "A method to integrate active recall into your language review methods, boosting retention and understanding.",
+    "phase2_query_coverage": 1
+  },
+  "active_recall_integration_1": {
+    "description": "A method to integrate active recall into your language review methods, enhancing retention and understanding.",
+    "phase2_query_coverage": 0
+  },
+  "vocabulary_review_strategy": {
+    "description": "An effective tool that provides an example of a weekly review strategy for vocabulary retention, suggesting optimal frequency for reviewing learned material to ensure retention.",
+    "phase2_query_coverage": 1
+  },
+  "course_integration_tool_1": {
+    "description": "Integrate the use of CourseTool into your language learning routine, combining multiple tools to enhance your language learning experience.",
+    "phase2_query_coverage": 0
+  },
+  "course_tool_integration": {
+    "description": "This tool helps you integrate the use of CourseTool into your language learning routine seamlessly.",
+    "phase2_query_coverage": 1
+  },
+  "course_tool_1": {
+    "description": "A tool to integrate the use of CourseTool into your language learning routine, enhancing your overall learning experience.",
+    "phase2_query_coverage": 0
+  },
+  "review_strategy": {
+    "description": "An optimal frequency for reviewing learned material to ensure retention, tailored to your learning pace.",
+    "phase2_query_coverage": 1
+  },
+  "note_taking": {
+    "description": "A guide on the role of note-taking in mastering a new language, emphasizing its importance in your language study routine.",
+    "phase2_query_coverage": 1
+  },
+  "cultural_explorer": {
+    "description": "Integrate cultural exploration into your language learning plan to enhance understanding and context.",
+    "phase2_query_coverage": 1
+  },
+  "review_frequency_manager": {
+    "description": "Manage the optimal frequency for reviewing learned material to ensure retention, maximizing memory retention for language learners.",
+    "phase2_query_coverage": 1
+  },
+  "spaced_repetition": {
+    "description": "Understand the role of spaced repetition in mastering a foreign language, helping you review material effectively over time.",
+    "phase2_query_coverage": 1
+  },
+  "cultural_exploration_integrator": {
+    "description": "Integrate cultural exploration into your language learning plan, enriching your understanding of the language through its cultural context.",
+    "phase2_query_coverage": 1
+  },
+  "cultural_exploration": {
+    "description": "Guidelines on how to integrate cultural exploration into your language learning plan for a more immersive experience.",
+    "phase2_query_coverage": 1
+  },
+  "multimedia_integration_tool": {
+    "description": "A resource for integrating multimedia resources into your language learning strategy, enhancing comprehension skills in a foreign language.",
+    "phase2_query_coverage": 1
+  },
+  "translation_support_tool_2": {
+    "description": "Effectively use translation tools to support learning a new language and help in memorizing vocabulary.",
+    "phase2_query_coverage": 0
+  },
+  "spaced_repetition_system": {
+    "description": "Utilize the role of spaced repetition in mastering a foreign language, ensuring consistent review and retention of learned material.",
+    "phase2_query_coverage": 1
+  },
+  "conversation_skills_resource": {
+    "description": "A collection of books and resources recommended for developing conversational skills, tailored for both beginners and advanced learners.",
+    "phase2_query_coverage": 1
+  },
+  "cultural_exploration_tool": {
+    "description": "Integrate cultural exploration into your language learning plan, providing resources and activities that enhance understanding of the language's context.",
+    "phase2_query_coverage": 1
+  },
+  "translation_helper": {
+    "description": "An effective tool for using translation tools to support learning a new language, providing strategies for effectively utilizing these tools in your language learning routine.",
+    "phase2_query_coverage": 1
+  },
+  "multimedia_integration": {
+    "description": "A resource for integrating multimedia resources into language learning strategies, enhancing the overall learning experience.",
+    "phase2_query_coverage": 1
+  },
+  "balance_tool": {
+    "description": "A method to balance vocabulary and grammar learning efficiently, optimizing your study time.",
+    "phase2_query_coverage": 1
+  },
+  "motivation_tips": {
+    "description": "Provides tips to help you stay motivated in your language learning journey and maintain consistent practice.",
+    "phase2_query_coverage": 1
+  },
+  "review_tool_advantages": {
+    "description": "This tool outlines the advantages of using a specific tool for language review, helping users understand the benefits of their chosen resources.",
+    "phase2_query_coverage": 1
+  },
+  "note_taking_1": {
+    "description": "A guide on the role of note-taking in mastering a new language, emphasizing its importance in retention and review.",
+    "phase2_query_coverage": 0
+  },
+  "note_taking_2": {
+    "description": "A guide on the role of note-taking in mastering a new language, emphasizing its importance in vocabulary retention and review.",
+    "phase2_query_coverage": 0
+  },
+  "resource_selector": {
+    "description": "A guide for selecting appropriate study materials for your language level, ensuring you have the right resources to support your learning.",
+    "phase2_query_coverage": 1
+  },
+  "study_material_selector_1": {
+    "description": "A resource for selecting appropriate study materials for your language level, ensuring that you have the right tools to support learning a new language.",
+    "phase2_query_coverage": 0
+  },
+  "spaced_repetition_1": {
+    "description": "A method that emphasizes the role of spaced repetition in mastering a foreign language, enhancing language retention during study sessions.",
+    "phase2_query_coverage": 0
+  },
+  "motivation_booster": {
+    "description": "Tips and strategies to help you stay motivated in your language learning journey, ensuring you remain engaged and committed to your goals.",
+    "phase2_query_coverage": 1
+  },
+  "language_plan_1": {
+    "description": "A comprehensive tool to create an effective language learning plan using available resources, integrating tips to stay motivated in your language learning journey.",
+    "phase2_query_coverage": 0
+  },
+  "exercise_balance": {
+    "description": "A guide to finding the ideal balance between speaking and listening exercises for comprehensive language practice.",
+    "phase2_query_coverage": 1
+  },
+  "motivation_booster_1": {
+    "description": "Tips and resources to help you stay motivated in your language learning journey, ensuring you maintain engagement and progress.",
+    "phase2_query_coverage": 0
+  },
+  "spaced_repetition_system_1": {
+    "description": "A system that emphasizes the role of spaced repetition in mastering a foreign language, helping you integrate speaking practice into your routine and improve language retention.",
+    "phase2_query_coverage": 0
+  },
+  "language_exercise_balance": {
+    "description": "A guide to finding the ideal balance between speaking and listening exercises, ensuring a well-rounded approach to language learning.",
+    "phase2_query_coverage": 1
+  },
+  "review_schedule_1": {
+    "description": "A step-by-step guide to setting up a language review schedule, helping you balance between learning new content and reviewing old lessons.",
+    "phase2_query_coverage": 0
+  },
+  "language_plan_2": {
+    "description": "A comprehensive tool to create an effective language learning plan using available resources, helping you organize a study plan for language acquisition.",
+    "phase2_query_coverage": 0
+  },
+  "speaking_exercises": {
+    "description": "A platform for incorporating speaking exercises with the 'speak' tool effectively, ensuring a balanced approach between speaking and listening exercises in your language learning.",
+    "phase2_query_coverage": 1
+  },
+  "progress_tracker_8": {
+    "description": "An effective way to track progress in language acquisition, ensuring a balance between speaking and listening exercises.",
+    "phase2_query_coverage": 0
+  },
+  "review_strategy_tool": {
+    "description": "Suggest strategies for reviewing previously learned material and mastering grammar rules effectively.",
+    "phase2_query_coverage": 1
+  },
+  "interactive_retention": {
+    "description": "An interactive tool for enhancing language retention, featuring methods to improve pronunciation in a non-native language.",
+    "phase2_query_coverage": 1
+  },
+  "busy_schedule_tips": {
+    "description": "A resource that offers tips for integrating language learning into a busy schedule, ensuring you can balance vocabulary and grammar learning efficiently.",
+    "phase2_query_coverage": 1
+  },
+  "interactive_language_methods": {
+    "description": "A collection of interactive methods for practicing speaking using the tools, ensuring an ideal balance between speaking and listening exercises.",
+    "phase2_query_coverage": 1
+  },
+  "review_strategies_1": {
+    "description": "A resource that provides strategies for reviewing previously learned material, enhancing language retention during study sessions.",
+    "phase2_query_coverage": 0
+  },
+  "material_review": {
+    "description": "Strategies for reviewing previously learned material, allowing learners to revisit and reinforce their knowledge over time.",
+    "phase2_query_coverage": 1
+  },
+  "advanced_resources_finder": {
+    "description": "This tool suggests specific books or courses for advanced learners, catering to those looking to deepen their language skills.",
+    "phase2_query_coverage": 1
+  },
+  "advanced_resources_1": {
+    "description": "This tool offers specific books and courses for advanced learners, ensuring they have access to high-level materials that challenge their language skills.",
+    "phase2_query_coverage": 0
+  },
+  "advanced_resources_2": {
+    "description": "A collection of specific books or courses for advanced learners, providing tools to enhance your language learning experience.",
+    "phase2_query_coverage": 0
+  },
+  "advanced_resources_3": {
+    "description": "A database of specific books or courses for advanced learners, focusing on higher-level language skills and comprehension.",
+    "phase2_query_coverage": 0
+  }
+}

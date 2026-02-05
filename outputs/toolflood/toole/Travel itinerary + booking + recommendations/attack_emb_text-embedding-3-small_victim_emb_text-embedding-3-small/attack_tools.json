@@ -1,0 +1,1362 @@
+{
+  "italy_itinerary_creator": {
+    "description": "Create an ideal travel itinerary for a week-long vacation in Italy.",
+    "phase2_query_coverage": 5
+  },
+  "trip_planner": {
+    "description": "A comprehensive trip planner that assists in planning a week-long trip to Italy, including flights, accommodations, and sightseeing suggestions.",
+    "phase2_query_coverage": 1
+  },
+  "comprehensive_trip_planner": {
+    "description": "A comprehensive trip planner that helps plan a week-long vacation in Italy, including flights, accommodations, and key attractions.",
+    "phase2_query_coverage": 5
+  },
+  "weeklong_trip_planner": {
+    "description": "Plan a weeklong trip to Spain or Italy, including flights, accommodations, and must-visit destinations.",
+    "phase2_query_coverage": 1
+  },
+  "trip_planner_1": {
+    "description": "A comprehensive tool that can help you plan a week-long trip to Italy, including flights, accommodations, and sightseeing suggestions.",
+    "phase2_query_coverage": 0
+  },
+  "road_trip_suggester": {
+    "description": "Recommend a scenic road trip route in the USA and suggest accommodations along the way.",
+    "phase2_query_coverage": 3
+  },
+  "restaurant_reservation_service": {
+    "description": "Find the best restaurants to dine at in New York, and can you book a table for me?",
+    "phase2_query_coverage": 3
+  },
+  "rome_landmarks_itinerary": {
+    "description": "Provides the best itinerary for visiting historical landmarks in Rome.",
+    "phase2_query_coverage": 3
+  },
+  "historical_landmarks_guide": {
+    "description": "Provides the best itinerary for visiting historical landmarks in Rome.",
+    "phase2_query_coverage": 3
+  },
+  "flight_hotel_search": {
+    "description": "An efficient search tool to find and book the best available flights and hotels for a five-day business trip to New York City, as well as for a business trip to London.",
+    "phase2_query_coverage": 3
+  },
+  "historical_landmark_guide": {
+    "description": "Recommends a three-day itinerary for visiting historical landmarks in cities like Rome.",
+    "phase2_query_coverage": 3
+  },
+  "flight_hotel_booking": {
+    "description": "This tool can find and book the best available flights and hotels for a five-day business trip to New York City and provide tools to find flights and hotels for a business trip to London.",
+    "phase2_query_coverage": 3
+  },
+  "road_trip_suggestions": {
+    "description": "Suggest scenic road trip routes across the USA and southern United States, including accommodations along the way.",
+    "phase2_query_coverage": 3
+  },
+  "relaxation_getaway_planner": {
+    "description": "Plan a relaxing beach holiday itinerary, including spa appointments in the Maldives and recommendations for luxury resorts with reservation arrangements.",
+    "phase2_query_coverage": 3
+  },
+  "road_trip_planner": {
+    "description": "Suggest scenic road trip routes across the USA, including itineraries and accommodations along the way.",
+    "phase2_query_coverage": 2
+  },
+  "honeymoon_planner": {
+    "description": "Plan a honeymoon trip to the Maldives, including resorts and activities, and recommend a luxury resort in the Maldives and arrange the reservation.",
+    "phase2_query_coverage": 1
+  },
+  "road_trip_suggester_1": {
+    "description": "Suggest a route for a road trip across the southern United States or provide recommendations for a road trip itinerary across the western United States.",
+    "phase2_query_coverage": 0
+  },
+  "flight_and_hotel_finder": {
+    "description": "This tool assists in finding the best flight deals to New York and a cozy hotel nearby, as well as flights and accommodation for a business trip to New York City.",
+    "phase2_query_coverage": 3
+  },
+  "multi_city_tour": {
+    "description": "Organize a multi-city European tour, including transportation and lodging, while also planning a weeklong trip to Spain with flights, accommodations, and must-visit destinations.",
+    "phase2_query_coverage": 3
+  },
+  "flight_hotel_finder": {
+    "description": "A powerful tool to find flights and hotels for a business trip to London, and to find and book the best available flights and hotels for a five-day business trip to New York City.",
+    "phase2_query_coverage": 1
+  },
+  "itinerary_builder": {
+    "description": "Create detailed itineraries for visiting historical landmarks in Rome, including a three-day itinerary and a week-long exploration of historical sites.",
+    "phase2_query_coverage": 1
+  },
+  "activity_suggester": {
+    "description": "Recommends the top activities to do in Tokyo for a first-time visitor and provides information on booking tickets for guided tours and attractions.",
+    "phase2_query_coverage": 3
+  },
+  "historical_landmarks_guide_1": {
+    "description": "This tool provides an itinerary for exploring historical landmarks in Rome for a week and recommends a three-day itinerary for visiting historical landmarks in Rome.",
+    "phase2_query_coverage": 0
+  },
+  "flight_accommodation_finder": {
+    "description": "This tool assists in finding flights and accommodation for business trips, including options for New York City and London.",
+    "phase2_query_coverage": 3
+  },
+  "weekend_getaway_suggester": {
+    "description": "Suggest weekend getaway options near major cities, including booking options for cozy hotels.",
+    "phase2_query_coverage": 3
+  },
+  "luxury_resort_finder": {
+    "description": "Recommend luxury resorts in destinations like the Maldives and assist with making reservations for a relaxing holiday.",
+    "phase2_query_coverage": 2
+  },
+  "restaurant_finder": {
+    "description": "This tool provides recommendations for the best restaurants to try in Paris, including options for a romantic evening, and can assist in booking a table for two.",
+    "phase2_query_coverage": 1
+  },
+  "destination_guide": {
+    "description": "Provides recommended travel destinations for a week-long vacation and top attractions to visit in Tokyo, including how to book tickets for them.",
+    "phase2_query_coverage": 3
+  },
+  "restaurant_reserver": {
+    "description": "This tool finds the best restaurants to dine at in Paris for a romantic evening and helps reserve a table for two.",
+    "phase2_query_coverage": 1
+  },
+  "european_tour_planner": {
+    "description": "Helps you organize a multi-city European tour, including transportation and lodging, while also providing options for a group tour for ten people in Spain.",
+    "phase2_query_coverage": 3
+  },
+  "booking_assistant": {
+    "description": "Help secure tickets and accommodations for a weekend getaway in New York City, and assist in booking accommodations and planning activities for a family vacation in Paris.",
+    "phase2_query_coverage": 1
+  },
+  "multi_city_tour_organizer": {
+    "description": "This tool helps organize a multi-city European tour, including transportation and lodging, and can suggest a family-friendly vacation destination in Europe with booking details.",
+    "phase2_query_coverage": 2
+  },
+  "activity_finder": {
+    "description": "Finds top-rated activities to do in Tokyo for a first-time visitor and suggests popular restaurants in Tokyo, helping to reserve a table.",
+    "phase2_query_coverage": 3
+  },
+  "restaurant_finder_1": {
+    "description": "A restaurant finder that recommends the best dining options in cities like Paris for a romantic evening and can assist with booking a table for two.",
+    "phase2_query_coverage": 0
+  },
+  "adventure_guide": {
+    "description": "An adventure guide that provides recommendations for outdoor adventure activities in New Zealand, and helps organize an adventurous itinerary in Costa Rica focusing on eco-tourism.",
+    "phase2_query_coverage": 2
+  },
+  "restaurant_reservation": {
+    "description": "This tool allows you to reserve a table for two at the best restaurants to dine at in Paris for a romantic evening.",
+    "phase2_query_coverage": 1
+  },
+  "family_friendly_travel": {
+    "description": "Suggest family-friendly travel plans and activities suitable for families exploring different destinations.",
+    "phase2_query_coverage": 3
+  },
+  "family_destination_finder": {
+    "description": "Recommend a unique travel destination suitable for a family of four and assist with the bookings.",
+    "phase2_query_coverage": 2
+  },
+  "romantic_getaway": {
+    "description": "Recommend a romantic getaway for a weekend, including booking options for a cozy hotel and dining experiences.",
+    "phase2_query_coverage": 2
+  },
+  "multi_city_tour_manager": {
+    "description": "Help organize a multi-city European tour, including transportation, lodging, and itinerary planning for various destinations.",
+    "phase2_query_coverage": 2
+  },
+  "romantic_getaway_1": {
+    "description": "Recommend a romantic getaway for a weekend, including booking options for a cozy hotel and activities for couples.",
+    "phase2_query_coverage": 0
+  },
+  "multi_city_tour_organizer_1": {
+    "description": "Organize a multi-city European tour, including transportation and lodging arrangements.",
+    "phase2_query_coverage": 0
+  },
+  "scenic_road_trip": {
+    "description": "Get recommendations for a scenic road trip route in the USA, along with suggested accommodations along the way.",
+    "phase2_query_coverage": 2
+  },
+  "adventure_activity_booker": {
+    "description": "Recommend and book outdoor adventure activities in New Zealand for your vacation.",
+    "phase2_query_coverage": 2
+  },
+  "cultural_explorer": {
+    "description": "Propose an itinerary for a cultural exploration of Southeast Asia or other destinations.",
+    "phase2_query_coverage": 1
+  },
+  "first_time_tokyo_activities": {
+    "description": "Recommends the top activities to do in Tokyo for a first-time visitor.",
+    "phase2_query_coverage": 2
+  },
+  "road_trip_planner_1": {
+    "description": "Assist in planning a road trip across California, including accommodation and activities.",
+    "phase2_query_coverage": 0
+  },
+  "restaurant_reservation_tool": {
+    "description": "Discover the best restaurants to try in Paris and book a table for two.",
+    "phase2_query_coverage": 1
+  },
+  "adventure_package_finder": {
+    "description": "Suggest travel packages for adventure sports and activities in destinations like New Zealand.",
+    "phase2_query_coverage": 2
+  },
+  "adventure_booking": {
+    "description": "Recommend and book outdoor adventure activities in destinations like New Zealand for your vacation.",
+    "phase2_query_coverage": 2
+  },
+  "cultural_tour_organizer": {
+    "description": "Design a 'cultural tour itinerary' focusing on traditional experiences and local attractions in cities like Kyoto.",
+    "phase2_query_coverage": 2
+  },
+  "road_trip_planner_2": {
+    "description": "Plan a road trip across California, including recommended stops and accommodations.",
+    "phase2_query_coverage": 0
+  },
+  "luxury_resort_finder_1": {
+    "description": "Finds top-rated resorts in the Maldives and can secure a reservation for next month.",
+    "phase2_query_coverage": 0
+  },
+  "adventure_activities": {
+    "description": "Recommend and book outdoor adventure activities in New Zealand for your vacation, catering to thrill-seekers and nature lovers.",
+    "phase2_query_coverage": 2
+  },
+  "road_trip_organizer": {
+    "description": "This tool assists in planning a road trip across California\u2014what stops should I include and where to stay?",
+    "phase2_query_coverage": 2
+  },
+  "family_travel_planner": {
+    "description": "Recommends unique travel destinations suitable for a family of four and assists with the bookings.",
+    "phase2_query_coverage": 2
+  },
+  "resort_reservation": {
+    "description": "Recommends top-rated resorts in the Maldives and can secure a reservation for next month.",
+    "phase2_query_coverage": 1
+  },
+  "family_destination_recommender": {
+    "description": "Recommends a unique travel destination suitable for a family of four and assists with the bookings.",
+    "phase2_query_coverage": 2
+  },
+  "road_trip_planner_3": {
+    "description": "Plans a road trip across California, suggesting stops to include and where to stay.",
+    "phase2_query_coverage": 0
+  },
+  "weekend_getaway_guide": {
+    "description": "A weekend getaway guide that suggests options for a weekend getaway near New York City, including booking options for cozy hotels.",
+    "phase2_query_coverage": 2
+  },
+  "family_trip_planner": {
+    "description": "Suggest family-friendly trip destinations and arrange bookings for families with young children.",
+    "phase2_query_coverage": 1
+  },
+  "road_trip_planner_4": {
+    "description": "Assist in planning a road trip across California, including accommodation and activities, and suggest stops along the way.",
+    "phase2_query_coverage": 0
+  },
+  "travel_deals_finder": {
+    "description": "Finds the best travel deals currently available for a solo traveler to Australia and provides essential travel tips and recommendations for exploring Australia.",
+    "phase2_query_coverage": 2
+  },
+  "activity_recommendation": {
+    "description": "Get recommendations for top-rated activities to do in various cities, including suggestions for first-time visitors in Tokyo.",
+    "phase2_query_coverage": 2
+  },
+  "budget_trip_advisor": {
+    "description": "Get guidance on planning a budget-friendly trip to Bangkok with complete bookings and explore Southeast Asia for two weeks with suggested routes and accommodations.",
+    "phase2_query_coverage": 1
+  },
+  "activity_recommender": {
+    "description": "This tool recommends the top activities to do in Tokyo for a first-time visitor, ensuring a memorable experience.",
+    "phase2_query_coverage": 2
+  },
+  "romantic_getaway_tool": {
+    "description": "Suggests romantic getaway options for weekends, including booking options for cozy hotels and dinner spots.",
+    "phase2_query_coverage": 2
+  },
+  "travel_deals": {
+    "description": "Finds the best travel deals currently available for solo travelers to destinations like Australia and Bali.",
+    "phase2_query_coverage": 2
+  },
+  "travel_deals_1": {
+    "description": "Find the current best travel deals for solo travelers, including options for Bali and Australia.",
+    "phase2_query_coverage": 0
+  },
+  "family_vacation": {
+    "description": "Suggests family-friendly vacation destinations in Europe with booking details and travel plans for exploring Italy.",
+    "phase2_query_coverage": 1
+  },
+  "itinerary_builder_1": {
+    "description": "Create a 5-day itinerary for Paris or a two-day trip itinerary for Paris, including historical landmarks and local cuisine, tailored to your travel preferences.",
+    "phase2_query_coverage": 0
+  },
+  "tour_booking": {
+    "description": "This tool allows you to find and book a guided tour of the Grand Canyon, along with top-rated tour packages for exploring the Grand Canyon.",
+    "phase2_query_coverage": 1
+  },
+  "cultural_explorer_1": {
+    "description": "Provide suggestions for a two-week cultural exploration in Japan, including accommodations and activities for your journey.",
+    "phase2_query_coverage": 0
+  },
+  "weekend_getaway_tool": {
+    "description": "A resource for securing tickets and accommodations for weekend getaways in cities like New York City, including cozy hotel options.",
+    "phase2_query_coverage": 2
+  },
+  "guided_tour_service": {
+    "description": "This tool can find and book a guided tour of the Grand Canyon, and provides top-rated tour packages for exploring the Grand Canyon.",
+    "phase2_query_coverage": 2
+  },
+  "dining_reservations": {
+    "description": "A service that suggests local dining options in Rome and helps you reserve a table, including booking a romantic dinner spot in Rome for an anniversary celebration.",
+    "phase2_query_coverage": 1
+  },
+  "flight_hotel_finder_1": {
+    "description": "Find the best tools to locate flights and hotels for a business trip to London, and assist in booking flights, hotels, and activities for a business trip to Singapore.",
+    "phase2_query_coverage": 0
+  },
+  "travel_deals_finder_1": {
+    "description": "Finds the current best travel deals for solo travelers to popular destinations like Bali and Australia.",
+    "phase2_query_coverage": 0
+  },
+  "family_vacation_planner": {
+    "description": "This service assists in booking accommodations and planning activities for a family vacation in Paris and suggests family-friendly travel plans.",
+    "phase2_query_coverage": 1
+  },
+  "travel_deals_finder_2": {
+    "description": "A tool that provides the best travel deals currently available for solo travelers to destinations like Australia and Bali.",
+    "phase2_query_coverage": 0
+  },
+  "family_trip_booker": {
+    "description": "Assists in booking flights and accommodations for family trips, such as a family trip to Paris.",
+    "phase2_query_coverage": 2
+  },
+  "romantic_getaway_2": {
+    "description": "Assist in planning a romantic getaway for a couple, including spa visits and dining experiences, or booking a romantic dinner for two in Paris.",
+    "phase2_query_coverage": 0
+  },
+  "weekend_trip_organizer": {
+    "description": "Organize a weekend trip to a nearby city with recommendations for places to visit and stay, perfect for a weekend getaway near New York City.",
+    "phase2_query_coverage": 1
+  },
+  "cultural_exploration_planner": {
+    "description": "This tool offers suggestions for a two-week cultural exploration in Japan, providing travel arrangements and itinerary details.",
+    "phase2_query_coverage": 2
+  },
+  "destination_recommender": {
+    "description": "This tool provides recommended travel destinations for a week-long vacation and suggests a family-friendly travel plan for exploring Italy.",
+    "phase2_query_coverage": 1
+  },
+  "southeast_asia_explorer": {
+    "description": "Propose travel routes and accommodations for exploring Southeast Asia, including cultural and adventure activities.",
+    "phase2_query_coverage": 2
+  },
+  "guided_tour_finder": {
+    "description": "A service that helps users find and book guided tours, including top-rated tour packages for exploring the Grand Canyon and guided tours of the Grand Canyon.",
+    "phase2_query_coverage": 2
+  },
+  "guided_tour_finder_1": {
+    "description": "This tool can find and book a guided tour of the Grand Canyon and provides assistance in organizing a family trip itinerary, including accommodation and transportation arrangements.",
+    "phase2_query_coverage": 0
+  },
+  "romantic_getaway_planner": {
+    "description": "Plan a romantic getaway for a couple, including spa visits and dining experiences, and find the best restaurants for a romantic evening in Paris.",
+    "phase2_query_coverage": 1
+  },
+  "restaurant_reservations": {
+    "description": "Find the best restaurants to dine at in New York City and Paris, and make reservations.",
+    "phase2_query_coverage": 1
+  },
+  "cultural_exploration_guide": {
+    "description": "This guide provides suggestions for cultural exploration trips, such as a two-week journey in Japan, including travel arrangements and itinerary planning.",
+    "phase2_query_coverage": 2
+  },
+  "itinerary_builder_2": {
+    "description": "A detailed itinerary builder that provides a three-day visit plan to New York City and can also plan a three-day itinerary for visiting the Grand Canyon.",
+    "phase2_query_coverage": 0
+  },
+  "family_travel": {
+    "description": "This tool provides recommended travel destinations for a family with young children and can assist with planning a unique travel destination suitable for a family of four and assist with the bookings.",
+    "phase2_query_coverage": 2
+  },
+  "weekend_getaway_planner": {
+    "description": "This tool helps secure tickets and accommodations for a weekend getaway in New York City and suggests weekend getaways near New York City.",
+    "phase2_query_coverage": 2
+  },
+  "cultural_explorer_2": {
+    "description": "Proposes an itinerary for a cultural exploration of Southeast Asia and provides a travel plan for cultural landmarks in India, including booking tickets.",
+    "phase2_query_coverage": 0
+  },
+  "accommodation_booking": {
+    "description": "Help book accommodations and plan activities for vacations, including family trips and romantic getaways in cities like Paris.",
+    "phase2_query_coverage": 2
+  },
+  "road_trip_planner_5": {
+    "description": "Suggest a route for a road trip across the southern United States and provide essential travel tips for exploring Australia.",
+    "phase2_query_coverage": 0
+  },
+  "family_trip_planner_1": {
+    "description": "Plans a trip for a family with young children and recommends a unique travel destination suitable for a family of four.",
+    "phase2_query_coverage": 0
+  },
+  "family_trip_planner_2": {
+    "description": "Helps you plan a family-friendly trip to the Grand Canyon and suggests a family-friendly travel plan for exploring Italy.",
+    "phase2_query_coverage": 0
+  },
+  "family_vacation_planner_1": {
+    "description": "A comprehensive service that assists in booking accommodations and planning activities for family vacations in destinations like Paris.",
+    "phase2_query_coverage": 0
+  },
+  "budget_travel_advisor": {
+    "description": "Provide guidance on planning budget-friendly trips, including a weekend trip to San Francisco and a trip to Bangkok with complete bookings.",
+    "phase2_query_coverage": 2
+  },
+  "travel_itinerary": {
+    "description": "Create detailed travel itineraries for various destinations, including a three-day itinerary for Tokyo and recommended travel itineraries for a week-long trip to Japan.",
+    "phase2_query_coverage": 2
+  },
+  "adventure_guide_1": {
+    "description": "An adventure guide that assists in planning an adventurous holiday package in South America or an adventurous itinerary in Costa Rica, focusing on eco-tourism and outdoor activities.",
+    "phase2_query_coverage": 0
+  },
+  "local_attractions_guide": {
+    "description": "A guide that provides recommendations for local attractions and must-visit places, including essential travel tips and recommendations for exploring Australia and local attractions in Sydney.",
+    "phase2_query_coverage": 1
+  },
+  "itinerary_builder_3": {
+    "description": "Create a detailed itinerary for your travels, including planning a family-friendly trip to the Grand Canyon and a romantic getaway plan for a couple.",
+    "phase2_query_coverage": 0
+  },
+  "itinerary_builder_4": {
+    "description": "Can propose an itinerary for a cultural exploration of Southeast Asia and provide travel itineraries for a week-long trip to Japan.",
+    "phase2_query_coverage": 0
+  },
+  "cultural_explorer_3": {
+    "description": "This tool provides assistance in planning cultural explorations, including a two-week cultural exploration in Japan and designing a cultural tour itinerary for Kyoto with a focus on traditional experiences.",
+    "phase2_query_coverage": 0
+  },
+  "three_day_itinerary_creator": {
+    "description": "Generate a detailed itinerary for a three-day visit to major cities like New York City or Tokyo, including must-see attractions and activities.",
+    "phase2_query_coverage": 2
+  },
+  "budget_trip_advisor_1": {
+    "description": "This tool offers assistance in planning a budget-friendly weekend trip to San Francisco and provides guidance on planning a budget-friendly trip to Bangkok with complete bookings.",
+    "phase2_query_coverage": 0
+  },
+  "vacation_destination_suggester": {
+    "description": "Recommends travel destinations for a week-long vacation and suggests family-friendly vacation destinations in Europe.",
+    "phase2_query_coverage": 2
+  },
+  "beach_vacation_planner": {
+    "description": "A tool that creates a relaxing beach holiday itinerary, including spa appointments and must-visit beaches in Thailand along with nearby accommodations.",
+    "phase2_query_coverage": 2
+  },
+  "restaurant_recommendations": {
+    "description": "This tool recommends the best restaurants to dine at in various cities, including New York City, and can help you book a table in advance.",
+    "phase2_query_coverage": 2
+  },
+  "destination_recommender_1": {
+    "description": "Provides recommended travel destinations for a week-long vacation, tailored for families with young children.",
+    "phase2_query_coverage": 0
+  },
+  "spa_appointment_scheduler": {
+    "description": "Design a relaxing beach holiday itinerary for the Maldives, including spa appointments and activities.",
+    "phase2_query_coverage": 1
+  },
+  "beach_accommodation_finder": {
+    "description": "Provide a list of must-visit beaches in Thailand along with nearby accommodations.",
+    "phase2_query_coverage": 1
+  },
+  "new_zealand_explorer": {
+    "description": "Compile a list of must-visit attractions in New Zealand, including dining options, and help book suitable accommodations.",
+    "phase2_query_coverage": 1
+  },
+  "beach_accommodations": {
+    "description": "Provide a list of must-visit beaches in Thailand along with nearby accommodations for travelers.",
+    "phase2_query_coverage": 1
+  },
+  "solo_travel_experience": {
+    "description": "Recommend and book unique experiences for a solo traveler in Japan.",
+    "phase2_query_coverage": 1
+  },
+  "attraction_compiler": {
+    "description": "Compile a list of must-visit attractions in New Zealand, including dining options, and help book suitable accommodations for your trip.",
+    "phase2_query_coverage": 1
+  },
+  "budget_travel_guide": {
+    "description": "Provide guidance on planning a budget-friendly trip to Bangkok with complete bookings and cost-effective options.",
+    "phase2_query_coverage": 1
+  },
+  "beach_and_accommodation_guide": {
+    "description": "Provides a list of must-visit beaches in Thailand along with nearby accommodations.",
+    "phase2_query_coverage": 1
+  },
+  "budget_trip_planner": {
+    "description": "Offers guidance on planning a budget-friendly trip to Bangkok with complete bookings.",
+    "phase2_query_coverage": 1
+  },
+  "solo_travel_deals": {
+    "description": "Find the current best travel deals for a solo traveler to Bali.",
+    "phase2_query_coverage": 1
+  },
+  "group_tour_organization": {
+    "description": "Organize a group tour for ten people in Spain, including transport and guided tours to various attractions.",
+    "phase2_query_coverage": 1
+  },
+  "itinerary_builder_5": {
+    "description": "Create a two-day trip itinerary for Paris, including historical landmarks and local cuisine.",
+    "phase2_query_coverage": 0
+  },
+  "scenic_routes": {
+    "description": "Find and provide information on scenic train routes in Switzerland, including their booking procedures.",
+    "phase2_query_coverage": 1
+  },
+  "beach_accommodation_finder_1": {
+    "description": "This tool provides a list of must-visit beaches in Thailand along with nearby accommodations.",
+    "phase2_query_coverage": 0
+  },
+  "scenic_train_routes": {
+    "description": "Provides information on scenic train routes in Switzerland and their booking procedures.",
+    "phase2_query_coverage": 1
+  },
+  "family_travel_advisor": {
+    "description": "Suggest family-friendly travel plans and activities for exploring destinations like Italy.",
+    "phase2_query_coverage": 1
+  },
+  "group_tour_organizer": {
+    "description": "Organize group tours for ten people in Spain, including transport and guided tours, as well as other group travel arrangements.",
+    "phase2_query_coverage": 1
+  },
+  "paris_two_day_itinerary": {
+    "description": "Suggests a two-day trip itinerary for Paris, including historical landmarks and local cuisine.",
+    "phase2_query_coverage": 1
+  },
+  "photography_locations": {
+    "description": "Identifies the most picturesque locations to visit in Bali for photography enthusiasts.",
+    "phase2_query_coverage": 1
+  },
+  "unique_experiences": {
+    "description": "Recommend and book unique experiences for a solo traveler in Japan, ensuring personalized travel adventures.",
+    "phase2_query_coverage": 1
+  },
+  "train_route_explorer": {
+    "description": "Explore scenic train routes in Switzerland and provide information on their booking procedures.",
+    "phase2_query_coverage": 1
+  },
+  "family_vacation_planner_2": {
+    "description": "Suggests family-friendly vacation destinations in Europe with booking details.",
+    "phase2_query_coverage": 0
+  },
+  "family_vacation_1": {
+    "description": "Suggest family-friendly vacation destinations in Europe, complete with booking details for accommodations and activities.",
+    "phase2_query_coverage": 0
+  },
+  "family_activities": {
+    "description": "Lists family-friendly activities to do in Orlando, Florida.",
+    "phase2_query_coverage": 1
+  },
+  "attraction_compiler_1": {
+    "description": "A tool that compiles a list of must-visit attractions in New Zealand, including dining options, and helps book suitable accommodations for your stay.",
+    "phase2_query_coverage": 0
+  },
+  "group_tour_organizer_1": {
+    "description": "Organize group tours for ten people in Spain, including transport and guided tours, ensuring a seamless travel experience.",
+    "phase2_query_coverage": 0
+  },
+  "cultural_tour_guide": {
+    "description": "A guide for designing a cultural tour itinerary for Kyoto with a focus on traditional experiences.",
+    "phase2_query_coverage": 1
+  },
+  "kyoto_cultural_itinerary": {
+    "description": "Designs a cultural tour itinerary for Kyoto with a focus on traditional experiences.",
+    "phase2_query_coverage": 1
+  },
+  "cultural_tour": {
+    "description": "Design a cultural tour itinerary for Kyoto with a focus on traditional experiences, ensuring an immersive journey.",
+    "phase2_query_coverage": 1
+  },
+  "group_tour_organizer_2": {
+    "description": "Organize group tours for various destinations, including a group tour for ten people in Spain, with transport and guided tours.",
+    "phase2_query_coverage": 0
+  },
+  "weekend_getaway_helper": {
+    "description": "Secure tickets and accommodations for a weekend getaway in New York City.",
+    "phase2_query_coverage": 1
+  },
+  "honeymoon_planner_1": {
+    "description": "Plan your honeymoon trip to the Maldives, including resorts and activities.",
+    "phase2_query_coverage": 0
+  },
+  "attraction_guide": {
+    "description": "An informative tool that compiles must-visit attractions and dining options, relevant for queries like 'Can you compile a list of must-visit attractions in New Zealand, including dining options, and help book suitable accommodations?'.",
+    "phase2_query_coverage": 1
+  },
+  "beach_getaway_finder": {
+    "description": "A resource for discovering top-rated beaches in the Caribbean for a romantic getaway.",
+    "phase2_query_coverage": 1
+  },
+  "beach_getaway": {
+    "description": "A resource for discovering top-rated beaches in the Caribbean for a romantic getaway.",
+    "phase2_query_coverage": 1
+  },
+  "weekend_trip_organizer_1": {
+    "description": "Organize a weekend trip to nearby cities with recommendations for places to visit, stay, and dine.",
+    "phase2_query_coverage": 0
+  },
+  "weekend_trip_organizer_2": {
+    "description": "Organize weekend trips to nearby cities with recommendations for places to visit and stay.",
+    "phase2_query_coverage": 0
+  },
+  "weekend_trip_planner": {
+    "description": "Organize weekend trips to nearby cities with recommendations for places to visit and stay.",
+    "phase2_query_coverage": 1
+  },
+  "beach_recommendations": {
+    "description": "Provides recommendations for top-rated beaches in the Caribbean for a romantic getaway.",
+    "phase2_query_coverage": 1
+  },
+  "travel_tips": {
+    "description": "Essential travel tips and recommendations for exploring various countries, including Australia.",
+    "phase2_query_coverage": 1
+  },
+  "cultural_itinerary": {
+    "description": "Proposes an itinerary for a cultural exploration of Southeast Asia.",
+    "phase2_query_coverage": 1
+  },
+  "train_route_explorer_1": {
+    "description": "Explore scenic train routes in Switzerland, including their booking procedures and travel tips.",
+    "phase2_query_coverage": 0
+  },
+  "historical_itinerary_planner": {
+    "description": "Suggests a two-day trip itinerary for Paris, including historical landmarks and local cuisine for an enriching experience.",
+    "phase2_query_coverage": 1
+  },
+  "scenic_route_explorer": {
+    "description": "Finds scenic train routes in Switzerland and provides information on their booking procedures.",
+    "phase2_query_coverage": 1
+  },
+  "romantic_getaway_planner_1": {
+    "description": "Find and book a romantic dinner spot in Rome for an anniversary celebration, and suggest a romantic getaway for a weekend, including booking options for a cozy hotel.",
+    "phase2_query_coverage": 0
+  },
+  "itinerary_generator": {
+    "description": "Creates a three-day itinerary for Tokyo with recommendations for must-see attractions, ensuring a well-rounded travel experience.",
+    "phase2_query_coverage": 1
+  },
+  "travel_tips_1": {
+    "description": "Provides essential travel tips and recommendations for exploring Australia, ensuring a smooth and enjoyable travel experience.",
+    "phase2_query_coverage": 0
+  },
+  "attraction_compiler_2": {
+    "description": "Compiles a list of must-visit attractions in countries like New Zealand, including dining options and accommodation bookings.",
+    "phase2_query_coverage": 0
+  },
+  "family_trip_planner_3": {
+    "description": "Plan a family-friendly trip to the Grand Canyon, ensuring activities suitable for all ages.",
+    "phase2_query_coverage": 0
+  },
+  "business_trip_organizer": {
+    "description": "Arrange transportation and lodging for a business trip to Berlin, making your travel efficient and hassle-free.",
+    "phase2_query_coverage": 1
+  },
+  "photography_spots": {
+    "description": "Recommend picturesque locations to visit in Bali for photography enthusiasts and other scenic destinations.",
+    "phase2_query_coverage": 1
+  },
+  "business_trip_manager": {
+    "description": "Arrange transportation and lodging for a business trip to Berlin, ensuring all travel needs are met.",
+    "phase2_query_coverage": 1
+  },
+  "cultural_explorer_4": {
+    "description": "Discover cultural sites in Kyoto that should be included in your travel plan, enhancing your travel experience.",
+    "phase2_query_coverage": 0
+  },
+  "hiking_trip_planner": {
+    "description": "Help plan group hiking trips in the Rockies, including permits and camping sites, and assist with bookings for various outdoor activities.",
+    "phase2_query_coverage": 1
+  },
+  "restaurant_reservation_1": {
+    "description": "Suggest popular restaurants in cities like Tokyo and New York, and help reserve a table.",
+    "phase2_query_coverage": 0
+  },
+  "tour_package_finder": {
+    "description": "This tool finds the top-rated tour packages for exploring the Grand Canyon.",
+    "phase2_query_coverage": 1
+  },
+  "family_activities_1": {
+    "description": "Suggest family-friendly activities to do in Orlando, Florida, ensuring a fun experience for all ages.",
+    "phase2_query_coverage": 0
+  },
+  "restaurant_finder_2": {
+    "description": "Identifies top-rated restaurants in Kyoto and can reserve a table for two at one of them, catering to dining needs.",
+    "phase2_query_coverage": 0
+  },
+  "photography_spot_locator": {
+    "description": "Identifies the most picturesque locations to visit in Bali for photography enthusiasts, enhancing your travel experience with stunning visuals.",
+    "phase2_query_coverage": 1
+  },
+  "photography_spot_finder": {
+    "description": "Identifies the most picturesque locations to visit in Bali for photography enthusiasts, enhancing your travel experience with stunning visuals.",
+    "phase2_query_coverage": 1
+  },
+  "adventure_package": {
+    "description": "Assist with planning and reservations for an adventurous holiday package in South America.",
+    "phase2_query_coverage": 1
+  },
+  "photography_spot_locator_1": {
+    "description": "Find the most picturesque locations to visit in Bali for photography enthusiasts, ensuring you capture stunning images.",
+    "phase2_query_coverage": 0
+  },
+  "itinerary_generator_1": {
+    "description": "This tool provides a three-day itinerary for cities like Tokyo with recommendations for must-see attractions.",
+    "phase2_query_coverage": 0
+  },
+  "route_suggestion": {
+    "description": "Explore Southeast Asia for two weeks with suggested routes and booking accommodations along the way.",
+    "phase2_query_coverage": 1
+  },
+  "cultural_sites": {
+    "description": "Identify cultural sites in cities like Kyoto that should be included in your travel plan.",
+    "phase2_query_coverage": 1
+  },
+  "unique_experiences_1": {
+    "description": "Recommend and book unique experiences for solo travelers in destinations like Japan, enhancing your travel adventure.",
+    "phase2_query_coverage": 0
+  },
+  "beach_recommender": {
+    "description": "Recommend top-rated beaches in the Caribbean for romantic getaways, along with suggestions for activities and accommodations.",
+    "phase2_query_coverage": 1
+  },
+  "honeymoon_planner_2": {
+    "description": "Help plan a honeymoon trip to exotic locations like the Maldives, including resorts and activities.",
+    "phase2_query_coverage": 0
+  },
+  "eco_tourism_advisor": {
+    "description": "Helps create an adventurous itinerary focusing on eco-tourism and outdoor activities, particularly in destinations like Costa Rica.",
+    "phase2_query_coverage": 1
+  },
+  "rome_explorer": {
+    "description": "This tool offers the best way to explore Rome in four days, including local dining spots and must-see attractions.",
+    "phase2_query_coverage": 1
+  },
+  "adventure_itinerary": {
+    "description": "This tool creates an adventurous itinerary in Costa Rica, focusing on eco-tourism and outdoor activities.",
+    "phase2_query_coverage": 1
+  },
+  "transportation_arranger": {
+    "description": "This tool assists in arranging transportation and lodging for business trips, including how to arrange transportation and lodging for a business trip to Berlin.",
+    "phase2_query_coverage": 1
+  },
+  "local_experience_guide": {
+    "description": "Get insights on the best local dining spots and experiences to explore Rome in four days, along with recommendations for unique travel experiences.",
+    "phase2_query_coverage": 1
+  },
+  "adventure_planner": {
+    "description": "Design adventurous itineraries focusing on eco-tourism and outdoor activities, such as a trip to Costa Rica.",
+    "phase2_query_coverage": 1
+  },
+  "tour_package_finder_1": {
+    "description": "Finds top-rated tour packages for exploring various destinations, including the Grand Canyon.",
+    "phase2_query_coverage": 0
+  },
+  "attraction_tickets": {
+    "description": "Find top attractions to visit in Tokyo and book tickets for them, ensuring a seamless travel experience.",
+    "phase2_query_coverage": 1
+  },
+  "resort_locator": {
+    "description": "A resort locator that identifies the top-rated resorts in the Maldives and can secure a reservation for next month.",
+    "phase2_query_coverage": 1
+  },
+  "cultural_site_explorer": {
+    "description": "Identifies cultural sites in Kyoto and other cities that should be included in your travel plan.",
+    "phase2_query_coverage": 1
+  },
+  "beach_recommendation": {
+    "description": "This tool provides recommendations for top-rated beaches in the Caribbean for romantic getaways.",
+    "phase2_query_coverage": 1
+  },
+  "booking_assistant_1": {
+    "description": "Secure tickets and accommodations for a weekend getaway in New York City, or any other destination you choose.",
+    "phase2_query_coverage": 0
+  },
+  "restaurant_reservation_2": {
+    "description": "A service that helps you find the top-rated restaurants in Barcelona and how to secure a booking.",
+    "phase2_query_coverage": 0
+  },
+  "cultural_landmark_planner": {
+    "description": "Provide a travel plan for exploring cultural landmarks in India, including booking tickets for various attractions.",
+    "phase2_query_coverage": 1
+  },
+  "itinerary_generator_2": {
+    "description": "Suggests a two-day trip itinerary for Paris, including historical landmarks, local cuisine, and activities for families.",
+    "phase2_query_coverage": 0
+  },
+  "holiday_package_assistant": {
+    "description": "Assist with planning and reservations for adventurous holiday packages in South America.",
+    "phase2_query_coverage": 1
+  },
+  "attraction_tickets_1": {
+    "description": "Lists the top attractions to visit in Tokyo and helps you book tickets for them.",
+    "phase2_query_coverage": 0
+  },
+  "attraction_tickets_2": {
+    "description": "Provides information on the top attractions to visit in Tokyo and helps book tickets for them.",
+    "phase2_query_coverage": 0
+  },
+  "cultural_explorer_5": {
+    "description": "Compiles a three-day itinerary for visiting the Grand Canyon and nearby attractions, and provides recommendations for local dining options.",
+    "phase2_query_coverage": 0
+  },
+  "adventure_planner_1": {
+    "description": "Help you plan an adventurous holiday package in South America, including planning and reservations.",
+    "phase2_query_coverage": 0
+  },
+  "hiking_trip_planner_1": {
+    "description": "Assist in planning group hiking trips, including permits and camping sites in the Rockies.",
+    "phase2_query_coverage": 0
+  },
+  "unique_experiences_2": {
+    "description": "Recommends and books unique experiences for a solo traveler in Japan, catering to various interests.",
+    "phase2_query_coverage": 0
+  },
+  "adventure_packages": {
+    "description": "Assists with planning and reservations for an adventurous holiday package in South America.",
+    "phase2_query_coverage": 1
+  },
+  "experience_booker": {
+    "description": "Recommend and book unique experiences for solo travelers in destinations like Japan, ensuring memorable adventures.",
+    "phase2_query_coverage": 1
+  },
+  "hiking_trip_organizer": {
+    "description": "Assists in planning a group hiking trip, including permits and camping sites in the Rockies.",
+    "phase2_query_coverage": 1
+  },
+  "budget_trip_advisor_2": {
+    "description": "A resource for planning budget-friendly weekend trips, such as to San Francisco, with cost-effective suggestions.",
+    "phase2_query_coverage": 0
+  },
+  "trip_planner_2": {
+    "description": "A comprehensive tool that helps you create a detailed travel itinerary for your upcoming vacation, including planning a three-day itinerary for visiting the Grand Canyon and nearby attractions.",
+    "phase2_query_coverage": 0
+  },
+  "southeast_asia_route_planner": {
+    "description": "A route planner for exploring Southeast Asia for two weeks, including suggestions for accommodations and local attractions.",
+    "phase2_query_coverage": 1
+  },
+  "family_trip_planner_4": {
+    "description": "A family trip planner designed to help you plan a family-friendly trip to the Grand Canyon, ensuring activities are suitable for all ages.",
+    "phase2_query_coverage": 0
+  },
+  "vegan_restaurant_reserver": {
+    "description": "Use this tool to recommend and reserve a table at a vegan restaurant in San Francisco, ensuring a delightful dining experience.",
+    "phase2_query_coverage": 1
+  },
+  "family_activity_finder": {
+    "description": "Discover family-friendly activities to do in Orlando, Florida, ensuring fun for all ages during your travels.",
+    "phase2_query_coverage": 1
+  },
+  "budget_trip_planner_1": {
+    "description": "Assist in planning budget-friendly weekend trips, such as to San Francisco.",
+    "phase2_query_coverage": 0
+  },
+  "transportation_arranger_1": {
+    "description": "Arrange transportation and lodging for business trips, including trips to Berlin, making your travel seamless and efficient.",
+    "phase2_query_coverage": 0
+  },
+  "table_reservation": {
+    "description": "This tool allows you to recommend and reserve a table at a vegan restaurant in San Francisco, ensuring a delightful dining experience.",
+    "phase2_query_coverage": 1
+  },
+  "hotel_finder": {
+    "description": "Find and book hotels near major attractions, such as in Tokyo, with recommendations for accommodations.",
+    "phase2_query_coverage": 1
+  },
+  "resort_reservation_1": {
+    "description": "This tool identifies top-rated resorts in the Maldives and can secure a reservation for next month, catering to luxury vacation needs.",
+    "phase2_query_coverage": 0
+  },
+  "transportation_arranger_2": {
+    "description": "Arrange transportation and lodging for business trips, including destinations like Berlin.",
+    "phase2_query_coverage": 0
+  },
+  "hotel_finder_1": {
+    "description": "A hotel finder that recommends and helps book hotels in Tokyo near major attractions, ensuring convenient accommodation options.",
+    "phase2_query_coverage": 0
+  },
+  "budget_trip_planner_2": {
+    "description": "This tool assists users in planning budget-friendly trips, as indicated in the query 'I need assistance planning a budget-friendly weekend trip to San Francisco.'",
+    "phase2_query_coverage": 0
+  },
+  "resort_finder": {
+    "description": "A resort finder that recommends top-rated resorts in the Maldives and can secure a reservation for next month.",
+    "phase2_query_coverage": 1
+  },
+  "business_trip_assistant": {
+    "description": "A comprehensive service that assists in booking flights, hotels, and activities for business trips, such as to Singapore.",
+    "phase2_query_coverage": 1
+  },
+  "booking_assistant_2": {
+    "description": "Assists in booking flights, hotels, and activities for a business trip to Singapore and handles reservations for a weekend getaway.",
+    "phase2_query_coverage": 0
+  },
+  "dinner_reservation": {
+    "description": "Find and book romantic dinner spots for special occasions, such as anniversary celebrations in cities like Rome.",
+    "phase2_query_coverage": 1
+  },
+  "cultural_landmarks_guide": {
+    "description": "Provides a travel plan and books tickets for cultural landmarks in India.",
+    "phase2_query_coverage": 1
+  },
+  "dining_reservations_1": {
+    "description": "Suggests local dining options and helps you reserve a table at restaurants in cities like Rome.",
+    "phase2_query_coverage": 0
+  },
+  "itinerary_creator": {
+    "description": "A comprehensive tool that assists in planning detailed itineraries for various destinations, including a three-day itinerary for visiting the Grand Canyon and nearby attractions.",
+    "phase2_query_coverage": 1
+  },
+  "restaurant_finder_3": {
+    "description": "Finds top-rated restaurants in Barcelona and helps you secure a booking.",
+    "phase2_query_coverage": 0
+  },
+  "dining_reservation_tool": {
+    "description": "Suggests local dining options in cities like Rome and assists in reserving a table for a romantic dinner.",
+    "phase2_query_coverage": 1
+  },
+  "restaurant_reservation_3": {
+    "description": "This tool allows you to recommend and reserve a table at a vegan restaurant in San Francisco and find dining options during your travels.",
+    "phase2_query_coverage": 0
+  },
+  "business_trip_assistant_1": {
+    "description": "Provides assistance in planning a business trip, including flights, hotels, and meeting locations for a seamless experience.",
+    "phase2_query_coverage": 0
+  },
+  "family_activities_finder": {
+    "description": "Suggests family-friendly activities to do in Orlando, Florida, ensuring fun for all ages.",
+    "phase2_query_coverage": 1
+  },
+  "family_activity_finder_1": {
+    "description": "Discover family-friendly activities to do in Orlando, Florida, and get suggestions for local dining options while traveling.",
+    "phase2_query_coverage": 0
+  },
+  "destination_assistant": {
+    "description": "Assist with recommendations for must-visit places in various cities, including Paris, and help with bookings for accommodations and activities.",
+    "phase2_query_coverage": 1
+  },
+  "restaurant_reservation_4": {
+    "description": "A restaurant reservation tool that finds the top-rated restaurants in Kyoto and can reserve a table for two at one of them.",
+    "phase2_query_coverage": 0
+  },
+  "restaurant_reservation_5": {
+    "description": "A tool to reserve a table at a Michelin-starred restaurant in London and other popular restaurants worldwide.",
+    "phase2_query_coverage": 0
+  },
+  "group_trip_organizer": {
+    "description": "Assists in planning group trips, including hiking trips in the Rockies, with necessary permits and camping site information.",
+    "phase2_query_coverage": 1
+  },
+  "romantic_dinner": {
+    "description": "A service that finds and books romantic dinner spots in cities like Rome for special occasions such as anniversary celebrations.",
+    "phase2_query_coverage": 1
+  },
+  "restaurant_reservation_6": {
+    "description": "Recommends and reserves tables at restaurants, including vegan options in San Francisco.",
+    "phase2_query_coverage": 0
+  },
+  "attraction_suggester": {
+    "description": "Get recommendations for must-visit places in Paris and Tokyo, along with assistance with bookings.",
+    "phase2_query_coverage": 1
+  },
+  "local_attractions_guide_1": {
+    "description": "A guide that provides recommendations for local attractions in major cities, including recommendations for local attractions in Sydney.",
+    "phase2_query_coverage": 0
+  },
+  "weekend_getaway": {
+    "description": "Suggest activities for a weekend getaway and handle all necessary reservations for a smooth experience.",
+    "phase2_query_coverage": 1
+  },
+  "cultural_landmarks_guide_1": {
+    "description": "Provides a travel plan for exploring cultural landmarks in countries like India, including ticket booking.",
+    "phase2_query_coverage": 0
+  },
+  "beach_recommendations_1": {
+    "description": "Provides information on the top-rated beaches to visit in Hawaii and other destinations.",
+    "phase2_query_coverage": 0
+  },
+  "romantic_dinner_booker": {
+    "description": "Assists in booking a romantic dinner for two in Paris during your vacation, creating memorable moments.",
+    "phase2_query_coverage": 1
+  },
+  "restaurant_reservation_tool_1": {
+    "description": "This tool provides recommendations for restaurants in New York that you can book in advance, ensuring you have dining options ready.",
+    "phase2_query_coverage": 0
+  },
+  "hotel_recommendations": {
+    "description": "Get recommendations for hotels in major cities like Tokyo, focusing on proximity to attractions.",
+    "phase2_query_coverage": 1
+  },
+  "cultural_trip_planner": {
+    "description": "A cultural trip planner that provides travel plans and books tickets for exploring cultural landmarks in India.",
+    "phase2_query_coverage": 1
+  },
+  "cultural_site_locator": {
+    "description": "This tool provides information on cultural sites to include in your travel plans, such as cultural sites in Kyoto that should be part of your itinerary.",
+    "phase2_query_coverage": 1
+  },
+  "group_trip_organizer_1": {
+    "description": "A group trip organizer that assists in planning hiking trips, including permits and camping sites in the Rockies.",
+    "phase2_query_coverage": 0
+  },
+  "romantic_dinner_finder": {
+    "description": "A service that finds and books a romantic dinner spot in cities like Rome for special occasions such as an anniversary celebration.",
+    "phase2_query_coverage": 1
+  },
+  "restaurant_reserver_1": {
+    "description": "Suggests popular restaurants in major cities like Tokyo and assists with table reservations for a delightful dining experience.",
+    "phase2_query_coverage": 0
+  },
+  "business_trip_planner": {
+    "description": "This tool assists in booking flights, hotels, and activities for business trips, such as a business trip to Singapore.",
+    "phase2_query_coverage": 1
+  },
+  "restaurant_reservation_7": {
+    "description": "This tool helps you reserve a table at a Michelin-starred restaurant in London, ensuring a fine dining experience.",
+    "phase2_query_coverage": 0
+  },
+  "flight_hotel_finder_2": {
+    "description": "A tool to find flights and hotels for business trips, including assistance in booking flights, hotels, and activities for a business trip to Singapore.",
+    "phase2_query_coverage": 0
+  },
+  "local_dining_explorer": {
+    "description": "Explore local dining options in various cities, including recommendations for restaurants in New York that you can book in advance.",
+    "phase2_query_coverage": 1
+  },
+  "business_trip_assistant_2": {
+    "description": "A comprehensive tool for planning business trips, including 'I need assistance planning a business trip, including flights, hotels, and meeting locations'.",
+    "phase2_query_coverage": 0
+  },
+  "itinerary_creator_1": {
+    "description": "This tool assists in creating a detailed itinerary for a three-day visit to New York City, ensuring you make the most of your time.",
+    "phase2_query_coverage": 0
+  },
+  "guided_tour_booking": {
+    "description": "A guided tour booking service that can find and book guided tours of the Grand Canyon and other popular attractions.",
+    "phase2_query_coverage": 1
+  },
+  "flight_deals_finder": {
+    "description": "This tool helps you find the best flight deals to New York and a cozy hotel nearby.",
+    "phase2_query_coverage": 1
+  },
+  "activity_reservations": {
+    "description": "Suggest activities for weekend getaways and handle the reservations for a seamless experience.",
+    "phase2_query_coverage": 1
+  },
+  "restaurant_recommendation": {
+    "description": "This tool provides recommendations for top-rated restaurants, including vegan options in San Francisco, and can reserve tables for you.",
+    "phase2_query_coverage": 1
+  },
+  "destination_recommender_2": {
+    "description": "Get recommendations for travel destinations for a week-long vacation, including itineraries for various locations.",
+    "phase2_query_coverage": 0
+  },
+  "guided_tour_booking_1": {
+    "description": "Book tickets for guided tours in major cities, including London.",
+    "phase2_query_coverage": 0
+  },
+  "flight_deals_finder_1": {
+    "description": "A flight deals finder that helps you find the best flight deals to New York and can assist in booking a cozy hotel nearby.",
+    "phase2_query_coverage": 0
+  },
+  "dinner_reservation_1": {
+    "description": "A specialized service that can assist in booking a romantic dinner for two in Paris during your vacation.",
+    "phase2_query_coverage": 0
+  },
+  "attraction_recommendations": {
+    "description": "This tool provides recommendations for local attractions in cities such as Sydney.",
+    "phase2_query_coverage": 1
+  },
+  "family_trip_organizer": {
+    "description": "This tool can suggest a family-friendly trip destination and arrange the bookings, as well as organize a family trip itinerary, including accommodation and transportation arrangements.",
+    "phase2_query_coverage": 1
+  },
+  "local_dining_options": {
+    "description": "This tool suggests local dining options in Rome and helps you reserve a table, enhancing your culinary experience while traveling.",
+    "phase2_query_coverage": 1
+  },
+  "hotel_booking": {
+    "description": "This tool helps users book hotels in major cities, including recommendations for hotels in Tokyo near major attractions.",
+    "phase2_query_coverage": 1
+  },
+  "local_attractions": {
+    "description": "Provide recommendations for local attractions in Sydney and other destinations, enhancing your travel experience with must-see spots.",
+    "phase2_query_coverage": 1
+  },
+  "flight_hotel_finder_3": {
+    "description": "This tool helps find the best flight deals to New York and cozy hotels nearby, as well as assists in booking flights, hotels, and activities for business trips.",
+    "phase2_query_coverage": 0
+  },
+  "flight_and_hotel_search": {
+    "description": "A service that finds the best flight deals and cozy hotels for trips, including business trips to New York City.",
+    "phase2_query_coverage": 1
+  },
+  "michelin_reservation": {
+    "description": "This tool assists in reserving a table at a Michelin-starred restaurant in cities like London.",
+    "phase2_query_coverage": 1
+  },
+  "michelin_reservation_1": {
+    "description": "A dedicated tool to reserve a table at Michelin-starred restaurants, ensuring you have a fine dining experience in cities like London.",
+    "phase2_query_coverage": 0
+  },
+  "michelin_reservation_2": {
+    "description": "A tool that helps you reserve a table at a Michelin-starred restaurant in London and other cities.",
+    "phase2_query_coverage": 0
+  },
+  "tour_booking_1": {
+    "description": "A service that allows you to book tickets for a guided tour in cities like London.",
+    "phase2_query_coverage": 0
+  },
+  "business_trip_assistant_3": {
+    "description": "Help plan business trips, including flights, hotels, and meeting locations for professionals.",
+    "phase2_query_coverage": 0
+  },
+  "itinerary_builder_6": {
+    "description": "An all-in-one itinerary builder that provides recommended travel itineraries for various destinations, including a detailed itinerary for a three-day visit to New York City.",
+    "phase2_query_coverage": 0
+  },
+  "dining_reservation_tool_1": {
+    "description": "This tool recommends local dining options in Rome and assists in reserving a table at your chosen restaurant.",
+    "phase2_query_coverage": 0
+  },
+  "restaurant_reservation_tool_2": {
+    "description": "A tool to find top-rated restaurants in various cities, such as Kyoto, and reserve a table for two at one of them.",
+    "phase2_query_coverage": 0
+  },
+  "business_trip_organizer_1": {
+    "description": "Help plan business trips, including flights, hotels, and meeting locations, ensuring a smooth travel experience.",
+    "phase2_query_coverage": 0
+  },
+  "tour_booking_2": {
+    "description": "A service to assist in booking tickets for guided tours in major cities like London.",
+    "phase2_query_coverage": 0
+  },
+  "restaurant_reservation_tool_3": {
+    "description": "This tool recommends top-rated restaurants in various cities, such as Kyoto, and can reserve a table for two at one of them.",
+    "phase2_query_coverage": 0
+  },
+  "tour_booking_service": {
+    "description": "A service that helps you book tickets for guided tours in various cities, including 'how to book tickets for a guided tour in London'.",
+    "phase2_query_coverage": 1
+  },
+  "family_trip_organizer_1": {
+    "description": "Organize a family trip itinerary, including accommodation and transportation arrangements, ensuring a fun and memorable experience for all.",
+    "phase2_query_coverage": 0
+  },
+  "beach_guide": {
+    "description": "This tool lists the top-rated beaches to visit in Hawaii, perfect for planning a relaxing getaway.",
+    "phase2_query_coverage": 1
+  },
+  "tour_booking_service_1": {
+    "description": "A service that facilitates booking tickets for guided tours in major cities like London.",
+    "phase2_query_coverage": 0
+  },
+  "local_experience_finder": {
+    "description": "A tool that finds local experiences and dining spots, helping you explore cities like Rome in four days while including local dining options.",
+    "phase2_query_coverage": 1
+  },
+  "beach_recommender_1": {
+    "description": "Get recommendations for the top-rated beaches to visit in Hawaii, perfect for planning your next vacation.",
+    "phase2_query_coverage": 0
+  },
+  "destination_explorer": {
+    "description": "Suggest travel destinations for a week-long vacation, including cultural landmarks and local dining spots.",
+    "phase2_query_coverage": 1
+  },
+  "weekend_getaway_1": {
+    "description": "Plan a weekend getaway with suggestions for activities, places to visit, and handling reservations for accommodations.",
+    "phase2_query_coverage": 0
+  },
+  "destination_explorer_1": {
+    "description": "Explore recommended travel destinations for a week-long vacation, including must-visit attractions, dining options, and family-friendly activities.",
+    "phase2_query_coverage": 0
+  },
+  "business_trip_manager_1": {
+    "description": "Assist in planning business trips, including flights, hotels, meeting locations, and transportation.",
+    "phase2_query_coverage": 0
+  },
+  "beach_recommender_2": {
+    "description": "This tool identifies the top-rated beaches to visit in Hawaii and provides recommendations for local attractions.",
+    "phase2_query_coverage": 0
+  },
+  "restaurant_reservation_8": {
+    "description": "This tool helps you find and book restaurants in various cities, including 'recommended restaurants in New York that I can book in advance'.",
+    "phase2_query_coverage": 0
+  },
+  "beach_locator": {
+    "description": "A service that identifies the top-rated beaches to visit in Hawaii, ensuring you have the best beach experiences during your travels.",
+    "phase2_query_coverage": 1
+  },
+  "restaurant_reservation_9": {
+    "description": "A tool that identifies top-rated restaurants in Kyoto and can reserve a table for two at one of them, while also helping you book a romantic dinner for two in Paris.",
+    "phase2_query_coverage": 0
+  },
+  "restaurant_finder_4": {
+    "description": "Find top-rated restaurants in major cities like New York and Barcelona, and secure a booking for a dining experience.",
+    "phase2_query_coverage": 0
+  },
+  "dinner_booking": {
+    "description": "This tool assists in booking a romantic dinner for two in Paris during your vacation, ensuring a memorable dining experience.",
+    "phase2_query_coverage": 1
+  },
+  "itinerary_planner": {
+    "description": "This tool provides a detailed itinerary for a three-day visit to New York City and can assist in organizing a multi-city European tour, including transport and stay arrangements.",
+    "phase2_query_coverage": 1
+  },
+  "weekend_getaway_organizer": {
+    "description": "Plan weekend getaways by suggesting activities and handling reservations for accommodations and dining.",
+    "phase2_query_coverage": 1
+  },
+  "itinerary_creator_2": {
+    "description": "Create a detailed travel itinerary for your upcoming vacation, including activities and dining experiences.",
+    "phase2_query_coverage": 0
+  },
+  "restaurant_reservation_10": {
+    "description": "Recommends top-rated restaurants in cities like Barcelona and helps secure a booking.",
+    "phase2_query_coverage": 0
+  },
+  "local_attractions_guide_2": {
+    "description": "This tool provides recommendations for local attractions in cities like Sydney, helping you discover the best places to visit.",
+    "phase2_query_coverage": 0
+  },
+  "restaurant_reservation_tool_4": {
+    "description": "A tool that helps users find the top-rated restaurants in various cities, including Barcelona, and guides them on how to secure a booking.",
+    "phase2_query_coverage": 0
+  },
+  "weekend_getaway_organizer_1": {
+    "description": "Assist in planning a weekend getaway, including activities, reservations, and cozy hotel bookings.",
+    "phase2_query_coverage": 0
+  },
+  "restaurant_reservation_tool_5": {
+    "description": "A tool that suggests popular restaurants in cities like Tokyo and helps reserve a table for your dining experience.",
+    "phase2_query_coverage": 0
+  },
+  "itinerary_creator_3": {
+    "description": "Creates detailed travel itineraries for various destinations, including exploring Rome in four days with local dining spots.",
+    "phase2_query_coverage": 0
+  },
+  "restaurant_finder_5": {
+    "description": "This tool helps you find the best restaurants to dine at in New York and can assist with booking a table for you.",
+    "phase2_query_coverage": 0
+  },
+  "destination_recommender_3": {
+    "description": "A destination recommender that suggests must-visit places in Paris and provides assistance with bookings for accommodations and activities.",
+    "phase2_query_coverage": 0
+  },
+  "restaurant_reservations_1": {
+    "description": "Get recommendations for popular restaurants in New York and Tokyo, and help reserve a table at a Michelin-starred restaurant in London.",
+    "phase2_query_coverage": 0
+  },
+  "hotel_booking_1": {
+    "description": "A hotel booking tool that helps you book a hotel and activities in Paris for next month, ensuring a seamless travel experience.",
+    "phase2_query_coverage": 0
+  },
+  "accommodation_finder": {
+    "description": "Finds suitable accommodations near major attractions, whether you're looking for hotels in Tokyo or planning a family trip itinerary.",
+    "phase2_query_coverage": 1
+  },
+  "restaurant_reservations_2": {
+    "description": "This tool allows you to find the best restaurants to dine at in New York City and can make reservations for your dining experience.",
+    "phase2_query_coverage": 0
+  },
+  "destination_recommendation": {
+    "description": "A destination recommendation tool that suggests must-visit places in cities like Paris and provides assistance with bookings.",
+    "phase2_query_coverage": 1
+  },
+  "booking_assistant_3": {
+    "description": "This tool assists users in booking hotels and activities, such as helping to book a hotel and activities in Paris for next month.",
+    "phase2_query_coverage": 0
+  },
+  "trip_planner_3": {
+    "description": "A comprehensive tool that assists users in organizing a family trip itinerary, including accommodation and transportation arrangements, and planning a weeklong trip to Spain, including flights, accommodations, and must-visit destinations.",
+    "phase2_query_coverage": 0
+  },
+  "weeklong_trip_planner_1": {
+    "description": "A comprehensive tool for planning week-long trips to various destinations, including Spain and Italy, covering flights, accommodations, and must-visit attractions.",
+    "phase2_query_coverage": 0
+  },
+  "trip_planner_4": {
+    "description": "A comprehensive tool that helps you organize a multi-city European tour, including transport and stay arrangements, and plan a weeklong trip to Spain, including flights, accommodations, and must-visit destinations.",
+    "phase2_query_coverage": 0
+  },
+  "restaurant_reservations_3": {
+    "description": "Get recommendations for the best restaurants to dine at in New York City, and make reservations for a cozy hotel for a romantic getaway.",
+    "phase2_query_coverage": 0
+  },
+  "trip_planner_5": {
+    "description": "A comprehensive tool that helps you organize a family trip itinerary, including accommodation and transportation arrangements.",
+    "phase2_query_coverage": 0
+  },
+  "dinner_booking_assistant": {
+    "description": "An easy-to-use tool that assists in booking a romantic dinner for two in Paris during your vacation, ensuring a memorable dining experience.",
+    "phase2_query_coverage": 1
+  },
+  "hotel_booking_2": {
+    "description": "A comprehensive hotel booking tool that assists in booking a hotel and activities in Paris for next month, ensuring a comfortable stay.",
+    "phase2_query_coverage": 0
+  },
+  "restaurant_reservations_4": {
+    "description": "This tool helps you find the best restaurants to dine at in various cities, including New York City, and can make reservations for you.",
+    "phase2_query_coverage": 0
+  },
+  "hotel_finder_2": {
+    "description": "A hotel finder that helps you book a hotel and activities in Paris for next month, as well as finding flights and accommodation for a business trip to New York City.",
+    "phase2_query_coverage": 0
+  },
+  "trip_planner_6": {
+    "description": "A comprehensive tool that helps you organize a weekend trip to a nearby city with recommendations for places to visit and stay, as well as creating a 5-day itinerary for Paris.",
+    "phase2_query_coverage": 0
+  },
+  "restaurant_reservation_11": {
+    "description": "A convenient tool that identifies the best restaurants to dine at in New York and can book a table for you.",
+    "phase2_query_coverage": 0
+  },
+  "itinerary_builder_7": {
+    "description": "Organize a detailed trip itinerary, including accommodation, transportation arrangements, and sightseeing suggestions.",
+    "phase2_query_coverage": 0
+  },
+  "trip_planner_7": {
+    "description": "A comprehensive tool that helps you organize a weekend trip to a nearby city with recommendations for places to visit and stay, as well as a 5-day itinerary for Paris.",
+    "phase2_query_coverage": 0
+  },
+  "itinerary_planner_1": {
+    "description": "This tool assists in creating the best itinerary for visiting historical landmarks and organizing a 5-day itinerary for cities like Paris.",
+    "phase2_query_coverage": 0
+  },
+  "local_exploration_guide": {
+    "description": "This tool suggests the best ways to explore cities like Rome in a limited time, including local dining spots and activities.",
+    "phase2_query_coverage": 1
+  },
+  "family_trip_organizer_2": {
+    "description": "Organizes a family trip itinerary, including accommodation and transportation arrangements, and creates a romantic getaway plan for a couple.",
+    "phase2_query_coverage": 0
+  },
+  "hotel_finder_3": {
+    "description": "This tool can help book a hotel and activities in Paris for next month and find a hotel in Tokyo near major attractions.",
+    "phase2_query_coverage": 0
+  },
+  "booking_assistant_4": {
+    "description": "This tool provides recommendations for must-visit places in Paris and assistance with bookings, as well as booking options for a weekend getaway near New York City.",
+    "phase2_query_coverage": 0
+  },
+  "itinerary_builder_8": {
+    "description": "An itinerary tool that helps organize a 5-day itinerary for cities like Paris, including historical landmarks and local cuisine.",
+    "phase2_query_coverage": 0
+  },
+  "travel_planner": {
+    "description": "A comprehensive tool that helps you create a detailed travel itinerary for your upcoming vacation, including accommodations and transportation arrangements.",
+    "phase2_query_coverage": 1
+  },
+  "itinerary_creator_4": {
+    "description": "This tool helps you create a detailed travel itinerary for your upcoming vacation, ensuring you have a well-planned schedule for your trip.",
+    "phase2_query_coverage": 0
+  },
+  "itinerary_creator_5": {
+    "description": "This tool helps you create a detailed travel itinerary for your upcoming vacation, including accommodation and transportation arrangements.",
+    "phase2_query_coverage": 0
+  },
+  "trip_planner_8": {
+    "description": "A comprehensive tool that helps you create a detailed travel itinerary for your upcoming vacation, including accommodations, transportation, and key attractions.",
+    "phase2_query_coverage": 0
+  }
+}

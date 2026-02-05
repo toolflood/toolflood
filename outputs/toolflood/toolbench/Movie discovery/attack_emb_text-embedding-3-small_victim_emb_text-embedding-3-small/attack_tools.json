@@ -1,0 +1,574 @@
+{
+  "trending_movies": {
+    "description": "What are some trending movies currently available on streaming platforms and what are the top trending movies for this week.",
+    "phase2_query_coverage": 2
+  },
+  "trending_movies_1": {
+    "description": "What are the top trending movies for this week and popular recent movies available for streaming?",
+    "phase2_query_coverage": 0
+  },
+  "streaming_recommendations": {
+    "description": "Can you suggest some top-rated movies available on streaming platforms right now?",
+    "phase2_query_coverage": 4
+  },
+  "top_movies_current_month": {
+    "description": "Can I see the top 100 movies of the current month and what are the top-rated films available on streaming platforms right now?",
+    "phase2_query_coverage": 12
+  },
+  "recent_movies": {
+    "description": "List some popular recent movies available for streaming and trending movies currently available.",
+    "phase2_query_coverage": 12
+  },
+  "monthly_top_movies": {
+    "description": "What are the top 100 movies this month and show me the most popular movies ranked by IMDb this week.",
+    "phase2_query_coverage": 11
+  },
+  "top_movies": {
+    "description": "This tool lists the top 100 movies this month and across various categories, including those currently the most popular on IMDb.",
+    "phase2_query_coverage": 2
+  },
+  "top_movies_month": {
+    "description": "Reports on the top 100 movies this month according to music and TV charts and which films are currently the most popular on IMDb.",
+    "phase2_query_coverage": 11
+  },
+  "top_rated_movies": {
+    "description": "Shows the top-rated movies of this year and the most popular movies ranked by IMDb this week, including the top 100 movies of the current month.",
+    "phase2_query_coverage": 4
+  },
+  "upcoming_releases": {
+    "description": "Lists upcoming movies releasing next month.",
+    "phase2_query_coverage": 1
+  },
+  "movie_releases": {
+    "description": "Provides information on upcoming movie releases, including details about films set to release next month and upcoming movies to watch out for this month.",
+    "phase2_query_coverage": 9
+  },
+  "popular_movies": {
+    "description": "Search for the most popular movies currently trending, including films starring the most popular actors of the moment.",
+    "phase2_query_coverage": 9
+  },
+  "upcoming_movies": {
+    "description": "Lists upcoming movies releasing next month and this month, including those from Disney.",
+    "phase2_query_coverage": 2
+  },
+  "upcoming_movies_1": {
+    "description": "Lists upcoming movies to watch out for this month.",
+    "phase2_query_coverage": 0
+  },
+  "upcoming_releases_1": {
+    "description": "Identify upcoming movies to watch out for this month and new movie releases coming out this month.",
+    "phase2_query_coverage": 0
+  },
+  "trending_movies_2": {
+    "description": "What are the top-rated movies currently trending in the news?",
+    "phase2_query_coverage": 0
+  },
+  "popular_actors": {
+    "description": "Identify who are the most popular actors in the movie industry currently and locate films featuring popular actors from the past year.",
+    "phase2_query_coverage": 8
+  },
+  "actor_popularity": {
+    "description": "Identify the most popular actors in the movie industry currently and locate films featuring popular actors from the past year.",
+    "phase2_query_coverage": 8
+  },
+  "actor_popularity_tracker": {
+    "description": "List the most popular actors currently in Hollywood and find movies featuring popular actors from the last decade.",
+    "phase2_query_coverage": 8
+  },
+  "popular_actors_1": {
+    "description": "Lists the most popular actors currently in Hollywood and identifies movies featuring popular actors from the last decade.",
+    "phase2_query_coverage": 0
+  },
+  "movie_news": {
+    "description": "Provides the latest news about the latest developments in the movie industry and trending movies.",
+    "phase2_query_coverage": 6
+  },
+  "trending_news": {
+    "description": "Get the latest trending movie news updates and retrieve news on upcoming movie releases and trends.",
+    "phase2_query_coverage": 7
+  },
+  "movie_news_1": {
+    "description": "Retrieve the latest news about the latest developments in the movie industry and upcoming movie releases and trends.",
+    "phase2_query_coverage": 0
+  },
+  "movie_news_2": {
+    "description": "Retrieve the latest news and updates about the movie industry, including upcoming movie releases and trends.",
+    "phase2_query_coverage": 0
+  },
+  "action_movies": {
+    "description": "Suggest trending movies that align with the action genre, including recent popular movies available to stream.",
+    "phase2_query_coverage": 2
+  },
+  "latest_trailers": {
+    "description": "Provide information on the latest movie trailers and news updates.",
+    "phase2_query_coverage": 5
+  },
+  "genre_trends": {
+    "description": "What are some trending genres in movies right now and which movies are most popular this week according to IMDb?",
+    "phase2_query_coverage": 5
+  },
+  "family_movies": {
+    "description": "Can you recommend some family-friendly movies to watch and suggests trending movies that align with the action genre.",
+    "phase2_query_coverage": 4
+  },
+  "disney_updates": {
+    "description": "A tool that offers a list of Disney's latest movie productions, including new releases worth checking out and the highest-rated films currently available on Disney platforms.",
+    "phase2_query_coverage": 5
+  },
+  "disney_movies": {
+    "description": "A tool that lists Disney's latest movie productions, new Disney releases worth checking out, and the highest-rated films currently available on Disney platforms.",
+    "phase2_query_coverage": 5
+  },
+  "disney_latest": {
+    "description": "Provides a list of Disney's latest movie productions.",
+    "phase2_query_coverage": 4
+  },
+  "action_recommendations": {
+    "description": "Can you recommend a movie from the action genre that is trending recently and suggest a movie to watch based on the action genre?",
+    "phase2_query_coverage": 4
+  },
+  "trending_genres": {
+    "description": "Identify trending genres in movies right now and suggest trending movies that align with the action genre.",
+    "phase2_query_coverage": 4
+  },
+  "trending_movies_3": {
+    "description": "Show me trending movies that are available for streaming and suggest trending movies that align with the action genre.",
+    "phase2_query_coverage": 0
+  },
+  "award_winners": {
+    "description": "List movies that have garnered significant awards recently and are critically acclaimed and widely streamed.",
+    "phase2_query_coverage": 3
+  },
+  "latest_disney": {
+    "description": "Provide details about the latest Disney movie releases and where can I watch the latest Disney-produced films.",
+    "phase2_query_coverage": 4
+  },
+  "disney_productions": {
+    "description": "Provides a list of Disney's latest movie productions, including new releases and upcoming films.",
+    "phase2_query_coverage": 4
+  },
+  "family_movies_1": {
+    "description": "Suggest family-friendly movies that are popular this week and suitable for a family-friendly evening entertainment.",
+    "phase2_query_coverage": 0
+  },
+  "top_rated_movies_1": {
+    "description": "Show me the top-rated movies of this year and the top 100 movies this month.",
+    "phase2_query_coverage": 0
+  },
+  "actor_movies": {
+    "description": "Find movies featuring your favorite actor released in the last five years, along with details about the most popular actors featured in recent films.",
+    "phase2_query_coverage": 4
+  },
+  "family_movies_2": {
+    "description": "Recommend family-friendly movies to watch.",
+    "phase2_query_coverage": 0
+  },
+  "streaming_info": {
+    "description": "How can I find where to stream the movie 'Inception' and suggest films available on multiple streaming platforms.",
+    "phase2_query_coverage": 4
+  },
+  "family_movies_3": {
+    "description": "Get suggestions for family-friendly movies that are popular this week, suitable for a family-friendly evening entertainment.",
+    "phase2_query_coverage": 0
+  },
+  "family_movies_4": {
+    "description": "Suggests family-friendly movies that are popular this week, suitable for a family-friendly evening entertainment.",
+    "phase2_query_coverage": 0
+  },
+  "streaming_info_1": {
+    "description": "Provides information on which streaming platforms provide access to specific movies like 'Inception' and suggests films available on multiple streaming platforms.",
+    "phase2_query_coverage": 0
+  },
+  "streaming_platforms": {
+    "description": "Could you suggest films available on multiple streaming platforms and how can I find where to stream the movie 'Inception'?",
+    "phase2_query_coverage": 4
+  },
+  "streaming_genres": {
+    "description": "Which genres are available for streaming on popular platforms and how can I find where to stream the movie 'Inception'?",
+    "phase2_query_coverage": 1
+  },
+  "critically_acclaimed": {
+    "description": "Lists movies that are both critically acclaimed and widely streamed, including the highest-rated films currently available on Disney platforms.",
+    "phase2_query_coverage": 3
+  },
+  "streaming_recommendations_1": {
+    "description": "This tool suggests films available on multiple streaming platforms, including 'recent popular movies available to stream' and 'which streaming platforms provide access to the movie 'Inception'?",
+    "phase2_query_coverage": 0
+  },
+  "disney_plus_action": {
+    "description": "Can you find the top-rated action movies currently streaming on Disney+?",
+    "phase2_query_coverage": 3
+  },
+  "action_movies_1": {
+    "description": "Can you find the top-rated action movies currently streaming on platforms like Disney+?",
+    "phase2_query_coverage": 0
+  },
+  "award_winners_1": {
+    "description": "List movies that have garnered significant awards recently and are critically acclaimed.",
+    "phase2_query_coverage": 0
+  },
+  "award_winning_movies": {
+    "description": "Lists movies that have garnered significant awards recently, including critically acclaimed films across various categories.",
+    "phase2_query_coverage": 3
+  },
+  "trending_movies_4": {
+    "description": "What movies are currently trending worldwide and what are the current trending movies according to movie news outlets?",
+    "phase2_query_coverage": 0
+  },
+  "award_winners_2": {
+    "description": "Lists movies that have garnered significant awards recently, including critically acclaimed and widely streamed films.",
+    "phase2_query_coverage": 0
+  },
+  "family_friendly": {
+    "description": "Searches for family-friendly animated movies available online, suitable for family nights and children.",
+    "phase2_query_coverage": 3
+  },
+  "comedy_movies": {
+    "description": "I want to see the top-rated comedy movies from last month and what are the most critically acclaimed movies of the past year.",
+    "phase2_query_coverage": 2
+  },
+  "award_winners_3": {
+    "description": "Lists movies that have garnered significant awards recently, as well as critically acclaimed films that are widely streamed.",
+    "phase2_query_coverage": 0
+  },
+  "critically_acclaimed_1": {
+    "description": "What are the most critically acclaimed movies of the past year, including a list of top-rated romantic comedies from the past decade.",
+    "phase2_query_coverage": 0
+  },
+  "streaming_movies": {
+    "description": "Search for family-friendly animated movies available online and find the top-rated action movies currently streaming on Disney+.",
+    "phase2_query_coverage": 3
+  },
+  "streaming_finder": {
+    "description": "Locate movies streaming on Disney+ with high audience reviews and family-friendly animated movies available online.",
+    "phase2_query_coverage": 3
+  },
+  "romantic_comedies": {
+    "description": "This tool suggests romantic comedies worth watching this weekend, provides a list of top-rated romantic comedies from the past decade, and searches for romantic comedies that have garnered critical acclaim.",
+    "phase2_query_coverage": 1
+  },
+  "sci_fi_movies": {
+    "description": "Suggests movies in the sci-fi genre available on streaming platforms and provides a list of movies categorized under the comedy genre.",
+    "phase2_query_coverage": 1
+  },
+  "genre_movie_list": {
+    "description": "Provides a list of movies categorized under the comedy genre and suggests movies in the sci-fi genre available on streaming platforms.",
+    "phase2_query_coverage": 3
+  },
+  "disney_releases": {
+    "description": "This tool offers information on Disney's latest movie productions and new releases worth checking out, including family-friendly animated movies available on Disney+.",
+    "phase2_query_coverage": 2
+  },
+  "romantic_comedies_1": {
+    "description": "Can you suggest a list of top-rated romantic comedies from the past decade?",
+    "phase2_query_coverage": 0
+  },
+  "animation_for_children": {
+    "description": "Provides information on animation movies suitable for children available on Disney+, ensuring family-friendly options.",
+    "phase2_query_coverage": 2
+  },
+  "top_rated_imdb": {
+    "description": "Displays the top-rated movies according to IMDb.",
+    "phase2_query_coverage": 1
+  },
+  "comedy_top_rated": {
+    "description": "I want to see the top-rated comedy movies from last month and show me the top-rated movies of this year.",
+    "phase2_query_coverage": 2
+  },
+  "romantic_comedies_2": {
+    "description": "Suggests a list of top-rated romantic comedies from the past decade.",
+    "phase2_query_coverage": 0
+  },
+  "sci_fi_streaming": {
+    "description": "Can you suggest movies in the sci-fi genre available on streaming platforms and could you suggest films available on multiple streaming platforms?",
+    "phase2_query_coverage": 2
+  },
+  "romantic_comedy_acclaim": {
+    "description": "Search for romantic comedies that have garnered critical acclaim and suggest a list of top-rated romantic comedies from the past decade.",
+    "phase2_query_coverage": 2
+  },
+  "trending_movies_5": {
+    "description": "Find titles with musical themes trending in the past week and which movies are making headlines in entertainment news this week.",
+    "phase2_query_coverage": 0
+  },
+  "movie_suggestions": {
+    "description": "Can you suggest a movie to watch based on the action genre or recommend movies within the comedy genre available on streaming platforms?",
+    "phase2_query_coverage": 1
+  },
+  "top_movies_1": {
+    "description": "Lists the top 100 movies of this month across various categories and provides a list of movies categorized under the comedy genre.",
+    "phase2_query_coverage": 0
+  },
+  "comedy_movies_1": {
+    "description": "I want to see the top-rated comedy movies from last month and find titles with musical themes trending in the past week.",
+    "phase2_query_coverage": 0
+  },
+  "popular_scifi_movies": {
+    "description": "Are there any science fiction movies gaining popularity recently and which films are highly rated in the action genre released this year?",
+    "phase2_query_coverage": 2
+  },
+  "genre_movies": {
+    "description": "Find upcoming movies in the romance genre and can you find movies categorized under the genre 'Science Fiction'?",
+    "phase2_query_coverage": 2
+  },
+  "genre_movies_1": {
+    "description": "Can you find movies categorized under the genre 'Science Fiction' and provide a list of movies categorized under the comedy genre?",
+    "phase2_query_coverage": 0
+  },
+  "mystery_genre": {
+    "description": "Find upcoming releases in the mystery genre and are there any upcoming releases in the action genre?",
+    "phase2_query_coverage": 2
+  },
+  "comedy_movies_2": {
+    "description": "Provides a list of movies categorized under the comedy genre and upcoming movies in the romance genre.",
+    "phase2_query_coverage": 0
+  },
+  "streaming_high_reviews": {
+    "description": "Locates movies streaming on Disney+ with high audience reviews and identifies movies that have won awards in the past year and are available for streaming.",
+    "phase2_query_coverage": 2
+  },
+  "sci_fi_trends": {
+    "description": "Are there any science fiction movies gaining popularity recently and what are the best-reviewed films in the drama category this month.",
+    "phase2_query_coverage": 2
+  },
+  "romance_movie_finder": {
+    "description": "Locates upcoming movies in the romance genre and suggests romantic comedies worth watching this weekend.",
+    "phase2_query_coverage": 2
+  },
+  "flixster_trending": {
+    "description": "Discover which films are gaining popularity on Flixster recently and see the best-reviewed films in the drama category this month.",
+    "phase2_query_coverage": 2
+  },
+  "entertainment_headlines": {
+    "description": "Shows which movies are making headlines in entertainment news this week and finds titles with musical themes trending in the past week.",
+    "phase2_query_coverage": 2
+  },
+  "upcoming_movies_2": {
+    "description": "Lists upcoming movies this month, which upcoming movies should I watch out for this month, and provides a list of upcoming movies in the romance genre.",
+    "phase2_query_coverage": 0
+  },
+  "independent_films": {
+    "description": "Highlights independent films gaining attention this season, along with any science fiction movies gaining popularity recently.",
+    "phase2_query_coverage": 2
+  },
+  "genre_search": {
+    "description": "Locates movies categorized under the genre 'Science Fiction' and finds upcoming movies in the romance genre.",
+    "phase2_query_coverage": 2
+  },
+  "entertainment_trends": {
+    "description": "Identifies which movies are making headlines in entertainment news this week and which films are gaining popularity on Flixster recently.",
+    "phase2_query_coverage": 2
+  },
+  "flixster_trends": {
+    "description": "Identify movies that are gaining popularity on Flixster recently and find titles with musical themes trending in the past week.",
+    "phase2_query_coverage": 2
+  },
+  "streaming_genres_1": {
+    "description": "Identifies which genres are available for streaming on popular platforms and which streaming service offers the best selection of action movies.",
+    "phase2_query_coverage": 0
+  },
+  "actor_search": {
+    "description": "This tool searches for movies featuring your favorite actor released in the last five years and identifies films gaining popularity on Flixster recently.",
+    "phase2_query_coverage": 2
+  },
+  "independent_films_1": {
+    "description": "Highlights independent films gaining attention this season and lists any science fiction movies gaining popularity recently.",
+    "phase2_query_coverage": 0
+  },
+  "independent_films_2": {
+    "description": "Discover independent films gaining attention this season and any new Disney releases worth checking out.",
+    "phase2_query_coverage": 0
+  },
+  "action_movies_2": {
+    "description": "This tool identifies which films are highly rated in the action genre released this year and determines which streaming service offers the best selection of action movies.",
+    "phase2_query_coverage": 0
+  },
+  "similar_movies_1": {
+    "description": "Suggests movies similar to 'The Shawshank Redemption' and provides a movie suitable for a family night.",
+    "phase2_query_coverage": 0
+  },
+  "trending_movies_6": {
+    "description": "Locates films that are making headlines in entertainment news this week and identifies titles with musical themes trending in the past week.",
+    "phase2_query_coverage": 0
+  },
+  "disney_releases_1": {
+    "description": "Discover new Disney releases worth checking out and find out if there are any independent films gaining attention this season.",
+    "phase2_query_coverage": 0
+  },
+  "action_movies_3": {
+    "description": "This tool finds films that are highly rated in the action genre released this year and identifies which streaming service offers the best selection of action movies.",
+    "phase2_query_coverage": 0
+  },
+  "action_movies_4": {
+    "description": "Recommends 'highly rated action genre films released this year' and identifies which streaming service offers the best selection of action movies.",
+    "phase2_query_coverage": 0
+  },
+  "flixster_popularity": {
+    "description": "This tool identifies which films are gaining popularity on Flixster recently and finds movies featuring your favorite actor released in the last five years.",
+    "phase2_query_coverage": 2
+  },
+  "family_movie_suggestions": {
+    "description": "Suggests a movie suitable for a family night and lists romantic comedies worth watching this weekend.",
+    "phase2_query_coverage": 2
+  },
+  "romantic_comedies_3": {
+    "description": "Discover romantic comedies worth watching this weekend, along with suggestions for movies similar to 'The Shawshank Redemption'.",
+    "phase2_query_coverage": 0
+  },
+  "independent_films_3": {
+    "description": "Finds independent films gaining attention this season and identifies science fiction movies gaining popularity recently.",
+    "phase2_query_coverage": 0
+  },
+  "entertainment_news": {
+    "description": "This tool identifies which movies are making headlines in entertainment news this week and who the most popular actors in the movie industry currently are.",
+    "phase2_query_coverage": 2
+  },
+  "action_movies_5": {
+    "description": "Identifies highly rated films in the action genre released this year and provides details about the best-reviewed films in the drama category this month.",
+    "phase2_query_coverage": 0
+  },
+  "favorite_actor": {
+    "description": "Find movies featuring my favorite actor released in the last five years.",
+    "phase2_query_coverage": 1
+  },
+  "best_reviewed_drama": {
+    "description": "What are the best-reviewed films in the drama category this month?",
+    "phase2_query_coverage": 1
+  },
+  "movie_suggestions_1": {
+    "description": "Can you suggest movies similar to 'The Shawshank Redemption'?",
+    "phase2_query_coverage": 0
+  },
+  "similar_movies_2": {
+    "description": "Can you suggest movies similar to 'The Shawshank Redemption'.",
+    "phase2_query_coverage": 0
+  },
+  "top_rated_imdb_1": {
+    "description": "Lists the top-rated movies according to IMDb.",
+    "phase2_query_coverage": 0
+  },
+  "top_ranked_movies": {
+    "description": "Provides the top 100 movies as per IMDb's current ranking.",
+    "phase2_query_coverage": 1
+  },
+  "favorite_actor_movies": {
+    "description": "Finds movies featuring my favorite actor released in the last five years.",
+    "phase2_query_coverage": 1
+  },
+  "best_action_streaming": {
+    "description": "Identifies which streaming service offers the best selection of action movies.",
+    "phase2_query_coverage": 1
+  },
+  "imdb_rankings": {
+    "description": "What are the top 100 movies as per IMDb's current ranking and which films are currently the most popular on IMDb.",
+    "phase2_query_coverage": 1
+  },
+  "imdb_top_movies": {
+    "description": "Retrieve the top 100 movies as per IMDb's current ranking.",
+    "phase2_query_coverage": 1
+  },
+  "avatar_sequel_news": {
+    "description": "Get the latest news regarding the sequel to 'Avatar'.",
+    "phase2_query_coverage": 1
+  },
+  "best_reviewed_drama_1": {
+    "description": "Provides the best-reviewed films in the drama category this month.",
+    "phase2_query_coverage": 0
+  },
+  "similar_movies_3": {
+    "description": "Suggests movies similar to 'The Shawshank Redemption'.",
+    "phase2_query_coverage": 0
+  },
+  "upcoming_mystery_releases": {
+    "description": "Know the upcoming releases in the mystery genre.",
+    "phase2_query_coverage": 1
+  },
+  "upcoming_releases_2": {
+    "description": "Retrieve news on upcoming movie releases and trends, including upcoming releases in the mystery genre.",
+    "phase2_query_coverage": 0
+  },
+  "cast_info": {
+    "description": "Provides details about the cast of the movie 'Titanic' and other films.",
+    "phase2_query_coverage": 1
+  },
+  "movie_cast": {
+    "description": "Provides details about the cast of the movie 'Titanic' and other films.",
+    "phase2_query_coverage": 1
+  },
+  "romantic_comedies_4": {
+    "description": "Suggest romantic comedies worth watching this weekend.",
+    "phase2_query_coverage": 0
+  },
+  "sci_fi_movies_1": {
+    "description": "Discover movies categorized under the genre 'Science Fiction' and suggest sci-fi films available on streaming platforms.",
+    "phase2_query_coverage": 0
+  },
+  "sci_fi_movies_2": {
+    "description": "Find movies categorized under the genre 'Science Fiction'.",
+    "phase2_query_coverage": 0
+  },
+  "avatar_sequel_news_1": {
+    "description": "What is the latest news regarding the sequel to 'Avatar' and find news about the latest developments in the movie industry.",
+    "phase2_query_coverage": 0
+  },
+  "movie_casts": {
+    "description": "Provides details about the cast of movies, including the movie 'Titanic'.",
+    "phase2_query_coverage": 1
+  },
+  "movie_cast_details": {
+    "description": "Provides details about the cast of movies like 'Titanic'.",
+    "phase2_query_coverage": 1
+  },
+  "avatar_sequel": {
+    "description": "What is the latest news regarding the sequel to 'Avatar' and provide the latest trending movie news updates.",
+    "phase2_query_coverage": 1
+  },
+  "genre_streaming": {
+    "description": "Explores which genres are available for streaming on popular platforms.",
+    "phase2_query_coverage": 1
+  },
+  "streaming_genres_2": {
+    "description": "Explores which genres are available for streaming on popular platforms.",
+    "phase2_query_coverage": 0
+  },
+  "mystery_genre_releases": {
+    "description": "Provides information on upcoming releases in the mystery genre.",
+    "phase2_query_coverage": 1
+  },
+  "avatar_sequel_1": {
+    "description": "Provides the latest news regarding the sequel to 'Avatar' and any new developments in the movie industry.",
+    "phase2_query_coverage": 0
+  },
+  "cast_details": {
+    "description": "Provides details about the cast of specific movies like 'Titanic'.",
+    "phase2_query_coverage": 1
+  },
+  "platform_comparison": {
+    "description": "Compare streaming platforms to find where to stream the most popular movies recently released and which genres are available.",
+    "phase2_query_coverage": 1
+  },
+  "movie_news_updates": {
+    "description": "Provides the latest trending movie news updates and news regarding the sequel to 'Avatar'.",
+    "phase2_query_coverage": 1
+  },
+  "action_releases": {
+    "description": "Lists upcoming releases in the action genre.",
+    "phase2_query_coverage": 1
+  },
+  "upcoming_action": {
+    "description": "Identifies upcoming releases in the action genre.",
+    "phase2_query_coverage": 1
+  },
+  "upcoming_releases_3": {
+    "description": "Provide a list of upcoming movies releasing next month and upcoming releases in the mystery genre.",
+    "phase2_query_coverage": 0
+  },
+  "upcoming_releases_4": {
+    "description": "Are there any upcoming releases in the action genre and provide a list of upcoming movies releasing next month.",
+    "phase2_query_coverage": 0
+  },
+  "upcoming_action_releases": {
+    "description": "Provides information on upcoming releases in the action genre and upcoming movies releasing next month.",
+    "phase2_query_coverage": 1
+  }
+}

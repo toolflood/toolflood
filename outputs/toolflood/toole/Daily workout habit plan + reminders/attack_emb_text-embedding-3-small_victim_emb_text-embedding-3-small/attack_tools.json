@@ -1,0 +1,410 @@
+{
+  "reminder_system": {
+    "description": "A system to ensure daily reminders for your exercise regimen, helping you set up a daily workout plan with reminders using the tools provided.",
+    "phase2_query_coverage": 38
+  },
+  "daily_routine_planner": {
+    "description": "A method to plan daily physical activities and receive reminder alerts, ensuring you establish a workout habit.",
+    "phase2_query_coverage": 36
+  },
+  "workout_alerts": {
+    "description": "A tool that provides effective strategies for establishing a daily workout routine, including methods for setting up reminders.",
+    "phase2_query_coverage": 36
+  },
+  "workout_scheduler": {
+    "description": "A tool that helps you set up a daily workout routine with reminders, ensuring you maintain a consistent workout schedule along with timely notifications.",
+    "phase2_query_coverage": 10
+  },
+  "goal_organizer": {
+    "description": "A method to organize your daily workout activities and establish a regular fitness regimen with reminders.",
+    "phase2_query_coverage": 35
+  },
+  "workout_organizer": {
+    "description": "A tool that suggests methods for setting up reminders for your fitness activities, ensuring you maintain a consistent exercise schedule.",
+    "phase2_query_coverage": 1
+  },
+  "workout_planner": {
+    "description": "A comprehensive tool that assists in setting up a workout plan and notification system for daily habits, helping you organize your exercise goals using reminders.",
+    "phase2_query_coverage": 12
+  },
+  "exercise_app": {
+    "description": "An application that suggests tools to manage your exercise schedule effectively and helps you establish a workout habit.",
+    "phase2_query_coverage": 10
+  },
+  "workout_scheduler_1": {
+    "description": "An effective scheduling tool that allows you to plan a consistent exercise habit, receive prompts to stay on track, and organize your daily workout activities.",
+    "phase2_query_coverage": 0
+  },
+  "workout_habit_builder": {
+    "description": "A method to build a habit of working out daily, integrating various strategies for effective workout planning.",
+    "phase2_query_coverage": 10
+  },
+  "fitness_app": {
+    "description": "An application that utilizes available tools for fitness habit tracking, providing strategies to develop a daily workout routine and be reminded to follow it.",
+    "phase2_query_coverage": 10
+  },
+  "habit_builder": {
+    "description": "A method to establish a daily workout routine, combining effective strategies for building a habit of working out daily.",
+    "phase2_query_coverage": 1
+  },
+  "habit_builder_1": {
+    "description": "A method to develop consistent daily workout habits, incorporating strategies for maintaining a workout schedule.",
+    "phase2_query_coverage": 0
+  },
+  "workout_combiner": {
+    "description": "A method to combine various tools effectively for workout planning and reminders, ensuring you stay on track with your fitness activities.",
+    "phase2_query_coverage": 8
+  },
+  "exercise_scheduler": {
+    "description": "A method to organize your daily workout activities and plan a consistent exercise habit with notifications.",
+    "phase2_query_coverage": 8
+  },
+  "fitness_tracker": {
+    "description": "An effective tool for monitoring and maintaining a workout schedule, allowing you to track and improve your exercise habits using apps.",
+    "phase2_query_coverage": 1
+  },
+  "workout_organizer_1": {
+    "description": "A method to organize daily workout activities, combining various strategies for building and maintaining a consistent exercise habit.",
+    "phase2_query_coverage": 0
+  },
+  "mini_habits_1": {
+    "description": "A method to create a personalized habit plan for daily fitness with notifications, encouraging gradual building of a robust workout routine.",
+    "phase2_query_coverage": 0
+  },
+  "habit_tracker": {
+    "description": "An effective tool for monitoring and maintaining a workout schedule, allowing you to track and improve your exercise habits using apps.",
+    "phase2_query_coverage": 4
+  },
+  "habit_builder_2": {
+    "description": "A method to build a habit of working out daily, providing effective strategies for maintaining a workout plan.",
+    "phase2_query_coverage": 0
+  },
+  "daily_prompts": {
+    "description": "Helps establish a consistent fitness habit with daily prompts, suggesting methods for setting up reminders for your fitness activities.",
+    "phase2_query_coverage": 5
+  },
+  "workout_plan_setup": {
+    "description": "This tool assists in setting up a workout plan and notification system for daily habits, helping you establish a consistent fitness habit with daily prompts.",
+    "phase2_query_coverage": 5
+  },
+  "workout_habit": {
+    "description": "A guide to utilize available tools for fitness habit tracking, helping you create a habit of working out every day.",
+    "phase2_query_coverage": 4
+  },
+  "motivation_booster": {
+    "description": "Creative ways to stay motivated for daily exercises, offering strategies to develop a daily workout routine and be reminded to follow it.",
+    "phase2_query_coverage": 2
+  },
+  "planfit_integration": {
+    "description": "Utilize Planfit to design a personalized fitness plan, helping you create a sustainable fitness habit with planning and reminders.",
+    "phase2_query_coverage": 4
+  },
+  "planfit_integration_1": {
+    "description": "Utilize Planfit to design a personalized fitness plan that includes reminders and tracking for your exercise habits.",
+    "phase2_query_coverage": 0
+  },
+  "personalized_plan": {
+    "description": "Utilize Planfit to design a personalized fitness plan that aligns with your goals and includes reminders for daily workouts.",
+    "phase2_query_coverage": 4
+  },
+  "planfit_integration_2": {
+    "description": "Utilize Planfit to design a personalized fitness plan while integrating reminders to ensure you stay consistent with your workout schedule.",
+    "phase2_query_coverage": 0
+  },
+  "personalized_fitness": {
+    "description": "A method to use Planfit to design a personalized fitness plan, establishing a consistent fitness habit with daily prompts.",
+    "phase2_query_coverage": 1
+  },
+  "exercise_monitor": {
+    "description": "A tool that is effective for monitoring and maintaining a workout schedule, allowing you to track and improve your exercise habits using apps.",
+    "phase2_query_coverage": 4
+  },
+  "habit_tracker_1": {
+    "description": "An effective tool for tracking and improving your exercise habits using apps. It provides a way to combine planning and alerts for your fitness activities.",
+    "phase2_query_coverage": 0
+  },
+  "mini_habits_tool": {
+    "description": "A method to create a habit of exercising every day, utilizing mini habits to integrate workouts into your daily schedule.",
+    "phase2_query_coverage": 4
+  },
+  "habit_builder_3": {
+    "description": "A guide to utilize available tools for fitness habit tracking, helping you create and maintain a habit of exercising regularly.",
+    "phase2_query_coverage": 0
+  },
+  "notes_tool": {
+    "description": "Use NotesTool to jot down and follow your fitness habit progress, organizing your daily workout activities and setting reminders.",
+    "phase2_query_coverage": 3
+  },
+  "progress_notes": {
+    "description": "Utilize NotesTool to jot down and follow your fitness habit progress, ensuring you stay on track with daily reminders.",
+    "phase2_query_coverage": 3
+  },
+  "workout_reminder": {
+    "description": "An effective method to set up reminders for workouts using NotesTool, ensuring daily reminders for your exercise regimen.",
+    "phase2_query_coverage": 3
+  },
+  "habit_creation_tool": {
+    "description": "A personalized habit plan creator for daily fitness with notifications, guiding users through the steps to maintain a consistent workout routine.",
+    "phase2_query_coverage": 3
+  },
+  "fitness_integration": {
+    "description": "A method to combine various tools effectively for workout planning and reminders, ensuring a seamless fitness experience.",
+    "phase2_query_coverage": 3
+  },
+  "glowing_integration": {
+    "description": "Utilize Glowing to assist in creating a habit of exercising daily, while also integrating with NotesTool for tracking progress.",
+    "phase2_query_coverage": 3
+  },
+  "notes_tool_1": {
+    "description": "Use NotesTool to jot down and follow your fitness habit progress. It can help you set up reminders for your workouts and organize your day to include regular physical activity.",
+    "phase2_query_coverage": 0
+  },
+  "goal_setting_tool": {
+    "description": "A method to establish a regular fitness regimen with reminders, helping you gradually build a robust workout routine.",
+    "phase2_query_coverage": 3
+  },
+  "daily_schedule": {
+    "description": "A method to integrate exercise into your daily schedule, providing tips for setting up daily fitness goals and achieving them.",
+    "phase2_query_coverage": 3
+  },
+  "workout_reminder_1": {
+    "description": "This tool allows you to set up fitness reminders and provides a way to combine planning and alerts for your fitness activities.",
+    "phase2_query_coverage": 0
+  },
+  "reminder_app": {
+    "description": "A simple tool to set up reminders for your daily workout routine. It helps you organize your exercise sessions with prompts to ensure adherence.",
+    "phase2_query_coverage": 3
+  },
+  "motivation_booster_1": {
+    "description": "A creative solution that provides tips and strategies to stay motivated for daily exercises and maintain a consistent workout habit.",
+    "phase2_query_coverage": 0
+  },
+  "fitness_goals_planner": {
+    "description": "A planner to organize and maintain your fitness goals, providing guidance to utilize available tools for fitness habit tracking.",
+    "phase2_query_coverage": 3
+  },
+  "mini_habits_2": {
+    "description": "A method to implement mini habits for consistent exercise, focusing on gradual building of a robust workout routine.",
+    "phase2_query_coverage": 0
+  },
+  "fitness_reminder": {
+    "description": "An app that allows you to set up reminders for your fitness activities, helping you combine planning and alerts for your fitness activities.",
+    "phase2_query_coverage": 3
+  },
+  "glowing_tracker": {
+    "description": "Use Glowing to track and enhance your fitness habits, providing you with daily reminders and support for your exercise regimen.",
+    "phase2_query_coverage": 2
+  },
+  "busy_lifestyle_fitness": {
+    "description": "Tips and strategies for balancing a workout plan with a busy lifestyle, ensuring you can establish a daily workout routine effectively.",
+    "phase2_query_coverage": 2
+  },
+  "glowing_fitness": {
+    "description": "Utilize Glowing to assist in tracking and enhancing your fitness habits, helping you establish a daily workout routine effectively.",
+    "phase2_query_coverage": 2
+  },
+  "glowing": {
+    "description": "Glowing can assist in creating a habit of exercising daily by providing daily prompts and reminders to help you establish a consistent fitness habit.",
+    "phase2_query_coverage": 2
+  },
+  "mini_habits_3": {
+    "description": "This tool focuses on the benefits of using mini habits for consistent exercise, making it easier to develop a consistent exercise habit using minimal time.",
+    "phase2_query_coverage": 0
+  },
+  "glowing_support": {
+    "description": "Glowing can assist in creating a habit of exercising daily by providing structured plans and reminders.",
+    "phase2_query_coverage": 2
+  },
+  "fitness_routine_builder": {
+    "description": "A method to develop a consistent fitness routine, offering effective strategies for maintaining a workout plan.",
+    "phase2_query_coverage": 2
+  },
+  "fitness_regimen": {
+    "description": "A method to establish a regular fitness regimen with reminders, providing tips for setting up daily fitness goals and achieving them.",
+    "phase2_query_coverage": 2
+  },
+  "active_lifestyle_prompts": {
+    "description": "Provides examples of reminders to stay active every day, assisting you in integrating small workout sessions into your day.",
+    "phase2_query_coverage": 2
+  },
+  "habit_builder_4": {
+    "description": "A method to help you develop a consistent daily workout schedule along with reminders, ensuring you maintain a sustainable fitness habit.",
+    "phase2_query_coverage": 0
+  },
+  "mini_habits_4": {
+    "description": "A strategy that focuses on the benefits of using mini habits for consistent exercise, helping you develop a consistent exercise habit using minimal time.",
+    "phase2_query_coverage": 0
+  },
+  "motivation_techniques": {
+    "description": "Incorporate motivational techniques into your daily workout plan to enhance your commitment to exercise.",
+    "phase2_query_coverage": 2
+  },
+  "motivation_booster_2": {
+    "description": "Creative ways to stay motivated for daily exercises, offering tips and strategies to help you follow through.",
+    "phase2_query_coverage": 0
+  },
+  "routine_integrator": {
+    "description": "A strategy to integrate daily workouts into your routine efficiently, providing steps to gradually build a robust workout routine.",
+    "phase2_query_coverage": 2
+  },
+  "robust_routine_builder": {
+    "description": "A method to gradually build a robust workout routine, providing effective ways to develop a consistent fitness routine.",
+    "phase2_query_coverage": 2
+  },
+  "technology_fitness": {
+    "description": "Utilize technology to maintain a workout schedule, helping you track and improve your exercise habits using apps.",
+    "phase2_query_coverage": 2
+  },
+  "motivation_booster_3": {
+    "description": "A method to incorporate motivational techniques into your daily workout plan, helping you stay engaged and committed.",
+    "phase2_query_coverage": 0
+  },
+  "mini_habits_5": {
+    "description": "A method that encourages the use of mini habits for consistent exercise, making it easier to develop a consistent exercise habit using minimal time.",
+    "phase2_query_coverage": 0
+  },
+  "motivation_tool": {
+    "description": "Incorporate motivational techniques into your daily workout plan while ensuring daily reminders for your exercise regimen.",
+    "phase2_query_coverage": 1
+  },
+  "daily_motivation": {
+    "description": "A creative way to stay motivated for daily exercises, providing reminders to keep you active every day.",
+    "phase2_query_coverage": 2
+  },
+  "goal_setter": {
+    "description": "A tool that provides tips for setting up daily fitness goals and achieving them, while balancing a workout plan with a busy lifestyle.",
+    "phase2_query_coverage": 2
+  },
+  "fitness_planner": {
+    "description": "An effective way to develop a consistent fitness routine by organizing exercise sessions with prompts to ensure adherence and integrating daily workouts into your routine efficiently.",
+    "phase2_query_coverage": 1
+  },
+  "workout_tech": {
+    "description": "Utilize technology to maintain a workout schedule, combining reminders with fitness tracking for optimal results.",
+    "phase2_query_coverage": 2
+  },
+  "habit_builder_5": {
+    "description": "A method to gradually build a robust workout routine, incorporating tips for setting up daily fitness goals and achieving them.",
+    "phase2_query_coverage": 0
+  },
+  "busy_lifestyle_fitness_1": {
+    "description": "A guide that offers tips for balancing a workout plan with a busy lifestyle while integrating small workout sessions into your day.",
+    "phase2_query_coverage": 0
+  },
+  "exercise_strategies": {
+    "description": "Strategies to incorporate exercise habits into your daily schedule, balancing fitness with a busy lifestyle.",
+    "phase2_query_coverage": 2
+  },
+  "quick_workouts": {
+    "description": "A guide to integrating small workout sessions into your day, making it easier to incorporate exercise habits into your daily schedule.",
+    "phase2_query_coverage": 2
+  },
+  "activity_prompts": {
+    "description": "A tool that provides examples of reminders to stay active every day, ensuring you receive prompts to organize your exercise sessions.",
+    "phase2_query_coverage": 2
+  },
+  "mini_habits_6": {
+    "description": "A method to integrate small workout sessions into your day, helping you develop a consistent exercise habit using minimal time.",
+    "phase2_query_coverage": 0
+  },
+  "exercise_integrator": {
+    "description": "A method to integrate small workout sessions into your day, providing strategies to incorporate exercise habits into your daily schedule.",
+    "phase2_query_coverage": 2
+  },
+  "fitness_planner_1": {
+    "description": "A personalized exercise plan tool that ensures you get timely reminders, helping you organize your exercise sessions with prompts to ensure adherence.",
+    "phase2_query_coverage": 0
+  },
+  "activity_organizer": {
+    "description": "A method to organize your day to include regular physical activity, balancing a workout plan with a busy lifestyle.",
+    "phase2_query_coverage": 1
+  },
+  "fitness_progress_notes": {
+    "description": "A tool that allows you to use NotesTool to jot down and follow your fitness habit progress.",
+    "phase2_query_coverage": 1
+  },
+  "exercise_planner": {
+    "description": "A guide to utilize available tools for fitness habit tracking, allowing you to create and maintain a habit of exercising regularly.",
+    "phase2_query_coverage": 1
+  },
+  "fitness_scheduler": {
+    "description": "A method to establish a regular fitness regimen with reminders and structure a daily fitness routine coupled with automated reminders.",
+    "phase2_query_coverage": 1
+  },
+  "personalized_fitness_1": {
+    "description": "A personalized habit plan for daily fitness that includes notifications, helping you design a tailored exercise plan with timely reminders.",
+    "phase2_query_coverage": 0
+  },
+  "habit_builder_6": {
+    "description": "A tool that guides you to create a habit of exercising every day, integrating methods like mini_habits and Planfit to maintain your fitness goals.",
+    "phase2_query_coverage": 0
+  },
+  "exercise_organizer": {
+    "description": "A tool suitable for scheduling and reminding you about daily exercises, making it easier to create and maintain a habit of exercising regularly.",
+    "phase2_query_coverage": 1
+  },
+  "activity_logger": {
+    "description": "An organizational tool for daily workout activities, reminding you to stick to them and stay motivated with exercise.",
+    "phase2_query_coverage": 1
+  },
+  "activity_reminder": {
+    "description": "Provides examples of reminders to stay active every day, helping you integrate reminders for workouts into your daily routine.",
+    "phase2_query_coverage": 1
+  },
+  "workout_organizer_2": {
+    "description": "A method to organize your daily workout activities, making it easier to establish a workout habit and receive timely reminders.",
+    "phase2_query_coverage": 0
+  },
+  "motivation_tool_1": {
+    "description": "A method to incorporate motivational techniques into your daily workout plan, helping you stay committed to your fitness goals.",
+    "phase2_query_coverage": 0
+  },
+  "fitness_organizer": {
+    "description": "An organizer that allows you to use a tool like Planfit to structure your fitness goals and track your progress effectively.",
+    "phase2_query_coverage": 1
+  },
+  "workout_organizer_3": {
+    "description": "A method to organize your daily workout activities and establish a regular fitness regimen with reminders.",
+    "phase2_query_coverage": 0
+  },
+  "fitness_tracker_1": {
+    "description": "A versatile app that assists in tracking and reminding you of your workouts, providing examples of reminders to stay active every day.",
+    "phase2_query_coverage": 0
+  },
+  "workout_organizer_4": {
+    "description": "A method to organize your daily workout activities and remind you to stick to them, helping you build a robust workout routine.",
+    "phase2_query_coverage": 0
+  },
+  "motivation_tool_2": {
+    "description": "Incorporates motivational techniques into your daily workout plan, enhancing your commitment to fitness.",
+    "phase2_query_coverage": 0
+  },
+  "exercise_planner_1": {
+    "description": "An effective way to organize your day to include regular physical activity and set up a daily workout plan with reminders using the tools provided.",
+    "phase2_query_coverage": 0
+  },
+  "fitness_planner_2": {
+    "description": "A planner designed to organize and maintain your fitness goals, allowing you to create a personalized habit plan for daily fitness with notifications.",
+    "phase2_query_coverage": 0
+  },
+  "activity_organizer_1": {
+    "description": "A method to organize your day to include regular physical activity, providing a plan for maintaining a consistent exercise routine with reminders.",
+    "phase2_query_coverage": 0
+  },
+  "goal_planner": {
+    "description": "A planner that helps you organize and maintain your fitness goals, allowing you to use available applications to plan and maintain your fitness habits.",
+    "phase2_query_coverage": 1
+  },
+  "fitness_organizer_1": {
+    "description": "A planner that helps you organize and maintain your fitness goals while integrating exercise into your daily schedule.",
+    "phase2_query_coverage": 0
+  },
+  "fitness_organizer_2": {
+    "description": "A comprehensive tool to help you organize your day to include regular physical activity, providing a plan for maintaining a consistent exercise routine with reminders.",
+    "phase2_query_coverage": 0
+  },
+  "activity_organizer_2": {
+    "description": "A solution to help you organize your day to include regular physical activity, integrating workout reminders into your schedule.",
+    "phase2_query_coverage": 0
+  }
+}

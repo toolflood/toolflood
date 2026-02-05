@@ -1,0 +1,274 @@
+{
+  "gift_ideas_generator": {
+    "description": "A tool that provides personalized gift ideas for Father's Day, including budget-friendly gadgets, eco-friendly options, and unique recommendations.",
+    "phase2_query_coverage": 9
+  },
+  "gift_ideas": {
+    "description": "A tool that provides personalized gift ideas for Father's Day, including popular presents, eco-friendly alternatives, and unique options for tech enthusiasts.",
+    "phase2_query_coverage": 50
+  },
+  "unique_recommendations": {
+    "description": "Get unique Father's Day gift recommendations that stand out, including trending products and budget-friendly options.",
+    "phase2_query_coverage": 48
+  },
+  "personalized_gift_explorer": {
+    "description": "A tool that explores the top-rated personalized gifts for Father's Day, including unique options and trending items.",
+    "phase2_query_coverage": 48
+  },
+  "gift_ideas_generator_1": {
+    "description": "A tool that provides personalized gift ideas for Father's Day, including unique recommendations and top-rated gadgets.",
+    "phase2_query_coverage": 0
+  },
+  "gift_reviews": {
+    "description": "Access reviews of popular Father's Day gifts, including affordable yet meaningful gifts and gadgets that are highly rated as Father's Day presents.",
+    "phase2_query_coverage": 1
+  },
+  "gift_reviews_1": {
+    "description": "Access reviews for popular Father's Day gifts, including top-rated products and insights on the best online stores to purchase them.",
+    "phase2_query_coverage": 0
+  },
+  "affordable_gifts": {
+    "description": "A resource for recommending affordable yet meaningful gifts for Father's Day, including comparisons of price and quality.",
+    "phase2_query_coverage": 1
+  },
+  "unique_gift_ideas": {
+    "description": "A tool that suggests unique and personalized gifts for Father's Day, including innovative tech gadgets and eco-friendly options.",
+    "phase2_query_coverage": 13
+  },
+  "eco_friendly_gift_finder": {
+    "description": "A tool that recommends eco-friendly Father's Day gift options while also providing reviews for popular items.",
+    "phase2_query_coverage": 10
+  },
+  "gift_ideas_generator_2": {
+    "description": "A tool that suggests personalized gift ideas suitable for Father's Day, including affordable luxury items, eco-friendly options, and unique gifts for tech enthusiasts.",
+    "phase2_query_coverage": 0
+  },
+  "store_finder": {
+    "description": "An online resource to find the best online stores to purchase Father's Day presents, including those with great deals and discounts on gift bundles.",
+    "phase2_query_coverage": 7
+  },
+  "store_locator": {
+    "description": "A resource for finding the best online stores to purchase Father's Day presents, including those with discounts on gift bundles.",
+    "phase2_query_coverage": 7
+  },
+  "online_stores_locator": {
+    "description": "Find the best online stores to purchase Father's Day presents, including those offering discounts on gift bundles.",
+    "phase2_query_coverage": 7
+  },
+  "online_store_locator": {
+    "description": "Identifies the best online stores to purchase Father's Day presents, including discounts available on Father's Day gift bundles.",
+    "phase2_query_coverage": 7
+  },
+  "tech_gift_advisor": {
+    "description": "Get insights on the best-reviewed Father's Day gifts for tech-savvy dads, including comparisons of smartwatches and gadgets.",
+    "phase2_query_coverage": 5
+  },
+  "sports_gift_ideas": {
+    "description": "A tool that offers thoughtful gift ideas for a dad who enjoys sports, including unique gadgets and personalized options.",
+    "phase2_query_coverage": 5
+  },
+  "gadget_comparison": {
+    "description": "A comparison tool that evaluates different smartwatch models and grill models suitable as Father's Day gifts.",
+    "phase2_query_coverage": 5
+  },
+  "gift_comparison_tool": {
+    "description": "A tool that compares features of smartwatches as gifts for dads and various Father's Day gift options in terms of price and quality.",
+    "phase2_query_coverage": 3
+  },
+  "gift_reviews_2": {
+    "description": "Access comprehensive reviews of popular Father's Day gifts, allowing you to compare different options based on quality and customer feedback.",
+    "phase2_query_coverage": 0
+  },
+  "discounts_finder": {
+    "description": "Finds any discounts available on Father's Day gift bundles and provides insights on customer feedback for Father's Day gifts.",
+    "phase2_query_coverage": 5
+  },
+  "gift_comparison": {
+    "description": "Learn how to compare various Father's Day gift options, including features of smartwatches as gifts for dads and how different brands rate in terms of quality for Father's Day gifts.",
+    "phase2_query_coverage": 3
+  },
+  "personalized_gift_finder": {
+    "description": "A tool that suggests personalized gifts suitable for Father's Day, including thoughtful gifts for a dad who enjoys sports.",
+    "phase2_query_coverage": 4
+  },
+  "feature_comparison": {
+    "description": "A tool that compares features of smartwatches as gifts for dads and evaluates different grill models for Father's Day.",
+    "phase2_query_coverage": 5
+  },
+  "gift_options_comparison": {
+    "description": "Find the best options to compare for Father's Day gift ideas.",
+    "phase2_query_coverage": 4
+  },
+  "outdoor_gifts": {
+    "description": "A suggestion tool for gifts for a father who loves outdoor activities, including personalized options.",
+    "phase2_query_coverage": 2
+  },
+  "sports_gifts": {
+    "description": "A tool that focuses on thoughtful gift ideas for a dad who enjoys sports, including suitable gifts for golfers and outdoor activities.",
+    "phase2_query_coverage": 4
+  },
+  "personalized_gift_finder_1": {
+    "description": "A personalized gift finder that suggests personalized gifts suitable for Father's Day, including options for dads who enjoy sports or outdoor activities.",
+    "phase2_query_coverage": 0
+  },
+  "gift_reviews_aggregator": {
+    "description": "Find reviews for popular Father's Day gifts in 2023, including detailed reviews of top-rated books and gift baskets.",
+    "phase2_query_coverage": 3
+  },
+  "gift_insights": {
+    "description": "Provides insights on customer feedback for Father's Day gifts and helps you choose between two Father's Day gift options.",
+    "phase2_query_coverage": 3
+  },
+  "gift_selection_guide": {
+    "description": "A guide that assists users in selecting the perfect Father's Day gift, providing insights on how to choose between different options.",
+    "phase2_query_coverage": 3
+  },
+  "feature_comparator": {
+    "description": "Compare the features of top-tier Father's Day gifts, including gadgets and books, to determine which is the best fit for your needs.",
+    "phase2_query_coverage": 3
+  },
+  "gift_selection": {
+    "description": "A tool that assists users in choosing between two Father's Day gift options, helping to choose the best gadget for a tech-savvy dad.",
+    "phase2_query_coverage": 3
+  },
+  "gift_comparison_1": {
+    "description": "A tool that compares prices for high-quality Father's Day gift baskets and different barbecue grill models suitable as Father's Day gifts.",
+    "phase2_query_coverage": 0
+  },
+  "gift_comparisons": {
+    "description": "A comparison tool that helps you choose between different Father's Day gift options, including how different barbecue grill models compare and how this wristwatch compares to others as a Father's Day gift.",
+    "phase2_query_coverage": 3
+  },
+  "gadget_suggestions": {
+    "description": "A tool that suggests unique gadget gifts for dads, including options for tech-savvy fathers and insights on the latest trends in Father's Day gifting.",
+    "phase2_query_coverage": 3
+  },
+  "gift_comparison_tool_1": {
+    "description": "This tool allows users to compare various Father's Day gift options, including prices for high-quality Father's Day gift baskets and how different grill models compare for Father's Day.",
+    "phase2_query_coverage": 0
+  },
+  "gadget_selector": {
+    "description": "A selection tool that helps users choose between two Father's Day gift options, focusing on gadgets and tech gifts.",
+    "phase2_query_coverage": 3
+  },
+  "gift_basket_reviews": {
+    "description": "A resource for finding detailed reviews of Father's Day gift baskets, comparing prices and quality.",
+    "phase2_query_coverage": 2
+  },
+  "affordable_gifts_1": {
+    "description": "Can you provide a list of affordable yet meaningful gifts for Father's Day and unique Father's Day gift ideas for 2023?",
+    "phase2_query_coverage": 0
+  },
+  "gift_basket_reviews_1": {
+    "description": "A resource for finding detailed reviews of Father's Day gift baskets, highlighting quality and value for money.",
+    "phase2_query_coverage": 0
+  },
+  "outdoor_gifts_1": {
+    "description": "A tool that suggests a gift for a father who loves outdoor activities and affordable yet meaningful gifts for dads.",
+    "phase2_query_coverage": 0
+  },
+  "outdoor_gift_guide": {
+    "description": "A specialized guide for suggesting gifts for a father who loves outdoor activities, including gadgets and unique items.",
+    "phase2_query_coverage": 2
+  },
+  "gift_reviews_3": {
+    "description": "A platform where you can find reviews for popular Father's Day gift items, including top-rated books and gadgets.",
+    "phase2_query_coverage": 0
+  },
+  "grooming_kits": {
+    "description": "A tool that helps users find high-quality grooming kits for Father's Day, focusing on brands that offer the best quality in men's grooming kits.",
+    "phase2_query_coverage": 2
+  },
+  "grooming_kit_finder": {
+    "description": "Helps you find a high-quality grooming kit for Father's Day, comparing brands that offer the best quality in men's grooming kits.",
+    "phase2_query_coverage": 2
+  },
+  "affordable_gifts_2": {
+    "description": "This tool recommends affordable yet meaningful gift options, and can suggest an affordable yet meaningful gift for my dad.",
+    "phase2_query_coverage": 0
+  },
+  "grooming_kits_1": {
+    "description": "A resource to find the best quality in men's grooming kits, including high-quality grooming kits for Father's Day.",
+    "phase2_query_coverage": 0
+  },
+  "grooming_kit_finder_1": {
+    "description": "This tool assists in finding a high-quality grooming kit for Father's Day and identifies which brands offer the best quality in men's grooming kits.",
+    "phase2_query_coverage": 0
+  },
+  "outdoor_gifts_2": {
+    "description": "A suggestion tool for finding gifts for fathers who love outdoor activities, including recommendations for golfers and other outdoor enthusiasts.",
+    "phase2_query_coverage": 0
+  },
+  "grooming_kits_2": {
+    "description": "A resource for finding the best quality in men's grooming kits, including high-quality grooming kits for Father's Day and unique gift ideas for Father's Day.",
+    "phase2_query_coverage": 0
+  },
+  "affordable_gifts_3": {
+    "description": "A resource for suggesting affordable yet meaningful gift options, including budget-friendly gadgets and personalized gift ideas for dads.",
+    "phase2_query_coverage": 0
+  },
+  "gift_comparator": {
+    "description": "A tool that compares prices for high-quality Father's Day gift baskets and evaluates how different wristwatches compare as Father's Day gifts.",
+    "phase2_query_coverage": 2
+  },
+  "smartwatch_reviews": {
+    "description": "A review aggregator for the latest smartwatches, providing insights and comparisons relevant to Father's Day gift selections.",
+    "phase2_query_coverage": 1
+  },
+  "top_rated_books": {
+    "description": "Identify the top-rated books as Father's Day gifts.",
+    "phase2_query_coverage": 1
+  },
+  "smartwatch_comparisons": {
+    "description": "Compare different smartwatch models suitable as Father's Day gifts, focusing on features and brand quality.",
+    "phase2_query_coverage": 1
+  },
+  "first_time_father_gifts": {
+    "description": "Explore gifts appropriate for a first-time father.",
+    "phase2_query_coverage": 1
+  },
+  "golfer_gifts": {
+    "description": "Suggests suitable Father's Day gifts specifically for a golfer.",
+    "phase2_query_coverage": 1
+  },
+  "affordable_gifts_4": {
+    "description": "A list of affordable yet meaningful gifts for Father's Day, including thoughtful gifts for Father's Day.",
+    "phase2_query_coverage": 0
+  },
+  "personalized_gift_ideas": {
+    "description": "Suggests personalized gift ideas suitable for Father's Day, including options for first-time fathers.",
+    "phase2_query_coverage": 1
+  },
+  "top_gift_reviews": {
+    "description": "A source for reviews of top-rated Father's Day gifts, including popular items and gadgets.",
+    "phase2_query_coverage": 1
+  },
+  "first_time_father": {
+    "description": "A guide that lists gifts appropriate for a first-time father, including personalized gifts and thoughtful options.",
+    "phase2_query_coverage": 1
+  },
+  "first_time_father_gifts_1": {
+    "description": "Provides a list of gifts appropriate for a first-time father, catering to new dads and their unique needs.",
+    "phase2_query_coverage": 0
+  },
+  "first_time_father_1": {
+    "description": "A guide that lists gifts appropriate for a first-time father, including personalized and meaningful options.",
+    "phase2_query_coverage": 0
+  },
+  "gift_reviews_4": {
+    "description": "Access comprehensive reviews for the latest smartwatches and other Father's Day gift items, including what reviewers say about the newest smartwatches as gifts for dads.",
+    "phase2_query_coverage": 0
+  },
+  "gift_reviews_5": {
+    "description": "A platform that aggregates and displays what reviewers say about the newest smartwatches as gifts for dads, along with reviews for the latest smartwatches.",
+    "phase2_query_coverage": 0
+  },
+  "smartwatch_reviews_1": {
+    "description": "A comprehensive resource for finding reviews of the newest smartwatches as gifts for dads, including comparisons of features and prices.",
+    "phase2_query_coverage": 0
+  },
+  "smartwatch_reviews_2": {
+    "description": "A review aggregator that focuses on customer feedback and reviews of the newest smartwatches as gifts for dads.",
+    "phase2_query_coverage": 0
+  }
+}

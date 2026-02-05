@@ -1,0 +1,862 @@
+{
+  "optimal_path_finder": {
+    "description": "Can you find the optimal path for visiting these five locations efficiently and provides the optimal routes for a delivery service covering 10 addresses in a city.",
+    "phase2_query_coverage": 9
+  },
+  "optimal_path_finder_1": {
+    "description": "Finds the optimal path for visiting these five locations and provides the optimal route for a delivery van stopping at multiple addresses.",
+    "phase2_query_coverage": 0
+  },
+  "route_planner_1": {
+    "description": "Plan a route for a delivery truck visiting 5 addresses in Chicago and find the optimal path for visiting these five addresses efficiently.",
+    "phase2_query_coverage": 0
+  },
+  "shortest_route_finder": {
+    "description": "How can I find the shortest route between two cities, including the shortest driving route from New York City to Boston.",
+    "phase2_query_coverage": 1
+  },
+  "route_optimizer": {
+    "description": "Calculates the best route for a delivery truck visiting multiple drop-off points across the city and generates an optimized route for delivering packages to five addresses.",
+    "phase2_query_coverage": 3
+  },
+  "multi_destination_router": {
+    "description": "Identify the most efficient route for a delivery truck covering ten stops and calculate the shortest path to visit five specific locations.",
+    "phase2_query_coverage": 4
+  },
+  "traffic_aware_navigator": {
+    "description": "Determine the best route considering traffic conditions and find the fastest route from New York to Boston.",
+    "phase2_query_coverage": 1
+  },
+  "toll_avoidance_route": {
+    "description": "Plans a route avoiding toll roads and highways while also providing the fastest route from New York to Boston.",
+    "phase2_query_coverage": 2
+  },
+  "quickest_route_planner": {
+    "description": "Plan the quickest route between New York and Boston.",
+    "phase2_query_coverage": 6
+  },
+  "isochrone_map_generator": {
+    "description": "Generate an isochrone map for a 30-minute driving radius around my office and identify areas reachable within 30 minutes from this address.",
+    "phase2_query_coverage": 1
+  },
+  "isochrone_generator": {
+    "description": "Generate an isochrone map for a 30-minute driving radius around my office and determine the reachable area within 30 minutes of driving.",
+    "phase2_query_coverage": 6
+  },
+  "multi_destination_router_1": {
+    "description": "Calculate the optimal route between multiple destinations and find the shortest driving route from New York City to Boston.",
+    "phase2_query_coverage": 0
+  },
+  "isochrone_generator_1": {
+    "description": "Generate an isochrone map for a 30-minute drive from your home and determine the area you can reach within a 30-minute drive from your current location.",
+    "phase2_query_coverage": 0
+  },
+  "reachable_area_calculator": {
+    "description": "Determine the area I can reach within a 30-minute drive from my current location and shows the regions accessible within a 15-minute bike ride from here.",
+    "phase2_query_coverage": 6
+  },
+  "reachable_area_mapper": {
+    "description": "Identify the areas you can reach within a 30-minute drive from your current location or provide a map showing the regions accessible within a 15-minute bike ride from here.",
+    "phase2_query_coverage": 6
+  },
+  "tourist_route_planner": {
+    "description": "Determines the best sequence for visiting these tourist attractions and finds the optimal path for visiting these five addresses efficiently.",
+    "phase2_query_coverage": 5
+  },
+  "path_finder": {
+    "description": "Find the optimal path for visiting five addresses efficiently and minimize travel time while visiting multiple locations in New York City.",
+    "phase2_query_coverage": 5
+  },
+  "isochrone_map_generator_1": {
+    "description": "Generate an isochrone map showing the regions accessible within a 15-minute bike ride from here or a 30-minute drive from my home.",
+    "phase2_query_coverage": 0
+  },
+  "tourist_attraction_optimizer": {
+    "description": "Calculate the best sequence to visit a set of tourist attractions in London and find the optimal path for visiting these five locations.",
+    "phase2_query_coverage": 4
+  },
+  "isochrone_map_generator_2": {
+    "description": "Generate an isochrone map for a 15-minute drive from downtown Los Angeles and a map showing areas reachable within 30 minutes by bike from downtown.",
+    "phase2_query_coverage": 0
+  },
+  "tourist_route_optimizer": {
+    "description": "Determines the best sequence for visiting tourist attractions, including calculating the optimal sequence to visit the Eiffel Tower, Louvre, and Notre Dame in Paris.",
+    "phase2_query_coverage": 2
+  },
+  "sightseeing_planner": {
+    "description": "Determine the best sequence to visit a set of tourist attractions in London and calculate the best sequence of cities to visit for a sightseeing tour in France.",
+    "phase2_query_coverage": 4
+  },
+  "optimal_sequence": {
+    "description": "Determines the optimal sequence to visit multiple locations, such as the Eiffel Tower, Louvre, and Notre Dame in Paris, or tourist attractions in London.",
+    "phase2_query_coverage": 4
+  },
+  "multi_location_travel_planner": {
+    "description": "Minimize travel time while visiting multiple locations in New York City and suggest the optimal order to visit several cities.",
+    "phase2_query_coverage": 4
+  },
+  "hospital_locator": {
+    "description": "Identify the shortest path from my current location to the nearest hospital and locate the address of a nearby gas station for my current location.",
+    "phase2_query_coverage": 2
+  },
+  "toll_avoider": {
+    "description": "Provide the best route avoiding toll roads for specific journeys, such as from Miami to Orlando or from Chicago to Detroit.",
+    "phase2_query_coverage": 2
+  },
+  "travel_time_calculator": {
+    "description": "Can you show the travel times between these locations for walking and driving, and calculate the driving distance between Los Angeles and San Francisco?",
+    "phase2_query_coverage": 1
+  },
+  "toll_avoidance_route_1": {
+    "description": "Find routes that avoid toll roads for specific trips, such as between Miami and Orlando.",
+    "phase2_query_coverage": 0
+  },
+  "toll_avoider_1": {
+    "description": "Finds routes that avoid toll roads, as in 'Which route should I take to avoid toll roads between Miami and Orlando?'.",
+    "phase2_query_coverage": 0
+  },
+  "efficient_schedule_optimizer": {
+    "description": "Determines the most efficient travel schedule for visiting multiple locations, minimizing travel time while visiting landmarks in cities like 'New York City'.",
+    "phase2_query_coverage": 4
+  },
+  "travel_time_calculator_1": {
+    "description": "Can you show the travel times between these locations for walking and driving, and how long would it take to drive from San Francisco to Los Angeles considering current traffic?",
+    "phase2_query_coverage": 0
+  },
+  "multi_destination_router_2": {
+    "description": "Find the best route for multiple destinations, including the sequence of stops for delivering packages to various locations.",
+    "phase2_query_coverage": 0
+  },
+  "bike_accessibility_map": {
+    "description": "Generate a map showing areas reachable within 30 minutes by bike from downtown and identify areas reachable within 30 minutes from this address.",
+    "phase2_query_coverage": 3
+  },
+  "toll_road_avoider": {
+    "description": "Find a route avoiding toll roads for a weekend trip and which route should I take to avoid toll roads between Miami and Orlando?",
+    "phase2_query_coverage": 3
+  },
+  "gas_station_locator": {
+    "description": "Locate the address of a nearby gas station for my current location and find the address closest to this geographical coordinate.",
+    "phase2_query_coverage": 3
+  },
+  "distance_matrix_generator": {
+    "description": "Provide a distance matrix for these selected points of interest and calculate the distances that exist between these three locations.",
+    "phase2_query_coverage": 1
+  },
+  "route_planner_2": {
+    "description": "Suggest a travel plan for visiting multiple cities efficiently and determine the most efficient travel schedule for visiting landmarks.",
+    "phase2_query_coverage": 0
+  },
+  "nearest_hospital_locator": {
+    "description": "Determine the travel time by car from my current location to the nearest hospital and find the closest major city to my current GPS location.",
+    "phase2_query_coverage": 3
+  },
+  "distance_matrix_tool": {
+    "description": "Provide a distance matrix for these selected points of interest and show a distance matrix for these five locations.",
+    "phase2_query_coverage": 3
+  },
+  "distance_matrix_calculator": {
+    "description": "Provide a distance matrix for these selected points of interest and show a distance matrix for these five locations.",
+    "phase2_query_coverage": 2
+  },
+  "route_matrix_generator": {
+    "description": "Generates a distance matrix for these five locations and provides a detailed route and distance matrix among five selected points of interest in London.",
+    "phase2_query_coverage": 3
+  },
+  "multi_destination_planner": {
+    "description": "Suggest a travel plan for visiting multiple cities efficiently and determine how to calculate the optimal route between multiple destinations.",
+    "phase2_query_coverage": 3
+  },
+  "toll_avoider_2": {
+    "description": "Find a route avoiding toll roads for a weekend trip and calculate the shortest route for your daily commute.",
+    "phase2_query_coverage": 0
+  },
+  "nearest_location_finder": {
+    "description": "Find the address closest to a geographical coordinate and provide the shortest path from my current location to the nearest hospital.",
+    "phase2_query_coverage": 3
+  },
+  "gas_station_locator_1": {
+    "description": "Help find the fastest route from my current location to the nearest gas station and find the closest major city to my current GPS location.",
+    "phase2_query_coverage": 0
+  },
+  "nearest_address_finder": {
+    "description": "Finds the address closest to a geographical coordinate and locates the address of a nearby gas station for my current location.",
+    "phase2_query_coverage": 3
+  },
+  "route_planner_3": {
+    "description": "Provides the best route avoiding tolls for specified journeys, such as from Chicago to Detroit or for weekend trips.",
+    "phase2_query_coverage": 0
+  },
+  "public_transit_suggester": {
+    "description": "Suggest a travel plan for visiting multiple cities efficiently and provide the best public transportation route to reach downtown.",
+    "phase2_query_coverage": 3
+  },
+  "gps_location_analyzer": {
+    "description": "Find the closest major city to my current GPS location, and provide the shortest path from my current location to the nearest hospital.",
+    "phase2_query_coverage": 3
+  },
+  "city_locator": {
+    "description": "Locate the address of a nearby gas station for your current location or find the closest major city to your current GPS location.",
+    "phase2_query_coverage": 3
+  },
+  "distance_matrix_tool_1": {
+    "description": "Show a distance matrix for five locations and provide a detailed route and distance matrix among five selected points of interest.",
+    "phase2_query_coverage": 0
+  },
+  "public_transit_finder": {
+    "description": "Finds the most efficient public transit route from a specified location to a destination, such as from Downtown to the Airport.",
+    "phase2_query_coverage": 3
+  },
+  "public_transport_finder": {
+    "description": "Provides public transportation options available for getting from Downtown to the Airport and suggests the best public transportation route to reach downtown.",
+    "phase2_query_coverage": 3
+  },
+  "public_transportation_advisor": {
+    "description": "Suggest the best public transportation route to reach downtown and show the travel times between these locations for walking and driving.",
+    "phase2_query_coverage": 3
+  },
+  "public_transport_finder_1": {
+    "description": "This tool suggests the best public transportation route to reach downtown and identifies the public transportation options available for getting from Downtown to the Airport.",
+    "phase2_query_coverage": 0
+  },
+  "travel_time_calculator_2": {
+    "description": "Calculate the travel time for a walking trip between these two locations, and determine how long it would take to travel by car between these three destinations.",
+    "phase2_query_coverage": 0
+  },
+  "travel_time_estimator": {
+    "description": "Calculate how long it would take to drive from San Francisco to Los Angeles considering current traffic and estimate the travel time for my trip.",
+    "phase2_query_coverage": 1
+  },
+  "travel_time_estimator_1": {
+    "description": "Determines how long it would take to drive from San Francisco to Los Angeles considering current traffic and provides the estimated travel time for your trip.",
+    "phase2_query_coverage": 0
+  },
+  "multi_destination_route_planner": {
+    "description": "Plans the best route for multiple destinations to minimize travel distance, relevant for queries like 'I need to visit several cities; what is the optimal order to minimize travel distance?'.",
+    "phase2_query_coverage": 3
+  },
+  "travel_time_estimator_2": {
+    "description": "Estimates travel time for various trips, including driving from San Francisco to Los Angeles considering current traffic.",
+    "phase2_query_coverage": 0
+  },
+  "route_optimizer_1": {
+    "description": "A tool that determines the best route considering traffic conditions and calculates the most efficient path to visit multiple destinations.",
+    "phase2_query_coverage": 0
+  },
+  "travel_time_estimator_3": {
+    "description": "This tool estimates how long it would take to travel by car between these three destinations and shows the travel times between these locations for walking and driving.",
+    "phase2_query_coverage": 0
+  },
+  "travel_time_estimator_4": {
+    "description": "Estimate travel times for various trips, including how long it would take to travel by car between these three destinations and the estimated travel time for my trip.",
+    "phase2_query_coverage": 0
+  },
+  "travel_time_estimator_5": {
+    "description": "How long would it take to travel by car between these three destinations?",
+    "phase2_query_coverage": 0
+  },
+  "delivery_route_planner": {
+    "description": "Calculate the best route for a delivery truck visiting multiple drop-off points across the city.",
+    "phase2_query_coverage": 1
+  },
+  "bike_isochrone_generator": {
+    "description": "Generate a map showing areas reachable within 30 minutes by bike from downtown and can identify the areas you can reach within a 30-minute drive.",
+    "phase2_query_coverage": 2
+  },
+  "tourist_route_optimizer_1": {
+    "description": "Determine the best sequence for visiting these tourist attractions and suggests the optimal sequence to visit the Eiffel Tower, Louvre, and Notre Dame in Paris.",
+    "phase2_query_coverage": 0
+  },
+  "tourist_route_suggester": {
+    "description": "Determine the best sequence for visiting tourist attractions like the Eiffel Tower, Louvre, and Notre Dame in Paris.",
+    "phase2_query_coverage": 2
+  },
+  "road_trip_planner": {
+    "description": "Suggests a route for a road trip covering these cities: Miami, Orlando, and Tampa and plans a route for a road trip covering these destinations.",
+    "phase2_query_coverage": 1
+  },
+  "hospital_locator_1": {
+    "description": "Provide the shortest path from my current location to the nearest hospital, ensuring quick access to medical facilities.",
+    "phase2_query_coverage": 0
+  },
+  "area_reachability_analyzer": {
+    "description": "List the areas I can reach within a 30-minute drive from downtown Chicago and determine the reachable area within 30 minutes of driving.",
+    "phase2_query_coverage": 2
+  },
+  "address_locator": {
+    "description": "Find the closest major city to my current GPS location and find the address closest to this geographical coordinate.",
+    "phase2_query_coverage": 2
+  },
+  "travel_time_estimator_6": {
+    "description": "Estimates travel time for a trip across three cities and calculates the travel time and distance for three suggested routes from Berlin to Munich.",
+    "phase2_query_coverage": 0
+  },
+  "route_distance_calculator": {
+    "description": "Calculate the total driving distance between these two points, and provide the distance and travel time between these two points.",
+    "phase2_query_coverage": 2
+  },
+  "travel_schedule_optimizer": {
+    "description": "Determine the most efficient travel schedule for visiting landmarks in Rome and calculate the shortest path to visit five specific locations.",
+    "phase2_query_coverage": 2
+  },
+  "efficient_travel_planner": {
+    "description": "How can I travel through New York City to visit the top 5 attractions efficiently and suggest the best public transportation route to reach downtown.",
+    "phase2_query_coverage": 2
+  },
+  "traffic_aware_route_finder": {
+    "description": "Determines the best route from New York to Boston considering current traffic.",
+    "phase2_query_coverage": 2
+  },
+  "distance_calculator": {
+    "description": "Calculate the distances between a set of given points and determine the distance and travel time matrix for these locations: A, B, C, D, and E.",
+    "phase2_query_coverage": 2
+  },
+  "travel_time_estimator_7": {
+    "description": "Estimate the cost and time for a taxi ride between these two addresses, and calculate the travel time for a walking trip between these two locations.",
+    "phase2_query_coverage": 0
+  },
+  "nyc_travel_optimizer": {
+    "description": "Minimizes travel time while visiting multiple locations in New York City, ensuring an efficient itinerary.",
+    "phase2_query_coverage": 2
+  },
+  "scenic_route_finder": {
+    "description": "Identify the most scenic route for a road trip along the coast or determine the best route considering traffic conditions.",
+    "phase2_query_coverage": 2
+  },
+  "distance_matrix_generator_1": {
+    "description": "This tool provides the distance matrix for these three cities: Paris, Berlin, and Rome, and finds the distance matrix for a group of cities within California.",
+    "phase2_query_coverage": 0
+  },
+  "local_explorer": {
+    "description": "Identify the nearest locations of interest within a 15 minutes' drive from your current position and list the areas you can reach within a 30-minute drive from downtown Chicago.",
+    "phase2_query_coverage": 2
+  },
+  "alternative_routes_suggester": {
+    "description": "Suggests alternative routes for a road trip from Seattle to San Francisco and identifies the most scenic route for a road trip along the coast.",
+    "phase2_query_coverage": 2
+  },
+  "traffic_route_optimizer": {
+    "description": "Determine the best route considering traffic conditions and find the shortest route from New York to Los Angeles considering current traffic.",
+    "phase2_query_coverage": 2
+  },
+  "scenic_route_finder_1": {
+    "description": "Can you recommend a scenic route for a road trip across the Rocky Mountains and suggest a route for a road trip covering these cities: Miami, Orlando, and Tampa.",
+    "phase2_query_coverage": 0
+  },
+  "travel_time_estimator_8": {
+    "description": "Estimates the cost and time for a taxi ride between these two addresses and calculates the travel time for a walking trip between these two locations.",
+    "phase2_query_coverage": 0
+  },
+  "scenic_route_finder_2": {
+    "description": "Identify the most scenic route for a road trip along the coast and suggest alternative routes for a road trip from Seattle to San Francisco.",
+    "phase2_query_coverage": 0
+  },
+  "toll_avoidance_route_2": {
+    "description": "Finds a route that avoids toll roads between Chicago and Miami and suggests a route for a road trip covering these cities: Miami, Orlando, and Tampa.",
+    "phase2_query_coverage": 0
+  },
+  "distance_matrix_generator_2": {
+    "description": "Produces distance matrices for groups of cities, as in 'find the distance matrix for a group of cities within California' and 'what is the distance matrix for these three cities: Paris, Berlin, and Rome'.",
+    "phase2_query_coverage": 0
+  },
+  "scenic_route_finder_3": {
+    "description": "Can you recommend a scenic route for a road trip across the Rocky Mountains and identify the most scenic route for a road trip along the coast.",
+    "phase2_query_coverage": 0
+  },
+  "distance_calculator_1": {
+    "description": "Calculate the distances between a set of given points and provide the distance and travel time between these two points.",
+    "phase2_query_coverage": 0
+  },
+  "scenic_route_suggester": {
+    "description": "Can recommend a scenic route for a road trip across the Rocky Mountains and suggests a route for a road trip covering these cities: Miami, Orlando, and Tampa.",
+    "phase2_query_coverage": 2
+  },
+  "scenic_route_finder_4": {
+    "description": "Identify the most scenic route for a road trip along the coast and determine the route from San Francisco to Las Vegas with fuel-efficient stops.",
+    "phase2_query_coverage": 0
+  },
+  "route_comparator": {
+    "description": "Which tool provides the best route for multiple destinations and provides the best route avoiding tolls from Chicago to Detroit.",
+    "phase2_query_coverage": 2
+  },
+  "driving_distance": {
+    "description": "Calculates the total driving distance between two points, including round trips and distances for specific routes like from London to Manchester.",
+    "phase2_query_coverage": 2
+  },
+  "isochrone_map_generator_3": {
+    "description": "Generate an isochrone map for a 30-minute walk radius around Central Park and list the areas reachable within a 30-minute drive from downtown Chicago.",
+    "phase2_query_coverage": 0
+  },
+  "distance_matrix_generator_3": {
+    "description": "This tool finds the distance matrix for a group of cities within California and provides the distance matrix for these three cities: Paris, Berlin, and Rome.",
+    "phase2_query_coverage": 0
+  },
+  "travel_matrix_generator": {
+    "description": "This tool generates the distance matrix for these given coordinates and determines the distance and travel time matrix for these locations: A, B, C, D, and E.",
+    "phase2_query_coverage": 2
+  },
+  "location_distance_calculator": {
+    "description": "Calculates the total driving distance between two points or between a set of given points.",
+    "phase2_query_coverage": 2
+  },
+  "distance_matrix": {
+    "description": "Calculate the distance matrix for cities like Paris, Berlin, and Rome, and also for a group of cities within California.",
+    "phase2_query_coverage": 1
+  },
+  "distance_matrix_1": {
+    "description": "Calculates the distance matrix for a group of cities, such as those within California or Paris, Berlin, and Rome, to determine driving distances.",
+    "phase2_query_coverage": 0
+  },
+  "round_trip_calculator": {
+    "description": "Calculates the traveling time and distance for a round trip between Boston and Washington D.C. and finds the total driving distance for a round trip from London to Manchester.",
+    "phase2_query_coverage": 1
+  },
+  "toll_avoider_3": {
+    "description": "Provide the best route avoiding tolls from Chicago to Detroit and find the shortest route to travel from New York to Chicago by car.",
+    "phase2_query_coverage": 0
+  },
+  "distance_calculator_2": {
+    "description": "Calculates the total driving distance between two points and provides the distance and travel time between these two points.",
+    "phase2_query_coverage": 0
+  },
+  "trip_planner": {
+    "description": "Plan a route for a road trip covering multiple destinations, including cities like Miami, Orlando, and Tampa.",
+    "phase2_query_coverage": 2
+  },
+  "distance_calculator_3": {
+    "description": "This tool calculates the total driving distance between these two points and provides the distance and travel time between these two points.",
+    "phase2_query_coverage": 0
+  },
+  "distance_time_calculator": {
+    "description": "Provide the distance and travel time between these two points and find the distances between several points of interest in London.",
+    "phase2_query_coverage": 2
+  },
+  "efficient_travel_schedule": {
+    "description": "Creates the most efficient travel schedule for visiting landmarks in cities like Rome and New York City to visit the top 5 attractions efficiently.",
+    "phase2_query_coverage": 2
+  },
+  "travel_schedule": {
+    "description": "This tool determines the most efficient travel schedule for visiting landmarks in Rome and calculates the most efficient path to visit these five cities: Paris, Rome, Berlin, Madrid, and Amsterdam.",
+    "phase2_query_coverage": 2
+  },
+  "round_trip_planner": {
+    "description": "Calculates the traveling time and distance for a round trip between Boston and Washington D.C. and calculates the travel time and distance for three suggested routes from Berlin to Munich.",
+    "phase2_query_coverage": 2
+  },
+  "toll_avoider_4": {
+    "description": "Provide the best route avoiding tolls from Chicago to Detroit, and suggest alternative routes for a road trip from Seattle to San Francisco.",
+    "phase2_query_coverage": 0
+  },
+  "distance_finder": {
+    "description": "This tool calculates the travel time and distance for three suggested routes from Berlin to Munich, finds the total driving distance for a round trip from London to Manchester, and calculates the distances between a set of given points.",
+    "phase2_query_coverage": 2
+  },
+  "distance_matrix_calculator_1": {
+    "description": "Determine the distance and travel time matrix for locations A, B, C, D, and E, and find the total driving distance for a round trip from London to Manchester.",
+    "phase2_query_coverage": 0
+  },
+  "route_suggester": {
+    "description": "This tool calculates travel time and distance for three suggested routes from Berlin to Munich and can calculate the most efficient path to visit these five cities: Paris, Rome, Berlin, Madrid, and Amsterdam.",
+    "phase2_query_coverage": 2
+  },
+  "travel_time_estimator_9": {
+    "description": "Estimates how long it would take to travel by car between multiple destinations, including trips across three cities.",
+    "phase2_query_coverage": 0
+  },
+  "route_comparator_1": {
+    "description": "Compare travel times for different modes of transportation for the same route and suggest alternative routes for a road trip from Seattle to San Francisco.",
+    "phase2_query_coverage": 0
+  },
+  "traffic_aware_routes": {
+    "description": "This tool finds the shortest route from New York to Los Angeles considering current traffic and determines the route from San Francisco to Las Vegas with fuel-efficient stops.",
+    "phase2_query_coverage": 2
+  },
+  "multi_destination_route": {
+    "description": "This tool provides the best route for multiple destinations and plans a route for a road trip covering these destinations.",
+    "phase2_query_coverage": 2
+  },
+  "road_trip_planner_1": {
+    "description": "Plans a route for a road trip covering these destinations and explores travel options for a family road trip across the country.",
+    "phase2_query_coverage": 0
+  },
+  "transportation_comparator": {
+    "description": "This tool compares travel times for different modes of transportation for the same route and provides estimated travel time for a trip across three cities.",
+    "phase2_query_coverage": 2
+  },
+  "distance_calculator_4": {
+    "description": "A tool that calculates the distance and travel time matrix for these locations: A, B, C, D, and E, and compares travel times for different modes of transportation for the same route.",
+    "phase2_query_coverage": 0
+  },
+  "route_comparator_2": {
+    "description": "This tool compares different routes to 'find the shortest path to visit multiple museums in Paris' and 'calculate the most efficient path to visit these five cities: Paris, Rome, Berlin, Madrid, and Amsterdam'.",
+    "phase2_query_coverage": 0
+  },
+  "driving_radius_analyzer": {
+    "description": "Determines the area you can reach within a 30-minute drive from your current location and provides travel times by car within a 10-mile radius of Chicago's city center.",
+    "phase2_query_coverage": 2
+  },
+  "traffic_time_estimator": {
+    "description": "How long would it take to drive from San Francisco to Los Angeles considering current traffic and how long does it take to travel from Tokyo to Kyoto by car?",
+    "phase2_query_coverage": 2
+  },
+  "shortest_route": {
+    "description": "Calculates the shortest route for daily commutes and provides the fastest route between two cities.",
+    "phase2_query_coverage": 2
+  },
+  "distance_calculator_5": {
+    "description": "Calculates the distances between a set of given points and provides the distance matrix for these given coordinates.",
+    "phase2_query_coverage": 0
+  },
+  "distance_matrix_2": {
+    "description": "Calculates the distances between a set of given points and provides the distance matrix for these given coordinates.",
+    "phase2_query_coverage": 0
+  },
+  "distance_calculator_6": {
+    "description": "This tool finds the total driving distance for a round trip from London to Manchester and calculates the travel time and distance for three suggested routes from Berlin to Munich.",
+    "phase2_query_coverage": 0
+  },
+  "route_comparator_3": {
+    "description": "This tool compares travel times for different modes of transportation for the same route and calculates the shortest route for my daily commute.",
+    "phase2_query_coverage": 0
+  },
+  "commute_optimizer": {
+    "description": "Calculates the shortest route for daily commutes and plans the quickest route between major cities.",
+    "phase2_query_coverage": 2
+  },
+  "traffic_aware_route": {
+    "description": "Calculates the shortest route from New York to Los Angeles considering current traffic and calculates the travel time for my daily commute.",
+    "phase2_query_coverage": 2
+  },
+  "local_attractions_finder": {
+    "description": "This tool can 'what are the nearest locations of interest within 15 minutes' drive from my current position' and 'list the areas I can reach within a 30-minute drive from downtown Chicago'.",
+    "phase2_query_coverage": 2
+  },
+  "scenic_routes": {
+    "description": "Recommends scenic routes for road trips, such as across the Rocky Mountains or alternative routes for a trip from Seattle to San Francisco.",
+    "phase2_query_coverage": 2
+  },
+  "travel_time_calculator_3": {
+    "description": "Calculates the estimated travel time for your trip, including travel times for different modes of transportation for the same route.",
+    "phase2_query_coverage": 0
+  },
+  "shortest_route_1": {
+    "description": "Finds the shortest route to travel between two major cities, such as from New York to Chicago by car.",
+    "phase2_query_coverage": 0
+  },
+  "travel_time_matrix": {
+    "description": "This tool determines the distance and travel time matrix for these locations: A, B, C, D, and E and can also find the distances between several points of interest in London.",
+    "phase2_query_coverage": 2
+  },
+  "road_trip_planner_2": {
+    "description": "Plan a route for a road trip covering various destinations, including travel options for a family road trip across the country.",
+    "phase2_query_coverage": 0
+  },
+  "shortest_route_2": {
+    "description": "Finds the shortest route for car travel between major cities, like New York to Chicago.",
+    "phase2_query_coverage": 0
+  },
+  "cycling_route_suggester": {
+    "description": "This tool suggests the best route for a cycling trip around the city, while also providing the shortest path to visit multiple museums in Paris.",
+    "phase2_query_coverage": 1
+  },
+  "location_finder": {
+    "description": "A tool that finds the address closest to this geographical coordinate and identifies the nearest locations of interest within 15 minutes' drive from my current position.",
+    "phase2_query_coverage": 2
+  },
+  "city_sequence_optimizer": {
+    "description": "Can you calculate the most efficient path to visit these five cities: Paris, Rome, Berlin, Madrid, and Amsterdam?",
+    "phase2_query_coverage": 1
+  },
+  "walking_route_finder": {
+    "description": "Determine the walking route from my hotel to the nearest beach.",
+    "phase2_query_coverage": 1
+  },
+  "isochrone_map_generator_4": {
+    "description": "Calculates the isochrone map for a 30-minute walk radius around Central Park.",
+    "phase2_query_coverage": 0
+  },
+  "fuel_efficient_route": {
+    "description": "Determine the route from San Francisco to Las Vegas with fuel-efficient stops, optimizing your travel experience.",
+    "phase2_query_coverage": 1
+  },
+  "fuel_efficient_route_planner": {
+    "description": "Determines the route from San Francisco to Las Vegas with fuel-efficient stops.",
+    "phase2_query_coverage": 1
+  },
+  "fuel_efficient_route_1": {
+    "description": "Determines the route from San Francisco to Las Vegas with fuel-efficient stops.",
+    "phase2_query_coverage": 0
+  },
+  "isochrone_calculator": {
+    "description": "Calculate the isochrone map for a 30-minute walk radius around Central Park, helping to visualize accessible areas for walking routes.",
+    "phase2_query_coverage": 1
+  },
+  "route_distance_matrix": {
+    "description": "Provide a detailed route and distance matrix among five selected points of interest in London and calculate the distances between these three locations.",
+    "phase2_query_coverage": 1
+  },
+  "round_trip_calculator_1": {
+    "description": "Calculate the traveling time and distance for a round trip between Boston and Washington D.C. and provide the distance and travel time between these two points.",
+    "phase2_query_coverage": 0
+  },
+  "isochrone_map": {
+    "description": "Calculates the isochrone map for a specified time radius, such as a 30-minute walk radius around Central Park.",
+    "phase2_query_coverage": 1
+  },
+  "isochrone_map_1": {
+    "description": "Calculate the isochrone map for a 30-minute walk radius around Central Park and can generate an isochrone map for a 30-minute drive from my home.",
+    "phase2_query_coverage": 0
+  },
+  "landmark_trip_planner": {
+    "description": "Plan a journey with stops at landmarks, such as traveling from Boston to Philadelphia with stops at two landmarks on the way.",
+    "phase2_query_coverage": 1
+  },
+  "delivery_sequence_optimizer": {
+    "description": "Which sequence of stops is best for delivering packages to these 10 locations and helps in planning efficient delivery routes.",
+    "phase2_query_coverage": 1
+  },
+  "shortest_route_finder_1": {
+    "description": "How can I find the shortest route between two cities and can you calculate the most efficient path to visit these five cities: Paris, Rome, Berlin, Madrid, and Amsterdam?",
+    "phase2_query_coverage": 0
+  },
+  "round_trip_calculator_2": {
+    "description": "Calculates the traveling time and distance for a round trip between two cities, such as Boston and Washington D.C.",
+    "phase2_query_coverage": 0
+  },
+  "round_trip_calculator_3": {
+    "description": "This tool calculates the traveling time and distance for a round trip between Boston and Washington D.C.",
+    "phase2_query_coverage": 0
+  },
+  "biking_route_suggester": {
+    "description": "Suggest the best route for a cycling trip around the city, taking into account safety and accessibility.",
+    "phase2_query_coverage": 1
+  },
+  "cycling_route_finder": {
+    "description": "Suggest the best route for a cycling trip around the city, taking into account safety and efficiency.",
+    "phase2_query_coverage": 1
+  },
+  "cycling_route_suggester_1": {
+    "description": "Suggest the best route for a cycling trip around the city, taking into account safety and efficiency.",
+    "phase2_query_coverage": 0
+  },
+  "walking_route_locator": {
+    "description": "Determines the walking route from a specified location, such as from my hotel to the nearest beach.",
+    "phase2_query_coverage": 1
+  },
+  "walking_route_finder_1": {
+    "description": "Determine the walking route from your hotel to the nearest beach or any other destination.",
+    "phase2_query_coverage": 0
+  },
+  "landmark_journey": {
+    "description": "Plans a journey with stops at landmarks, such as from Boston to Philadelphia with two landmarks on the way.",
+    "phase2_query_coverage": 1
+  },
+  "local_interest_locator": {
+    "description": "What are the nearest locations of interest within 15 minutes' drive from my current position and identify the areas I can reach within a 30-minute drive from my current location.",
+    "phase2_query_coverage": 1
+  },
+  "nearest_locations_finder": {
+    "description": "What are the nearest locations of interest within 15 minutes' drive from my current position and identify the areas I can reach within a 30-minute drive from my current location.",
+    "phase2_query_coverage": 1
+  },
+  "landmark_trip_planner_1": {
+    "description": "Plan a journey that includes stops at landmarks along the way, such as a trip from Boston to Philadelphia with stops at two landmarks.",
+    "phase2_query_coverage": 0
+  },
+  "walking_route_finder_2": {
+    "description": "Determines the walking route from your hotel to the nearest beach.",
+    "phase2_query_coverage": 0
+  },
+  "public_transportation": {
+    "description": "Provides information on public transportation options available for getting from Downtown to the Airport.",
+    "phase2_query_coverage": 1
+  },
+  "public_transportation_guide": {
+    "description": "Provides information on public transportation options available for getting from Downtown to the Airport.",
+    "phase2_query_coverage": 1
+  },
+  "package_delivery_optimizer": {
+    "description": "Identify the best sequence of stops for delivering packages to these 10 locations, ensuring efficiency in travel.",
+    "phase2_query_coverage": 1
+  },
+  "landmark_trip_planner_2": {
+    "description": "Plan a journey from one city to another, such as from Boston to Philadelphia, with stops at two landmarks on the way, ensuring a scenic and enjoyable trip.",
+    "phase2_query_coverage": 0
+  },
+  "journey_planner": {
+    "description": "Plans a journey from Boston to Philadelphia with stops at two landmarks on the way, optimizing the travel experience.",
+    "phase2_query_coverage": 1
+  },
+  "distance_matrix_3": {
+    "description": "This tool provides a detailed route and distance matrix among five selected points of interest in London and calculates the distances between several points of interest in London.",
+    "phase2_query_coverage": 0
+  },
+  "package_delivery_optimizer_1": {
+    "description": "Generate an optimized route for delivering packages to multiple addresses, including the best sequence for delivering packages to these 10 locations.",
+    "phase2_query_coverage": 0
+  },
+  "walking_route_finder_3": {
+    "description": "Determines the walking route from a specified location, such as from your hotel to the nearest beach.",
+    "phase2_query_coverage": 0
+  },
+  "cycling_route_suggester_2": {
+    "description": "Suggests the best route for a cycling trip around the city, considering various travel preferences.",
+    "phase2_query_coverage": 0
+  },
+  "road_trip_planner_3": {
+    "description": "Provides travel options for a family road trip across the country.",
+    "phase2_query_coverage": 0
+  },
+  "museum_visitor": {
+    "description": "Find the shortest path to visit multiple museums in Paris, optimizing the route for efficiency and convenience.",
+    "phase2_query_coverage": 1
+  },
+  "delivery_route_planner_1": {
+    "description": "This tool calculates the best route for a delivery truck visiting multiple drop-off points across the city and identifies the sequence of stops best for delivering packages to these 10 locations.",
+    "phase2_query_coverage": 0
+  },
+  "shortest_route_finder_2": {
+    "description": "Find the shortest driving route from one city to another, such as from New York to Boston or from New York to Los Angeles considering current traffic.",
+    "phase2_query_coverage": 0
+  },
+  "taxi_cost_estimator": {
+    "description": "Estimate the cost and time for a taxi ride between two specified addresses.",
+    "phase2_query_coverage": 1
+  },
+  "taxi_cost_estimator_1": {
+    "description": "Estimate the 'cost and time for a taxi ride between these two addresses' based on distance and traffic conditions.",
+    "phase2_query_coverage": 0
+  },
+  "traffic_aware_navigator_1": {
+    "description": "Finds the shortest route from New York to Los Angeles considering current traffic conditions.",
+    "phase2_query_coverage": 0
+  },
+  "taxi_cost_estimator_2": {
+    "description": "Determine the estimated cost and time for a taxi ride between these two addresses, helping users plan their travel expenses.",
+    "phase2_query_coverage": 0
+  },
+  "museum_visit_optimizer": {
+    "description": "Determines the shortest path to visit multiple museums in Paris, ensuring an efficient travel experience.",
+    "phase2_query_coverage": 1
+  },
+  "distance_matrix_4": {
+    "description": "Calculates the distance matrix for given coordinates and shows a distance matrix for these five locations.",
+    "phase2_query_coverage": 0
+  },
+  "travel_time_estimator_10": {
+    "description": "What are the travel times by car within a 10-mile radius of Chicago's city center and estimate the cost and time for a taxi ride between these two addresses.",
+    "phase2_query_coverage": 0
+  },
+  "local_travel_times": {
+    "description": "Provides travel times by car or walking within a specified radius of a city center, as referenced in 'What are the travel times by car within a 10-mile radius of Chicago's city center?'",
+    "phase2_query_coverage": 1
+  },
+  "travel_options_explorer": {
+    "description": "Explore the travel options for a family road trip across the country.",
+    "phase2_query_coverage": 1
+  },
+  "museum_route_planner": {
+    "description": "A tool that finds 'the shortest path to visit multiple museums in Paris'.",
+    "phase2_query_coverage": 1
+  },
+  "scenic_route": {
+    "description": "Recommends scenic routes for road trips, as requested in the query 'Can you recommend a scenic route for a road trip across the Rocky Mountains?'.",
+    "phase2_query_coverage": 1
+  },
+  "walking_time_estimator": {
+    "description": "How long would it take to walk from Central Park to Times Square? This tool estimates walking times for various routes.",
+    "phase2_query_coverage": 1
+  },
+  "shortest_route_finder_3": {
+    "description": "This tool finds the shortest driving route from New York City to Boston and calculates the shortest route to travel from New York to Chicago by car.",
+    "phase2_query_coverage": 0
+  },
+  "distance_matrix_generator_4": {
+    "description": "Generates a detailed route and distance matrix among selected points of interest, including distances between several points of interest in London.",
+    "phase2_query_coverage": 0
+  },
+  "travel_time_comparator": {
+    "description": "Compare travel times by car within a specified radius, such as within a 10-mile radius of Chicago's city center.",
+    "phase2_query_coverage": 1
+  },
+  "travel_time_analyzer": {
+    "description": "This tool provides the travel times by car within a 10-mile radius of Chicago's city center and calculates travel times for various modes of transport.",
+    "phase2_query_coverage": 1
+  },
+  "walking_time_calculator": {
+    "description": "Estimates 'how long it would take to walk from Central Park to Times Square'.",
+    "phase2_query_coverage": 1
+  },
+  "long_distance_travel_estimator": {
+    "description": "What is the distance and travel time between San Francisco and Los Angeles by car and how long will it take to travel from Seattle to San Francisco if I start driving now.",
+    "phase2_query_coverage": 1
+  },
+  "shortest_route_calculator": {
+    "description": "Calculate the shortest route for various trips, including the shortest route to travel from New York to Chicago by car.",
+    "phase2_query_coverage": 1
+  },
+  "travel_time_estimator_11": {
+    "description": "Estimate travel time for various routes, including how long it will take to travel from Seattle to San Francisco if I start driving now.",
+    "phase2_query_coverage": 0
+  },
+  "road_trip_options": {
+    "description": "Provides travel options for a family road trip across the country, considering various routes and stops.",
+    "phase2_query_coverage": 1
+  },
+  "distance_matrix_generator_5": {
+    "description": "Generates a distance matrix for given coordinates, as in 'what is the distance matrix for these given coordinates?'.",
+    "phase2_query_coverage": 0
+  },
+  "route_duration_calculator": {
+    "description": "Calculate how long it will take to travel from Seattle to San Francisco if I start driving now and provides the estimated travel time for my trip.",
+    "phase2_query_coverage": 1
+  },
+  "travel_time_estimator_12": {
+    "description": "Estimates how long it will take to travel from Seattle to San Francisco if starting to drive now and provides travel time estimates for various routes.",
+    "phase2_query_coverage": 0
+  },
+  "travel_time_calculator_4": {
+    "description": "How long will it take to travel from Seattle to San Francisco if you start driving now? This tool also shows travel times between locations for walking and driving.",
+    "phase2_query_coverage": 0
+  },
+  "travel_time_estimator_13": {
+    "description": "Estimates travel time for various routes, including how long it takes to travel from Tokyo to Kyoto by car.",
+    "phase2_query_coverage": 0
+  },
+  "traffic_aware_navigator_2": {
+    "description": "Determine the best route considering traffic conditions and how long does it take to travel from Tokyo to Kyoto by car.",
+    "phase2_query_coverage": 0
+  },
+  "travel_time_comparator_1": {
+    "description": "Can you show the travel times between these locations for walking and driving and how long does it take to travel from Tokyo to Kyoto by car?",
+    "phase2_query_coverage": 0
+  },
+  "walking_time_estimator_1": {
+    "description": "Estimate how long it would take to walk from Central Park to Times Square, providing insights into travel times for different modes of transport.",
+    "phase2_query_coverage": 0
+  },
+  "travel_time_estimator_14": {
+    "description": "This tool estimates the travel time for your trip and provides the estimated travel time for my trip.",
+    "phase2_query_coverage": 0
+  },
+  "walking_time_estimator_2": {
+    "description": "Estimate how long it would take to walk from one location to another, such as from Central Park to Times Square.",
+    "phase2_query_coverage": 0
+  },
+  "walking_distance_calculator": {
+    "description": "Calculate how long it would take to walk from one location to another, such as from Central Park to Times Square.",
+    "phase2_query_coverage": 1
+  },
+  "travel_time_calculator_5": {
+    "description": "Calculate how long it takes to travel from Tokyo to Kyoto by car and provide the estimated travel time for my trip.",
+    "phase2_query_coverage": 0
+  },
+  "travel_time_estimator_15": {
+    "description": "Estimates travel time for trips between various locations, including the estimated travel time for my trip and travel times for different modes of transportation.",
+    "phase2_query_coverage": 0
+  },
+  "travel_time_estimator_16": {
+    "description": "Estimates the travel time for various trips, such as 'the estimated travel time for my trip'.",
+    "phase2_query_coverage": 0
+  }
+}

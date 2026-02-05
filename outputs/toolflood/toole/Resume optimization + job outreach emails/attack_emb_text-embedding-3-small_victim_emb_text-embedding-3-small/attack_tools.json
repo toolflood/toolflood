@@ -1,0 +1,694 @@
+{
+  "outreach_guidelines": {
+    "description": "Best practices for writing personalized job outreach emails, ensuring they stand out and effectively approach potential employers.",
+    "phase2_query_coverage": 22
+  },
+  "outreach_email_best_practices": {
+    "description": "This tool outlines the best practices for writing personalized job outreach emails, helping you craft compelling messages that stand out.",
+    "phase2_query_coverage": 22
+  },
+  "outreach_email_builder": {
+    "description": "This tool provides examples of tailored outreach emails for job applications and best practices for crafting compelling job outreach emails.",
+    "phase2_query_coverage": 22
+  },
+  "outreach_email_generator": {
+    "description": "Generate tailored outreach emails for job applications that yield positive responses and provide examples of compelling job outreach emails.",
+    "phase2_query_coverage": 22
+  },
+  "outreach_email_template": {
+    "description": "Provides examples of tailored outreach emails for job applications, helping you write compelling job outreach emails.",
+    "phase2_query_coverage": 21
+  },
+  "resume_matching_tool": {
+    "description": "Optimize your resume to better match job postings using available tools, making your application more competitive.",
+    "phase2_query_coverage": 12
+  },
+  "job_posting_matcher": {
+    "description": "A tool that helps you optimize your resume to better match job postings using available tools and resources.",
+    "phase2_query_coverage": 11
+  },
+  "job_matching_tool": {
+    "description": "This tool helps you optimize your resume to better match job postings using available tools and strategies.",
+    "phase2_query_coverage": 2
+  },
+  "job_matching_tool_1": {
+    "description": "A tool that helps you optimize your resume to better match job postings using available tools and tips.",
+    "phase2_query_coverage": 0
+  },
+  "job_matcher": {
+    "description": "A tool that assists in optimizing your resume to better match job postings using available tools and strategies.",
+    "phase2_query_coverage": 11
+  },
+  "formatting_tools": {
+    "description": "Recommend the best tools for improving your resume format and polishing your application materials.",
+    "phase2_query_coverage": 7
+  },
+  "outreach_strategy_guide": {
+    "description": "Offers strategies for personalizing job outreach emails and improving responses to your job outreach communications.",
+    "phase2_query_coverage": 6
+  },
+  "resume_polishing_tool": {
+    "description": "A tool that offers resources for resume polishing and enhancement, focusing on improving formatting and content.",
+    "phase2_query_coverage": 6
+  },
+  "formatting_improver": {
+    "description": "A tool that suggests improvements for current resume formats, enhancing structure and content for better job applications.",
+    "phase2_query_coverage": 6
+  },
+  "outreach_best_practices": {
+    "description": "Best practices for crafting effective job outreach emails, ensuring your communication stands out to potential employers.",
+    "phase2_query_coverage": 5
+  },
+  "resume_format_tool": {
+    "description": "A tool that provides the best tools for improving your resume format, ensuring it is polished and professional.",
+    "phase2_query_coverage": 5
+  },
+  "job_outreach_strategies": {
+    "description": "This tool offers strategies for personalizing job outreach emails, making your communication more effective and engaging.",
+    "phase2_query_coverage": 5
+  },
+  "resume_format_tool_1": {
+    "description": "A tool that offers the best tools for improving your resume format, enhancing both formatting and content.",
+    "phase2_query_coverage": 0
+  },
+  "outreach_email_examples": {
+    "description": "Provides examples of personalized job outreach emails that yield positive responses and strategies to improve responses to job outreach communications.",
+    "phase2_query_coverage": 1
+  },
+  "market_trend_aligner": {
+    "description": "Enhance your resume to align better with current job market trends, ensuring it meets the expectations of employers.",
+    "phase2_query_coverage": 4
+  },
+  "resume_enhancer": {
+    "description": "Enhance your resume to align with the latest industry standards, making it more appealing to hiring managers.",
+    "phase2_query_coverage": 4
+  },
+  "resume_enhancer_1": {
+    "description": "Enhance your resume to align with the latest industry standards and appeal to potential employers by suggesting improvements in structure and content.",
+    "phase2_query_coverage": 0
+  },
+  "resume_trends_analyzer": {
+    "description": "Enhance your resume to align better with current job market trends and appeal to potential employers by following the insights provided.",
+    "phase2_query_coverage": 4
+  },
+  "job_application_followup": {
+    "description": "Best practices for following up on a job application, including how to craft effective follow-up emails.",
+    "phase2_query_coverage": 4
+  },
+  "outreach_email_tips": {
+    "description": "Provides common mistakes to avoid when writing professional outreach emails and essential elements of a compelling subject line.",
+    "phase2_query_coverage": 2
+  },
+  "resume_customizer": {
+    "description": "Guide you in tailoring your resume for a career change and customizing your CV to align with specific job descriptions.",
+    "phase2_query_coverage": 1
+  },
+  "job_application_tips": {
+    "description": "This tool offers best practices for following up on a job application and common mistakes to avoid when writing professional outreach emails.",
+    "phase2_query_coverage": 2
+  },
+  "job_description_matcher": {
+    "description": "This tool assists in tailoring your resume for a career change and aligning it with specific job descriptions.",
+    "phase2_query_coverage": 4
+  },
+  "email_template_library": {
+    "description": "Provides examples of successful job outreach email templates to inspire your own communication.",
+    "phase2_query_coverage": 3
+  },
+  "follow_up_strategies": {
+    "description": "Strategies to employ for following up on sent job outreach emails, ensuring you maintain communication and interest.",
+    "phase2_query_coverage": 3
+  },
+  "job_application_examples": {
+    "description": "This tool provides examples of tailored outreach emails for job applications and best practices for crafting effective job outreach emails.",
+    "phase2_query_coverage": 3
+  },
+  "job_alignment": {
+    "description": "Tips for aligning your resume with specific job descriptions, helping you tailor your application effectively.",
+    "phase2_query_coverage": 1
+  },
+  "follow_up_email_advisor": {
+    "description": "This tool provides guidance on the proper etiquette for sending follow-up emails to hiring managers after submitting your application.",
+    "phase2_query_coverage": 3
+  },
+  "follow_up_email": {
+    "description": "A template for drafting a follow-up email after submitting a job application, ensuring effective communication.",
+    "phase2_query_coverage": 3
+  },
+  "keyword_integration_tool": {
+    "description": "This tool helps you integrate keywords into your resume for better visibility, enhancing its effectiveness in job applications.",
+    "phase2_query_coverage": 3
+  },
+  "keyword_integration_guide": {
+    "description": "A guide on how to integrate keywords into resumes for better visibility in applicant tracking systems.",
+    "phase2_query_coverage": 3
+  },
+  "keyword_utilizer": {
+    "description": "Utilize keywords effectively when drafting your resume to enhance its alignment with the latest industry standards.",
+    "phase2_query_coverage": 3
+  },
+  "resume_standout_checker": {
+    "description": "Evaluate your resume to ensure it stands out among other applicants, providing actionable steps to enhance its effectiveness.",
+    "phase2_query_coverage": 3
+  },
+  "email_subject_helper": {
+    "description": "This tool provides guidance on what should be included in the subject line of a professional outreach email and suggests effective strategies to write compelling job outreach emails.",
+    "phase2_query_coverage": 1
+  },
+  "keyword_integration": {
+    "description": "Optimize your resume for applicant tracking systems by integrating keywords effectively, improving your visibility to potential employers.",
+    "phase2_query_coverage": 3
+  },
+  "job_application_tips_1": {
+    "description": "A collection of tips for improving job application materials, utilizing JobTool effectively, and combining resume optimization with targeted job application efforts.",
+    "phase2_query_coverage": 0
+  },
+  "resume_optimizer": {
+    "description": "This tool assists in tailoring a resume for a career change and optimizing resumes for specific job applications.",
+    "phase2_query_coverage": 2
+  },
+  "resume_polisher": {
+    "description": "A resource for resume polishing and enhancement that helps you avoid common mistakes when optimizing resumes and drafting outreach emails.",
+    "phase2_query_coverage": 1
+  },
+  "resume_standout": {
+    "description": "This tool offers steps to make your resume stand out, ensuring it captures the attention of hiring managers.",
+    "phase2_query_coverage": 1
+  },
+  "resume_optimizer_1": {
+    "description": "This tool enhances your resume to align better with current job market trends, providing guidance on tailoring your resume for a career change.",
+    "phase2_query_coverage": 0
+  },
+  "resume_customizer_1": {
+    "description": "A tool that guides you in tailoring your resume for a career change and leverages specific job descriptions to enhance your application.",
+    "phase2_query_coverage": 0
+  },
+  "resume_polisher_1": {
+    "description": "A resource for resume polishing and enhancement, providing tips to create a compelling introduction in outreach emails.",
+    "phase2_query_coverage": 0
+  },
+  "job_application_helper": {
+    "description": "A tool that provides guidance on what should be included in the subject line of a professional outreach email and tips for creating compelling introductions.",
+    "phase2_query_coverage": 3
+  },
+  "job_application_assistant": {
+    "description": "This tool provides guidance on tailoring your resume for a specific job application and aligning your resume with specific job descriptions.",
+    "phase2_query_coverage": 3
+  },
+  "application_materials_polisher": {
+    "description": "A tool that can assist in polishing your job application materials, ensuring they are compelling and effective.",
+    "phase2_query_coverage": 1
+  },
+  "application_materials_assistant": {
+    "description": "Can MyWritingCompanion assist in polishing my job application materials and suggest ways to improve my job application materials using these tools?",
+    "phase2_query_coverage": 2
+  },
+  "job_application_polisher": {
+    "description": "Can MyWritingCompanion assist in polishing my job application materials and provides help with polishing my resume for a particular industry.",
+    "phase2_query_coverage": 2
+  },
+  "polish_tool": {
+    "description": "PolishTool offers features for improving resume formatting and content, as well as polishing your professional correspondence effectively.",
+    "phase2_query_coverage": 2
+  },
+  "polish_tool_1": {
+    "description": "PolishTool offers features for improving resume formatting and content, as well as polishing professional correspondence effectively.",
+    "phase2_query_coverage": 0
+  },
+  "email_intro_tips": {
+    "description": "Offers tips for creating a compelling introduction in outreach emails to capture the recipient's attention.",
+    "phase2_query_coverage": 2
+  },
+  "common_mistakes": {
+    "description": "A checklist of common mistakes to avoid when optimizing resumes and drafting outreach emails.",
+    "phase2_query_coverage": 1
+  },
+  "email_introduction_helper": {
+    "description": "Offers tips for creating a compelling introduction in outreach emails, making your communication more engaging.",
+    "phase2_query_coverage": 2
+  },
+  "job_tool_tips": {
+    "description": "Specific tips for utilizing JobTool to target suitable job openings and improve your job application materials.",
+    "phase2_query_coverage": 2
+  },
+  "networking_emails": {
+    "description": "Guidance on crafting introductory emails for networking with industry professionals, ensuring effective communication.",
+    "phase2_query_coverage": 1
+  },
+  "personalization_tool": {
+    "description": "Suggest ways to personalize outreach emails for various companies, enhancing your job application efforts.",
+    "phase2_query_coverage": 2
+  },
+  "networking_email_guide": {
+    "description": "A guide for crafting introductory emails for networking with industry professionals, enhancing your outreach.",
+    "phase2_query_coverage": 2
+  },
+  "job_application_tips_2": {
+    "description": "This resource offers tips for combining resume optimization with targeted job application efforts, helping you tailor your resume for different job applications quickly.",
+    "phase2_query_coverage": 0
+  },
+  "keyword_optimizer": {
+    "description": "Utilize keywords effectively when drafting your resume to enhance its appeal to potential employers.",
+    "phase2_query_coverage": 2
+  },
+  "networking_email_guide_1": {
+    "description": "A guide for crafting introductory emails for networking with industry professionals, ensuring effective communication.",
+    "phase2_query_coverage": 0
+  },
+  "networking_email_helper": {
+    "description": "A guide for crafting introductory emails for networking with industry professionals, enhancing your outreach efforts.",
+    "phase2_query_coverage": 2
+  },
+  "networking_email_guide_2": {
+    "description": "A guide for crafting introductory emails for networking with industry professionals, enhancing your outreach efforts.",
+    "phase2_query_coverage": 0
+  },
+  "software_engineering_resume": {
+    "description": "Guidelines on how to improve my resume to better fit software engineering roles, focusing on relevant skills and experiences.",
+    "phase2_query_coverage": 2
+  },
+  "feedback_integrator": {
+    "description": "Streamline the process to integrate feedback into resume updates efficiently, allowing for quick revisions.",
+    "phase2_query_coverage": 2
+  },
+  "software_resume_optimizer": {
+    "description": "Optimize your resume specifically for software development positions, highlighting relevant skills and experiences.",
+    "phase2_query_coverage": 2
+  },
+  "job_targeting_tool": {
+    "description": "This tool provides specific tips for utilizing JobTool to target suitable job openings, combining resume optimization with targeted job application efforts.",
+    "phase2_query_coverage": 2
+  },
+  "job_matching_tool_2": {
+    "description": "This tool provides tips for combining resume optimization with targeted job application efforts, helping you target suitable job openings.",
+    "phase2_query_coverage": 0
+  },
+  "software_resume_fitter": {
+    "description": "Improve your resume to better fit software engineering roles by tailoring your skills and experiences to match industry expectations.",
+    "phase2_query_coverage": 2
+  },
+  "follow_up_etiquette": {
+    "description": "This tool provides guidance on the proper etiquette for sending follow-up emails to hiring managers after your job outreach.",
+    "phase2_query_coverage": 2
+  },
+  "feedback_integration": {
+    "description": "A streamlined process for integrating feedback into resume updates efficiently, ensuring that you can tailor your resume for different job applications quickly and effectively.",
+    "phase2_query_coverage": 2
+  },
+  "resume_tools": {
+    "description": "A collection of recommended tools for polishing your resume and utilizing available tools to optimize both your resume and email templates.",
+    "phase2_query_coverage": 1
+  },
+  "follow_up_email_helper": {
+    "description": "This tool provides guidance on the proper etiquette for sending follow-up emails to hiring managers after submitting your job application.",
+    "phase2_query_coverage": 2
+  },
+  "job_tool_utilization": {
+    "description": "A guide that provides specific tips for utilizing JobTool to target suitable job openings, while also combining ResumeTool and dover_outreach for optimal results.",
+    "phase2_query_coverage": 2
+  },
+  "personalization_strategies": {
+    "description": "A resource for suggesting strategies for personalizing job application messages and making your resume stand out to hiring managers.",
+    "phase2_query_coverage": 2
+  },
+  "software_resume_optimizer_1": {
+    "description": "Specific guidance on how to optimize your resume for a software development position, focusing on relevant skills and projects.",
+    "phase2_query_coverage": 0
+  },
+  "outreach_email_advisor": {
+    "description": "This tool offers strategies for writing effective job outreach emails and includes suggestions for what should be included in the subject line of a professional outreach email.",
+    "phase2_query_coverage": 2
+  },
+  "resume_refiner": {
+    "description": "This tool provides resources to refine both your resume and initial email communication, helping you polish your professional correspondence effectively.",
+    "phase2_query_coverage": 2
+  },
+  "resume_optimizer_2": {
+    "description": "This tool provides guidance on how to optimize your resume for a software development position, including tips for aligning your resume with specific job descriptions.",
+    "phase2_query_coverage": 0
+  },
+  "cv_customizer": {
+    "description": "A tool designed to customize your CV to align with specific job descriptions, providing tips for aligning your resume with specific job descriptions.",
+    "phase2_query_coverage": 1
+  },
+  "resume_feedback_integration": {
+    "description": "A system that streamlines the process to integrate feedback into resume updates efficiently, helping you align your resume with job opportunities.",
+    "phase2_query_coverage": 2
+  },
+  "resume_and_cover_letter_tips": {
+    "description": "Provides tips for improving both your resume and cover letter, ensuring they are tailored to specific job descriptions.",
+    "phase2_query_coverage": 2
+  },
+  "resume_update_streamliner": {
+    "description": "This tool suggests ways to streamline the process of updating your resume, ensuring you can tailor it for different job applications effectively.",
+    "phase2_query_coverage": 2
+  },
+  "resume_tailor": {
+    "description": "This tool allows you to tailor your resume for multiple job roles in the same industry quickly and efficiently, ensuring it meets the specific requirements of each application.",
+    "phase2_query_coverage": 2
+  },
+  "application_materials_refiner": {
+    "description": "A resource that offers tips for improving both your resume and cover letter, as well as refining initial email communication.",
+    "phase2_query_coverage": 2
+  },
+  "outreach_email_tips_1": {
+    "description": "A collection of tips for creating a compelling introduction in outreach emails and ensuring job application emails stand out to recruiters.",
+    "phase2_query_coverage": 0
+  },
+  "resume_customization_tool": {
+    "description": "A tool that allows you to tailor your resume for multiple job roles in the same industry quickly and efficiently.",
+    "phase2_query_coverage": 2
+  },
+  "resume_standout_strategies": {
+    "description": "This tool offers strategies to make your resume stand out, including steps to optimize your resume for applicant tracking systems and enhance it to better align with job opportunities.",
+    "phase2_query_coverage": 2
+  },
+  "resume_format_advisor": {
+    "description": "Provides suggestions for improvements in your current resume format to make it stand out in the technology sector.",
+    "phase2_query_coverage": 2
+  },
+  "resume_tailer": {
+    "description": "A tool that assists in tailoring your resume for multiple job roles in the same industry, prioritizing skills and experiences for industry-specific roles.",
+    "phase2_query_coverage": 2
+  },
+  "ats_compatibility_checker": {
+    "description": "This tool helps you take steps to optimize your resume for applicant tracking systems and improve your resume to better fit software engineering roles.",
+    "phase2_query_coverage": 2
+  },
+  "resume_and_cover_letter_tips_1": {
+    "description": "Provides tips for improving both your resume and cover letter, helping you to stand out among other applicants.",
+    "phase2_query_coverage": 0
+  },
+  "skills_highlighter": {
+    "description": "Highlight your skills to appeal to potential employers with this tool, which prioritizes skills and experiences on your resume for industry-specific roles.",
+    "phase2_query_coverage": 1
+  },
+  "resume_standout_tips": {
+    "description": "Tips and techniques to ensure resumes stand out among other applicants, particularly in competitive job markets.",
+    "phase2_query_coverage": 1
+  },
+  "resume_structure_improver": {
+    "description": "This tool recommends improvements for your current resume format and provides tools for improving your resume's structure and content.",
+    "phase2_query_coverage": 2
+  },
+  "resume_updater": {
+    "description": "A streamlined process to update your resume efficiently, integrating feedback into resume updates and ensuring it aligns with the latest industry standards.",
+    "phase2_query_coverage": 2
+  },
+  "job_application_standout": {
+    "description": "This tool offers strategies for ensuring your job application emails stand out to recruiters and provides steps to make your resume stand out.",
+    "phase2_query_coverage": 1
+  },
+  "resume_optimizer_3": {
+    "description": "Assists in optimizing your CV for a specific industry and tailoring your resume for multiple job roles in the same industry.",
+    "phase2_query_coverage": 0
+  },
+  "job_description_aligner": {
+    "description": "This tool helps you customize your CV to align with specific job descriptions and tailor your resume for multiple job roles in the same industry.",
+    "phase2_query_coverage": 2
+  },
+  "skills_highlighter_1": {
+    "description": "This tool assists in highlighting your skills to appeal to potential employers, prioritizing skills and experiences on your resume for industry-specific roles.",
+    "phase2_query_coverage": 0
+  },
+  "resume_format_improver": {
+    "description": "This tool suggests improvements for your current resume format and provides tips for improving both your resume and cover letter.",
+    "phase2_query_coverage": 1
+  },
+  "resume_and_cover_letter_tips_2": {
+    "description": "Offers tips for improving both your resume and cover letter, ensuring they stand out in the technology sector.",
+    "phase2_query_coverage": 0
+  },
+  "resume_polisher_2": {
+    "description": "This tool assists in polishing your resume for a particular industry, helping you prioritize skills and experiences for industry-specific roles.",
+    "phase2_query_coverage": 0
+  },
+  "skills_highlighter_2": {
+    "description": "This tool focuses on highlighting your skills to appeal to potential employers and rephrasing your resume to emphasize your key strengths.",
+    "phase2_query_coverage": 0
+  },
+  "resume_tailer_1": {
+    "description": "A tool that guides you in tailoring your resume for a specific job application and aligning it with specific job descriptions.",
+    "phase2_query_coverage": 0
+  },
+  "ats_compatibility_checker_1": {
+    "description": "A tool that helps you understand the steps to optimize your resume for applicant tracking systems and integrates feedback into resume updates efficiently.",
+    "phase2_query_coverage": 0
+  },
+  "application_materials_polishing": {
+    "description": "This tool assists in polishing your job application materials, ensuring they are professional and effective.",
+    "phase2_query_coverage": 2
+  },
+  "resume_tailor_1": {
+    "description": "A tool designed to guide you in tailoring your resume for a specific job application and match a particular job description.",
+    "phase2_query_coverage": 0
+  },
+  "application_materials_polisher_1": {
+    "description": "Can MyWritingCompanion assist in polishing your job application materials, ensuring they are tailored and effective?",
+    "phase2_query_coverage": 0
+  },
+  "tool_combiner": {
+    "description": "This tool guides you on combining ResumeTool and dover_outreach for optimal results, enhancing your outreach strategy.",
+    "phase2_query_coverage": 1
+  },
+  "job_tool_integration": {
+    "description": "A guide on combining ResumeTool and dover_outreach for optimal results in your job applications and outreach efforts.",
+    "phase2_query_coverage": 1
+  },
+  "resume_tool_combiner": {
+    "description": "A tool that guides you on combining ResumeTool and dover_outreach for optimal results, enhancing both your resume and outreach efforts.",
+    "phase2_query_coverage": 1
+  },
+  "job_application_combiner": {
+    "description": "This tool guides you on combining ResumeTool and dover_outreach for optimal results, streamlining your application process and enhancing your outreach efforts.",
+    "phase2_query_coverage": 1
+  },
+  "common_mistakes_1": {
+    "description": "A guide to the common mistakes to avoid when optimizing resumes and drafting outreach emails.",
+    "phase2_query_coverage": 0
+  },
+  "outreach_email_examples_1": {
+    "description": "Provides examples of tailored outreach emails for job applications, helping you express interest in a job opening effectively.",
+    "phase2_query_coverage": 0
+  },
+  "resume_mistake_checker": {
+    "description": "Identify common mistakes to avoid when optimizing resumes and drafting outreach emails, ensuring your applications are error-free and impactful.",
+    "phase2_query_coverage": 1
+  },
+  "employment_history_tips": {
+    "description": "Guidance on how to address gaps in your employment history on your resume effectively.",
+    "phase2_query_coverage": 1
+  },
+  "tech_resume_guide": {
+    "description": "Guidance on what to include in a resume to stand out in the technology sector, focusing on key skills and experiences.",
+    "phase2_query_coverage": 1
+  },
+  "outreach_email_templates": {
+    "description": "Provides examples of personalized job outreach emails that yield positive responses and what to include in an email to express interest in a job opening.",
+    "phase2_query_coverage": 1
+  },
+  "email_subject_helper_1": {
+    "description": "Offers essential elements of a compelling subject line for outreach emails and what should be included in the subject line of a professional outreach email.",
+    "phase2_query_coverage": 0
+  },
+  "resume_polisher_3": {
+    "description": "Get help with polishing your resume for a particular industry, ensuring it meets the specific requirements of your target job.",
+    "phase2_query_coverage": 0
+  },
+  "industry_specific_resume": {
+    "description": "Get help with polishing your resume for a particular industry, ensuring it meets sector-specific standards and expectations.",
+    "phase2_query_coverage": 1
+  },
+  "networking_emails_1": {
+    "description": "Guidance on crafting introductory emails for networking with industry professionals and expressing interest in job openings.",
+    "phase2_query_coverage": 0
+  },
+  "best_practices_email": {
+    "description": "Offers best practices for crafting effective job outreach emails, including what to include in an email to express interest in a job opening.",
+    "phase2_query_coverage": 1
+  },
+  "application_email_template": {
+    "description": "A resource that provides examples of tailored outreach emails for job applications, including what to include in an email to express interest in a job opening.",
+    "phase2_query_coverage": 1
+  },
+  "industry_specific_resume_1": {
+    "description": "Get help with polishing your resume for a particular industry, ensuring it aligns with job opportunities and meets industry standards.",
+    "phase2_query_coverage": 0
+  },
+  "technology_resume_tips": {
+    "description": "Offers insights on what to include in a resume to stand out in the technology sector, focusing on skills and experiences.",
+    "phase2_query_coverage": 1
+  },
+  "cover_letter_writer": {
+    "description": "A guide for approaching writing a unique cover letter for each job application, tailored to the specific role and company.",
+    "phase2_query_coverage": 1
+  },
+  "employment_gap_addressor": {
+    "description": "Provides strategies for addressing gaps in your employment history on your resume effectively, while prioritizing skills and experiences.",
+    "phase2_query_coverage": 1
+  },
+  "resume_format_improver_1": {
+    "description": "Suggests improvements for your current resume format, enhancing its overall presentation and effectiveness.",
+    "phase2_query_coverage": 0
+  },
+  "resume_tools_1": {
+    "description": "A collection of recommended tools for improving your resume's structure, format, and content.",
+    "phase2_query_coverage": 0
+  },
+  "custom_cover_letter_tool": {
+    "description": "This tool helps you approach writing a unique cover letter for each job application.",
+    "phase2_query_coverage": 1
+  },
+  "content_improver": {
+    "description": "Recommend tools for improving your resume's structure and content, ensuring it meets the latest industry standards.",
+    "phase2_query_coverage": 1
+  },
+  "layout_enhancer": {
+    "description": "Tools best for enhancing the layout of your resume to stand out in the technology sector.",
+    "phase2_query_coverage": 1
+  },
+  "resume_highlighter": {
+    "description": "Highlight your skills to appeal to potential employers and enhance your resume to better match job postings.",
+    "phase2_query_coverage": 1
+  },
+  "cover_letter_builder": {
+    "description": "This tool assists you in approaching writing a unique cover letter for each job application, ensuring it is tailored to the specific position.",
+    "phase2_query_coverage": 1
+  },
+  "cover_letter_creator": {
+    "description": "Helps you approach writing a unique cover letter for each job application, ensuring it is tailored to the specific job.",
+    "phase2_query_coverage": 1
+  },
+  "cover_letter_creator_1": {
+    "description": "This tool helps you approach writing a unique cover letter for each job application, ensuring it aligns with the specific role you are applying for.",
+    "phase2_query_coverage": 0
+  },
+  "job_application_approach": {
+    "description": "Guidance on the best way to approach potential employers via email, enhancing your outreach effectiveness.",
+    "phase2_query_coverage": 1
+  },
+  "skills_highlighter_3": {
+    "description": "A feature that helps you highlight your skills effectively, ensuring they are prominently displayed to appeal to potential employers.",
+    "phase2_query_coverage": 0
+  },
+  "industry_prioritizer": {
+    "description": "This tool guides you on how to prioritize skills and experiences on your resume for industry-specific roles, making your application more targeted.",
+    "phase2_query_coverage": 1
+  },
+  "outreach_approach": {
+    "description": "A guide on the best way to approach potential employers via email, focusing on effective communication.",
+    "phase2_query_coverage": 1
+  },
+  "email_approach": {
+    "description": "A guide on the best way to approach potential employers via email, focusing on crafting engaging job application emails.",
+    "phase2_query_coverage": 1
+  },
+  "management_resume": {
+    "description": "Assistance in tailoring your resume for a management position, ensuring it meets industry standards and expectations.",
+    "phase2_query_coverage": 1
+  },
+  "gap_addressor": {
+    "description": "This tool guides you on how to address gaps in your employment history on your resume effectively.",
+    "phase2_query_coverage": 1
+  },
+  "employment_gap_tool": {
+    "description": "This tool offers advice on how to address gaps in your employment history on your resume effectively, ensuring your application remains competitive.",
+    "phase2_query_coverage": 1
+  },
+  "employment_gap_addressor_1": {
+    "description": "This tool offers advice on how to address gaps in your employment history on your resume effectively, helping you present a cohesive career narrative.",
+    "phase2_query_coverage": 0
+  },
+  "email_approach_best_practices": {
+    "description": "Best practices for approaching potential employers via email, ensuring your outreach is professional and compelling.",
+    "phase2_query_coverage": 1
+  },
+  "management_tailoring": {
+    "description": "Assistance in tailoring your resume for a management position while ensuring it fits software engineering roles.",
+    "phase2_query_coverage": 1
+  },
+  "resume_rephraser": {
+    "description": "This tool can assist in rephrasing your resume to highlight your key strengths, making it more compelling for potential employers.",
+    "phase2_query_coverage": 1
+  },
+  "application_standout_checker": {
+    "description": "This tool evaluates how to ensure your resume stands out among other applicants while optimizing it for specific job applications.",
+    "phase2_query_coverage": 1
+  },
+  "resume_rephraser_1": {
+    "description": "This tool can assist in rephrasing your resume to highlight your key strengths, making it more compelling for job applications.",
+    "phase2_query_coverage": 0
+  },
+  "email_follow_up_strategies": {
+    "description": "Learn the best practices for following up on a job application and how to approach potential employers via email.",
+    "phase2_query_coverage": 1
+  },
+  "management_resume_tuner": {
+    "description": "Assists you in tailoring your resume for a management position while ensuring it appeals to potential employers.",
+    "phase2_query_coverage": 1
+  },
+  "resume_rephraser_2": {
+    "description": "This tool can assist in rephrasing your resume to highlight your key strengths, making it stand out in competitive job markets.",
+    "phase2_query_coverage": 0
+  },
+  "resume_standout_tips_1": {
+    "description": "Provides strategies and steps to make your resume stand out to hiring managers and improve your job application materials.",
+    "phase2_query_coverage": 0
+  },
+  "industry_specific_cv_optimizer": {
+    "description": "Assists in optimizing your CV for a specific industry, ensuring it aligns with industry standards and expectations.",
+    "phase2_query_coverage": 1
+  },
+  "resume_rephrasing_tool": {
+    "description": "This tool assists in rephrasing your resume to highlight your key strengths, making it more impactful.",
+    "phase2_query_coverage": 1
+  },
+  "management_resume_tailer": {
+    "description": "Get assistance in tailoring your resume for a management position and examples of successful job application emails.",
+    "phase2_query_coverage": 1
+  },
+  "cv_refiner": {
+    "description": "A tool that assists you in optimizing your CV for a specific industry and helps you use available tools effectively to refine your resume.",
+    "phase2_query_coverage": 1
+  },
+  "management_resume_tuner_1": {
+    "description": "Assist in tailoring your resume for a management position, highlighting leadership skills and relevant experiences that appeal to hiring managers.",
+    "phase2_query_coverage": 0
+  },
+  "industry_specific_cv": {
+    "description": "This tool assists in optimizing your CV for a specific industry, ensuring it meets the expectations of that field.",
+    "phase2_query_coverage": 1
+  },
+  "cv_customizer_1": {
+    "description": "A tool that assists in optimizing your CV for a specific industry, enhancing your resume to appeal to potential employers.",
+    "phase2_query_coverage": 0
+  },
+  "resume_standout_1": {
+    "description": "A tool that provides steps to make your resume stand out in a competitive job market.",
+    "phase2_query_coverage": 0
+  },
+  "job_application_standout_1": {
+    "description": "Provides steps to make your resume stand out, helping you tailor your resume for a management position or any other role.",
+    "phase2_query_coverage": 0
+  },
+  "resume_alignment_assistant": {
+    "description": "Assists in aligning your resume with a specific job posting and enhancing it to better fit software engineering roles.",
+    "phase2_query_coverage": 1
+  },
+  "job_alignment_1": {
+    "description": "This tool assists in aligning your resume with a specific job posting, ensuring that your application materials are tailored to the job you are applying for.",
+    "phase2_query_coverage": 0
+  },
+  "resume_alignment": {
+    "description": "This tool assists in aligning your resume with a specific job posting, ensuring it meets the employer's requirements.",
+    "phase2_query_coverage": 1
+  },
+  "resume_customizer_2": {
+    "description": "A tool that assists in aligning your resume with a specific job posting and enhancing it to better align with job opportunities.",
+    "phase2_query_coverage": 0
+  },
+  "resume_alignment_tool": {
+    "description": "This tool assists in aligning your resume with a specific job posting, ensuring it meets the requirements and expectations of potential employers.",
+    "phase2_query_coverage": 1
+  }
+}

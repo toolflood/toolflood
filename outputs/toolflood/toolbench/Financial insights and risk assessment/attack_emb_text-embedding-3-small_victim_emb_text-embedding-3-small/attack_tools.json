@@ -1,0 +1,598 @@
+{
+  "risk_assessment": {
+    "description": "Can you provide a risk assessment for climate change on property investments in a specific region and determine the climate risk score for a location at given GPS coordinates?",
+    "phase2_query_coverage": 11
+  },
+  "climate_risk_score_retriever": {
+    "description": "Can you retrieve the climate risk score for a property located at a given address and assess climate risks associated with specific locations?",
+    "phase2_query_coverage": 10
+  },
+  "economic_analysis": {
+    "description": "Provide insights on the economic impact of COVID-19 on small businesses and how the COVID-19 pandemic influenced economic activity among small businesses.",
+    "phase2_query_coverage": 10
+  },
+  "covid_impact_insights": {
+    "description": "Provide insights on the economic impact of COVID-19 on small businesses and how the pandemic has affected small businesses' economic resilience.",
+    "phase2_query_coverage": 10
+  },
+  "economic_insights": {
+    "description": "Provides insights on the economic impact of COVID-19 on small businesses and analyzes recent economic challenges faced by small businesses due to the pandemic.",
+    "phase2_query_coverage": 1
+  },
+  "climate_risk_assessment": {
+    "description": "Can you provide a climate risk score for a location at given GPS coordinates and assess the risk of climate impact on financial investments?",
+    "phase2_query_coverage": 2
+  },
+  "economic_impact": {
+    "description": "Analyze the economic impact of COVID-19 on small businesses, including their resilience and challenges faced during the pandemic.",
+    "phase2_query_coverage": 10
+  },
+  "economic_impact_1": {
+    "description": "Analyzes the economic impact of COVID-19 on small businesses and recent economic challenges faced by small businesses due to the pandemic.",
+    "phase2_query_coverage": 0
+  },
+  "climate_risk_assessment_1": {
+    "description": "Can you retrieve the climate risk score for a property located at a given address and provide an evaluation of the climate risk associated with this address?",
+    "phase2_query_coverage": 0
+  },
+  "climate_risk_assessment_2": {
+    "description": "Can provide a risk assessment for climate change on property investments in a specific region and evaluate the climate risk score for a specific GPS location.",
+    "phase2_query_coverage": 0
+  },
+  "cryptocurrency_trends": {
+    "description": "Analyze the latest cryptocurrency market trends and their potential impact on investments, including current trends in cryptocurrency markets.",
+    "phase2_query_coverage": 2
+  },
+  "cryptocurrency_trends_1": {
+    "description": "Provide insights into the latest cryptocurrency market trends and their potential impact on investments, including current trends in cryptocurrency markets.",
+    "phase2_query_coverage": 0
+  },
+  "crypto_trends": {
+    "description": "Which cryptocurrencies are experiencing significant market changes today and what are the latest trends in cryptocurrency markets?",
+    "phase2_query_coverage": 1
+  },
+  "cryptocurrency_trends_forecaster": {
+    "description": "Provide insights on the projected trends for cryptocurrency markets in the next quarter and the latest trends in cryptocurrency markets.",
+    "phase2_query_coverage": 8
+  },
+  "crypto_insights": {
+    "description": "Provides insights into trending cryptocurrencies and their market potential, including the latest trends in cryptocurrency markets and updates.",
+    "phase2_query_coverage": 2
+  },
+  "esg_scores": {
+    "description": "Provide ESG scores for major tech corporations and analyze the financial performance of a selected stock over the past year, including ESG factors.",
+    "phase2_query_coverage": 7
+  },
+  "esg_scores_1": {
+    "description": "Provides ESG scores for major tech corporations and stocks currently exhibiting a strong environmental, social, and governance (ESG) profile.",
+    "phase2_query_coverage": 0
+  },
+  "esg_insights": {
+    "description": "Provides ESG scores for major tech corporations and identifies what ESG factors influence the current market dynamics.",
+    "phase2_query_coverage": 7
+  },
+  "esg_score_provider": {
+    "description": "Provides ESG scores for major tech corporations and identifies what ESG factors influence the current market dynamics.",
+    "phase2_query_coverage": 7
+  },
+  "esg_scores_2": {
+    "description": "Provides ESG scores for major tech corporations and identifies stocks that exhibit a strong environmental, social, and governance (ESG) profile.",
+    "phase2_query_coverage": 0
+  },
+  "currency_exchange_analysis": {
+    "description": "Can you provide an analysis of the latest currency exchange rates and a comparative analysis of currency exchange trends?",
+    "phase2_query_coverage": 6
+  },
+  "currency_trends_analysis": {
+    "description": "Provide a comprehensive analysis of currency exchange rate trends and the latest fluctuations observed in global currency exchange rates.",
+    "phase2_query_coverage": 6
+  },
+  "currency_analysis": {
+    "description": "Provide a comprehensive analysis of currency exchange rate trends and the latest fluctuations observed in global currency exchange rates.",
+    "phase2_query_coverage": 2
+  },
+  "currency_trends": {
+    "description": "Provide a comprehensive analysis of currency exchange rate trends, including the latest fluctuations observed in global currency exchange rates.",
+    "phase2_query_coverage": 6
+  },
+  "currency_analysis_1": {
+    "description": "Can you provide an analysis of the latest currency exchange rates and provide insights into the economic implications of recent currency exchange rate fluctuations?",
+    "phase2_query_coverage": 0
+  },
+  "stock_price_projection": {
+    "description": "Generate projected stock prices for the next quarter based on current trends, including price movements for key technology stocks and major stock indices.",
+    "phase2_query_coverage": 5
+  },
+  "financial_forecast": {
+    "description": "Provides price forecasts for popular financial indices and projected trends for the stock market in the next quarter.",
+    "phase2_query_coverage": 6
+  },
+  "market_forecast": {
+    "description": "Provides price forecasts for popular financial indices and projected trends for the stock market in the next quarter.",
+    "phase2_query_coverage": 6
+  },
+  "investment_risk_assessment": {
+    "description": "Can you provide a risk assessment for climate change on property investments in a specific region and assess financial risks associated with geopolitical events?",
+    "phase2_query_coverage": 2
+  },
+  "climate_risk_assessment_3": {
+    "description": "Can you provide a risk assessment for climate change on property investments in a specific region and how climate risk is influencing financial stability for businesses in urban areas?",
+    "phase2_query_coverage": 0
+  },
+  "stock_price_projection_1": {
+    "description": "What is the projected price movement of a specific stock over the next quarter and what are the price forecasts for popular financial indices?",
+    "phase2_query_coverage": 0
+  },
+  "price_forecasts": {
+    "description": "Provides price forecasts for popular financial indices and projected stock prices for the next quarter based on current trends.",
+    "phase2_query_coverage": 5
+  },
+  "momentum_stocks": {
+    "description": "Identify which stocks are currently showing significant momentum and why, while also providing insights into how ESG factors correlate with stock performance during market fluctuations.",
+    "phase2_query_coverage": 2
+  },
+  "performance_analytics": {
+    "description": "Display analytics for the performance of major global financial indices and analyze the financial performance of a selected stock over the past year.",
+    "phase2_query_coverage": 3
+  },
+  "crypto_trends_analysis": {
+    "description": "Provides insights into trending cryptocurrencies and their market potential, along with the most recent updates in the cryptocurrency market.",
+    "phase2_query_coverage": 4
+  },
+  "climate_risk_assessment_4": {
+    "description": "Assess how climate risk influences real estate investments in urban areas and how climate risk impacts the financial stability of a particular region.",
+    "phase2_query_coverage": 0
+  },
+  "climate_risk_assessment_5": {
+    "description": "Evaluates how climate risk influences real estate investments in urban areas and impacts the financial stability of a particular region.",
+    "phase2_query_coverage": 0
+  },
+  "climate_risk_assessor": {
+    "description": "Evaluates how climate risk impacts the financial stability of a particular region and influences real estate investments in urban areas.",
+    "phase2_query_coverage": 4
+  },
+  "market_performance_insights": {
+    "description": "Generate insights into the performance of global financial markets and share analytics for the performance of emerging markets and their future potential.",
+    "phase2_query_coverage": 4
+  },
+  "market_analytics": {
+    "description": "Share analytics for the performance of global financial markets and provide insights into how ESG factors correlate with stock performance during market fluctuations.",
+    "phase2_query_coverage": 4
+  },
+  "market_momentum": {
+    "description": "Identifies which stocks are currently showing significant momentum and analyzes how ESG factors correlate with stock performance during market fluctuations.",
+    "phase2_query_coverage": 3
+  },
+  "financial_indices": {
+    "description": "Display analytics for the performance of major global financial indices and provide a comparison of the performance of major financial indexes over the past year.",
+    "phase2_query_coverage": 3
+  },
+  "performance_analytics_1": {
+    "description": "Display analytics for the performance of major global financial indices and provide a comparison of the performance of major financial indexes over the past year.",
+    "phase2_query_coverage": 0
+  },
+  "climate_risk_assessment_6": {
+    "description": "Evaluate the climate risk score for a specific GPS location and provide an evaluation of the climate risk associated with a given address.",
+    "phase2_query_coverage": 0
+  },
+  "climate_risk_assessment_7": {
+    "description": "Evaluates the climate risk score for a specific GPS location and provides an evaluation of the climate risk associated with this address.",
+    "phase2_query_coverage": 0
+  },
+  "financial_data": {
+    "description": "Retrieve comprehensive income data for holistic financial decision-making and provide insights into the financial performance indicators of the healthcare sector.",
+    "phase2_query_coverage": 3
+  },
+  "financial_comparisons": {
+    "description": "Generates a comparative analysis of income statements for top companies in the energy sector and compares the financial outlook of renewable energy companies to traditional energy firms.",
+    "phase2_query_coverage": 3
+  },
+  "geopolitical_correlation": {
+    "description": "What is the correlation between market price trends and geopolitical events, and what ESG factors influence the current market dynamics?",
+    "phase2_query_coverage": 3
+  },
+  "retail_financial_performance_analyzer": {
+    "description": "Analyze the income statements of major retail companies for the past fiscal year and provide insights into the financial performance indicators of the healthcare sector.",
+    "phase2_query_coverage": 3
+  },
+  "income_statement_access": {
+    "description": "Access detailed income statement data for major industries and analyze the income statements of major retail and technology companies.",
+    "phase2_query_coverage": 2
+  },
+  "financial_outlook_tool": {
+    "description": "Compare the financial outlook of renewable energy companies to traditional energy firms and analyze the financial impact of recent climate events on specific sectors.",
+    "phase2_query_coverage": 3
+  },
+  "income_report": {
+    "description": "Access detailed income report data for a particular stock, including comprehensive analysis of income statements for major industries.",
+    "phase2_query_coverage": 3
+  },
+  "sector_comparison": {
+    "description": "Compares the financial outlook of renewable energy companies to traditional energy firms and analyzes the financial impact of recent climate events on specific sectors.",
+    "phase2_query_coverage": 3
+  },
+  "financial_analysis": {
+    "description": "Analyze income statements of major technology and retail companies, providing a report on top-performing stocks this quarter.",
+    "phase2_query_coverage": 3
+  },
+  "top_stocks_report": {
+    "description": "This tool generates a report on the top-performing stocks this quarter and analyzes the historical income data of a specific company for investment potential.",
+    "phase2_query_coverage": 3
+  },
+  "investment_risk_assessor": {
+    "description": "Determine the financial risk associated with investing in a specific sector and analyze how climate risk is influencing financial stability for businesses in urban areas.",
+    "phase2_query_coverage": 3
+  },
+  "energy_comparison": {
+    "description": "This tool compares the financial outlook of renewable energy companies to traditional energy firms, including a comparative analysis of income statements for top companies in the energy sector.",
+    "phase2_query_coverage": 3
+  },
+  "financial_metrics": {
+    "description": "Analyzes key financial metrics derived from income statements of leading companies and provides insights into the financial performance indicators of the healthcare sector.",
+    "phase2_query_coverage": 3
+  },
+  "financial_performance": {
+    "description": "Analyzes the income statements of major technology companies and healthcare sector firms, while also deriving key financial metrics from income statements of leading companies.",
+    "phase2_query_coverage": 3
+  },
+  "income_report_1": {
+    "description": "Retrieve the income report for a particular stock, analyze the income statements of major retail companies for the past fiscal year, and access detailed income statement data for major industries.",
+    "phase2_query_coverage": 0
+  },
+  "sector_analysis": {
+    "description": "Analyze the financial performance of various sectors, identify sectors with the highest financial growth potential, and assess climate-related risks associated with those sectors.",
+    "phase2_query_coverage": 3
+  },
+  "financial_performance_1": {
+    "description": "Delivers insights into the financial performance indicators of the healthcare sector and evaluates the income statements of major retail companies for the past fiscal year.",
+    "phase2_query_coverage": 0
+  },
+  "stock_forecasts": {
+    "description": "Provide price forecasts for popular financial indices and generate insights from stock market index data for investment decisions.",
+    "phase2_query_coverage": 3
+  },
+  "market_momentum_1": {
+    "description": "Identifies which stocks are currently showing significant momentum and why, while also analyzing how ESG factors correlate with stock performance during market fluctuations.",
+    "phase2_query_coverage": 0
+  },
+  "financial_analysis_1": {
+    "description": "Analyzes how income statements reflect the performance of leading corporations and compares the financial outlook of renewable energy companies to traditional energy firms.",
+    "phase2_query_coverage": 0
+  },
+  "risk_assessment_tool": {
+    "description": "This tool provides a comprehensive risk assessment for a specific investment portfolio, helping users understand the implications of recent financial policies on global markets and best practices for assessing investment risks in volatile markets.",
+    "phase2_query_coverage": 2
+  },
+  "investment_risk_assessment_1": {
+    "description": "What are the best practices for assessing investment risks in volatile markets and provide a risk assessment for a specific investment portfolio.",
+    "phase2_query_coverage": 0
+  },
+  "climate_impact_analyzer": {
+    "description": "Provide an analysis of the financial impact of recent climate events on specific sectors and how recent climate scores affect long-term financial planning.",
+    "phase2_query_coverage": 2
+  },
+  "investment_risk_assessment_2": {
+    "description": "Determine the financial risk associated with investing in a specific sector and provide a risk assessment for a specific investment portfolio.",
+    "phase2_query_coverage": 0
+  },
+  "investment_risk_insights": {
+    "description": "Generate insights on the potential risks in investment portfolios caused by global uncertainties and determine the financial risk associated with investing in a specific sector.",
+    "phase2_query_coverage": 2
+  },
+  "investment_risks": {
+    "description": "Generate insights on the potential risks in investment portfolios caused by global uncertainties and determine the financial risk associated with investing in a specific sector.",
+    "phase2_query_coverage": 2
+  },
+  "investment_risk_analyzer": {
+    "description": "Generate insights on the potential risks in investment portfolios caused by global uncertainties, analyzing how these risks affect the performance of emerging markets and their future potential.",
+    "phase2_query_coverage": 2
+  },
+  "market_insights": {
+    "description": "Generate insights from stock market index data for investment decisions and provide current forecasts for major stock indices and their implications.",
+    "phase2_query_coverage": 1
+  },
+  "income_data": {
+    "description": "Retrieve comprehensive income data for holistic financial decision-making, including the income report for a particular stock.",
+    "phase2_query_coverage": 2
+  },
+  "financial_data_retriever": {
+    "description": "Retrieve comprehensive income data for holistic financial decision-making and analyze the historical income data of a specific company for investment potential.",
+    "phase2_query_coverage": 2
+  },
+  "market_insights_1": {
+    "description": "Generate insights from stock market index data for investment decisions and analyze the historical income data of a specific company for investment potential.",
+    "phase2_query_coverage": 0
+  },
+  "income_statement_comparator": {
+    "description": "Generate a comparative analysis of income statements for top companies in the energy sector and access detailed income statement data for major industries.",
+    "phase2_query_coverage": 2
+  },
+  "income_analysis": {
+    "description": "Analyze the historical income data of a specific company for investment potential and retrieve comprehensive income data for holistic financial decision-making.",
+    "phase2_query_coverage": 2
+  },
+  "income_statement_analyzer": {
+    "description": "Analyze the income statements of major technology companies and how do income statements reflect the performance of leading corporations.",
+    "phase2_query_coverage": 2
+  },
+  "tech_income_analysis": {
+    "description": "Analyze the income statements of major technology companies and provide key financial metrics derived from income statements of leading companies.",
+    "phase2_query_coverage": 2
+  },
+  "stock_performance": {
+    "description": "Generate a report on the top-performing stocks this quarter and provide a comparison of the performance of major financial indexes over the past year.",
+    "phase2_query_coverage": 1
+  },
+  "stock_performance_report": {
+    "description": "Generates a report on the top-performing stocks this quarter and identifies trending stocks based on recent market data.",
+    "phase2_query_coverage": 2
+  },
+  "real_time_updates": {
+    "description": "Delivers real-time currency exchange rate news and updates, including the latest news updates affecting global currency values.",
+    "phase2_query_coverage": 2
+  },
+  "currency_exchange_monitor": {
+    "description": "Delivers real-time currency exchange rate news and updates, including the latest news updates affecting global currency values.",
+    "phase2_query_coverage": 2
+  },
+  "currency_updates": {
+    "description": "Delivers real-time currency exchange rate news and updates, including the latest news updates affecting global currency values.",
+    "phase2_query_coverage": 2
+  },
+  "income_statement_comparison": {
+    "description": "Generates a comparative analysis of income statements for top companies in the energy sector and analyzes the historical income data of a specific company for investment potential.",
+    "phase2_query_coverage": 2
+  },
+  "sector_growth_identification": {
+    "description": "Identify sectors with the highest financial growth potential and provide insights into the performance of emerging markets and their future potential.",
+    "phase2_query_coverage": 2
+  },
+  "currency_updates_1": {
+    "description": "Delivers real-time currency exchange rate news and updates, providing the latest news updates affecting global currency values.",
+    "phase2_query_coverage": 0
+  },
+  "stock_trends": {
+    "description": "Generate a list of trending stocks based on recent market data and evaluate which stocks are currently showing significant momentum and why.",
+    "phase2_query_coverage": 2
+  },
+  "stock_trending": {
+    "description": "Generates a list of trending stocks based on recent market data, highlighting those showing significant momentum and performance.",
+    "phase2_query_coverage": 2
+  },
+  "momentum_stocks_1": {
+    "description": "Generate a list of trending stocks based on recent market data and identify which stocks are currently showing significant momentum and why.",
+    "phase2_query_coverage": 0
+  },
+  "stock_performance_report_1": {
+    "description": "Generates a report on the top-performing stocks this quarter and analyzes the financial performance of trending stocks based on recent market data.",
+    "phase2_query_coverage": 0
+  },
+  "investment_insight_generator": {
+    "description": "Generate insights from stock market index data for investment decisions and identify sectors with the highest financial growth potential.",
+    "phase2_query_coverage": 2
+  },
+  "crypto_insights_1": {
+    "description": "Provides insights into trending cryptocurrencies and their market potential, including which cryptocurrencies are experiencing significant market changes today.",
+    "phase2_query_coverage": 0
+  },
+  "currency_exchange_insights": {
+    "description": "Provide insights into the economic implications of recent currency exchange rate fluctuations and project currency exchange rates for the next month.",
+    "phase2_query_coverage": 2
+  },
+  "crypto_forecasts": {
+    "description": "What are the latest cryptocurrency market updates and forecasts, including projected trends for cryptocurrency markets in the next quarter?",
+    "phase2_query_coverage": 2
+  },
+  "currency_analysis_2": {
+    "description": "Analyze the latest currency exchange rates and project currency exchange rates for the upcoming fiscal year.",
+    "phase2_query_coverage": 0
+  },
+  "risk_assessment_tool_1": {
+    "description": "Can you provide a risk assessment for a specific investment portfolio and assess investment risks in volatile markets?",
+    "phase2_query_coverage": 0
+  },
+  "financial_growth_sectors": {
+    "description": "Identify sectors with the highest financial growth potential and generate insights from stock market index data for investment decisions.",
+    "phase2_query_coverage": 2
+  },
+  "economic_indicators": {
+    "description": "What are the key economic indicators influencing the real estate market this quarter and what are the implications of recent financial policies on global markets?",
+    "phase2_query_coverage": 2
+  },
+  "income_statement_access_1": {
+    "description": "Access detailed income statement data for major industries, including the income report for a particular stock.",
+    "phase2_query_coverage": 0
+  },
+  "currency_analysis_3": {
+    "description": "Provide an analysis of the latest currency exchange rates and assess projected currency exchange rates for the upcoming fiscal year.",
+    "phase2_query_coverage": 0
+  },
+  "stock_price_predictor": {
+    "description": "Projects price movements for key technology stocks and analyzes projected trends for the technology sector in the stock market.",
+    "phase2_query_coverage": 2
+  },
+  "climate_risk_assessment_8": {
+    "description": "Integrates climate score data into a comprehensive risk assessment model, analyzing how climate risks impact long-term financial planning.",
+    "phase2_query_coverage": 0
+  },
+  "climate_risk_integration_tool": {
+    "description": "This tool integrates climate score data into a comprehensive risk assessment model, allowing for an analysis of how climate risk scores affect long-term financial planning.",
+    "phase2_query_coverage": 2
+  },
+  "currency_forecast": {
+    "description": "Could you analyze the projected currency exchange rates for the upcoming fiscal year and provide the latest news updates affecting global currency values?",
+    "phase2_query_coverage": 2
+  },
+  "stock_price_forecaster": {
+    "description": "Project stock prices for the next quarter based on current trends, including projected price movements for key technology stocks.",
+    "phase2_query_coverage": 2
+  },
+  "currency_exchange_forecaster": {
+    "description": "Project currency exchange rates for the next month and analyze the projected currency exchange rates for the upcoming fiscal year.",
+    "phase2_query_coverage": 2
+  },
+  "cryptocurrency_updates": {
+    "description": "Provide the latest cryptocurrency market updates and forecasts, including which cryptocurrencies are experiencing significant market changes today.",
+    "phase2_query_coverage": 2
+  },
+  "tech_sector_projection": {
+    "description": "Projects trends for the technology sector in the stock market and the projected price movements for key technology stocks.",
+    "phase2_query_coverage": 2
+  },
+  "emerging_markets": {
+    "description": "Offers insights into the performance of emerging markets and their future potential, including sectors with the highest financial growth potential.",
+    "phase2_query_coverage": 2
+  },
+  "technology_sector_analysis": {
+    "description": "Projects trends for the technology sector in the stock market and provides projected price movements for key technology stocks.",
+    "phase2_query_coverage": 2
+  },
+  "investment_risk": {
+    "description": "This tool outlines best practices for assessing investment risks in volatile markets, including a risk assessment for specific investment portfolios.",
+    "phase2_query_coverage": 2
+  },
+  "currency_updates_2": {
+    "description": "Delivers real-time currency exchange rate news and updates, including projected currency exchange rates for the next month.",
+    "phase2_query_coverage": 0
+  },
+  "market_performance_analysis": {
+    "description": "Compares the performance of major financial indexes over the past year and provides insights into the performance of emerging markets and their future potential.",
+    "phase2_query_coverage": 2
+  },
+  "financial_planning": {
+    "description": "Evaluates how recent climate scores affect long-term financial planning and assesses climate-related risks for a specific address.",
+    "phase2_query_coverage": 2
+  },
+  "investment_risk_assessment_3": {
+    "description": "Provide best practices for assessing investment risks in volatile markets and assess financial risks associated with geopolitical events.",
+    "phase2_query_coverage": 0
+  },
+  "income_statement_metrics": {
+    "description": "Retrieves key financial metrics derived from income statements of leading companies and explains how income statements reflect the performance of leading corporations.",
+    "phase2_query_coverage": 2
+  },
+  "geopolitical_impact_study": {
+    "description": "Examines the correlation between market price trends and geopolitical events, assessing financial risks associated with these events.",
+    "phase2_query_coverage": 2
+  },
+  "income_statement_analysis": {
+    "description": "Analyzes how income statements reflect the performance of leading corporations and retrieves key financial metrics derived from income statements of leading companies.",
+    "phase2_query_coverage": 2
+  },
+  "geopolitical_analysis": {
+    "description": "Analyzes the correlation between market price trends and geopolitical events and assesses financial risks associated with geopolitical events.",
+    "phase2_query_coverage": 1
+  },
+  "financial_risk_analysis": {
+    "description": "Assesses financial risks associated with geopolitical events and analyzes how recent climate scores affect long-term financial planning.",
+    "phase2_query_coverage": 2
+  },
+  "crypto_performance": {
+    "description": "Monitor cryptocurrencies experiencing significant market changes today and project trends for cryptocurrency markets in the next quarter.",
+    "phase2_query_coverage": 2
+  },
+  "stock_performance_1": {
+    "description": "Identifies the top-performing stocks in the S&P 500 index recently and analyzes the financial performance of a selected stock over the past year, including ESG factors.",
+    "phase2_query_coverage": 0
+  },
+  "stock_analysis_1": {
+    "description": "Provides insights into the top-performing stocks in the S&P 500 index recently and analyzes the financial performance of a selected stock over the past year, including ESG factors.",
+    "phase2_query_coverage": 0
+  },
+  "cryptocurrency_trends_2": {
+    "description": "Identifies which cryptocurrencies are experiencing significant market changes today and provides updates on the most recent updates in the cryptocurrency market.",
+    "phase2_query_coverage": 0
+  },
+  "stock_market_insights": {
+    "description": "Provides insights into the top-performing stocks in the S&P 500 index recently and analyzes the ESG performance of leading technology companies.",
+    "phase2_query_coverage": 2
+  },
+  "corporate_performance": {
+    "description": "This tool explains how income statements reflect the performance of leading corporations and evaluates the ESG performance of top companies in the S&P 500.",
+    "phase2_query_coverage": 2
+  },
+  "crypto_trends_1": {
+    "description": "What are the current trends in cryptocurrency markets and what are the projected trends for cryptocurrency markets in the next quarter?",
+    "phase2_query_coverage": 0
+  },
+  "healthcare_finance": {
+    "description": "Retrieve income statements for leading companies in the healthcare sector and evaluate their financial performance.",
+    "phase2_query_coverage": 1
+  },
+  "crypto_market_trends": {
+    "description": "What are the current trends in the cryptocurrency market and what are the projected trends for cryptocurrency markets in the next quarter?",
+    "phase2_query_coverage": 1
+  },
+  "income_statements": {
+    "description": "Retrieve income statements for leading companies in the healthcare sector and evaluate how income statements reflect the performance of leading corporations.",
+    "phase2_query_coverage": 1
+  },
+  "geopolitical_market_correlation": {
+    "description": "Examine the correlation between market price trends and geopolitical events to understand their implications on global markets.",
+    "phase2_query_coverage": 1
+  },
+  "esg_analysis": {
+    "description": "Provides ESG scores for major tech corporations and analyzes the ESG performance of top companies in the S&P 500.",
+    "phase2_query_coverage": 1
+  },
+  "geopolitical_analysis_1": {
+    "description": "Assess the correlation between market price trends and geopolitical events to understand their impact on investments.",
+    "phase2_query_coverage": 0
+  },
+  "economic_indicator_monitor": {
+    "description": "Identify the key economic indicators influencing the real estate market this quarter, providing insights into how these indicators affect investment decisions.",
+    "phase2_query_coverage": 1
+  },
+  "economic_insights_1": {
+    "description": "Provides insights into the economic implications of recent currency exchange rate fluctuations and the implications of recent financial policies on global markets.",
+    "phase2_query_coverage": 0
+  },
+  "financial_policy_implications": {
+    "description": "Analyze the implications of recent financial policies on global markets and their impact on investments.",
+    "phase2_query_coverage": 1
+  },
+  "economic_implications": {
+    "description": "Offers insights into the economic implications of recent currency exchange rate fluctuations and the implications of recent financial policies on global markets.",
+    "phase2_query_coverage": 1
+  },
+  "top_stocks_reporter": {
+    "description": "Generate a report on the top-performing stocks this quarter and identify the top-performing stocks in the S&P 500 index recently.",
+    "phase2_query_coverage": 1
+  },
+  "financial_trends": {
+    "description": "What are the current trends in global financial markets and how do ESG factors influence the current market dynamics?",
+    "phase2_query_coverage": 1
+  },
+  "economic_indicators_tracker": {
+    "description": "Track key economic indicators influencing the real estate market this quarter and analyze their impact on various sectors.",
+    "phase2_query_coverage": 1
+  },
+  "real_estate_indicators": {
+    "description": "Identify key economic indicators influencing the real estate market this quarter and how they relate to long-term financial planning.",
+    "phase2_query_coverage": 1
+  },
+  "real_estate_indicators_1": {
+    "description": "This tool identifies key economic indicators influencing the real estate market this quarter.",
+    "phase2_query_coverage": 0
+  },
+  "stock_performance_2": {
+    "description": "Generate a list of trending stocks based on recent market data and analyze the top-performing stocks in the S&P 500 index recently.",
+    "phase2_query_coverage": 0
+  },
+  "global_market_implications": {
+    "description": "Explore the implications of recent financial policies on global markets and how they affect various sectors.",
+    "phase2_query_coverage": 1
+  },
+  "market_trends_analyzer": {
+    "description": "Analyze the current trends in global financial markets and the latest trends in cryptocurrency markets.",
+    "phase2_query_coverage": 1
+  },
+  "financial_trends_1": {
+    "description": "Identifies current trends in global financial markets and the latest trends in currency exchange rates globally.",
+    "phase2_query_coverage": 0
+  },
+  "market_insights_2": {
+    "description": "Provides insights on the current trends in global financial markets, including significant market changes today and the projected trends for stock markets in the next quarter.",
+    "phase2_query_coverage": 0
+  }
+}

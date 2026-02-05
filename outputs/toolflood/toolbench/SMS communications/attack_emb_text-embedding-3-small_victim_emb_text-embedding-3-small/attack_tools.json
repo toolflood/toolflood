@@ -1,0 +1,226 @@
+{
+  "message_status_checker": {
+    "description": "Check the status of a specific message sent using D7SMS and provide the message history from a specific virtual number.",
+    "phase2_query_coverage": 20
+  },
+  "sms_history_retrieval": {
+    "description": "Can you retrieve the SMS history for a virtual number and check the delivery status of SMS sent via D7SMS?",
+    "phase2_query_coverage": 20
+  },
+  "message_status_checker_1": {
+    "description": "Check the status of a specific message sent using D7SMS and retrieve SMS history for specific virtual numbers.",
+    "phase2_query_coverage": 0
+  },
+  "sms_status_checker": {
+    "description": "Check the status of a specific message sent using D7SMS and retrieve the SMS history for a virtual number.",
+    "phase2_query_coverage": 19
+  },
+  "sms_status_checker_1": {
+    "description": "Fetch the status of a sent SMS message using the D7SMS platform and view the SMS history for a virtual number.",
+    "phase2_query_coverage": 0
+  },
+  "bulk_sms_sender": {
+    "description": "Options for sending bulk SMS via Rivet SMS services and send a branded SMS message to a recipient in Pakistan.",
+    "phase2_query_coverage": 1
+  },
+  "sms_reception_numbers": {
+    "description": "Supply a list of numbers that are available for SMS reception and check the balance for sending bulk SMS globally.",
+    "phase2_query_coverage": 17
+  },
+  "bulk_sms_sending": {
+    "description": "Send bulk SMS using the Rivet platform and send a branded SMS to a recipient in Pakistan.",
+    "phase2_query_coverage": 18
+  },
+  "sms_branded_sending": {
+    "description": "Send a branded SMS to a recipient in Pakistan and explore options for sending bulk SMS using Rivet.",
+    "phase2_query_coverage": 18
+  },
+  "bulk_sms": {
+    "description": "Options for sending bulk SMS via Rivet SMS services and check the balance for sending bulk SMS globally.",
+    "phase2_query_coverage": 17
+  },
+  "bulk_sms_service": {
+    "description": "Send a bulk SMS to recipients using services like Rivet SMS, and check the balance for sending bulk SMS globally.",
+    "phase2_query_coverage": 17
+  },
+  "sms_capable_numbers_list": {
+    "description": "Provide a list of numbers capable of receiving SMS messages and retrieve the text messages associated with a particular CallTrackingMetrics number.",
+    "phase2_query_coverage": 17
+  },
+  "sms_reception_numbers_1": {
+    "description": "Supply a list of numbers that are available for SMS reception and provide details on the current balance for bulk SMS services globally.",
+    "phase2_query_coverage": 0
+  },
+  "sms_receiving_numbers": {
+    "description": "Provides a list of available numbers for SMS receiving and details on the current balance for bulk SMS services globally.",
+    "phase2_query_coverage": 2
+  },
+  "sms_receiving_numbers_1": {
+    "description": "Get a list of numbers available for receiving SMS messages and list all available numbers in the CallTrackingMetrics system.",
+    "phase2_query_coverage": 0
+  },
+  "call_tracking_metrics": {
+    "description": "Access the text message history for call tracking metrics and provide a list of available call tracking numbers.",
+    "phase2_query_coverage": 15
+  },
+  "send_sms_1": {
+    "description": "Initiates the sending of an SMS using the SMSLink platform to a designated recipient or sends a branded SMS message to a recipient in Pakistan.",
+    "phase2_query_coverage": 0
+  },
+  "sms_link_service": {
+    "description": "Initiate the sending of an SMS using the SMSLink service and assist in sending a branded SMS message to a recipient in Pakistan.",
+    "phase2_query_coverage": 14
+  },
+  "call_tracking_number_retriever": {
+    "description": "Retrieve a list of available call tracking numbers and the text messages associated with a particular CallTrackingMetrics number.",
+    "phase2_query_coverage": 13
+  },
+  "call_tracking_numbers_lister": {
+    "description": "List all available numbers for call tracking purposes and retrieve the text messages associated with a particular CallTrackingMetrics number.",
+    "phase2_query_coverage": 13
+  },
+  "smslink_sender": {
+    "description": "Send an SMS using the SMSLink service and access SMS messages received through the MailSlurp email testing service.",
+    "phase2_query_coverage": 11
+  },
+  "email_sms_service": {
+    "description": "Access SMS messages received via email testing services and send an SMS via the SMSLink platform.",
+    "phase2_query_coverage": 11
+  },
+  "sms_initiator": {
+    "description": "Initiate the sending of an SMS using the SMSLink service.",
+    "phase2_query_coverage": 10
+  },
+  "email_testing_sms": {
+    "description": "Access SMS messages received through the MailSlurp email testing service and other email testing tools.",
+    "phase2_query_coverage": 10
+  },
+  "email_testing_sms_1": {
+    "description": "Access SMS messages received through the email testing tool and MailSlurp email testing service.",
+    "phase2_query_coverage": 0
+  },
+  "sms_testing_tool": {
+    "description": "How can I test SMS functionalities using MailSlurp's services and access the SMS messages received through the email testing tool?",
+    "phase2_query_coverage": 10
+  },
+  "mail_slurp_sms": {
+    "description": "Access SMS messages received through the MailSlurp email testing service and get SMS messages using the email testing tool.",
+    "phase2_query_coverage": 9
+  },
+  "call_tracking_numbers": {
+    "description": "Retrieve a detailed log of text messages sent via call tracking metrics and list all numbers available for call tracking purposes.",
+    "phase2_query_coverage": 1
+  },
+  "sms_link_sender": {
+    "description": "Send an SMS using the SMSLink platform to a designated recipient.",
+    "phase2_query_coverage": 7
+  },
+  "virtual_numbers_list": {
+    "description": "What are the steps to view a list of available virtual numbers for communication and list all available numbers for call tracking purposes.",
+    "phase2_query_coverage": 4
+  },
+  "message_history_retriever": {
+    "description": "Can provide the message history from a specific virtual number and list all text messages sent using CallTrackingMetrics.",
+    "phase2_query_coverage": 5
+  },
+  "sms_balance_checker": {
+    "description": "Provide details on the current balance for bulk SMS services globally.",
+    "phase2_query_coverage": 4
+  },
+  "sms_balance": {
+    "description": "Provide details on the current balance for bulk SMS services globally.",
+    "phase2_query_coverage": 4
+  },
+  "virtual_numbers_list_1": {
+    "description": "What options are available for listing all virtual numbers in the system and list all phone numbers currently registered for tracking purposes?",
+    "phase2_query_coverage": 0
+  },
+  "virtual_numbers_viewer": {
+    "description": "Describes the steps to view a list of available virtual numbers for communication and lists all numbers available for call tracking purposes.",
+    "phase2_query_coverage": 4
+  },
+  "number_list_provider": {
+    "description": "Provide a list of available numbers in CallTrackingMetrics and options for listing all virtual numbers in the system.",
+    "phase2_query_coverage": 4
+  },
+  "sms_capability": {
+    "description": "How do I obtain a list of numbers capable of receiving SMS and what options are available for listing all virtual numbers in the system?",
+    "phase2_query_coverage": 4
+  },
+  "mail_slurp_access": {
+    "description": "Access SMS messages received through the MailSlurp email testing service.",
+    "phase2_query_coverage": 3
+  },
+  "sms_sending_1": {
+    "description": "Initiate the sending of an SMS using the SMSLink service and send SMS messages using SMSLink.",
+    "phase2_query_coverage": 0
+  },
+  "sms_sending_service": {
+    "description": "Send an SMS using the SMSLink platform to a designated recipient and initiate the sending of an SMS using the SMSLink service.",
+    "phase2_query_coverage": 3
+  },
+  "sms_dispatcher": {
+    "description": "Send an SMS using the SMSLink platform to a designated recipient and assist in sending an SMS via the SMSLink platform.",
+    "phase2_query_coverage": 3
+  },
+  "sms_receiving_numbers_2": {
+    "description": "Identify the numbers available for receiving SMS messages.",
+    "phase2_query_coverage": 0
+  },
+  "sms_reception_identifier": {
+    "description": "Identify the numbers available for receiving SMS messages.",
+    "phase2_query_coverage": 2
+  },
+  "sms_identification": {
+    "description": "Identify the numbers available for receiving SMS messages and get a list of numbers available for receiving SMS messages.",
+    "phase2_query_coverage": 2
+  },
+  "sms_number_identifier": {
+    "description": "Identify the numbers available for receiving SMS messages and provide a list of available numbers for SMS receiving.",
+    "phase2_query_coverage": 2
+  },
+  "virtual_numbers_management": {
+    "description": "What is the process to list virtual numbers managed by CallTrackingMetrics or provide the history of messages received by a virtual number?",
+    "phase2_query_coverage": 2
+  },
+  "sms_retrieval_steps": {
+    "description": "What steps are needed to retrieve SMS-receiving numbers from a designated service and how can I view the SMS history for a specific virtual number?",
+    "phase2_query_coverage": 2
+  },
+  "detailed_sms_log_retriever": {
+    "description": "Could you retrieve a detailed log of text messages sent via call tracking metrics and what's the status of a specific message sent using D7SMS?",
+    "phase2_query_coverage": 2
+  },
+  "virtual_number_manager": {
+    "description": "List all phone numbers currently registered for tracking purposes and show me the details of bulk SMS services for Rivet SMS.",
+    "phase2_query_coverage": 2
+  },
+  "tracking_sms_messages": {
+    "description": "This tool provides access to recent text messages received by call tracking metrics and lists all phone numbers currently registered for tracking purposes.",
+    "phase2_query_coverage": 2
+  },
+  "call_tracking_numbers_1": {
+    "description": "List all available numbers for call tracking purposes.",
+    "phase2_query_coverage": 0
+  },
+  "sms_balance_viewer": {
+    "description": "How can I check the balance of my SMS service account globally?",
+    "phase2_query_coverage": 1
+  },
+  "tracking_numbers_list": {
+    "description": "List all phone numbers currently registered for tracking purposes.",
+    "phase2_query_coverage": 1
+  },
+  "bulk_sms_sender_1": {
+    "description": "Send a bulk SMS to multiple recipients using the Rivet SMS service.",
+    "phase2_query_coverage": 0
+  },
+  "bulk_sms_options": {
+    "description": "Provide details on the current balance for bulk SMS services globally.",
+    "phase2_query_coverage": 1
+  },
+  "bulk_sms_balance_checker": {
+    "description": "Can I verify the balance available for sending global bulk SMS messages?",
+    "phase2_query_coverage": 1
+  }
+}

@@ -1,0 +1,378 @@
+{
+  "legitimacy_validator": {
+    "description": "Verify if an email address is legitimate and not temporary, and check whether this email address is disposable or valid.",
+    "phase2_query_coverage": 21
+  },
+  "email_authenticator": {
+    "description": "Validate the authenticity of email addresses and check whether this email address is disposable or valid.",
+    "phase2_query_coverage": 20
+  },
+  "disposable_email_checker_1": {
+    "description": "Check whether an email address is disposable or valid, helping to confirm the existence of email addresses and detect inactive email accounts.",
+    "phase2_query_coverage": 0
+  },
+  "email_authenticator_1": {
+    "description": "An effective method to verify email authenticity, check if an email address is disposable, and confirm the validity of an email address.",
+    "phase2_query_coverage": 0
+  },
+  "authenticity_verifier": {
+    "description": "An effective method to verify email authenticity, identifying if an email address belongs to a trustworthy domain and checking whether this email address is disposable or valid.",
+    "phase2_query_coverage": 6
+  },
+  "validation_methods": {
+    "description": "Explore various methods to distinguish valid email addresses from invalid ones and confirm the validity of an email address.",
+    "phase2_query_coverage": 16
+  },
+  "recipient_validator": {
+    "description": "Methods to validate email deliverability and confirm the deliverability of a set of email addresses.",
+    "phase2_query_coverage": 16
+  },
+  "deliverability_inspector": {
+    "description": "A tool to locate any issues with the deliverability of these email addresses, providing steps involved in confirming email deliverability.",
+    "phase2_query_coverage": 16
+  },
+  "email_validation_tool": {
+    "description": "This tool encompasses various methods to validate email addresses, including checking SMTP status and confirming deliverability.",
+    "phase2_query_coverage": 16
+  },
+  "deliverability_checker": {
+    "description": "This tool allows you to confirm email deliverability, locate any issues with the deliverability of these email addresses, and test if an email will successfully reach its recipient.",
+    "phase2_query_coverage": 15
+  },
+  "deliverability_assessor": {
+    "description": "A tool that outlines the steps involved in confirming email deliverability and validates the deliverability of specific email addresses.",
+    "phase2_query_coverage": 2
+  },
+  "email_legitimacy_checker": {
+    "description": "Can you verify if an email address is legitimate and not temporary, ensuring it is valid and can receive messages?",
+    "phase2_query_coverage": 13
+  },
+  "smtp_status_checker": {
+    "description": "Can I check the SMTP status of an email address to confirm its validity and activity?",
+    "phase2_query_coverage": 10
+  },
+  "bulk_email_validator": {
+    "description": "Methods available to validate email addresses in bulk, ensuring they are legitimate and not temporary.",
+    "phase2_query_coverage": 2
+  },
+  "temporary_email_checker": {
+    "description": "Can you test if an email address is disposable, identifying whether it has recently bounced any emails.",
+    "phase2_query_coverage": 2
+  },
+  "email_status_verifier": {
+    "description": "Verify if an email address is valid and active, ensuring it is operational and accepting messages.",
+    "phase2_query_coverage": 9
+  },
+  "bounce_detector": {
+    "description": "Identify email addresses that are likely to bounce and check methods available for checking bounced email addresses.",
+    "phase2_query_coverage": 3
+  },
+  "bounce_status_identifier": {
+    "description": "Identify whether this email address has recently bounced any emails and ensure an email address is active and accepting messages.",
+    "phase2_query_coverage": 9
+  },
+  "bounce_email_checker": {
+    "description": "A method for checking bounced email addresses, assessing the bounce rate potential for the provided email address.",
+    "phase2_query_coverage": 6
+  },
+  "email_activity_checker": {
+    "description": "Can you determine if an email address is active and receiving messages, while also assessing the bounce rate potential for the provided email address?",
+    "phase2_query_coverage": 4
+  },
+  "bulk_email_validator_1": {
+    "description": "Can you validate multiple email addresses at once, checking for invalid or fake email addresses?",
+    "phase2_query_coverage": 0
+  },
+  "bulk_email_validator_2": {
+    "description": "Can you assist with identifying invalid email addresses in a list and validate multiple email addresses at once.",
+    "phase2_query_coverage": 0
+  },
+  "smtp_verifier": {
+    "description": "A solution to verify the SMTP status of an email address, confirming if the email's SMTP server is functional and reachable.",
+    "phase2_query_coverage": 6
+  },
+  "smtp_validator": {
+    "description": "Verify the SMTP status of an email address to confirm its existence and whether it is capable of receiving emails.",
+    "phase2_query_coverage": 7
+  },
+  "email_existence_checker": {
+    "description": "How can I verify if an email address exists and is reachable, confirming its existence and functionality.",
+    "phase2_query_coverage": 2
+  },
+  "mailing_list_tester": {
+    "description": "The best way to test deliverability for a mailing list, ensuring emails will successfully reach their recipients.",
+    "phase2_query_coverage": 6
+  },
+  "smtp_verifier_1": {
+    "description": "A method to confirm an email's SMTP server is functional, ensuring that the email address can receive emails.",
+    "phase2_query_coverage": 0
+  },
+  "bounce_email_checker_1": {
+    "description": "A method to check bounced email addresses and assess the bounce rate potential for the provided email address.",
+    "phase2_query_coverage": 0
+  },
+  "authenticity_verifier_1": {
+    "description": "An effective method to verify email authenticity and ensure an email address is active and accepting messages.",
+    "phase2_query_coverage": 0
+  },
+  "bulk_validator": {
+    "description": "Methods available to validate email addresses in bulk, ensuring accuracy and reliability for a list of email addresses.",
+    "phase2_query_coverage": 5
+  },
+  "existence_confirmer": {
+    "description": "What steps can I take to confirm an email's existence? This tool helps ensure an email address is active and receives emails.",
+    "phase2_query_coverage": 5
+  },
+  "email_activity_checker_1": {
+    "description": "Determine if an email address is active and receiving messages, confirming the existence of an email account without sending a message.",
+    "phase2_query_coverage": 0
+  },
+  "temporary_email_detector": {
+    "description": "A tool that can identify if this email is temporary or permanent and ensure an email address is not from a disposable provider.",
+    "phase2_query_coverage": 2
+  },
+  "disposable_email_checker_2": {
+    "description": "A method to check if the provided email address belongs to a disposable domain and recognize temporary or fake email accounts.",
+    "phase2_query_coverage": 0
+  },
+  "deliverability_analysis_tool": {
+    "description": "Provide a detailed analysis of this email's deliverability factors and test if an email will successfully reach its recipient.",
+    "phase2_query_coverage": 4
+  },
+  "bounce_rate_analyzer": {
+    "description": "Tools available for testing email bounce rates and identifying emails that bounce back after sending.",
+    "phase2_query_coverage": 4
+  },
+  "email_status_checker": {
+    "description": "Can you help me determine if an email address exists on a server and is still operational and not marked as invalid?",
+    "phase2_query_coverage": 1
+  },
+  "deliverability_insight": {
+    "description": "Obtain information on why certain emails fail to deliver and analyze deliverability status.",
+    "phase2_query_coverage": 4
+  },
+  "disposable_email_finder": {
+    "description": "Is there a way to identify disposable email addresses? This tool recognizes temporary or fake email accounts.",
+    "phase2_query_coverage": 4
+  },
+  "email_activity_checker_2": {
+    "description": "Confirms if an email address is currently functional and not invalid, ensuring it is active and accepting messages.",
+    "phase2_query_coverage": 0
+  },
+  "bulk_email_validator_3": {
+    "description": "A method to validate a list of email addresses for accuracy and reliability, ensuring that invalid email addresses in your contact database are detected.",
+    "phase2_query_coverage": 0
+  },
+  "email_existence_tool": {
+    "description": "A tool that can verify if an email address exists without sending a message, confirming the existence of an email account.",
+    "phase2_query_coverage": 4
+  },
+  "smtp_tester": {
+    "description": "A method to confirm if an email's SMTP server is functional, allowing users to check if an email address exists on a server.",
+    "phase2_query_coverage": 2
+  },
+  "bounce_detector_1": {
+    "description": "A solution to check whether an email will bounce upon sending and identify emails that bounce back after sending.",
+    "phase2_query_coverage": 0
+  },
+  "temporary_email_detector_1": {
+    "description": "Identify if this email is temporary or permanent and assess if there is a way to identify disposable email addresses.",
+    "phase2_query_coverage": 0
+  },
+  "spam_filter_tester": {
+    "description": "A solution to test emails for spam filters without sending them, ensuring that emails will successfully reach their recipient.",
+    "phase2_query_coverage": 1
+  },
+  "email_authenticity_tool": {
+    "description": "Methods to verify email authenticity effectively and determine if an email is from a temporary domain.",
+    "phase2_query_coverage": 3
+  },
+  "temporary_email_detector_2": {
+    "description": "Identify temporary email usage and determine if an email address is temporary or permanent, ensuring you can verify if an email address is legitimate.",
+    "phase2_query_coverage": 0
+  },
+  "email_existence_verifier": {
+    "description": "A tool designed to confirm an email's existence and verify if an email address exists without sending a message.",
+    "phase2_query_coverage": 1
+  },
+  "email_list_validator": {
+    "description": "Best practices for validating email lists, ensuring emails reach their intended recipients, and providing a detailed analysis of email deliverability factors.",
+    "phase2_query_coverage": 3
+  },
+  "email_list_validator_1": {
+    "description": "This tool provides best practices for validating email lists and locating any issues with the deliverability of these email addresses.",
+    "phase2_query_coverage": 0
+  },
+  "existence_checker": {
+    "description": "A tool that allows you to confirm an email's existence and test if an email will successfully reach its recipient.",
+    "phase2_query_coverage": 3
+  },
+  "temporary_email_identifier": {
+    "description": "A tool that can identify if an email is temporary or permanent and assist in checking if an email address is disposable.",
+    "phase2_query_coverage": 3
+  },
+  "domain_association_checker": {
+    "description": "Determine if an email address is associated with a specific domain and is active, confirming its legitimacy.",
+    "phase2_query_coverage": 2
+  },
+  "email_existence_checker_1": {
+    "description": "Verify the existence and functionality of the given email address, confirming if it is still operational and not marked as invalid.",
+    "phase2_query_coverage": 0
+  },
+  "bulk_email_validator_4": {
+    "description": "Methods available to validate email addresses in bulk, ensuring accuracy and reliability for a list of email addresses.",
+    "phase2_query_coverage": 0
+  },
+  "spam_filter_tester_1": {
+    "description": "Methods to test emails for spam filters without sending them, ensuring that your emails are not marked as spam.",
+    "phase2_query_coverage": 0
+  },
+  "spam_filter_tester_2": {
+    "description": "Methods to test emails for spam filters without sending them, ensuring the email address is not flagged.",
+    "phase2_query_coverage": 0
+  },
+  "deliverability_analysis": {
+    "description": "Provides a detailed analysis of this email's deliverability factors, helping you locate any issues with the deliverability of these email addresses.",
+    "phase2_query_coverage": 2
+  },
+  "temporary_email_checker_1": {
+    "description": "A tool to determine temporary email usage and identify if this email is temporary or permanent.",
+    "phase2_query_coverage": 0
+  },
+  "deliverability_assessor_1": {
+    "description": "Assess the best way to ensure emails reach their intended recipients by testing deliverability for a mailing list.",
+    "phase2_query_coverage": 0
+  },
+  "email_deliverability_analyzer": {
+    "description": "Provides a detailed analysis of this email's deliverability factors and can obtain information on why certain emails fail to deliver.",
+    "phase2_query_coverage": 2
+  },
+  "invalid_email_detector": {
+    "description": "A method to detect invalid email addresses in your contact database and check if an email has been flagged as invalid.",
+    "phase2_query_coverage": 2
+  },
+  "email_existence_checker_2": {
+    "description": "A tool that can confirm the existence of an email inbox and help you determine if an email address exists on a server.",
+    "phase2_query_coverage": 0
+  },
+  "trustworthy_domain_checker": {
+    "description": "Validate if an email belongs to a trustworthy domain and verify the sender's email address before initiating communication.",
+    "phase2_query_coverage": 2
+  },
+  "temporary_email_detector_3": {
+    "description": "Identifies tools available to determine temporary email usage and tests if an email address is disposable.",
+    "phase2_query_coverage": 0
+  },
+  "temporary_email_detector_4": {
+    "description": "Tools to determine temporary email usage and confirm if an email address uses a disposable domain.",
+    "phase2_query_coverage": 0
+  },
+  "invalid_email_detector_1": {
+    "description": "A service that identifies invalid email accounts and checks if an email has been flagged as invalid.",
+    "phase2_query_coverage": 0
+  },
+  "invalid_account_identifier": {
+    "description": "A service that identifies invalid email accounts and checks if an email has been flagged as invalid.",
+    "phase2_query_coverage": 2
+  },
+  "bulk_email_validator_5": {
+    "description": "A solution for detecting inactive email accounts in bulk and checking if an email has been flagged as invalid.",
+    "phase2_query_coverage": 0
+  },
+  "trustworthy_domain_validator": {
+    "description": "A tool to validate if an email belongs to a trustworthy domain and ensure email addresses on your list are not disposable.",
+    "phase2_query_coverage": 2
+  },
+  "spam_filter_tester_3": {
+    "description": "A method to test emails for spam filters without sending them, providing insights into how services identify invalid email accounts.",
+    "phase2_query_coverage": 0
+  },
+  "email_validation_service": {
+    "description": "A service to confirm the validity of an email address and verify if it has been flagged as invalid.",
+    "phase2_query_coverage": 2
+  },
+  "bulk_email_checker": {
+    "description": "Detect invalid email addresses in your contact database and check for inactive email accounts in bulk.",
+    "phase2_query_coverage": 2
+  },
+  "inactive_account_detector": {
+    "description": "A service that detects inactive email accounts in bulk, validating the authenticity of email addresses.",
+    "phase2_query_coverage": 2
+  },
+  "smtp_tester_1": {
+    "description": "A tool that allows you to test the SMTP server response for a given email address and determine if an email address exists on a server.",
+    "phase2_query_coverage": 0
+  },
+  "bulk_email_checker_1": {
+    "description": "A solution to detect invalid email addresses and inactive email accounts in bulk, ensuring your contact database is clean.",
+    "phase2_query_coverage": 0
+  },
+  "sender_verifier": {
+    "description": "How do I verify the sender's email address before initiating communication and ensure it is valid.",
+    "phase2_query_coverage": 1
+  },
+  "bounce_predictor": {
+    "description": "Identify email addresses that are likely to bounce and check whether an email will bounce upon sending.",
+    "phase2_query_coverage": 1
+  },
+  "bounce_checker": {
+    "description": "Identify whether this email address has recently bounced any emails and ensure an email won't bounce upon sending.",
+    "phase2_query_coverage": 1
+  },
+  "bounce_status_checker": {
+    "description": "Identify whether this email address has recently bounced any emails and ensure an email won't bounce upon sending.",
+    "phase2_query_coverage": 1
+  },
+  "email_failure_analyzer": {
+    "description": "Obtain information on why certain emails fail to deliver, providing insights into delivery issues.",
+    "phase2_query_coverage": 1
+  },
+  "marketing_email_checker": {
+    "description": "Tools available to check email deliverability for marketing campaigns and obtain information on why certain emails fail to deliver.",
+    "phase2_query_coverage": 1
+  },
+  "failure_reason_analyzer": {
+    "description": "Can I obtain information on why certain emails fail to deliver, helping you troubleshoot and improve your email strategy?",
+    "phase2_query_coverage": 1
+  },
+  "disposable_email_checker_3": {
+    "description": "Identify steps to check if an email belongs to a disposable domain and detect inactive email accounts in bulk.",
+    "phase2_query_coverage": 0
+  },
+  "bounce_predictor_1": {
+    "description": "Identify email addresses that are likely to bounce, ensuring emails reach their intended recipients.",
+    "phase2_query_coverage": 0
+  },
+  "spam_filter_tester_4": {
+    "description": "Test whether an email address is valid and operational, and explore methods to test emails for spam filters without sending them.",
+    "phase2_query_coverage": 0
+  },
+  "email_status_checker_1": {
+    "description": "Can you check if this email address is still operational and not marked as invalid, and verify if an email address is legitimate and not temporary?",
+    "phase2_query_coverage": 0
+  },
+  "email_existence_verifier_1": {
+    "description": "Confirm the existence of an email address and whether it is still operational and not marked as invalid.",
+    "phase2_query_coverage": 0
+  },
+  "sender_verification": {
+    "description": "Verify the sender's email address before initiating communication to ensure authenticity and deliverability.",
+    "phase2_query_coverage": 1
+  },
+  "sender_verification_tool": {
+    "description": "Verify the sender's email address before initiating communication, ensuring it is not from a disposable provider.",
+    "phase2_query_coverage": 1
+  },
+  "email_status_checker_2": {
+    "description": "Check if an email address is still operational and not marked as invalid, ensuring it can receive messages.",
+    "phase2_query_coverage": 0
+  },
+  "deliverability_analyzer": {
+    "description": "Analyze the best way to ensure emails reach their intended recipients and validate email deliverability options.",
+    "phase2_query_coverage": 1
+  },
+  "deliverability_optimization_tool": {
+    "description": "Optimize your email deliverability by following the best steps to ensure emails reach their intended recipients.",
+    "phase2_query_coverage": 1
+  }
+}

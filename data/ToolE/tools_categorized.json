@@ -1,0 +1,316 @@
+{
+  "research_and_academic": {
+    "description": "Tools for academic research, paper discovery, and scholarly work",
+    "tools": {
+      "ResearchFinder": "Tool for searching academic papers.",
+      "ResearchHelper": "Tool that offers additional functions beyond searching academic papers, such as generating mind maps, answering user questions and storing them in specific formats.",
+      "clinical_trial_radar": "Discover current info on global clinical trials, organizations, diseases, and biomarkers from public & private studies.",
+      "CTCP": "Analyze eligibility criteria in ClinicalTrials.gov. Example input: nctid NCT05859269",
+      "blockatlas": "Search the US Census! Find data sets, ask questions, and visualize.",
+      "ph_ai_news_query": "AI Equity Research Assistant (AI-ERA)."
+    }
+  },
+  "seo_and_marketing": {
+    "description": "Tools for SEO analysis, content marketing, and digital advertising",
+    "tools": {
+      "SEOTool": "Tool that provides users with SEO analytics content.",
+      "copywriter": "Send a URL and get sales copywriting suggestions for any page!",
+      "Google_Ads_Shopping_Microsoft_Ads_pay_per_click": "Your personal assistance for automating advertising – Google Ads (AdWords) and Microsoft Ads (Bing).",
+      "competitorppcads": "Discover your competitors' best PPC ads by entering their website address.",
+      "seoanalysis": "Use AI to analyze and improve the SEO of a website. Get advice on websites, keywords and competitors.",
+      "bramework": "Boost SEO with in-depth analysis, including keyword insights on volume, ranking, and SERP.",
+      "keywordexplorer": "Keyword Explorer provides popular related keywords to amplify your content optimization.",
+      "chatspot": "Get access to marketing/sales data including domain information, company research and search keyword research.",
+      "RoboAd": "Your AI powered Ad Assistant!",
+      "website_performance_insights": "Measure key metrics about your website - performance, accessibility, best practices, SEO, PWA.",
+      "ad4mat": "API to monetize outgoing traffic via tracking links."
+    }
+  },
+  "shopping_and_ecommerce": {
+    "description": "Tools for product search, comparison, reviews, and online shopping",
+    "tools": {
+      "ProductSearch": "Find products tailored to your preferences with personalized recommendations and smart filters for specific needs.",
+      "Discount": "Discover discounts and coupon codes to save money on products.",
+      "Review": "Analyze and summarize reviews, providing advantages and disadvantages analysis of products.",
+      "ProductComparison": "Compare multiple product options for informed decisions.",
+      "ShoppingAssistant": "Manage your cart, and display QR code for easy cart to enhance your online shopping experience.",
+      "tira": "Shop Tira for top beauty brands! Explore cosmetics, health products & more online. Your beauty store awaits.",
+      "copilot": "Searches every dealer, analyzes & ranks every car for you so you can buy with confidence.",
+      "shimmer_daily": "Ideas, recommendations, and deals for Father's Day gifts.",
+      "GiftTool": "Provide suggestions for gift selection.",
+      "sakenowa": "Find Sake and get detailed information in various ways.",
+      "Bohita": "Create apparel with any image you can describe! Get it delivered right to your door."
+    }
+  },
+  "travel_and_location": {
+    "description": "Tools for travel planning, location services, and navigation",
+    "tools": {
+      "TripTool": "Offer discounted hotel and accommodation bookings, along with personalized hotel and product searches, travel planning, image editing, and more, helping users easily plan their trips and find accommodation and transportation options.",
+      "TripAdviceTool": "A comprehensive travel assistantn that makes travel planning more vivid and practical. It offers tourism activities, accommodation and attraction recommendations, aiming to provide users with a more enjoyable and enriching travel experience through technology.",
+      "MapTool": "Experience the next level of map navigation with our innovative chatbot, leveraging Google Maps API to generate customized map images based on location, tilt, and style, and even annotate maps using latitude and longitude coordinates.",
+      "local": "Discover and support restaurants, shops & services near you.",
+      "RestaurantBookingTool": "Tool for booking restaurant",
+      "hdbcarpark": "For checking availability of car park lots at various HDB car parks around Singapore.",
+      "SuperchargeMyEV": "Find superchargers for non-Tesla vehicles for a specific location.",
+      "korea_subway": "Korea  metro subway route info.",
+      "C3_Glide": "Get live aviation data for pilots. Ask questions about METARs, TAFs, NOTAMs for flight planning.",
+      "locator": "Add-on for displaying the current coordinates of the ISS and the names of the current astronauts in space."
+    }
+  },
+  "entertainment_and_media": {
+    "description": "Tools for movies, TV shows, music, games, and entertainment content",
+    "tools": {
+      "what_to_watch": "Search for current shows, get recommendations, and find out where things are streaming.",
+      "MediaTool": "Your media and entertainment companion, offering recommendations for TV shows, movies, books, and podcasts, while providing access to free ad-supported content across the web.",
+      "PodcastTool": "Search for podcasts and summarize their content.",
+      "MusicTool": "Create music playlists, search for music, and check out the latest music trends.",
+      "GameTool": "Get game-related information and recommend games.",
+      "Broadway": "Search for shows that are currently playing on Broadway in New York City.",
+      "smarttsicketsai": "Get Tickets For All Sports Events, Music Concerts, Theater And More With SmartTicketsAI.com.",
+      "champdex": "Chat with your favorite League of Legends champions!",
+      "ApexMap": "Checking the current APEX Legends Ranked Map.",
+      "Chess": "Unleash your inner chess master with this interactive chess experience! You can play against a novice or a grandmaster!",
+      "TicTacToe": "Playing a game of Tic Tac Toe with varying board sizes. You can submit your move and get the AI's response move.",
+      "Checkers": "This allows you to play a game of checkers.",
+      "Sudoku": "This is a sudoku game. You use voice or text to play.",
+      "CribbageScorer": "Tool for scoring your cards in the game of cribbage.",
+      "diceroller": "App for rolling dice using the d20 or Fate/Fudge systems.",
+      "crafty_clues": "Guess the words that the AI craftily clues for you. Add restrictions to make the game more interesting!",
+      "word_sneak": "The AI has to sneak 3 secret words into your conversation. Guess the words to win the game!",
+      "timeport": "Begin an exciting journey through time, interact with unique characters, and learn history in this time-travel game!",
+      "Algorithma": "Shape your virtual life with in this immersive life simulator game to begin Type /start to begin.",
+      "GifApi": "Search through a wide range of gifs - Powered by Giphy.",
+      "MemeTool": "Create memes.",
+      "video_highlight": "Explore, research, and interact with YouTube videos and personal videos.",
+      "Visla": "Create a short video from public stock footage based on your specified topic.",
+      "social_media_muse": "Get soundtrack and hashtag recommendations from a picture!"
+    }
+  },
+  "finance_and_business": {
+    "description": "Tools for financial information, currency exchange, and business data",
+    "tools": {
+      "FinanceTool": "Stay informed with the latest financial updates, real-time insights, and analysis on a wide range of options, stocks, cryptocurrencies, and more.",
+      "ExchangeTool": "Seamlessly convert currencies with our integrated currency conversion tool.",
+      "CompanyInfoTool": "Obtain relevant information about global companies from databases or knowledge graphs.",
+      "CharityTool": "Empower your charitable endeavors by accessing a comprehensive platform featuring nonprofit organization data, including their mission, key personnel, ratings, and financial information.",
+      "CreditYelp": "Access various essential financial calculators for a detailed repayment schedule and payoff term.",
+      "Tax_Calculator": "Calculate sales tax given a U.S. address (or just a city) and an amount. Powered by Avalara.",
+      "Magnetis": "Magnetis is a digital wealth manager. Get updated data on portfolios returns and allocations. Ask me about Magnetis.",
+      "portfoliopilot": "Your AI investing guide: portfolio assessment, recommendations, answers to all finance questions.",
+      "QuiverQuantitative": "Access data on congressional stock trading, lobbying, insider trading, and proposed legislation.",
+      "brandfetch": "Retrieve company and brand data including logos, colors, fonts, and other brand information.",
+      "clearbit_integration": "Access Clearbit Enrichment, Prospecting, Reveal APIs and website visitors data to access information about companies.",
+      "KalendarAI": "KalendarAI sales agents generate revenue with potential customers from 200+ million companies globally."
+    }
+  },
+  "education_and_learning": {
+    "description": "Tools for courses, language learning, and educational content",
+    "tools": {
+      "CourseTool": "Unlock a world of knowledge and growth with our comprehensive learning platform, offering a diverse range of courses from renowned providers like Coursera and Upskillr, personalized language learning, professional team information lookup, open course schedule discovery, and top-tier university content.",
+      "speak": "Learn how to say anything in another language with Speak, your AI-powered language tutor.",
+      "MixerBox_Translate_AI_language_tutor": "Translate any language right away! Learn foreign languages easily by conversing with AI tutors!",
+      "ABCmouse": "Provides fun and educational learning activities for children 2-8 years old.",
+      "Talkface_IELTS_Prep": "Use the latest IELTS Speaking exam questions to prep your IELTS speaking with Talkface.",
+      "search": "Level up your design skills quickly with a wide range of design courses, interactive workshops and AI-guided mentorship.",
+      "MemoryTool": "A learning application with spaced repetition functionality that allows users to create flashcards and review them.",
+      "Creaticode_Extension_of_MIT_Scratch": "Display Scratch programs as images and write 2D/3D programs using CreatiCode Scratch extensions.",
+      "mbti": "For administering an MBTI test. You can get a list of questions and calculate your MBTI type."
+    }
+  },
+  "productivity_and_organization": {
+    "description": "Tools for notes, reminders, task management, and workspace organization",
+    "tools": {
+      "NotesTool": "A full-featured reminder and to-do list management tool where you can add, delete, list, and mark reminders.",
+      "chat_with_workspace": "Chat with your Notion workspace.",
+      "reflect_notes": "Creates a Reflect note.",
+      "decision_journal": "Become a better decision maker by keeping track of your decisions and reviewing how they turn out.",
+      "mini_habits": "Form new habits through small, daily actions.",
+      "dart": "Project management on autopilot.",
+      "exportchat": "A Tool to export your conversation or specific parts of your conversation.",
+      "DataRetrievalTool": "An tool that expands memory. It stores and retrieves user information to provide personalized assistance and generates real-time chat responses using the knowledge from the document collection.",
+      "LarkBaseImporter": "Importing data into Lark Base for further analysis and presentation. An easy-to-use data management solution.",
+      "tailor_erp": "A tool to help creating tailor-made ERP application."
+    }
+  },
+  "health_and_fitness": {
+    "description": "Tools for fitness, health information, and wellness",
+    "tools": {
+      "Planfit": "Get your tailored workout plan and instructions with videos - AI-powered Workout Coach, Planfit.",
+      "IndoorPlants": "Trusted Information About Indoor Plants and Gardening.",
+      "hubbubworld_hubbub_1": "Local health risk & safety guidance for COVID-19, Flu, RSV and more in the US.",
+      "DietTool": "A tool that simplifies calorie counting, tracks diet, and provides insights from many restaurants and grocery stores. Explore recipe , menus, and cooking tips from millions of users, and access recipe consultations and ingredient delivery services from thousands of stores.",
+      "recipe_retrieval": "Discover recipe ideas, meal plans and cooking tips from Tasty's millions of users!"
+    }
+  },
+  "real_estate": {
+    "description": "Tools for house renting, purchasing, and real estate information",
+    "tools": {
+      "HouseRentingTool": "Tool that provide all sorts of information about house renting",
+      "HousePurchasingTool": "Tool that provide all sorts of information about house purchasing"
+    }
+  },
+  "career_and_jobs": {
+    "description": "Tools for job search, resume creation, and career development",
+    "tools": {
+      "JobTool": "Your Global Career Hub! Find diverse job opportunities, expert interview tips, and resume optimization guidance. Empowering job seekers worldwide on their path to success.",
+      "ResumeTool": "Quickly create resumes and receive feedback on your resume.",
+      "dover_outreach": "Generate a personalized email to someone you're interested in reaching out to for a job opportunity.",
+      "TalentOrg": "Find and hire freelance engineering talents from around the world.",
+      "MyWritingCompanion": "Find, hire, and manage remote human writers, the best way to ensure your content is engaging, accurate, and error-free."
+    }
+  },
+  "development_and_technical": {
+    "description": "Tools for software development, coding, and technical tasks",
+    "tools": {
+      "RepoTool": "Discover GitHub projects tailored to your needs, explore their structures with insightful summaries, and get quick coding solutions with curated snippets. Elevate your coding journey with RepoTool, your go-to companion for GitHub project exploration and code mastery.",
+      "AI2sql": "Converts a natural language text into an SQL query.",
+      "webhooks": "Allows you to write, deploy, and manage HTTP Webhooks in JavaScript, right from the chat.",
+      "SSH": "Ability to SSH into your server and turn your natural language into server commands. ",
+      "AutoInfra1": "Talk to your Servers. Works with AWS, GCP, Azure, and anywhere you can ssh!",
+      "deployscript": "DeployScript effortlessly launches web apps, handling the tech for you. Watch your ideas come to life!",
+      "WebsiteTool": "Quickly create and deploy websites, and publish content on them.",
+      "AppyPieAIAppBuilder": "AI-powered Text-to-App Generator turns your app idea into Android and iOS apps- just provide text input.",
+      "noteable": "Create notebooks in Python, SQL, and Markdown to explore data, visualize, and share notebooks with everyone.",
+      "hackit_web_scanner": "AI Powered Web Scanner by HACKIT.",
+      "hacktrack": "This tool checks if credentials linked to an email have been exposed in data breaches or hacks."
+    }
+  },
+  "content_creation_and_design": {
+    "description": "Tools for creating and editing visual content, images, and designs",
+    "tools": {
+      "MediaModifyTool": "A versatile image editing application with a vast selection of user-generated filters, allowing you to effortlessly edit photos and videos. It includes embedded features such as resizing, cropping, and blurring.",
+      "WordCloud": "Create word cloud images from text.",
+      "Figlet": "Utility for converting strings of text into ASCII fonts.",
+      "storybird_stories": "Create beautiful, illustrated stories easily.",
+      "placid": "A design assistant that creates marketing visuals from your templates.",
+      "ImageSearch": "Discover complimentary images to enhance your generated article or to highlight specific paragraphs from Unsplash.",
+      "photorealistic": "Generate Photorealistic prompts for Midjourney.",
+      "SceneXplain": "SceneXplain lets you attach images to your prompt. Explore image storytelling beyond pixels.",
+      "ArtCollection": "Search through millions of art pieces from The Metropolitan Museum of Art.",
+      "Puzzle_Constructor": "A tool for creating crosswords. You can create crosswords from words and hints.",
+      "AbleStyle": "Able Style is a fashion assistant who will help you answer the question, 'What shall I wear today?'"
+    }
+  },
+  "weather_and_environment": {
+    "description": "Tools for weather forecasts, environmental data, and natural events",
+    "tools": {
+      "WeatherTool": "Provide you with the latest weather information.",
+      "airqualityforeast": "Planning something outdoors? Get the 2-day air quality forecast for any US zip code.",
+      "EarthquakeTool": "Provides real-time earthquake notifications and news.",
+      "AusSurfReport": "Get today's surf report for any break throughout Australia!",
+      "AusPetrolPrices": "Ask for the average daily petrol price for any state or capital city region in Australia!",
+      "SASpeedCameras": "See if a mobile speed camera or roadwork is on a South Australian road today!"
+    }
+  },
+  "sports": {
+    "description": "Tools for sports information, scores, and team data",
+    "tools": {
+      "ndricks_sports_api": "Get information about pro teams (NHL, NBA, NFL, MLB) teams by calling the ndricks Software Sports API.",
+      "keyplays_football": "Latest live soccer standings, results, commentary, tv stations, keyplays (with and without scores).",
+      "Agones": "Agones provides soccer (football) results for matches played all over the world in the past 15 years.",
+      "talkfpl": "Talk with AI to help you manage your FPL team. Compare players, transfer options and more."
+    }
+  },
+  "utilities_and_tools": {
+    "description": "General utility tools for various tasks",
+    "tools": {
+      "calculator": "A calculator app that executes a given formula and returns a result. This app can execute basic and advanced operations.",
+      "create_qr_code": "Create a QR code for any text or url.",
+      "qreator": "Generate QR code in seconds.",
+      "word_counter": "Count the number of words, and characters (with and without spaces).",
+      "timemachine": "Enhances AI with real-time awareness, providing current time in various formats and timezones.",
+      "Now": "Get Google Trends. In Japan, you can also get Twitter trends and search Twitter keywords.",
+      "universal": "Enables to access web pages, analyze PDFs, generate QR codes, etc.",
+      "ChartTool": "A versatile chart and diagram tool that can create and display diagrams or using networkx and matplotlib. It allows you to build, modify, and draw various charts and graphs within the chat interface."
+    }
+  },
+  "communication_and_social": {
+    "description": "Tools for email, social media, and communication",
+    "tools": {
+      "EmailByNylas": "Connect with any email provider and engage with your email data seamlessly.",
+      "socialsearch": "The Social Search provides access to tweets, users, followers, images, media and more.",
+      "social_media_muse": "Get soundtrack and hashtag recommendations from a picture!",
+      "clinq": "Manage your CLINQ Account. Retrieve infos about calls, create call reminders and more.",
+      "Glowing": "Schedule and send daily SMS messages - reminders, inspiration, helpers and more.",
+      "Zapier": "Interact with over 5,000+ apps like Google Sheets, Gmail, HubSpot, Salesforce, and thousands more.",
+      "buildbetter": "Chat with the knowledge of all your calls in BuildBetter (Zoom, GMeet, Webex). Start for free @ BuildBetter.ai"
+    }
+  },
+  "document_and_file_management": {
+    "description": "Tools for PDF processing, document analysis, and file management",
+    "tools": {
+      "PDF_Exporter": "Export any chat response into a stylized PDF document.",
+      "PDF&URLTool": "Interact with any PDF files, provide page references for fact-checking, support chatting via Google Drive links to AI-driven PDF summaries and analysis; engage in interactive conversations with websites, access links on the internet to fetch required information, including generating articles and intelligent assistance for interactions with source code.",
+      "ChatOCR": "The best way to read text from from any document. Extract text from scanned PDFs, photos, and even handwriting.",
+      "SummarizeAnything_pr": "Summarize YouTube videos, web pages, and PDF documents by providing a link. This is a free preview.",
+      "VideoSummarizeTool": "enerate summaries from YouTube video links, offer question-answering capabilities, analyze and interpret the content of YouTube videos, and support interactions with online video platforms such as YouTube and Daily Motion.",
+      "web_scraper": "Scrape content from webpages by providing a URL.",
+      "web_requests": "Goodbye Knowledge Cutoff, Hello World! This is your AI assistant's web browser. Just enter a URL. Google, Wiki, GitHub.",
+      "WebRewind": "Get the picture of a website at a specific date."
+    }
+  },
+  "news_and_information": {
+    "description": "Tools for news, trends, and information discovery",
+    "tools": {
+      "NewsTool": "Stay connected to global events with our up-to-date news around the world.",
+      "Substack_IQ": "Search, analyze, & summarize Substack newsletters, retrieve articles, and discover new Substacks!",
+      "Man_of_Many": "Discover the latest in products, culture and style from Man of Many. Ask for the latest news and headlines.",
+      "Now": "Get Google Trends. In Japan, you can also get Twitter trends and search Twitter keywords.",
+      "total_query_meta_search_engine": "Go beyond google search: harness the combined power of 70+ search engines for ultimate web discovery.",
+      "MixerBox_WebSearchG_web_search": "Search and summarize the web with our customized search engine powered by Google Search API!",
+      "internetSearch": "Search&Browse the web by using Google Search results with KeyMate.AI, your AI-powered web crawler.",
+      "metaphor_search_api": "Access the internet's highest quality content. Recommended by people, powered by neural search.",
+      "jini": "Get factual, knowledge-base and real-time information. \n Search news, images, videos, music, apps, pages and facts.",
+      "lsongai": "Lsong's AI provides AI-powered content like news, images, music, movies, weather, stories, memes, and more.",
+      "dev": "Recommending posts and members from DEV Community.",
+      "cloudflare_radar": "Get real-time insights into Internet traffic patterns and threats as seen by Cloudflare."
+    }
+  },
+  "space_and_astronomy": {
+    "description": "Tools for space exploration and astronomy",
+    "tools": {
+      "stellarexplorer": "Tool for exploring space through images including Mars Rover Photos, NASA image database, and space pictures of the day.",
+      "NASATool": "A platform for exploring space, allowing users to search and discover NASA images and utilize NASA's vast media library.",
+      "locator": "Add-on for displaying the current coordinates of the ISS and the names of the current astronauts in space."
+    }
+  },
+  "legal_and_reference": {
+    "description": "Tools for legal information and reference materials",
+    "tools": {
+      "LawTool": "Enables quick search functionality for relevant laws.",
+      "uk_politics": "Search through UK political documents such as speeches, press releases, voting records, and candidates' profiles.",
+      "hadith": "Ask a question and get advice from hadith."
+    }
+  },
+  "specialized_and_niche": {
+    "description": "Specialized tools for specific domains and interests",
+    "tools": {
+      "magi_codex": "Ask about Magic: The Gathering cards, rules and interactions.",
+      "uberchord": "Find guitar chord diagrams by specifying the chord name.",
+      "abc_to_audio": "Converts ABC music notation to WAV, MIDI, and PostScript files.",
+      "CranePumpsManuals": "Returns the catalog and manual for a pump based on model number.",
+      "themeparkhipster": "Find theme park waiting times around the world.",
+      "CarYardBard": "AI-Powered Car Sales Ad Generator for Australian Car Dealers.",
+      "fundsdbsearch": "Discover funding opportunities in UK and India on FundsDB. Type in your query in any language or /help for assistance.",
+      "find_agency": "Find top marketing and design agencies around the World by service, locations, and ratings.",
+      "assetOvi": "Search and preview millions of 3D assets for games, AIGC, AR/VR and others.",
+      "C3_Glide": "Get live aviation data for pilots. Ask questions about METARs, TAFs, NOTAMs for flight planning.",
+      "heygen": "Meet HeyGen - The best AI video generation platform for your team.",
+      "speechki_tts_plugin": "The easiest way to convert texts to ready-to-use audio — download link, audio player page, or embed!",
+      "haulingbuddies": "Locate dependable animal transporters using recommendations, reviews, and regulatory compliance search features.",
+      "kraftful": "Your product development coach. Ask about best practices. Get top gurus' product thinking.",
+      "ai_council": "The AI council assesses queries through various agents, offering insights from many perspectives.",
+      "aiAgents": "Unleashing the power of multiple AIs: One goal, limitless productivity.",
+      "rephrase": "Type 'perfect' to craft the perfect prompt, every time.",
+      "PolishTool": "Elevate your content with our AI-powered tool, which utilizes advanced rewriting techniques to create more human-like expressions and foster creative inspiration.",
+      "Dr_Thoths_Tarot": "Tarot card novelty entertainment & analysis, by Mnemosyne Labs.",
+      "StrologyTool": "Povides strology services for you.",
+      "Horoscopes_by_Inner_Self": "Daily, weekly, and monthly horoscopes tailored to you. Brought to you by Inner Self.",
+      "BookTool": "AI-powered personalized book recommendations, access to free children's picture books, and the ability to search and create books on Wikidocs.",
+      "form": "Allows you to create AI-Powered Forms, Surveys, Quizzes, or Questionnaires on Yay! Forms.",
+      "wpinteract": "Fetch or search posts from self-hosted WordPress websites, opening new possibilities for smart interaction with content.",
+      "URLTool": "Provide domain and URL information and assist users with domain registration."
+    }
+  }
+}
+
